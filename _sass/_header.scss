@@ -9,13 +9,21 @@ header {
     padding-bottom: 14px;
 }
 
-.top-nav > li {
-  padding: 10px 15px;
+.top-nav {
+  margin-left: 0;
 
-  & > a {
-    padding: 0 !important;
-    border-bottom: 0 !important;
+  & > li {
+    padding: 10px 15px;
+
+    & > a {
+      padding: 0 !important;
+      border-bottom: 0 !important;
+    }
   }
+}
+
+.top-nav > li:first-of-type {
+  padding-left: 0;
 }
 
 .navbar-default {
