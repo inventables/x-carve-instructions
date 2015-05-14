@@ -4,7 +4,9 @@ html, body {
 
 header {
     box-shadow: none !important;
-    padding-top: 7px !important;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 0;
+    padding-bottom: 14px;
 }
 
 .navbar-default {
