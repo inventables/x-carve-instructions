@@ -3,6 +3,7 @@ layout: default
 title:  "X Carriage"
 time-estimate: 60
 category: step
+permalink: /step14/
 ---
 
 "GrabCad Model of X Carriage":https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/156177

@@ -2,9 +2,9 @@ stepnav:
 
 # List of steps
 - title: Let's Get Started
-  url: /step01/index.html
+  url: /
 - title: X Carriage
-  url: /step02/index.html
+  url: /step02
   subnav:
   - title: Smooth Idlers
     url: '/step02/#1'
@@ -21,7 +21,7 @@ stepnav:
   - title: Mounting X-Axis Limit Switch
     url: '/step02/#7'
 - title: Y-Plates
-  url: /step03/index.html
+  url: /step03
   subnav:
   - title: Smooth Idlers
     url: '/step02/#1'
@@ -30,26 +30,26 @@ stepnav:
   - title: Motor Mounting
     url: '/step02/#3'
 - title: Gantry
-  url: /step04/index.html
+  url: /step04
 - title: Y-Axis
-  url: /step05/index.html
+  url: /step05
 - title: Belting
-  url: /step06/index.html
+  url: /step06
 - title: Z-Axis
-  url: /step07/index.html
+  url: /step07
 - title: Drive Rod
-  url: /step08/index.html
+  url: /step08
 - title: Z-Axis Motor
-  url: /step09/index.html
+  url: /step09
 - title: Wiring
-  url: /step10/index.html
+  url: /step10
 - title: Drag Chain
-  url: /step11/index.html
+  url: /step11
 - title: Spindle Mount
-  url: /step12/index.html
+  url: /step12
 - title: Work Area
-  url: /step13/index.html
+  url: /step13
 - title: Electronics
-  url: /step14/index.html
+  url: /step14
 - title: Get Carving!
-  url: /step15/index.html
+  url: /step15
