@@ -1,3 +1,21 @@
+a {
+    color: #4990e2 !important;
+
+    &:hover {
+        text-decoration: none !important;
+        border-bottom: 1px solid #4990e2;
+    }
+}
+
+// BS overrides
+
+.thumbnail {
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    background: none;
+}
+
 /**
  * Reset some basic elements
  */
@@ -14,13 +32,13 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-    font-family: $base-font-family;
     font-size: $base-font-size;
-    line-height: $base-line-height;
     font-weight: 300;
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
+    font-size: 20px;
+    line-height: 150%;
 }
 
 

@@ -7,13 +7,20 @@
 
     {% include header.html %}
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
+    <div class="instructions-wrapper">
 
-    {% include footer.html %}
+      <div class="sidebar">
+      </div>
+
+      <div class="page-content">
+        <header class="post-header">
+          <h1 class="step-title">{{ page.title }}</h1>
+          <div class="time-estimate"><i class="fa fa-clock-o"></i>{{page.time-estimate}} minutes</div>
+        </header>
+        <div class="step-text">
+          {{ content }}
+        </div>
+    </div>
 
   </body>
 
