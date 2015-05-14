@@ -7,16 +7,32 @@
   .nav {
     margin-left: 0;
 
+    .nav-item a.active {
+      color: #4990e2;
+    }
+
     & > li > a {
       color: #383838;
       border-bottom: 1px solid transparent;
       font-size: 16px;
       padding: 5px 5px 5px 0;
 
-      &:hover {
+      &:hover, &:focus {
         background: none;
         border-bottom: 1px solid #eee;
       }
+    }
+  }
+
+  .sub-nav {
+    list-style: none;
+    font-size: 12px;
+    line-height: 150%;
+    margin-top: -6px;
+
+    & > li > a {
+      color: #666;
+      border-bottom: none;
     }
   }
 }

@@ -1,9 +1,12 @@
 a {
     color: #4990e2;
+    text-decoration: none !important;
+    border-bottom: 1px solid #4990e2;
+    transition: opacity .3s ease;
 
     &:hover {
-        text-decoration: none !important;
-        border-bottom: 1px solid #4990e2;
+      opacity: .7;
+      color: #4990e2;
     }
 }
 
@@ -104,26 +107,6 @@ li {
 h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
 }
-
-
-
-/**
- * Links
- */
-a {
-    color: $brand-color;
-    text-decoration: none;
-
-    &:visited {
-        color: darken($brand-color, 15%);
-    }
-
-    &:hover {
-        color: $text-color;
-        text-decoration: underline;
-    }
-}
-
 
 
 /**

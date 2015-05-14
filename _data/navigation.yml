@@ -2,32 +2,54 @@ stepnav:
 
 # List of steps
 - title: Let's Get Started
-  url: /step1/
+  url: /step01/index.html
 - title: X Carriage
-  url: /step2/
+  url: /step02/index.html
+  subnav:
+  - title: Smooth Idlers
+    url: '/step02/#1'
+  - title: V-Wheels
+    url: '/step02/#2'
+  - title: Motor Mounting
+    url: '/step02/#3'
+  - title: Positioning of Eccentric Nuts
+    url: '/step02/#4'
+  - title: Mounting Drag Chain End
+    url: '/step02/#5'
+  - title: Mounting Terminal Block
+    url: '/step02/#6'
+  - title: Mounting X-Axis Limit Switch
+    url: '/step02/#7'
 - title: Y-Plates
-  url: /step3/
+  url: /step03/index.html
+  subnav:
+  - title: Smooth Idlers
+    url: '/step02/#1'
+  - title: V-Wheels
+    url: '/step02/#2'
+  - title: Motor Mounting
+    url: '/step02/#3'
 - title: Gantry
-  url: /step4/
+  url: /step04/index.html
 - title: Y-Axis
-  url: /step5/
+  url: /step05/index.html
 - title: Belting
-  url: /step6/
+  url: /step06/index.html
 - title: Z-Axis
-  url: /step7/
+  url: /step07/index.html
 - title: Drive Rod
-  url: /step8/
+  url: /step08/index.html
 - title: Z-Axis Motor
-  url: /step9/
+  url: /step09/index.html
 - title: Wiring
-  url: /step10/
+  url: /step10/index.html
 - title: Drag Chain
-  url: /step11/
+  url: /step11/index.html
 - title: Spindle Mount
-  url: /step12/
+  url: /step12/index.html
 - title: Work Area
-  url: /step13/
+  url: /step13/index.html
 - title: Electronics
-  url: /step14/
+  url: /step14/index.html
 - title: Get Carving!
-  url: /step15/
+  url: /step15/index.html
