@@ -18,8 +18,14 @@
         <div class="page-content js-instruction-step col-md-9">
           <header class="post-header">
             <h1 class="step-title">{{ page.title }}</h1>
+
+            {% if page.time-estimate %}
             <div class="time-estimate"><i class="fa fa-clock-o"></i>{{page.time-estimate}} minutes</div>
+            {% endif %}
+
+            {% if page.grabcad-url %}
             <a href="{{page.grabcad-url}}">Grabcad Model</a>
+            {% endif %}
 
           </header>
           <div class="step-text">

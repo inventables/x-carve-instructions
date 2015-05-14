@@ -1,7 +1,6 @@
 ---
 layout: default
 title:  "Let's Get Started"
-time-estimate: 15
 category: step
 ---
 
