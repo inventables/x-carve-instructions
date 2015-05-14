@@ -1,7 +1,6 @@
 .page-content {
   padding: 30px 50px;
   position: relative;
-  left: 280px;
   max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
   max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
 }
@@ -40,8 +39,8 @@
 }
 
 table {
-  font-size: 12px;
-  line-height: 100%;
+  font-size: 16px;
+  line-height: 130%;
   border-collapse: collapse;
 
   td {

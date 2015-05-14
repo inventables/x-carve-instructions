@@ -1,10 +1,33 @@
 .sidebar {
-  width: 280px;
-  height: 100%;
-  position: fixed;
-  left: 0;
-  top: 0;
-  background: #383838;
+  padding-top: 30px;
   border-right: 1px solid #c8c8c8;
-  z-index: -1;
+  width: 230px;
+  float: left;
+
+  .nav {
+    margin-left: 0;
+
+    & > li > a {
+      color: #383838;
+      border-bottom: 1px solid transparent;
+      font-size: 16px;
+      padding: 5px 5px 5px 0;
+
+      &:hover {
+        background: none;
+        border-bottom: 1px solid #eee;
+      }
+    }
+  }
+}
+
+.sidebar-container {
+  width: 230px;
+  float: left;
+  height: 1px;
+}
+
+.sidebar.affix {
+  position: fixed;
+  top: 0px;
 }

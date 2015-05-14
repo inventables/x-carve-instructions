@@ -1,0 +1,33 @@
+stepnav:
+
+# List of steps
+- title: Let's Get Started
+  url: /step1/
+- title: X Carriage
+  url: /step2/
+- title: Y-Plates
+  url: /step3/
+- title: Gantry
+  url: /step4/
+- title: Y-Axis
+  url: /step5/
+- title: Belting
+  url: /step6/
+- title: Z-Axis
+  url: /step7/
+- title: Drive Rod
+  url: /step8/
+- title: Z-Axis Motor
+  url: /step9/
+- title: Wiring
+  url: /step10/
+- title: Drag Chain
+  url: /step11/
+- title: Spindle Mount
+  url: /step12/
+- title: Work Area
+  url: /step13/
+- title: Electronics
+  url: /step14/
+- title: Get Carving!
+  url: /step15/

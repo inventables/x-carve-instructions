@@ -7,18 +7,22 @@
 
     {% include header.html %}
 
-    <div class="instructions-wrapper">
+    <div class="instructions-wrapper container">
 
-      <div class="sidebar">
-      </div>
-
-      <div class="page-content">
-        <header class="post-header">
-          <h1 class="step-title">{{ page.title }}</h1>
-          <div class="time-estimate"><i class="fa fa-clock-o"></i>{{page.time-estimate}} minutes</div>
-        </header>
-        <div class="step-text">
-          {{ content }}
+      <div class="row">
+          <div class="sidebar-container">
+            <div class="sidebar">
+              {% include stepnav.html %}
+            </div>
+          </div>
+        <div class="page-content js-instruction-step col-md-9">
+          <header class="post-header">
+            <h1 class="step-title">{{ page.title }}</h1>
+            <div class="time-estimate"><i class="fa fa-clock-o"></i>{{page.time-estimate}} minutes</div>
+          </header>
+          <div class="step-text">
+            {{ content }}
+          </div>
         </div>
     </div>
 

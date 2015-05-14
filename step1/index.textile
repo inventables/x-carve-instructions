@@ -3,7 +3,6 @@ layout: default
 title:  "Let's Get Started"
 time-estimate: 15
 category: step
-permalink: step1
 ---
 
 Congratulations on purchasing an "X-Carve":https://www.inventables.com/technologies/x-carve DIY CNC kit! These detailed instructions will guide you through the process of building your very own badass 3D carving robot. 

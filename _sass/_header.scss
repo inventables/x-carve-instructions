@@ -9,6 +9,15 @@ header {
     padding-bottom: 14px;
 }
 
+.top-nav > li {
+  padding: 10px 15px;
+
+  & > a {
+    padding: 0 !important;
+    border-bottom: 0 !important;
+  }
+}
+
 .navbar-default {
   background: none;
   border: none;
@@ -37,9 +46,7 @@ header {
 .inventables-navbar-container .active a {
     color: #FFF;
 }
-.inventables-navbar-container .nav-pills.pull-left > li:first-of-type > a {
-    padding-left: 0 !important;
-}
+
 .inventables-navbar-container .nav-pills.pull-right > li:last-of-type > a {
     padding-right: 0 !important;
 }
@@ -283,6 +290,7 @@ border-bottom: 1px solid #fff;
     margin-right: 5px;
     letter-spacing: 2px;
     font-size: 13px;
+    border-radius: none;
 }
 #flagship-nav li:last-of-type a {
     margin-right: 0;
@@ -294,6 +302,7 @@ border-bottom: 1px solid #fff;
 #flagship-nav li a:hover {
     background: transparent !important;
     color: #4990e2 !important;
+    border-bottom: none !important;
 }
 #flagship-nav li {
     border-right: 1px solid #eee;

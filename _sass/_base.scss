@@ -1,5 +1,5 @@
 a {
-    color: #4990e2 !important;
+    color: #4990e2;
 
     &:hover {
         text-decoration: none !important;
@@ -10,10 +10,14 @@ a {
 // BS overrides
 
 .thumbnail {
-    padding: 0;
+    padding: 0 4px;
     border: 0;
     border-radius: 0;
     background: none;
+}
+
+.row {
+    margin: 0;
 }
 
 /**
@@ -35,7 +39,7 @@ body {
     font-size: $base-font-size;
     font-weight: 300;
     color: $text-color;
-    background-color: $background-color;
+    background-color: #fff;
     -webkit-text-size-adjust: 100%;
     font-size: 20px;
     line-height: 150%;
