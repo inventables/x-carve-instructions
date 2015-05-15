@@ -21,29 +21,29 @@
     </div>
 </div>
 <script>
-    $(function() {
-        $.ajax({
-            method: "GET",
-            url: "https://www.inventables.com/nav_bar",
-            xhrFields: {
-                withCredentials: true
-            }
-        }).done(function(d) {
-            $("#inventables-navbar").empty().append(d).find("a").each(function() {
-              $(this).attr("href", "https://www.inventables.com" + $(this).attr('href'));
-            });
-            if (Discourse.User._current) {
-                var preferencesUrl = "/users/" + Discourse.User._current.username + "/preferences";
-                if ($("#logout-divider").length > 0) {
-                    $("#logout-divider").before("<li><a href='" + preferencesUrl + "'>Forum Preferences</a></li>");
-                } else {
-                    window.location = "/session/sso?return_path=" + encodeURIComponent(window.location.pathname);
-                }
-            } else {
-                if ($("#logout-divider").length > 0) {
-                     window.location = "/session/sso?return_path=" + encodeURIComponent(window.location.pathname);
-                }
-            }
-        });
-    });
-</script>
+//     $(function() {
+//         $.ajax({
+//             method: "GET",
+//             url: "https://www.inventables.com/nav_bar",
+//             xhrFields: {
+//                 withCredentials: true
+//             }
+//         }).done(function(d) {
+//             $("#inventables-navbar").empty().append(d).find("a").each(function() {
+//               $(this).attr("href", "https://www.inventables.com" + $(this).attr('href'));
+//             });
+//             if (Discourse.User._current) {
+//                 var preferencesUrl = "/users/" + Discourse.User._current.username + "/preferences";
+//                 if ($("#logout-divider").length > 0) {
+//                     $("#logout-divider").before("<li><a href='" + preferencesUrl + "'>Forum Preferences</a></li>");
+//                 } else {
+//                     window.location = "/session/sso?return_path=" + encodeURIComponent(window.location.pathname);
+//                 }
+//             } else {
+//                 if ($("#logout-divider").length > 0) {
+//                      window.location = "/session/sso?return_path=" + encodeURIComponent(window.location.pathname);
+//                 }
+//             }
+//         });
+//     });
+// </script>

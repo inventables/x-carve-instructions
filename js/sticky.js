@@ -1,7 +1,7 @@
 $(window).load(function() {
-  $(".sidebar").affix({
+  $(".subnav").affix({
     offset: {
-      top: $(".sidebar").offset().top,
+      top: $(".subnav").offset().top,
       bottom: $(document).height() - ($(".instructions-wrapper").offset().top + $(".instructions-wrapper").height())
     }
   });

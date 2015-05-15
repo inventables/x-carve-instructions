@@ -7,28 +7,34 @@ stepnav:
   url: /step02/
   subnav:
   - title: Smooth Idlers
-    url: '/step02/#1'
+    url: '#smooth-idlers'
   - title: V-Wheels
-    url: '/step02/#2'
-  - title: Motor Mounting
-    url: '/step02/#3'
+    url: '#v-wheels'
   - title: Positioning of Eccentric Nuts
-    url: '/step02/#4'
+    url: '#eccentric-nuts'
+  - title: Motor Mounting
+    url: '#motor-mounting'
   - title: Mounting Drag Chain End
-    url: '/step02/#5'
+    url: '#drag-chain-end'
   - title: Mounting Terminal Block
-    url: '/step02/#6'
+    url: '#terminal-block'
   - title: Mounting X-Axis Limit Switch
-    url: '/step02/#7'
+    url: '#x-axis-limit-switch'
 - title: Y-Plates
   url: /step03/
   subnav:
   - title: Smooth Idlers
-    url: '/step02/#1'
+    url: '/step03/#1'
   - title: V-Wheels
-    url: '/step02/#2'
-  - title: Motor Mounting
-    url: '/step02/#3'
+    url: '/step03/#2'
+  - title: Y-Axis Motor Mounting
+    url: '/step03/#3'
+  - title: Mounting Drag Chain End
+    url: '/step03/#4'
+  - title: Mounting Terminal Block
+    url: '/step03/#5'
+  - title: Mounting Y-Axis Limit Switch
+    url: '/step03/#6'
 - title: Gantry
   url: /step04/
 - title: Y-Axis
