@@ -1,199 +1,76 @@
 ---
 layout: default
-title:  "X Carriage"
-time-estimate: 60
+title:  "Gantry"
+time-estimate: 45
 category: step
 permalink: /step04/
+grabcad-name1: "Gantry"
+grabcad-url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/125929"
 ---
+Now it's time to combine the X Carriage, Y-Plates and X-Axis to form the Gantry. You'll need these parts:
 
-"GrabCad Model of X Carriage":https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/156177
-
-You'll need these parts to assemble the X Carriage:
+|\3. **Rail Kit** |
+| **SKU** | **Name** | **Quantity** |
+| 25142-10 | MakerSlide Black (one with the X-Carve logo) | 2 |
 
 |\3{color:#fff;background: #383838}. **Core Components Kit** |
 | **SKU** | **Name** | **Quantity** |
-| 30545-01 | X Carriage Extrusion | 1 |
-| 25197-04 | Smooth Idler Wheel Kit | 2 |
-| 25203-04 | Dual Bearing V-Wheel Kit | 8 |
-| 30552-01 | Flat Head Socket Cap Screw M5 x 35mm | 2 |
-| 25286-21 | Button Head Cap Screw M5 x 25mm | 8 |
-| 30265-04 | Nylon Insert Lock Nut M5 | 6 |
-| 30158-01 | Eccentric Nut M5 | 4 |
-| 25287-08 | Flat Washer M5 | 8 |
-| 25312-23 | Aluminum Spacer 5.1mm ID 9.5mm OD 9.5mm LG | 2|
+| 30544-01 | Pan Head Thread Forming Screw M5 x 12mm (Self Tapping Screw) | 8 |
+| 25287-08 | Flat Washer M5 | 4 |
+| 25281-05 | T-Slot Nut M5 Pre-Assembly (Insertion Nut) | 2 |
+|   | X Carriage Assembly | 1 |
+|   | Y-Plate Assembly | 2 |
 
-h3. 1. Smooth Idlers
+h3. 1. Attach the Makerslide to the Left Y Motor Plate
 
-The first thing you’ll do is attach the smooth idlers. Insert one of the flat head screws like this:
+If you’ve been following the order of the general instructions this will be your first time using self tapping screws. Go slowly (especially for the first few threads), keep constant pressure down the hole you’re tapping and use cutting fluid or lubricant of any kind.  If you're having difficulty with these self tapping screws, try first using the screws to cut a few threads without the plates attached.
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/473/original/0009.jpg?1423589578!
+h4. First Piece of Makerslide
 
-Next you’ll put a spacer onto the screw followed by the smooth idler and a nylock hex nut. Tighten the hex nut with moderate force.
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/730/original/1329.jpg?1424543603!
 
-<div class="row">
-!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/637/original/0012.jpg?1424451129! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/638/original/0014.jpg?1424451138! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/640/original/0021.jpg?1424451287! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/641/original/0022.jpg?1424451288!
-</div>
+You'll be using two pieces of Makerslide to create an X-Axis. Make sure to grab the MakerSlide with the X-Carve logo.  **The logo will be oriented on the right side of the machine facing front.**  You’ll start by attaching the left Y-Plate to one piece of Makerslide. Orient the Makerslide and Y-Plate like this:
 
-p=. _Note: make sure the side of the Smooth Idler with the protruding bearing is installed next to the aluminum spacer.  If not, the plastic portion of the Smooth Idler may get in the way of the screws used to mount your stepper motor._
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/731/original/1336.jpg?1424543604!
 
-Repeat this process with the other smooth idler.
+p=. Note: The "rails" of the Makerslide are what the V-Wheels ride on. Make sure they are pointed towards the front of the plate.
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/534/original/0863.jpg?1424362400!
+Drive the self tapping screws into the Makerslide until the are flush with the plate:
 
-h3. 2. V-Wheels
+!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/732/original/1337.jpg?1424543605! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/733/original/1338.jpg?1424543606! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/734/original/1342.jpg?1424543607! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/735/original/1344.jpg?1424543608!
 
-Next you’ll be attaching the V-Wheels. There will be eight V-Wheels on the X Carriage, four of them will be attached with nylock nuts and the other four will be attached with eccentric nuts. The holes for the eccentric nuts are larger.
+h4. 2.Second Piece of Makerslide with Washers
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/475/original/0043.jpg?1423589915!
+Next you’ll attach another piece of Makerslide to the left Y-Plate with two more self-tapping screws and two washers. Notice that these screws will be going through slots, not holes. All screws that are driven through slots on the X-Carve will use washers to distribute the load on the joint. Drive these screws until they are flush with the plate and then back them off a full turn.  **If you have limit switches, make sure the slot on the Makerslide is oriented in the upper position.**  This slot is used to attach the limit switch "actuator" and will not be aligned with the switch if the Makerslide is positioned incorrectly.  
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/760/original/X-Carriage%20V-Wheel%20Mounting%20Holes.png?1424562878!
+!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/736/original/1346.jpg?1424543838! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/737/original/1348.jpg?1424543839! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/738/original/1356.jpg?1424543840! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/739/original/1358.jpg?1424543841!
 
-h4. V-Wheels with Nylock Nuts
+Your X-Axis should look like this:
 
-Start by attaching one of the top four V-Wheels with nylock nuts. You’ll insert a 25mm button head cap screw into this hole on the X Carriage. 
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/740/original/1362.jpg?1424543842!
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/642/original/0028.jpg?1424455895!
+p=. _Note: Check that the last two screws you inserted are loose enough to allow the back piece of X-Axis Makerslide to slide freely in the slot. This will make the next step much easier._
 
-Next slide a washer over the screw, followed by a V-Wheel and a nylock hex nut. Tighten the nut with moderate force.
+h3. 3. Sliding on the X Carriage
 
-!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/643/original/0029.jpg?1424455896! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/644/original/0030.jpg?1424455897! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/645/original/0034.jpg?1424455914! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/646/original/0035.jpg?1424455915!
+Now you’ll slide the X Carriage onto the x-axis. Be gentle with this step as it’s easy to mar the V-Wheels on the sharp edges of the Makerslide if you’re not careful. If you’re finding that the Makerslide doesn't quite fit in between the V-Wheels check that the eccentric nuts on the X Carriage are in the “open” position. If they are the screws that hold them in place will be as far from the top V-Wheels as possible.
 
-Repeat that three times and your X Carriage will look like this:
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/743/original/0069.jpg?1424544268!
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/535/original/0868.jpg?1424362473!
+Line up the rails of the X-Axis Makerslide with the V-Wheels of the X Carriage like this:
 
-h4. V-Wheels with Eccentric Nuts
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/741/original/1371.jpg?1424543843!
 
-Next you’ll attach the bottom V-Wheels with eccentric nuts. These nuts have a "shoulder" on them which is designed to be seated in various holes on your X-Carve.
+Slide the X Carriage midway along the X-Axis and set the assembly down.
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/488/span4/Eccentric%20Nut.jpg?1423759789!
+h3. 4. Insertion Nuts for Belt Clips
 
-You'll need to adjust them later so put a V-Wheel and then a washer onto a screw and insert it into the X Carriage from the inside. 
+Before you attach the right Y-Plate to the X-axis slide two insertion nuts into the rear X-axis Makerslide (the one that is closest to the X-Motor). You’ll use these to attach belt clips later.
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/483/original/0050.jpg?1423679351!
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/742/original/1372.jpg?1424543844!
 
-Thread the eccentric nut onto the screw making sure the “shoulder” is facing the X Carriage. Be sure to seat the shoulder in the hole on the X Carriage and tighten the screw with moderate force.
+h3. 5. Makerslide and Right Y Motor Plate
 
-p=. !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/652/original/0050.jpg?1424456639! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/654/original/0052.jpg?1424456640! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/656/original/0054.jpg?1424456642! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/657/original/0063.jpg?1424456688!
+Now repeat the process you used to attach the left Y-Plate to the X-axis. You should have an assembly that looks like this when you’re done:
 
-Repeat this process for the remaining three V-Wheels. When you're done your X Carriage should look like this:
-
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/478/original/0073.jpg?1423590562!
-
-h3. 3. Motor Mounting 
-
-h4. Mounting Your NEMA 17 Stepper Motor
-
-h5. (If you purchased NEMA 23s skip this step)
-
-|\3{color:#fff;background: #cc3440}. **NEMA 17 Stepper Motor Kit** |
-| **SKU** | **Name** | **Quantity** |
-| 25253-01 | Stepper Motor NEMA 17 62 oz-in | 1 |
-| 26054-01 | Aluminum GT2 Pulley 20T 5mm | 1 |
-| 25285-32 | Socket Head Cap Screw M3 x 10mm | 3 |
-| 25287-10 | Flat Washer M3 | 3 |
-
-"NEMA 17 Motor Mounting Video":https://www.youtube.com/watch?v=SrW56e4f3Bk
-
-Start this step by putting a pulley on your NEMA 17 stepper motor. You will use two set screws to hold it in place. Slide it on so the edge is flush with the end of the motor shaft and tighten the screws just enough to hold it in place.
-
-!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/662/original/1290.jpg?1424459090! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/663/original/1291.jpg?1424459091! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/664/original/1292.jpg?1424459092! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/665/original/1294.jpg?1424459116!
-
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/661/original/X-Carriage%20NEMA%2017%20Mounting%20Holes.png?1424458797!
-
-Your NEMA 17 motor has tapped holes to accept screws, take a moment to locate them. You'll use three of the four on the motor. Orient the motor as shown with the wires pointing up and to the right:
-
-!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/678/original/1300.jpg?1424463225! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/672/original/1297.jpg?1424463007! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/673/original/1298.jpg?1424463010! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/674/original/1303.jpg?1424463013!
-
-Put a washer on each screw and insert them  from the opposite side of the X Carriage using the access holes. You may find it easier to start the screws by inserting them from the side of the carriage and then tightening them through the access holes. Tighten these screws with moderate force.
-
-h4. Mounting Your NEMA 23 Stepper Motor
-
-h5. (If you purchased NEMA 17s skip this step)
-
-|\3{color:#fff;background: #cc3440}. **NEMA 23 Stepper Motor Kit** |
-| **SKU** | **Name** | **Quantity** |
-| 25311-04 | Stepper Motor NEMA 23 140oz-in | 1 |
-| 26054-03 | Aluminum GT2 Pulley 20T 1/4in | 1 |
-| 25285-41 | Socket Head Cap Screw M5 x 10mm | 4 |
-
-"NEMA 23 Motor Mounting Video":https://www.youtube.com/watch?v=0w-rUEsHl78
-
-Start this step by putting a pulley on your NEMA 23 stepper motor. You will use two set screws to hold it in place. Slide it on so the edge is flush with the end of the motor shaft and tighten the screws just enough to hold it in place.
-
-!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/667/original/0139.jpg?1424462093! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/668/original/0141.jpg?1424462104! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/669/original/0143.jpg?1424462115! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/670/original/0148.jpg?1424462125! 
-
-
-The NEMA 23 mounting holes on the X Carriage are tapped. Simply insert the screws through the motor housing and screw them into the X Carriage. Get all of the screws finger tight and then tighten them in an x-pattern with moderate force . Be sure to orient the wires of your stepper motor towards the bottom of the X Carriage.
-
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/660/original/X-Carriage%20NEMA%2023%20Mounting%20Holes.png?1424458322!
-
-<div class="row">
-!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/610/original/0151.jpg?1424383737! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/611/original/0152.jpg?1424383738! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/612/original/0154.jpg?1424383756! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/671/original/1306.jpg?1424462609!
-</div>
-h3{clear:both}. 4. Positioning of Eccentric Nuts
-
-The eccentric nuts on your X-Carve are a slick little example of good engineering. By rotating the nut you can change the position of the screw it captures. You'll use these to adjust the position of V-Wheels all over the machine. Before going any further take a minute to position the eccentric nuts on the X Carriage to the “open” position. In this position the screw that is held by the nut is down and as far away from the top V-wheels as possible. When we refer to an eccentric nut being in the open position it will always be as far away from a static V-Wheel as possible. Here’s a photo that illustrates this concept:
-
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/666/original/0066.jpg?1424461342!
-
-h3. 5. Mounting Drag Chain End
- 
-h5. (If you did not purchase drag chain skip this step)
-
-|\3{color:#fff;background: #8a52a1}. **500mm Drag Chain Kit** |
-| **SKU** | **Name** | **Quantity** |
-| 30331-09 | Drag Chain Male End Link | 1 |
-| 30554-01 | Flat Head Socket Cap Screw M4 x 10mm | 2 |
-
-There are two ends to each length of drag chain for your X-Carve. One of the ends is male and one is female.
-
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/613/original/0887.jpg?1424383861!
-
-Detach one of the male ends with a flat blade screw driver.
-
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/614/original/0897.jpg?1424383893!
-
-Mount it on the X Carriage by inserting the screws through the holes in the chain and screwing them into the tapped holes on the carriage.
-
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/658/original/1458.jpg?1424457841!
-
-|\3{color:#fff;background: #8a52a1}. **1000mm Drag Chain Kit** |
-| **SKU** | **Name** | **Quantity** |
-| 30331-09 | Drag Chain Male End Link | 1 |
-| 25286-24 | Button Head Cap Screw M4 × 10mm | 2 |
-| 30554-01 | Flat Head Socket Cap Screw M4 x 10mm | 2 |
-| 30265-03 | Nylon Insert Lock Nut M4 | 2 |
-| 30586-01 | Drag Chain Angle Bracket | 1 |
-
-If you purchased a 1000mm X-Carve attach the male drag chain end to the angle bracket and then the X-Carriage like this:
-
-!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/908/original/1616.jpg?1429807480!!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/907/original/1621.jpg?1429807479!!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/906/original/1623.jpg?1429807478!!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/905/original/1625.jpg?1429807477!
-
-h3. 6. Mounting Terminal Block
- 
-h5. (If you did not purchase terminal blocks skip this step)
-
-|\3{background: #ffcd05}. **Wiring Kit** |
-| **SKU** | **Name** | **Quantity** |
-| 25306-06 | Terminal Block 10C | 1 |
-| 25285-35 | Socket Head Cap Screw M4 x 14mm | 2 |
-
-Put the screws through the top holes of the terminal block and screw them into the tapped holes.
-
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/659/original/1461.jpg?1424457942!
-
-h3. 7. Mounting X-Axis Limit Switch 
-
-h5. (If you did not purchase limit switches skip this step)
-
-|\3{color:#fff;background: #9d9fa2}. **Limit Switch Kit** |
-| **SKU** | **Name** | **Quantity** |
-| 30557-01 | Microswitch - Roller Actuator | 1 |
-| 30544-02 | Pan Head Screw M2 x 14mm | 2 |
-| 25284-09 | Hex Nuts M2 | 2 |
-| 30555-02 | Split Lock Washer M2 | 2 |
-
-Put the lock washers onto the screws and insert them through the switch and into the holes on the X Carriage (they're on the right side if you're looking at the motor). Use a pair of pliers and a screwdriver to snug these down just passed finger tight.
-
-!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/858/original/1471.jpg?1427918942! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/857/original/1474.jpg?1427918941! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/856/original/1479.jpg?1427918940! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/855/original/1482.jpg?1427918939!
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/533/original/0957.jpg?1424361798!

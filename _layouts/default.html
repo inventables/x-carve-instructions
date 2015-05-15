@@ -23,9 +23,13 @@
             <div class="time-estimate"><i class="fa fa-clock-o"></i>{{page.time-estimate}} minutes</div>
             {% endif %}
 
-            {% if page.grabcad-url %}
-            <a href="{{page.grabcad-url}}">Grabcad Model</a>
+            {% if page.grabcad-url1 %}
+              <a href="{{page.grabcad-url1}}">Grabcad Model of {{page.grabcad-name1}}</a>
             {% endif %}
+            {% if page.grabcad-url2 %}
+              <a href="{{page.grabcad-url2}}">Grabcad Model of {{page.grabcad-name2}}</a>
+            {% endif %}
+
 
           </header>
           <div class="step-text">
