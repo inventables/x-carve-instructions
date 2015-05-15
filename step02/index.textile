@@ -85,11 +85,11 @@ Choose your motor type:
 
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
   <div class="panel panel-default">
-    <div data-toggle="collapse" data-parent="#accordion" href="#nema17" aria-expanded="false" aria-controls="collapseOne"class="panel-heading" role="tab" id="headingOne">
+    <a data-toggle="collapse" data-parent="#accordion" href="#nema17" aria-expanded="false" aria-controls="collapseOne"class="panel-heading" role="tab" id="headingOne">
       <h4 class="panel-title">
           Nema 17
       </h4>
-    </div>
+    </a>
     <div id="nema17" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
       <div class="panel-body">
 |\3{color:#fff;background: #cc3440}. **NEMA 17 Stepper Motor Kit** |
@@ -115,13 +115,13 @@ Put a washer on each screw and insert them  from the opposite side of the X Carr
       </div>
     </div>
   </div>
-    <div class="panel panel-default">
-    <a data-toggle="collapse" data-parent="#accordion" href="#nema23" aria-expanded="false" aria-controls="collapseOne"class="panel-heading" role="tab" id="headingOne">
+  <div class="panel panel-default">
+    <a data-toggle="collapse" data-parent="#accordion" href="#nema23" aria-expanded="false" aria-controls="collapseTwo"class="panel-heading" role="tab" id="headingTwo">
       <h4 class="panel-title">
           Nema 23
       </h4>
     </a>
-    <div id="nema23" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+    <div id="nema23" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
       <div class="panel-body">
 |\3{color:#fff;background: #cc3440}. **NEMA 23 Stepper Motor Kit** |
 | **SKU** | **Name** | **Quantity** |
