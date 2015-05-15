@@ -79,7 +79,13 @@ Repeat this process for the remaining three V-Wheels. When you're done your X Ca
 
 !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/478/original/0073.jpg?1423590562!
 
-h3. 3. Motor Mounting 
+h3{clear:both}. 3. Positioning of Eccentric Nuts
+
+The eccentric nuts on your X-Carve are a slick little example of good engineering. By rotating the nut you can change the position of the screw it captures. You'll use these to adjust the position of V-Wheels all over the machine. Before going any further take a minute to position the eccentric nuts on the X Carriage to the “open” position. In this position the screw that is held by the nut is down and as far away from the top V-wheels as possible. When we refer to an eccentric nut being in the open position it will always be as far away from a static V-Wheel as possible. Here’s a photo that illustrates this concept:
+
+!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/666/original/0066.jpg?1424461342!
+
+h3. 4. Motor Mounting 
 
 Choose your motor type:
 
@@ -147,12 +153,6 @@ The NEMA 23 mounting holes on the X Carriage are tapped. Simply insert the screw
     </div>
   </div>
 </div>
-
-h3{clear:both}. 4. Positioning of Eccentric Nuts
-
-The eccentric nuts on your X-Carve are a slick little example of good engineering. By rotating the nut you can change the position of the screw it captures. You'll use these to adjust the position of V-Wheels all over the machine. Before going any further take a minute to position the eccentric nuts on the X Carriage to the “open” position. In this position the screw that is held by the nut is down and as far away from the top V-wheels as possible. When we refer to an eccentric nut being in the open position it will always be as far away from a static V-Wheel as possible. Here’s a photo that illustrates this concept:
-
-!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/666/original/0066.jpg?1424461342!
 
 h3. 5. Mounting Drag Chain End
  
