@@ -156,7 +156,15 @@ The NEMA 23 mounting holes on the X Carriage are tapped. Simply insert the screw
 
 h3. 5. Mounting Drag Chain End
  
-h5. (If you did not purchase drag chain skip this step)
+<div class="panel-group" id="drag-chain-accordion" role="tablist" aria-multiselectable="true">
+  <div class="panel panel-default">
+    <a data-toggle="collapse" data-parent="#drag-chain-accordion" href="#500mm-drag-chain" aria-expanded="false" aria-controls="500mm-drag-chain" class="panel-heading" role="tab" id="500mm-drag-chain-header">
+      <h4 class="panel-title">
+          500mm Drag Chain
+      </h4>
+    </a>
+    <div id="500mm-drag-chain" class="panel-collapse collapse" role="tabpanel" aria-labelledby="500mm-drag-chain-header">
+      <div class="panel-body">
 
 |\3{color:#fff;background: #8a52a1}. **500mm Drag Chain Kit** |
 | **SKU** | **Name** | **Quantity** |
@@ -174,6 +182,17 @@ Detach one of the male ends with a flat blade screw driver.
 Mount it on the X Carriage by inserting the screws through the holes in the chain and screwing them into the tapped holes on the carriage.
 
 !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/658/original/1458.jpg?1424457841!
+      </div>
+    </div>
+  </div>
+  <div class="panel panel-default">
+    <a data-toggle="collapse" data-parent="#drag-chain-accordion" href="#1000mm-drag-chain" aria-expanded="false" aria-controls="1000mm-drag-chain" class="panel-heading" role="tab" id="1000mm-drag-chain-header">
+      <h4 class="panel-title">
+          1000mm Drag Chain
+      </h4>
+    </a>
+    <div id="1000mm-drag-chain" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1000mm-drag-chain-header">
+      <div class="panel-body">
 
 |\3{color:#fff;background: #8a52a1}. **1000mm Drag Chain Kit** |
 | **SKU** | **Name** | **Quantity** |
@@ -186,6 +205,10 @@ Mount it on the X Carriage by inserting the screws through the holes in the chai
 If you purchased a 1000mm X-Carve attach the male drag chain end to the angle bracket and then the X-Carriage like this:
 
 !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/908/original/1616.jpg?1429807480!!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/907/original/1621.jpg?1429807479!!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/906/original/1623.jpg?1429807478!!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/905/original/1625.jpg?1429807477!
+      </div>
+    </div>
+  </div>
+</div>
 
 h3. 6. Mounting Terminal Block
  
