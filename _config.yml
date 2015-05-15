@@ -1,6 +1,6 @@
 # Site settings
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "/instructions"
+url: "http://inventables.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
