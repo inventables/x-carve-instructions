@@ -9,6 +9,7 @@ grabcad-url1: https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYk
 grabcad-name2: "Right Y-Plate"
 grabcad-url2: https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/125932
 ---
+
 You'll need these parts to assemble your Y-Plates:
 
 |\3{color:#fff;background: #383838}. **Core Components Kit** |

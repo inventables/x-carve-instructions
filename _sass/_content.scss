@@ -58,8 +58,6 @@ table {
 }
 
 .grabcad-link {
-  float: right;
-  top: -52px;
   position: relative;
   display: inline-block;
   padding: 4px 12px;
@@ -69,10 +67,11 @@ table {
   color: #fff;
   border: 2px solid #4990e2;
   margin-right: 20px;
+  margin-top: 8px;
   transition: background .3s ease,
               color .3s ease;
 
-  &:hover {
+  &:hover, &:focus, &:active {
     background: #fff;
     color: #4990e2;
     opacity: 1;

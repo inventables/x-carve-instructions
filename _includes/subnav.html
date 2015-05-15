@@ -1,12 +1,14 @@
 {% for item in site.data.navigation.stepnav %}
   {% if page.url == item.url %}
     {% if item.subnav %}
-      <ol class="subnav" data-gumshoe>
+    <div id="subnav">
+      <ol class="nav subnav" data-gumshoe>
         <h4>Steps in this section:</h4>
         {% for subitem in item.subnav %}
           <li><a data-scroll href="{{ subitem.url }}">{{ subitem.title }}</a></li>
         {% endfor %}
       </ol>
+    </div>
     {% endif %}
   {% endif %}
 {% endfor %}
