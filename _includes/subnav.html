@@ -7,6 +7,7 @@
         {% for subitem in item.subnav %}
           <li><a data-scroll href="{{ subitem.url }}">{{ subitem.title }}</a></li>
         {% endfor %}
+          <li class="return-top"><a data-scroll href="#"><i class="fa fa-arrow-up"></i>Return to top</a></li>
       </ol>
     </div>
     {% endif %}

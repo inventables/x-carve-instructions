@@ -1,8 +1,5 @@
 .page-content {
   padding: 30px 50px;
-  position: relative;
-  max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-  max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
 }
 
 .step-title {

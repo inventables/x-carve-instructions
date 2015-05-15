@@ -1,8 +1,6 @@
 .sidebar {
   padding-top: 30px;
-  border-right: 1px solid #c8c8c8;
-  width: 180px;
-  float: left;
+  border-right: 1px solid #ddd;
 
   .nav {
     margin-left: 0;
@@ -48,10 +46,9 @@
 }
 
 #subnav {
-  padding-left: 30px;
   padding-top: 20px;
-  width: 200px;
-  border-left: 1px solid #c8c8c8;
+  padding-left: 10px;
+  border-left: 1px solid #ddd;
 }
 
 #subnav.affix {
@@ -72,7 +69,8 @@
     color: #222;
     font-size: 16px;
     border-bottom: 1px solid #eee;
-    padding-bottom: 4px;
+    padding-bottom: 2px;
+    display: inline;
   }
 
   & > li {
@@ -95,10 +93,23 @@
       border-bottom: 1px solid #4990e2;
       opacity: 1;
     }
+
+    &:focus {
+      background: none;
+    }
   }
 
   & > li.active > a {
     color: #4990e2;
     border-bottom: 1px solid #4990e2;
+  }
+
+  .return-top {
+    list-style: none;
+
+    i {
+      margin-right: 2px;
+      margin-left: -1px;
+    }
   }
 }
