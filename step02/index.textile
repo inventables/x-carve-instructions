@@ -210,13 +210,8 @@ If you purchased a 1000mm X-Carve attach the male drag chain end to the angle br
   </div>
 </div>
 
-<<<<<<< HEAD
 <h3 id="terminal-block">6. Mounting Terminal Block</h3>
  
-h5. (If you did not purchase terminal blocks skip this step)
-=======
-h3. 6. Mounting Terminal Block
-
 <div class="panel-group" id="wiring-accordion" role="tablist" aria-multiselectable="true">
   <div class="panel panel-default">
     <a data-toggle="collapse" data-parent="#wiring-accordion" href="#wiring" aria-expanded="false" aria-controls="wiring" class="panel-heading" role="tab" id="wiring-header">
@@ -226,7 +221,6 @@ h3. 6. Mounting Terminal Block
     </a>
     <div id="wiring" class="panel-collapse collapse" role="tabpanel" aria-labelledby="wiring-header">
       <div class="panel-body">
->>>>>>> origin/jekyll-instructions
 
 |\3{background: #ffcd05}. **Wiring Kit** |
 | **SKU** | **Name** | **Quantity** |
