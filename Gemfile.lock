@@ -125,5 +125,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  github-pages
+  github-pages (= 35)
   jekyll-textile-converter
+  json
