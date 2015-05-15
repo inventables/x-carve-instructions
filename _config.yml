@@ -7,3 +7,6 @@ markdown: kramdown
 
 gems:
 - jekyll-textile-converter
+- github-pages
+- octopress-autoprefixer
+- jekyll-assets
