@@ -1,7 +1,7 @@
 stepnav:
 
 # List of steps
-- title: Let's Get Started
+- title: Let's Get Started!
   url: /
 - title: X Carriage
   url: /step02/

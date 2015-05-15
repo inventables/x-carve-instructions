@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Let's Get Started"
+title:  "Let's Get Started!"
 category: step
 permalink: /
 ---
