@@ -1,0 +1,104 @@
+---
+layout: default
+title:  "Wiring"
+time-estimate: 45
+category: step
+permalink: /step10/
+---
+Ok, you've got the bones of your X-Carve assembled, now it's time to add some wiring.
+
+h3. 1. Prepare Stepper Motor Wires
+
+First you'll trim the excess wire from each stepper motor and strip each wire of each stepper motor (16 in total). You'll want about 1/4" of bare wire showing.
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/770/original/0673.jpg?1425054295!
+
+h3. 2. Secure Wires in Terminal Blocks
+
+Next insert the stepper motor wires for the X and Z motors into the corresponding terminal blocks. To keep wiring consistent work from left to right and keep the order of %{color:red}**red**%, %{color:blue}**blue**%, %{color:green}**green**% and %{color:black}**black**%. 
+
+h4. X-Motor
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/762/original/0678.jpg?1425052768!
+
+h4. Z-Motor
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/763/original/0686.jpg?1425052769!
+ 
+h4. Right Y-Motor
+
+Next insert the stepper motor wires for the *right Y-Motor* into the corresponding terminal block. To keep wiring consistent work from left to right and keep the order of %{color:red}**red**%, %{color:blue}**blue**%, %{color:green}**green**% and %{color:black}**black**%.
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/764/original/0694.jpg?1425052770!
+
+h3. 3. Prepare Stepper Cable
+
+Next cut the stepper cable to length.
+
+|\2. *500mm Machine* |
+| *Length* | *Quantity* |
+| 5.5 feet | 2 |
+| 4 feet |1 |
+| 3 feet | 1 |
+
+|\2. *1000mm Machine* |
+| *Length* | *Quantity* |
+| 12 feet | 2 |
+| 7 feet | 1 |
+| 5 feet | 1 |
+
+Strip one end of each piece of stepper cable. There is grey insulation around all four wires inside. Remove it as well as the foil, string and thin silver wire. You should be left with four wires; one %{color:black}**black**%, one %{color:green}**green**%, one **white** and one %{color:red}**red**%.
+
+!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/771/original/1060.jpg?1425054296! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/772/original/1061.jpg?1425054297! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/773/original/1062.jpg?1425054298! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/774/original/1063.jpg?1425054298!
+
+Strip about 1/4" of each of these colored wires.
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/775/original/1066.jpg?1425054522!
+
+h3.  4. Secure Stepper Cable in Terminal Blocks
+
+Take the shortest length of stepper cable and wire it to the terminal block on the right Y-Plate. Match %{color:red}**red**% to %{color:red}**red**%, *white* to %{color:blue}**blue**%, %{color: green}**green**% to %{color:green}**green**% and %{color:black}**black**% to %{color:black}**black**%.
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/776/original/0700.jpg?1425054523!
+
+Put the other end of this piece of stepper cable in to this hole and thread it through the X-Axis of the machine:
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/777/original/0702.jpg?1425054524!
+
+When you get the end through the same hole on the left Y-Plate strip it as before. Now you'll twist these wires with the left Y-Motor wires. Twist them as follows: %{color:red}**red**% to *white*, %{color:blue}**blue**% to %{color:red}**red**%, %{color:green}**green**% to %{color:green}**green**%, and %{color:black}**black**% to %{color:black}**black**%. Insert them into the terminal block one pair at a time. When you're done your left Y-Plate should look like this:
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/778/original/0717.jpg?1425054525!
+
+Ok, that was the hardest part of the wiring. Now you'll wire the x-axis motor. Use one of the longest pieces of stepper cable and wire into the terminal block under the x-axis motor. Match %{color:red}**red**% to %{color:red}**red**%, %{color:blue}**blue**% to *white*, %{color:green}**green**% to %{color:green}**green**% and %{color:black}**black**% to %{color:black}**black**%. Repeat the process with the other long piece of stepper cable for the z-motor. When you're done you should have something like this:
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/779/original/0719.jpg?1425054807!
+
+If you purchased a 24V or 48V spindle with your X-Carve kit now is a good time to attach the zip wire that will eventually power it. Pull the %{color:black}**black**% and %{color:red}**red**% wires away from each other and strip the ends leaving about 1/4" bare. Wire them into the bottom of the terminal block in the two spaces you left open. Use the left terminal for %{color:red}**red**% and the right terminal for %{color:black}**black**%.
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/780/original/0735.jpg?14250548081!
+
+Now you'll wire the left y-axis motor. Use your last piece of stepper cable and wire into the bottom of the terminal block on the left Y-Plate in the order of %{color:red}**red**%, **white**, %{color:green}**green**%, and %{color:black}**black**%.
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/781/original/0722.jpg?1425054808!
+
+h3. 5. Soldering Limit Switches
+
+h5. (Skip this step if you did not purchase limit switches)
+
+Cut the black and white stranded wiring into the following lengths:
+
+|\2. *500mm Machine* |
+| X-Axis | 6 feet |
+| Y-Axis | 4 feet |
+| Z-Axis | 6 feet |
+
+|\2. *1000mm Machine* |
+| X-Axis | 12 feet |
+| Y-Axis | 6 feet |
+| Z-Axis | 12 feet |
+
+"Microswitch Soldering Video":https://www.youtube.com/watch?v=OC61sJ6Tb9A
+
+Strip one end of each pair of wires. Solder the white wire to the middle tab on each switch (marked NO) and the black wire to the tab closest to the lever (marked C). *Heating the switch for too long may damage it, try to work as quickly as possible when soldering the wires to the tabs.*
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/867/original/1193.jpg?1427922595!

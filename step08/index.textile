@@ -1,0 +1,105 @@
+---
+layout: default
+title:  "Drive Rod"
+time-estimate: 15
+category: step
+permalink: /step08/
+grabcad-name1: "Z-Axis Assembly (You're only building part of this now)"
+grabcad-url1: https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/125928
+---
+Now you'll add the drive rod to your X-Carve. This is the piece that will allow the spindle carriage to move up and down the Z-Axis.
+
+h3{margin-bottom: 14px;}. M8 Threaded Rod 
+
+"(btn btn-carvey btn-animate-arrow)Skip this step if you purchased an ACME rod":#acme
+
+|\3{color:#fff;background: #6b4e40}. **M8 Threaded Rod Lead Screw Kit** |
+| **SKU** | **Name** | **Quantity** |
+| 30530-01 | Lead Screw M8 | 1 |
+| 25280-01 | Delrin Nut M8 | 1 |
+| 25284-08 | Hex Nut M8 | 2 |
+
+|\3{color:#fff;background: #383838}. **Core Components Kit** |
+| **SKU** | **Name** | **Quantity** |
+| 26054-04 | Aluminum GT2 Pulley 20T 8mm | 1 |
+
+Your M8 Threaded Rod came with a Delrin Nut that is designed to travel along it. The fit between the rod and the nut will be tight at first. It is a good idea to use a handheld drill and traverse the nut up and down the rod a few dozen times:
+
+!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/562/original/0552.jpg?1424380688! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/564/original/0554.jpg?1424380690! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/759/original/0556.jpg?1424561655! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/568/original/0558.jpg?1424380695! 
+
+Leave the Delrin Nut in the middle of the rod and thread one of the M8 hex nuts onto one of its end. You'll want to thread the nut about an inch and a half onto the rod.
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/576/original/0563.jpg?1424380952!
+
+Insert the threaded rod through the flanged bearing:
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/577/original/0564.jpg?1424380953!
+
+Screw on the second M8 hex nut. You want to leave just enough of the threaded rod above it to fit the pulley on.
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/578/original/0565.jpg?1424380953!
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/579/original/0566.jpg?1424380954!
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/580/original/0567.jpg?1424380955!
+
+When you have the top M8 hex nut in place tighten the bottom M8 hex nut until it is flush with the flanged bearing. Be sure to hold the top M8 hex nut captive while you do this so that its position along the threaded rod does not change.
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/583/original/0571.jpg?1424381377!
+
+Slide the pulley onto the threaded rod and tighten it with two set screws. Be sure to orient the pulley as shown:
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/582/original/0569.jpg?1424381160!
+
+When you're done your Z-Axis should look like this:
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/584/original/0574.jpg?1424381437!
+
+h3(#acme). Acme Threaded Rod
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1073/original/P4290316.jpg?1430341938!
+
+h4{margin-bottom: 14px;}. **Skip this step if your ACME Lead Screw Kit shipped before 4/28/15**
+
+|\3{color:#fff;background: #6b4e40}. **ACME Lead Screw Kit** |
+| **SKU** | **Name** | **Quantity** |
+| 30396-01 | Lead Screw ACME | 1 |
+| 25280-02 | Delrin Nut ACME | 1 |
+| 25284-10 | Nylon Insert Lock Nut M6 | 1 |
+
+|\3{color:#fff;background: #383838}. **Core Components Kit** |
+| **SKU** | **Name** | **Quantity** |
+| 26054-04 | Aluminum GT2 Pulley 20T 8mm | 1 |
+
+p={width:746px;}. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1068/original/P4290305.jpg?1430341929!
+
+!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1069/original/P4290307.jpg?1430341931! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1070/original/P4290308.jpg?1430341933! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1071/original/P4290309.jpg?1430341935! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1072/original/P4290314.jpg?1430341936!
+
+h3. Acme Threaded Rod
+
+h4{margin-bottom: 14px;}. **Skip this step if your ACME Lead Screw Kit shipped after 4/28/15**
+
+|\3{color:#fff;background: #6b4e40}. **ACME Lead Screw Kit** |
+| **SKU** | **Name** | **Quantity** |
+| 30396-01 | Lead Screw ACME | 1 |
+| 25280-02 | Delrin Nut ACME | 1 |
+
+|\3{color:#fff;background: #383838}. **Core Components Kit** |
+| **SKU** | **Name** | **Quantity** |
+| 26054-04 | Aluminum GT2 Pulley 20T 8mm | 1 |
+
+Your ACME rod had two ends to it. One of the ends has the threads starting farther away from it. Insert that end into the flanged bearing from the bottom:
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/585/original/0582.jpg?1424381508!
+
+Put the pulley on the ACME rod and use set screws to secure it. Orient it as shown in the photo and make sure that both set screws grab the threads of the ACME rod.
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/903/original/0641.jpg?1429652483!
+
+Thread the delrin nut from the bottom of the ACME rod and use the pulley to turn the rod like this:
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/590/original/0592.jpg?1424381721!
+
+Stop when the Delrin Nut is about halfway up the rod:
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/591/original/0594.jpg?1424381733!

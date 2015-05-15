@@ -1,0 +1,102 @@
+---
+layout: default
+title:  "Drag Chain"
+time-estimate: 20
+category: step
+permalink: /step11/
+grabcad-name1: "500mm Drag Chain"
+grabcad-url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/155522"
+grabcad-name2: "1000m Drag Chain"
+grabcad-url2: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/155521"
+---
+These items are used to install the X-Axis drag chain on the 500mm X-Carve:
+
+|\3{color:#fff;background: #8a52a1}. **500mm Drag Chain Kit** |
+| **SKU** | **Name** | **Quantity** |
+| 30331-09 | Drag Chain 27 Links | 2 |
+| 30331-09 | Drag Chain Female End Link | 2 |
+| 30527-01 | Drag Chain Bracket | 2 |
+| 30554-01 | Flat Head Socket Cap Screw M4 x 10mm | 4 |
+| 30265-03 | Nylon Insert Lock Nut M4 | 4 |
+
+These items are used to install the X-Axis drag chain on the 1000mm X-Carve:
+
+|\3{color:#fff;background: #8a52a1}. **1000mm Drag Chain Kit** |
+| **SKU** | **Name** | **Quantity** |
+| 30331-10 | Drag Chain 51 Links | 1 |
+| 30331-10 | Drag Chain Female End Link | 1 |
+| 30587-01 | Drag Chain Gantry Bracket | 1 |
+| 30554-01 | Flat Head Socket Cap Screw M4 x 10mm | 2 |
+| 30265-03 | Nylon Insert Lock Nut M4 | 2 |
+
+
+h3. Overview
+
+The drag chain assembly is very similar for the 500mm and 1000mm machines. The main difference is that the drag chain mounts and wraps horizontally on the 500mm machine and vertically on the 1000mm machine. As a result, the brackets that hold the drag chain are a little bit different and mount in slightly different ways. Follow the directions below for both types of machines. We'll call out the places where the brackets are different. If you have the 1000mm, stop at the point where you've routed your wires through the x axis drag chain. You won't be able to route the y drag chain cables until you've assembled your work area, because the mounting bracket is located on the frame.
+
+h5. Assembly
+
+You should have two lengths of drag chain with the ends removed. Note that it flexes in one direction and is stiff in the other direction.
+
+Take one length of drag chain and snap it into the male end on your X Carriage (500mm bracket shown in picture below). It should bend easily around to the left side of the machine. If it does not unsnap it and flip it around. The 500mm chain will bend horizontally toward the back of your machine, and the 1000mm chain will bend up and over itself.
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/788/original/0735.jpg?1425059312!
+
+Take all of the wires that will travel with the X Carriage and thread them through the drag chain. It helps to tape the ends together with a piece of masking tape. It's also much easier to thread wires through drag chain when the chain is straight.
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/789/original/0737.jpg?1425059313!
+
+h5. 500mm bracket assembly
+
+Attach a female drag chain end to a drag chain bracket with two M4 flat head screws and two M4 nylock nuts.
+
+!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/794/original/0746.jpg?1425059529! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/795/original/0747.jpg?1425059530! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/796/original/0748.jpg?1425059531! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/797/original/0754.jpg?14250595321!
+
+
+h5. 1000mm Bracket Assembly
+
+!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1064/original/1626.jpg?1430276046! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1065/original/1627.jpg?1430276048! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1066/original/1629.jpg?1430276050! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1067/original/1631.jpg?1430276051!
+
+h5. Mount Drag Chain Bracket
+
+Attach the bracket you just assembled to the left Y-Plate. You'll back out two of the self tapping screws that hold the X-Axis Makerslide to the Left Y-Plate. Back them out one at a time to install the bracket.
+
+h5. 500mm
+
+!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/802/original/0755.jpg?1425059685! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/803/original/0757.jpg?1425059686! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/804/original/0758.jpg?1425059687! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/805/original/0759.jpg?1425059688!
+
+h5. 1000mm
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/904/original/1633.jpg?1429806439!
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1076/original/P5040325.JPG?1430774524!
+
+Snap the drag chain with all of the wires inside of it to the bracket you just mounted.
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/807/original/0761.jpg?1425059861!
+
+**If you have a 1000mm kit, you should stop your drag chain assembly here. The remaining steps to install the drag chain on your 1000mm X-Carve will be detailed in the Work Area section when mounting the waste board.**
+
+Take the second female drag chain end and attach to the second drag chain bracket just like the first one.
+
+!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/794/original/0746.jpg?1425059529! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/795/original/0747.jpg?1425059530! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/796/original/0748.jpg?1425059531! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/797/original/0754.jpg?14250595321!
+
+Install this bracket on the front left end plate using the self tapping screws. Again, back out one screw at a time to keep the machine supported while installing the bracket.
+
+!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/808/original/0764.jpg?1425060116! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/809/original/0765.jpg?1425060117! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/810/original/0767.jpg?1425060118! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/811/original/0769.jpg?1425060119!
+
+Snap the second length of drag chain on to the male bracket on the left Y-Plate.
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/790/original/0776.jpg?1425059314!
+
+Tape the wires that will travel with the Gantry to the bundle of wires that came through the X-Axis drag chain. Thread all wires through the Y-Axis drag chain.
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/791/original/0777.jpg?1425059315!
+
+Snap the drag chain into the female drag chain end on the front left end plate.
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/792/original/0779.jpg?1425059316!
+
+You're X-Carve should look like this:
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/793/original/0780.jpg?1425059317!

@@ -1,0 +1,212 @@
+---
+layout: default
+title:  "Work Area"
+time-estimate: 30
+category: step
+permalink: /step13/
+grabcad-name1: "500mm Work Area"
+grabcad-url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/file/27418960"
+grabcad-name2: "1000mm Work Area"
+grabcad-url2: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/file/31761258"
+---
+Now it's time for the final physical piece of your X-Carve, the work area. This is a disposable item that you will cut into many times. Don't worry too much about keeping it pretty, but do try your best to install it as square as possible to the rest of the machine.
+
+You'll need these parts (If you purchased a 1000mm X-Carve see below):
+
+|\3{color:#fff;background: #666666}. **500mm Waste Board Kit** |
+| **SKU** | **Name** | **Quantity** |
+| 30535-01 | Waste Board | 1 |
+| 30517-03 | Threaded Insert M5 | 36 |
+| 25286-19 | Button Head Cap Screw M5 x 12mm | 6 |
+| 25281-05 | T-Slot Nut M5 Pre-Assembly (Insertion Nut) | 6 |
+
+h3. 500mm Work Area
+
+h4. 1. Drive Threaded Inserts into Waste Board
+
+Now you'll put a threaded insert into each of the holes you just countersunk. Drive the insert so that the head is flush or sub flush with the backside of the waste board.
+
+!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/813/original/1386.jpg?1425388585! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/814/original/1387.jpg?1425388586! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/815/original/1388.jpg?1425388587! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/816/original/1394.jpg?1425388588!
+
+h4. 2. Insert the Insertion Nuts
+
+Now you'll put insertion nuts into the extrusions that connect your y-axes. Put one insertion nut in the middle of each extrusion (don't worry about finding the exact middle).
+
+!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/817/original/1400.jpg?1425388757! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/818/original/1401.jpg?1425388758! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/819/original/1402.jpg?1425388759! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/820/original/1405.jpg?1425388760!
+
+Slide the waste board onto the extrusions of your X-carve. You'll want 'Inventables" to be facing the front of the machine. Put a 12mm screw through the middle mounting holes of the waste board and tighten them all the way down, then back them off a full turn.
+
+!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/821/original/1406.jpg?1425388849! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/822/original/1408.jpg?1425388850! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/823/original/1409.jpg?1425388851! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/824/original/1411.jpg?1425388852!
+
+Now insert the other four insertion nuts from each of their respective corners and capture them with screws through the waste board.
+
+!(thumbanil span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/825/original/1414.jpg?1425388971! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/826/original/1415.jpg?1425388972! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/827/original/1416.jpg?1425388973! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/830/original/1421.jpg?1425389198!
+
+Remember to back off each screw a full turn after tightening them down; this will ensure that the waste board can slide left and right, which will make it easier to align the mounting holes with the insertion nuts. 
+
+When all of your insertion nuts and mounting screws are in square up the waste board with the corners of your X-Carve and tighten them down.
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/829/original/1413.jpg?1425388975!
+
+h3. 1000mm Work Area
+
+|\3{color:#fff;background: #666666}. **1000mm Waste Board Kit** |
+| **SKU** | **Name** | **Quantity** |
+| 30537-01 | Waste Board 1000mm | 1 |
+| 30517-03 | Threaded Insert M5 | 144 |
+| 25286-20 | Button Head Cap Screw M5 x 20mm | 14 |
+| 25281-05 | T-Slot Nut M5 Pre-Assembly (Insertion Nut) | 14 |
+
+|\3. **1000mm Rail Kit** |
+| **SKU** | **Name** | **Quantity** |
+| 26049-02 | Aluminum Extrusion 20mm x 20mm Black 1000mm Lg | 2 |
+| 26049-04| Aluminum Extrusion 20mm x 20mm Black 958mm Lg | 3 |
+| 26018-01 | Extrusion Bracket (Gusset) | 6 |
+| 25286-18 | Button Head Cap Screw M5 x 10mm | 12 |
+| 25281-05 | T-Slot Nut M5 Pre-Assembly | 12 |
+
+h4. 1. Build the First Half of the Frame
+
+Start by identifying the three pieces of 20mm x 20mm extrusion that are 958mm and the two pieces that are 1000mm. We'll call the 958mm pieces "shorter" and the 1000mm pieces "longer" for ease of communication.
+
+Give yourself some room to work with (preferably on a large table) as this waste board is a beast. Attach one longer piece and one shorter piece of extrusion with two T-Slot nuts, a gusset bracket and two button head cap screws like this:
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1028/original/1504.jpg?1429819359!
+
+You'll notice that one side of each gusset bracket has two holes, it does not matter which hole you use.
+
+Then slide six t-slot nuts into the extrusions (four into the long, two into the short) and just barely thread six 20mm screws into them. You want the screws to be stable but just barely screwed in.
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1027/original/1508.jpg?1429819358!
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1026/original/1513.jpg?1429819357!
+
+h4. 2. Attach the Waste board
+
+Now grab your waste board and put two 20mm screws through these holes:
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1025/original/1515.jpg?1429819356!
+
+Thread insertion nuts onto these screws from the underside of the waste board like this:
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1024/original/1517.jpg?1429819355!
+
+Slide a shorter extrusion onto these nuts like this:
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1023/original/1519.jpg?1429819354!
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1022/original/1520.jpg?1429819353!
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1020/original/1523.jpg?1429819351!
+
+Gently place your waste board onto your table:
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1019/original/1524.jpg?1429819350!
+
+Now align each 20mm screw with a slot on the waste board and pull it onto the longer extrusion like this:
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1014/original/1530.jpg?1429819345!
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1013/original/1531.jpg?1429819344!
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1012/original/1533.jpg?1429819343!
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1011/original/1534.jpg?1429819342!
+
+You'll want to tighten all four of these screws down and then back them off a full turn so the waste board can slide along the longer extrusion.
+
+Now repeat the process for the shorter extrusion on the right side of the waste board.
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1010/original/1535.jpg?1429819341!
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1009/original/1536.jpg?1429819340!
+
+h4. 3. Build the Second Half of the Frame
+
+Now flip the waste board back over so it's upside down again being sure to keep it fairly level so the shorter extrusion in the middle of the waste board doesn't slide off.
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/950/original/1538.jpg?1429819239!
+
+Put a 10mm M5 screw into a gusset bracket, thread an insertion nut onto it, slide it down the longer extrusion and attach it the middle shorter extrusion like this:
+
+!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1018/original/1526.jpg?1429819349!!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1017/original/1527.jpg?1429819348!!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1007/original/1539.jpg?1429819338!!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1006/original/1542.jpg?1429819337!
+
+Slide another gusset bracket, t-nut and M5 screw assembly onto the longer extrusion like this:
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1004/original/1545.jpg?1429819335!
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1003/original/1546.jpg?1429819333!
+
+Put two insertion nuts into your last shorter extrusion and just barely thread 20mm screws into them. Hold the assembly with the screw heads facing down and slide them into the corresponding slots on the waste board like this:
+
+!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1002/original/1548.jpg?1429819332!!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1001/original/1550.jpg?1429819331!!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/942/original/1551.jpg?1429819208!!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/999/original/1552.jpg?1429819329!
+
+Slide another insertion nut into that last shorter extrusion and connect it to the longer extrusion like this:
+
+!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/998/original/1553.jpg?1429819327!!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/997/original/1554.jpg?1429819325!!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/938/original/1556.jpg?1429819198!!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/995/original/1557.jpg?1429819323!
+
+You're so close to finishing this complicated and frustrating step! Keep going!
+
+Attach three gusset brackets flush to the end of the three shorter extrusion like this.
+
+!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/994/original/1558.jpg?1429819321!!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/993/original/1559.jpg?1429819320!!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/992/original/1561.jpg?1429819319!!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/933/original/1563.jpg?1429819192!
+
+Slide three insertion nuts into your second piece of longer extrusion and space them so they line up with the gusset brackets you just installed.
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/990/original/1564.jpg?1429819317!
+
+Rotate the long extrusion ninety degrees away from the waste board and put four insertion nuts and four 20mm screws into it like this:
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/988/original/1565.jpg?1429819315!
+
+Rotate the extrusion back towards the waste board and slide the screw heads into the remaining slots on the waste board.
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/987/original/1566.jpg?14298193151!
+
+Use your wrench to line up the insertion nuts with the gusset brackets and fasten them with your remaining M5 x 10mm screws.
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/928/original/1571.jpg?1429819186!
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/927/original/1572.jpg?1429819185!
+
+Now flip the whole assembly back over one more time and tighten all of the M5 x 20mm screws, including the two screws in the middle of the waste board.
+
+!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/984/original/1580.jpg?1429819312!!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/983/original/1582.jpg?1429819311!!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/982/original/1583.jpg?1429819310!!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/923/original/1585.jpg?1429819180!
+
+If you purchased drag chain with your 1000mm X-Carve now's the time to install the last bracket to hold it in place.
+
+h4. 4. Mount the Drag Chain Bracket
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1075/original/P5040322.JPG?1430774523!
+
+|\3{color:#fff;background: #8a52a1}. **1000mm Drag Chain Kit** |
+| **SKU** | **Name** | **Quantity** |
+| 30586-02 | Drag Chain Extrusion Angle Bracket | 1 |
+| 25281-05 | T-Slot Nut M5 Pre-Assembly | 2 |
+| 25286-17 | Button Head Cap Screw M5 x 8mm | 2 |
+| 30554-01 | Flat Head Socket Cap Screw M4 x 10mm | 2 |
+| 30265-03 | Nylon Insert Lock Nut M4 | 2 |
+| 30331-09 | Female Drag Chain End | 1 |
+
+Attach the female drag chain end to the angle bracket like this (note: use the two smaller holes on the bracket):
+
+!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/922/original/1588.jpg?1429819179!!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/921/original/1593.jpg?1429819178!!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/920/original/1594.jpg?1429819177!!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/919/original/1595.jpg?1429819176!
+
+Use two insertion nuts and two M5 x 8mm screws to attach the assembly to the front of the work area like this:
+
+!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/976/original/1597.jpg?1429819304!!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/917/original/1599.jpg?1429819174!!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/973/original/1601.jpg?1429819301!!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/914/original/1604.jpg?1429819171!
+
+Tape the wires that will travel with the Gantry to the bundle of wires that came through the X-Axis drag chain. Thread all wires through the Y-Axis drag chain.
+
+h4. 5. Attach the Work Area to the Rest of Your X-Carve
+
+Place your X-Carve on top of the work area and fasten each of the four end plates with insertion nuts and M5 x 10mm screws like this:
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/913/original/1413.jpg?1429819170!
+
+Congratulations, you have just one more step to go!
+
+
+
+
+

@@ -1,0 +1,109 @@
+---
+layout: default
+title:  "Z-Axis"
+time-estimate: 30
+category: step
+permalink: /step07/
+grabcad-name1: "Z-Axis Assembly (You're only building part of this now)"
+grabcad-url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/125928"
+---
+|\3{color:#fff;background: #383838}. **Core Components Kit** |
+| **SKU** | **Name** | **Quantity** |
+| 25142-09 | MakerSlide Black 200mm | 1 |
+| 30534-01 | Z Axis Motor Plate | 1 |
+| 30169-01 | Flanged Bearing 8mm | 1 |
+| 25286-17 | Button Head Cap Screw M5 x 8mm | 2 |
+| 30544-01 | Pan Head Thread Forming Screw M5 x 12mm | 2 |
+
+h3. 1. Insert Flanged Bearing
+
+Insert the flanged bearing into the Z-Plate as shown. Be sure to insert the bearing from the side of the plate that has a recession, the bearing will sit inside the hole so that the flange is flush with the Z-Plate.
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/542/original/0952.jpg?1424364483!
+
+h3. 2. Insert Screws to Hold the Bearing
+
+Insert two small screws to hold the bearing captive. finger tighten them both and check to make sure the flange is flush with the Z-Plate. Then tighten them down with moderate force.
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/543/original/0953.jpg?1424364526!
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/544/original/0954.jpg?1424364537!
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/545/original/0956.jpg?1424364548!
+
+h3. 3. Attach the Z-Plate to the Z-Axis Makerslide
+
+Before you attach the Z-Axis Makerslide to the Z-Plate be sure that you have the correct orientation:
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/546/original/0959.jpg?1424378497!
+
+p=. Note: The flange on the bearing is facing down and the rails of the Makerslide are facing forward.
+
+Use two self tapping screws to attach the Z-Plate to the Z-Axis Makerslide. The screws go through the Z-Plate and into the Makerslide. Be sure to keep constant pressure along the hole you're tapping.
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/547/original/0963.jpg?1424378546!
+
+When you're done your Z-Axis should look like this:
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/548/original/0967.jpg?1424378581!
+
+h3. 4. Attach the Z-Axis to the X Carriage
+
+|\3{color:#fff;background: #383838}. **Core Components Kit** |
+| **SKU** | **Name** | **Quantity** |
+| 25281-05 | T-Slot Nut M5 Pre-Assembly | 4 |
+| 25286-18 | Button Head Cap Screw M5 x 10mm | 4 |
+
+Push two screws through the top  Z-Axis mounting holes on the X Carriage.
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/549/original/0524.jpg?1424378647!
+
+Thread two insertion nuts onto these screws. You'll only need a couple of threads to grab.
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/550/original/0526.jpg?14243786941!
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/551/original/0527.jpg?1424378704!
+
+The backside of the Z-Axis Makerslide has two slots that are designed to accept insertion nuts. Slide these slots over the insertion nuts.
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/552/original/0533.jpg?1424378767!
+
+Slide the Z-Axis down along the X Carriage to about here and tighten:
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/553/original/0535.jpg?1424378780!
+
+Rock the machine onto its front like this:
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/554/original/0539.jpg?1424378866!
+
+Insert two more insertion nuts from the bottom of the Z-Axis and finger tighten two screws into them to secure the Z-Axis Makerslide:
+
+!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/555/original/0540.jpg?1424378924!!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/556/original/0541.jpg?1424378946!!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/557/original/0542.jpg?1424378947!!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/558/original/0543.jpg?1424378948!
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/559/original/0544.jpg?1424378949!
+
+The Z-Axis should be captured by four insertion nuts and screws at this point, but you should still be able to slide it up and down the X Carriage. Slide it so that the insertion nuts are just inside of the Makerslide like this:
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/560/original/0546.jpg?1424379091!
+
+Note: The bottom of the Z-Axis will not be flush with the X Carriage, it will protrude slightly.
+
+Tighten all four screws that capture the Z-Axis. Alternate between screws in an x-pattern to maintain alignment. 
+
+Rock the machine back on to its feet again to continue:
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/561/original/0580.jpg?1424379102!
+
+h3. 5. Mounting Z-Axis Limit Switch 
+
+h5. (If you did not purchase limit switches skip this step)
+
+|\3{color:#fff;background: #9d9fa2}. **Limit Switch Kit** |
+| **SKU** | **Name** | **Quantity** |
+| 30557-01 | Microswitch - Roller Actuator | 1 |
+| 30544-03 | Pan Head Screw M2 x 10mm | 2 |
+| 30555-02 | Split Lock Washer M2 | 2 |
+
+Put the lock washers onto the screws and insert them through the switch and into the holes on the side of the Z-Plate. The holes are threaded, simply tighten the screws just passed finger tight.
+
+!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/863/original/1197.jpg?1427920758! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/864/original/1204.jpg?1427920759! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/865/original/1207.jpg?1427920760! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/866/original/1208.jpg?1427920761!

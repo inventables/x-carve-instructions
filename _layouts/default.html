@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="instructions-wrapper container">
+
+      <div class="row">
+          <div class="sidebar-container">
+            <div class="sidebar">
+              {% include stepnav.html %}
+            </div>
+          </div>
+        <div class="page-content js-instruction-step col-md-9">
+          <header class="post-header">
+            <h1 class="step-title">{{ page.title }}</h1>
+
+            {% if page.time-estimate %}
+            <div class="time-estimate"><i class="fa fa-clock-o"></i>{{page.time-estimate}} minutes</div>
+            {% endif %}
+
+            {% if page.grabcad-url1 %}
+              <a class="grabcad-link" href="{{page.grabcad-url1}}"><i class="fa fa-cube"></i> GrabCAD Model of {{page.grabcad-name1}}</a>
+            {% endif %}
+            {% if page.grabcad-url2 %}
+              <a class="grabcad-link" href="{{page.grabcad-url2}}"><i class="fa fa-cube"></i> GrabCAD Model of {{page.grabcad-name2}}</a>
+            {% endif %}
+
+
+          </header>
+          <div class="step-text">
+            {{ content }}
+          </div>
+        </div>
+    </div>
+    {% include scripts.html %}
+  </body>
+
+</html>

@@ -1,0 +1,100 @@
+---
+layout: default
+title:  "Belting"
+time-estimate: 15
+category: step
+permalink: /step06/
+---
+|\3. **Rail Kit** |
+| **SKU** | **Name** | **Quantity** |
+| 26053-01 | GT2 Belting - Open Ended | 7 (feet) |
+
+|\3{color:#fff;background: #383838}. **Core Components Kit** |
+| **SKU** | **Name** | **Quantity** |
+| 30526-01 | Belt Clip | 6 |
+| 25286-17 | Button Head Cap Screw M5 x 8mm | 6 |
+| 25286-21 | Button Head Cap Screw M5 x 25mm | 3 |
+| 30265-04 | Nylon Insert Lock Nut M5 | 3 |
+
+Now that you've got the X and Y axes assembled let's put belts on them. Start by cutting your belting into **three equal lengths.**
+
+h3. 1. X-Axis
+
+h4. Aligning X- Axis Motor Pulley w/ Smooth Idlers
+
+Aligning the pulley on your x-axis motor with the smooth idlers on either side of it will ensure that the belt travels smoothly. To adjust the placement of the pulley on the motor shaft loosen the two set screws a full turn. Move the pulley so that the outer lip lines up with the outer lip of the smooth idlers.
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/629/original/0470.jpg?1424385910!
+
+When you've got the pulley in the right place tighten the set screws with moderate force.
+
+h4. Curling Belt
+
+Next you’ll be threading a length of  belt between the pulley and one idler. It helps a lot to curl the end of the belt beforehand:
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/754/original/1446.jpg?1424546350!
+
+h4. Sliding Between Pulley and Smooth Idler
+
+Insert the belt between the pulley and the left idler from the top. Make sure the belt goes in with its teeth facing down and that it goes underneath the idler.
+
+!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/630/original/0471.jpg?1424385911! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/631/original/0472.jpg?1424385912! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/756/original/0475.jpg?1424546352! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/632/original/0473.jpg?1424385913!
+
+h4{clear:both}. Repeat on Other Side
+
+Curl the other end and insert it on the right side of the pulley.
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/633/original/0479.jpg?1424386059!
+
+h4. Belt Clip (Static [Left] Side)
+
+One side of this belt is going to stay put all of the time, we’ll call that side static. The other side of the belt will be adjustable so that you can tune its tension, we’ll call that side dynamic.
+
+h5. Thread Belt Through Clip
+
+You’ll start with the static side on the left of the machine. Thread the belt through as shown, be sure to check that the belt is running through the slots in the proper order and that the teeth are facing the correct way.
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/634/original/0487.jpg?1424386060!
+
+If you’ve looped the belt through correctly the teeth should mate like this:
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/635/original/0483.jpg?1424386061!
+
+h5. Attach Belt Clip to Makerslide
+
+Next you’ll attach this belt clip to the Makerslide. Insert the smaller screw into the hole on the belt clip and screw it almost all of the way down.
+
+!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/750/original/1422.jpg?1424546131! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/751/original/1423.jpg?1424546132! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/752/original/1424.jpg?1424546133! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/753/original/1426.jpg?1424546134!
+
+h5. Tighten the Belt Clip Flush with the Y-Motor Plate
+
+Flush the belt clip with the Y-Motor Plate and tighten the screw as much as you can without stripping the head.
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/757/original/1428.jpg?1424546353!
+
+h4. Belt Clip (Dynamic [Right] Side)
+
+Thread the other end of the belt through another belt clip.
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/844/original/1433.jpg?1425393670!
+
+Put an M5 x 25mm button head cap screw through the top hole on the belt clip and then put an M5 x 8mm button head cap screw through the bottom hole.
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/845/original/1434.jpg?1425393670!
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/846/original/1435.jpg?1425393672!
+
+Note: It may a little difficult to get the 8mm screw into the belt clip as the head of the 25mm screw will be in the way. Use your wrench to push straight down on the head and it will snap into place.
+
+Tighten the 8mm screw into the insertion nut in the Makerslide all of the way down and then back it off *less than a quarter of a turn*. If you loosen this screw too much the belt will slip when you tighten it. Slide the belt clip along the X-Axis and push the 25mm screw through the hole in the right Y Motor Plate.
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/847/original/1438.jpg?1425393672! 
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/848/original/1440.jpg?1425393673!
+
+_Note: You’ll want to adjust the length of belt that goes through the clip until it takes a little bit of force to get the longer screw through the hole._
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/849/original/1441.jpg?1425393674!
+ 
+Thread an M5 nylock nut onto the 25mm screw to fasten it to the Y Plate. Tighten the nut until the belt is taught and you can pluck it like a loose guitar string, then tighten the 8mm screw all the way down.
+Repeat this process two more times for the left and right y-axis assemblies. 
