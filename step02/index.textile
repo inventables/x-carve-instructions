@@ -211,8 +211,16 @@ If you purchased a 1000mm X-Carve attach the male drag chain end to the angle br
 </div>
 
 h3. 6. Mounting Terminal Block
- 
-h5. (If you did not purchase terminal blocks skip this step)
+
+<div class="panel-group" id="wiring-accordion" role="tablist" aria-multiselectable="true">
+  <div class="panel panel-default">
+    <a data-toggle="collapse" data-parent="#wiring-accordion" href="#wiring" aria-expanded="false" aria-controls="wiring" class="panel-heading" role="tab" id="wiring-header">
+      <h4 class="panel-title">
+          Wiring
+      </h4>
+    </a>
+    <div id="wiring" class="panel-collapse collapse" role="tabpanel" aria-labelledby="wiring-header">
+      <div class="panel-body">
 
 |\3{background: #ffcd05}. **Wiring Kit** |
 | **SKU** | **Name** | **Quantity** |
@@ -222,6 +230,9 @@ h5. (If you did not purchase terminal blocks skip this step)
 Put the screws through the top holes of the terminal block and screw them into the tapped holes.
 
 !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/659/original/1461.jpg?1424457942!
+      </div>
+    </div>
+  </div>
 
 h3. 7. Mounting X-Axis Limit Switch 
 
