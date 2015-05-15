@@ -27,21 +27,24 @@ h3. 1) Smooth Idlers
 
 You'll mount two smooth idlers to each Y-Plate. These are the mounting holes:
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/680/original/Y-Plates%20Smooth%20Idler%20Holes.png?1424463927!
+!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/680/original/Y-Plates%20Smooth%20Idler%20Holes.png?1424463927!
 
-To mount a smooth idler to your Y-Plate slide it onto a 35mm screw followed by an aluminum spacer. Remember that the smooth idler is an asymmetrical part. **Just as in the X-Carriage assembly, make sure the side of the Smooth Idler with the protruding bearing is installed next to the aluminum spacer.** Insert the screw through the Y-Plate and fasten it with a hex nut on the other side. Tighten the nut with moderate force.
+To mount a smooth idler to your Y-Plate slide it onto a 35mm screw followed by an aluminum spacer. Remember that the smooth idler is an asymmetrical part. 
+
+**Just as in the X-Carriage assembly, make sure the side of the Smooth Idler with the protruding bearing is installed next to the aluminum spacer.** 
+Insert the screw through the Y-Plate and fasten it with a hex nut on the other side. Tighten the nut with moderate force.
 
 !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/509/original/0903.jpg?1424293487! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/510/original/0904.jpg?1424293497! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/679/original/0906.jpg?1424463813! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/511/original/0907.jpg?1424293726!
 
 Repeat this process for the other smooth idler:
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/508/original/0908.jpg?1424293064!
+!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/508/original/0908.jpg?1424293064!
 
 h3. 2) V-Wheels
 
 Each Y-Plate has four holes for V-Wheels. Just like the X Carriage there are two sizes of holes that accept V-Wheels; the smaller holes are for V-Wheels with nylock nuts and the larger holes are designed to accept V-Wheels with eccentric nuts.
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/681/original/Y-Plates%20Smooth%20V-Wheel%20Holes.png?1424464206!
+!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/681/original/Y-Plates%20Smooth%20V-Wheel%20Holes.png?1424464206!
 
 h4. V- Wheels with Nylock Nuts
 
@@ -51,7 +54,7 @@ Start by installing the top two V-Wheels. Put a V-Wheel on a 25mm button head ca
 
 Repeat with another 25mm screw, V-Wheel, washer and nylock nut.
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/686/original/1315.jpg?1424466092!
+!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/686/original/1315.jpg?1424466092!
 
 h4{clear:both}. V- Wheels with Eccentric Nuts
 
@@ -61,19 +64,19 @@ Repeat the process for the bottom V-Wheels using eccentric nuts this time. Be su
 
 Repeat with another 25mm screw, V-Wheel, washer and eccentric nut.
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/691/original/1326.jpg?1424466354!
+!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/691/original/1326.jpg?1424466354!
 
 h4{clear:both}. Positioning of eccentric nuts
 
 Before proceeding adjust the eccentric nuts to the open position.
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/515/original/0195.jpg?1424294360!
+!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/515/original/0195.jpg?1424294360!
 
 h4. Mirror Orientation with Other Y-Plate
 
 Repeat everything you did with the other Y-Plate, but mirror the orientation of your parts. You should have two Y-Plates that look like this:
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/519/original/0212.jpg?1424294761!
+!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/519/original/0212.jpg?1424294761!
 
 h3. 3) Y-Axis Motor Mounting
 
@@ -90,7 +93,7 @@ h5. (Skip this step if you purchased NEMA 23s)
 
 "NEMA 17 Motor Mounting Video":http://youtu.be/vpJgw8YUEoA
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/691/original/1326.jpg?1424466354!
+!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/691/original/1326.jpg?1424466354!
 
 To mount a NEMA 17 motor on your Y-Plate slide the washers onto the screws, insert the screws through the plate and thread them into the motor. Insert them in an x pattern and get them all finger tight, then tighten them with moderate force. Be sure to orient the motor as shown in the photos with the wires facing the bottom of the plate.
 
@@ -114,11 +117,11 @@ h5. (Skip this step if you purchased NEMA 17s)
 
 To mount a NEMA 23 motor on your Y-Plate insert a screw through a mounting hole on the motor and then the plate. Slide a washer onto the screw and use and finger tighten a nylock nut. Orient the motor as shown in the photos with the wires facing the bottom of the plate.
 
-p=. !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/525/original/0925.jpg?1424298577! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/526/original/0930.jpg?1424298587! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/527/original/0932.jpg?1424298597! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/694/original/0934.jpg?1424468444!
+!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/525/original/0925.jpg?1424298577! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/526/original/0930.jpg?1424298587! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/527/original/0932.jpg?1424298597! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/694/original/0934.jpg?1424468444!
 
 Repeat with the remaining three screws and then tighten all screws firmly.
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/528/original/0936.jpg?1424298606!
+!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/528/original/0936.jpg?1424298606!
 
 Repeat with the second Y-Plate.
 
@@ -134,9 +137,9 @@ h5. (Skip this step if you did not purchase drag chain)
 
 If you purchased drag chain with your 500mm X-Carve now is the time to attach a male drag chain end to the left Y-Plate. Check the photo to see which Y-Plate is the left one. It's not so easy to tell yet. Use two screws and two nuts to affix the drag chain end like this:
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/529/original/0941.jpg?1424299278!
+!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/529/original/0941.jpg?1424299278!
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/530/original/0942.jpg?1424299287!
+!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/530/original/0942.jpg?1424299287!
 
 |\3{color:#fff;background: #8a52a1}. **1000mm Drag Chain Kit** |
 | **SKU** | **Name** | **Quantity** |
@@ -148,7 +151,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 If you purchased drag chain with your 1000mm X-Carve now is the time to attach a male drag chain end to the left Y-Plate. Check the photo to see which Y-Plate is the left one. It's not so easy to tell yet. Affix the drag chain end to the angle bracket and then the Y-Plate like this:
 
-p=. !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/912/original/1606.jpg?1429812937! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/911/original/1607.jpg?1429812935! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/910/original/1612.jpg?1429812934! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/909/original/1613.jpg?1429812933!
+!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/912/original/1606.jpg?1429812937! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/911/original/1607.jpg?1429812935! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/910/original/1612.jpg?1429812934! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/909/original/1613.jpg?1429812933!
 
 h3. 5) Mounting Terminal Block (Both Plates)
 
@@ -162,9 +165,9 @@ h5. (Skip this step if you did not purchase terminal blocks)
 
 Attach terminal blocks to the Y-Plates of your X-Carve with two screws and nuts like this:
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/531/original/0946.jpg?1424299454!
+!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/531/original/0946.jpg?1424299454!
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/532/original/0948.jpg?1424299465!
+!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/532/original/0948.jpg?1424299465!
 
 h3. 6. Mounting Y-Axis Limit Switch 
 

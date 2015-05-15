@@ -25,7 +25,7 @@ You'll need these parts to assemble the X Carriage:
 
 The first thing you’ll do is attach the smooth idlers. Insert one of the flat head screws like this:
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/473/original/0009.jpg?1423589578!
+!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/473/original/0009.jpg?1423589578!
 
 Next you’ll put a spacer onto the screw followed by the smooth idler and a nylock hex nut. Tighten the hex nut with moderate force.
 
@@ -33,25 +33,25 @@ Next you’ll put a spacer onto the screw followed by the smooth idler and a nyl
 !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/637/original/0012.jpg?1424451129! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/638/original/0014.jpg?1424451138! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/640/original/0021.jpg?1424451287! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/641/original/0022.jpg?1424451288!
 </div>
 
-p=. _Note: make sure the side of the Smooth Idler with the protruding bearing is installed next to the aluminum spacer.  If not, the plastic portion of the Smooth Idler may get in the way of the screws used to mount your stepper motor._
+_Note: make sure the side of the Smooth Idler with the protruding bearing is installed next to the aluminum spacer.  If not, the plastic portion of the Smooth Idler may get in the way of the screws used to mount your stepper motor._
 
 Repeat this process with the other smooth idler.
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/534/original/0863.jpg?1424362400!
+!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/534/original/0863.jpg?1424362400!
 
 <h3 id="2"> 2. V-Wheels</h3>
 
 Next you’ll be attaching the V-Wheels. There will be eight V-Wheels on the X Carriage, four of them will be attached with nylock nuts and the other four will be attached with eccentric nuts. The holes for the eccentric nuts are larger.
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/475/original/0043.jpg?1423589915!
+!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/475/original/0043.jpg?1423589915!
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/760/original/X-Carriage%20V-Wheel%20Mounting%20Holes.png?1424562878!
+!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/760/original/X-Carriage%20V-Wheel%20Mounting%20Holes.png?1424562878!
 
 h4. V-Wheels with Nylock Nuts
 
 Start by attaching one of the top four V-Wheels with nylock nuts. You’ll insert a 25mm button head cap screw into this hole on the X Carriage. 
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/642/original/0028.jpg?1424455895!
+!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/642/original/0028.jpg?1424455895!
 
 Next slide a washer over the screw, followed by a V-Wheel and a nylock hex nut. Tighten the nut with moderate force.
 
@@ -59,25 +59,25 @@ Next slide a washer over the screw, followed by a V-Wheel and a nylock hex nut. 
 
 Repeat that three times and your X Carriage will look like this:
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/535/original/0868.jpg?1424362473!
+!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/535/original/0868.jpg?1424362473!
 
 h4. V-Wheels with Eccentric Nuts
 
 Next you’ll attach the bottom V-Wheels with eccentric nuts. These nuts have a "shoulder" on them which is designed to be seated in various holes on your X-Carve.
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/488/span4/Eccentric%20Nut.jpg?1423759789!
+!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/488/span4/Eccentric%20Nut.jpg?1423759789!
 
 You'll need to adjust them later so put a V-Wheel and then a washer onto a screw and insert it into the X Carriage from the inside. 
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/483/original/0050.jpg?1423679351!
+!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/483/original/0050.jpg?1423679351!
 
 Thread the eccentric nut onto the screw making sure the “shoulder” is facing the X Carriage. Be sure to seat the shoulder in the hole on the X Carriage and tighten the screw with moderate force.
 
-p=. !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/652/original/0050.jpg?1424456639! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/654/original/0052.jpg?1424456640! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/656/original/0054.jpg?1424456642! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/657/original/0063.jpg?1424456688!
+!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/652/original/0050.jpg?1424456639! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/654/original/0052.jpg?1424456640! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/656/original/0054.jpg?1424456642! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/657/original/0063.jpg?1424456688!
 
 Repeat this process for the remaining three V-Wheels. When you're done your X Carriage should look like this:
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/478/original/0073.jpg?1423590562!
+!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/478/original/0073.jpg?1423590562!
 
 h3. 3. Motor Mounting 
 
@@ -98,7 +98,7 @@ Start this step by putting a pulley on your NEMA 17 stepper motor. You will use 
 
 !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/662/original/1290.jpg?1424459090! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/663/original/1291.jpg?1424459091! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/664/original/1292.jpg?1424459092! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/665/original/1294.jpg?1424459116!
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/661/original/X-Carriage%20NEMA%2017%20Mounting%20Holes.png?1424458797!
+!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/661/original/X-Carriage%20NEMA%2017%20Mounting%20Holes.png?1424458797!
 
 Your NEMA 17 motor has tapped holes to accept screws, take a moment to locate them. You'll use three of the four on the motor. Orient the motor as shown with the wires pointing up and to the right:
 
@@ -125,16 +125,17 @@ Start this step by putting a pulley on your NEMA 23 stepper motor. You will use 
 
 The NEMA 23 mounting holes on the X Carriage are tapped. Simply insert the screws through the motor housing and screw them into the X Carriage. Get all of the screws finger tight and then tighten them in an x-pattern with moderate force . Be sure to orient the wires of your stepper motor towards the bottom of the X Carriage.
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/660/original/X-Carriage%20NEMA%2023%20Mounting%20Holes.png?1424458322!
+!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/660/original/X-Carriage%20NEMA%2023%20Mounting%20Holes.png?1424458322!
 
 <div class="row">
 !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/610/original/0151.jpg?1424383737! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/611/original/0152.jpg?1424383738! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/612/original/0154.jpg?1424383756! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/671/original/1306.jpg?1424462609!
 </div>
+
 h3{clear:both}. 4. Positioning of Eccentric Nuts
 
 The eccentric nuts on your X-Carve are a slick little example of good engineering. By rotating the nut you can change the position of the screw it captures. You'll use these to adjust the position of V-Wheels all over the machine. Before going any further take a minute to position the eccentric nuts on the X Carriage to the “open” position. In this position the screw that is held by the nut is down and as far away from the top V-wheels as possible. When we refer to an eccentric nut being in the open position it will always be as far away from a static V-Wheel as possible. Here’s a photo that illustrates this concept:
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/666/original/0066.jpg?1424461342!
+!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/666/original/0066.jpg?1424461342!
 
 h3. 5. Mounting Drag Chain End
  
@@ -147,15 +148,15 @@ h5. (If you did not purchase drag chain skip this step)
 
 There are two ends to each length of drag chain for your X-Carve. One of the ends is male and one is female.
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/613/original/0887.jpg?1424383861!
+!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/613/original/0887.jpg?1424383861!
 
 Detach one of the male ends with a flat blade screw driver.
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/614/original/0897.jpg?1424383893!
+!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/614/original/0897.jpg?1424383893!
 
 Mount it on the X Carriage by inserting the screws through the holes in the chain and screwing them into the tapped holes on the carriage.
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/658/original/1458.jpg?1424457841!
+!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/658/original/1458.jpg?1424457841!
 
 |\3{color:#fff;background: #8a52a1}. **1000mm Drag Chain Kit** |
 | **SKU** | **Name** | **Quantity** |
@@ -180,7 +181,7 @@ h5. (If you did not purchase terminal blocks skip this step)
 
 Put the screws through the top holes of the terminal block and screw them into the tapped holes.
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/659/original/1461.jpg?1424457942!
+!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/659/original/1461.jpg?1424457942!
 
 h3. 7. Mounting X-Axis Limit Switch 
 
