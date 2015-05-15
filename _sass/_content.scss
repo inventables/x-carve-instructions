@@ -54,3 +54,23 @@ table {
     border-right: none;
   }
 }
+
+.grabcad-link {
+  display: inline-block;
+  padding: 4px 12px;
+  font-size: 14px;
+  border-radius: 2px;
+  background: #fff;
+  color: #4990e2;
+  border: 2px solid #4990e2;
+  margin-right: 20px;
+  margin-top: 10px;
+  transition: background .3s ease,
+              color .3s ease;
+
+  &:hover {
+    background: #4990e2;
+    color: #fff;
+    opacity: 1;
+  }
+}
