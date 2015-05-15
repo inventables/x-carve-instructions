@@ -81,18 +81,23 @@ Repeat this process for the remaining three V-Wheels. When you're done your X Ca
 
 h3. 3. Motor Mounting 
 
-h4. Mounting Your NEMA 17 Stepper Motor
+Choose your motor type:
 
-h5. (If you purchased NEMA 23s skip this step)
-
+<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+  <div class="panel panel-default">
+    <div data-toggle="collapse" data-parent="#accordion" href="#nema17" aria-expanded="false" aria-controls="collapseOne"class="panel-heading" role="tab" id="headingOne">
+      <h4 class="panel-title">
+          Nema 17
+      </h4>
+    </div>
+    <div id="nema17" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+      <div class="panel-body">
 |\3{color:#fff;background: #cc3440}. **NEMA 17 Stepper Motor Kit** |
 | **SKU** | **Name** | **Quantity** |
 | 25253-01 | Stepper Motor NEMA 17 62 oz-in | 1 |
 | 26054-01 | Aluminum GT2 Pulley 20T 5mm | 1 |
 | 25285-32 | Socket Head Cap Screw M3 x 10mm | 3 |
 | 25287-10 | Flat Washer M3 | 3 |
-
-"NEMA 17 Motor Mounting Video":https://www.youtube.com/watch?v=SrW56e4f3Bk
 
 Start this step by putting a pulley on your NEMA 17 stepper motor. You will use two set screws to hold it in place. Slide it on so the edge is flush with the end of the motor shaft and tighten the screws just enough to hold it in place.
 
@@ -106,17 +111,23 @@ Your NEMA 17 motor has tapped holes to accept screws, take a moment to locate th
 
 Put a washer on each screw and insert them  from the opposite side of the X Carriage using the access holes. You may find it easier to start the screws by inserting them from the side of the carriage and then tightening them through the access holes. Tighten these screws with moderate force.
 
-h4. Mounting Your NEMA 23 Stepper Motor
-
-h5. (If you purchased NEMA 17s skip this step)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SrW56e4f3Bk" frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+    <div class="panel panel-default">
+    <a data-toggle="collapse" data-parent="#accordion" href="#nema23" aria-expanded="false" aria-controls="collapseOne"class="panel-heading" role="tab" id="headingOne">
+      <h4 class="panel-title">
+          Nema 23
+      </h4>
+    </a>
+    <div id="nema23" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+      <div class="panel-body">
 |\3{color:#fff;background: #cc3440}. **NEMA 23 Stepper Motor Kit** |
 | **SKU** | **Name** | **Quantity** |
 | 25311-04 | Stepper Motor NEMA 23 140oz-in | 1 |
 | 26054-03 | Aluminum GT2 Pulley 20T 1/4in | 1 |
 | 25285-41 | Socket Head Cap Screw M5 x 10mm | 4 |
-
-"NEMA 23 Motor Mounting Video":https://www.youtube.com/watch?v=0w-rUEsHl78
 
 Start this step by putting a pulley on your NEMA 23 stepper motor. You will use two set screws to hold it in place. Slide it on so the edge is flush with the end of the motor shaft and tighten the screws just enough to hold it in place.
 
@@ -129,6 +140,12 @@ The NEMA 23 mounting holes on the X Carriage are tapped. Simply insert the screw
 
 <div class="row">
 !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/610/original/0151.jpg?1424383737! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/611/original/0152.jpg?1424383738! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/612/original/0154.jpg?1424383756! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/671/original/1306.jpg?1424462609!
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0w-rUEsHl78" frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
 </div>
 
 h3{clear:both}. 4. Positioning of Eccentric Nuts
