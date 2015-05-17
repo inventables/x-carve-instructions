@@ -1,7 +1,7 @@
 <ul class="nav">
   {% for item in site.data.navigation.stepnav %}
   <li class="nav-item">
-    <a {% if page.url == item.url %}class="active"{% endif %} href="{{ item.url }}">{{ item.title }}</a>
+    <a {% if page.url == item.url %}class="active"{% endif %} href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
   </li>
   {% endfor %}
 </ul>
