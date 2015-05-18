@@ -26,14 +26,31 @@
   }
 }
 
-.step-by-step-nav {
+.paginate-buttons {
+  border-top: 1px solid #eee;
+  padding-top: 14px;
+
   a {
-    font-size: 12px;
+    font-size: 22px;
     border-bottom: none;
     display: inline-block;
+    border: 2px solid #4490e2;
+    padding: 10px 15px;
+    transition: background .3s ease,
+                color .3s ease;
+
+    i {
+      padding: 0 2px;
+    }
 
     &:first-of-type {
       margin-right: 12px;
+    }
+
+    &:hover, &:focus, &:active {
+      background: #4490e2;
+      color: #fff;
+      opacity: 1;
     }
   }
 }
