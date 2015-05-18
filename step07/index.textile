@@ -4,6 +4,8 @@ title:  "Z-Axis"
 time-estimate: 30
 category: step
 permalink: /step07/
+previous-step: /step06/
+next-step: /step08/
 grabcad-name1: "Z-Axis Assembly (You're only building part of this now)"
 grabcad-url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/125928"
 ---

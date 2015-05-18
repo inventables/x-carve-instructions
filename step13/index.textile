@@ -4,6 +4,8 @@ title:  "Work Area"
 time-estimate: 30
 category: step
 permalink: /step13/
+previous-step: /step12/
+next-step: /step14/
 grabcad-name1: "500mm Work Area"
 grabcad-url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/file/27418960"
 grabcad-name2: "1000mm Work Area"

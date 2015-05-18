@@ -1,0 +1,8 @@
+<div class="step-by-step-nav">
+  {% if page.previous-step %}
+  <a href="{{ page.previous-step | prepend: baseurl }}" class="next"><i class="fa fa-chevron-left"></i> Previous</a>
+  {% endif %}
+  {% if page.next-step %}
+  <a href="{{ page.next-step | prepend: baseurl }}" class="next">Next <i class="fa fa-chevron-right"></i></a>
+  {% endif %}
+</div>

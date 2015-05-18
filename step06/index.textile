@@ -4,6 +4,8 @@ title:  "Belting"
 time-estimate: 15
 category: step
 permalink: /step06/
+previous-step: /step05/
+next-step: /step07/
 ---
 |\3. **Rail Kit** |
 | **SKU** | **Name** | **Quantity** |

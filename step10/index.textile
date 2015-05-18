@@ -4,6 +4,8 @@ title:  "Wiring"
 time-estimate: 45
 category: step
 permalink: /step10/
+previous-step: /step09/
+next-step: /step11/
 ---
 Ok, you've got the bones of your X-Carve assembled, now it's time to add some wiring.
 

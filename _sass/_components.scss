@@ -25,3 +25,15 @@
     color: #fff;
   }
 }
+
+.step-by-step-nav {
+  a {
+    font-size: 12px;
+    border-bottom: none;
+    display: inline-block;
+
+    &:first-of-type {
+      margin-right: 12px;
+    }
+  }
+}

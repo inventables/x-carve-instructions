@@ -4,6 +4,8 @@ title:  "Z-Axis Motor"
 time-estimate: 15
 category: step
 permalink: /step09/
+previous-step: /step08/
+next-step: /step10/
 ---
 Now you'll mount a stepper motor to the Z-Axis Plate of your X-Carve. This motor will control the up and down movement of your spindle.
 
