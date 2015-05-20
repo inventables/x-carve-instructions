@@ -7,9 +7,9 @@ permalink: /step13/
 previous-step: /step12/
 next-step: /step14/
 grabcad-name1: "500mm Work Area"
-grabcad-url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/file/27418960"
+grabcad-url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/171088"
 grabcad-name2: "1000mm Work Area"
-grabcad-url2: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/file/31761258"
+grabcad-url2: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/156613"
 ---
 Now it's time for the final physical piece of your X-Carve, the work area. This is a disposable item that you will cut into many times. Don't worry too much about keeping it pretty, but do try your best to install it as square as possible to the rest of the machine.
 
