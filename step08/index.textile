@@ -73,9 +73,11 @@ h4{margin-bottom: 14px;}. **Skip this step if your ACME Lead Screw Kit shipped b
 | **SKU** | **Name** | **Quantity** |
 | 26054-04 | Aluminum GT2 Pulley 20T 8mm | 1 |
 
-p={width:746px;}. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1068/original/P4290305.jpg?1430341929!
+!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1068/original/P4290305.jpg?1430341929!
 
-!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1069/original/P4290307.jpg?1430341931! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1070/original/P4290308.jpg?1430341933! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1071/original/P4290309.jpg?1430341935! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1072/original/P4290314.jpg?1430341936!
+<div class="row">
+!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1069/original/P4290307.jpg?1430341931! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1070/original/P4290308.jpg?1430341933! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1071/original/P4290309.jpg?1430341935! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1072/original/P4290314.jpg?1430341936!
+</div>
 
 h3. Acme Threaded Rod
 
