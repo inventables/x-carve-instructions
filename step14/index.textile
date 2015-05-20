@@ -85,7 +85,7 @@ h3. 5. Solder Pins to gShield
 
 h5. (Skip this step if you did not order limit switches and/or PWM spindle control)
 
-"gShield Soldering Video":https://www.youtube.com/watch?v=3o-uuCpC8-g
+"gShield Soldering Video":https://youtu.be/VuWspDydKIU
 
 |\3{color:#fff;background: #0a91d1}. **Arduino/gShield Motion Controller Kit** |
 | **SKU** | **Name** | **Quantity** |
@@ -200,7 +200,7 @@ h3. 13. Connect PWM Spindle Control
 
 h4. (Skip this step if you'll be controlling your spindle manually)
 
-"Header Crimping Video":https://www.youtube.com/watch?v=hxhCvDgHFDo
+"Header Crimping Video":https://youtu.be/SWR3DYrZ7YA
 
 |\3{color:#fff;background: #f47b44}. **Power Supply Kit** |
 | **SKU** | **Name** | **Quantity** |
