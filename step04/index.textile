@@ -41,7 +41,7 @@ Drive the self tapping screws into the Makerslide until the are flush with the p
 
 !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/732/original/1337.jpg?1424543605! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/733/original/1338.jpg?1424543606! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/734/original/1342.jpg?1424543607! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/735/original/1344.jpg?1424543608!
 
-<h3 id="second-makerslide">2.Second Piece of Makerslide with Washers</h3>
+<h3 id="second-makerslide">2. Second Piece of Makerslide with Washers</h3>
 
 Next you’ll attach another piece of Makerslide to the left Y-Plate with two more self-tapping screws and two washers. Notice that these screws will be going through slots, not holes. All screws that are driven through slots on the X-Carve will use washers to distribute the load on the joint. Drive these screws until they are flush with the plate and then back them off a full turn.  **If you have limit switches, make sure the slot on the Makerslide is oriented in the upper position.**  This slot is used to attach the limit switch "actuator" and will not be aligned with the switch if the Makerslide is positioned incorrectly.  
 
