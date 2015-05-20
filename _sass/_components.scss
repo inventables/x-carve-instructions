@@ -54,3 +54,13 @@
     }
   }
 }
+
+.step-text img {
+  border: 1px solid transparent;
+  transition: border-color 0.5s ease;
+
+  &:hover {
+    border-color: #4990e2;
+    cursor: pointer;
+  }
+}
