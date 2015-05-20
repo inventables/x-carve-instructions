@@ -99,7 +99,7 @@ Cut the black and white stranded wiring into the following lengths:
 | Y-Axis | 6 feet |
 | Z-Axis | 12 feet |
 
-"Microswitch Soldering Video":https://www.youtube.com/watch?v=OC61sJ6Tb9A
+"Microswitch Soldering Video":https://youtu.be/mBiC6D7dsxs
 
 Strip one end of each pair of wires. Solder the white wire to the middle tab on each switch (marked NO) and the black wire to the tab closest to the lever (marked C). *Heating the switch for too long may damage it, try to work as quickly as possible when soldering the wires to the tabs.*
 
