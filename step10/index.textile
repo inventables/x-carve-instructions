@@ -83,6 +83,10 @@ Now you'll wire the left y-axis motor. Use your last piece of stepper cable and 
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/781/original/0722.jpg?1425054808!
 
+This diagram should help clarify this step, and will be referenced again when you wire your stepper cable to the gShield in the Electronics section.
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1101/original/wiring-diagram.jpg?1431728956!
+
 h3. 5. Soldering Limit Switches
 
 h5. (Skip this step if you did not purchase limit switches)

@@ -106,6 +106,10 @@ The gShield is marked "X," "Y," and "Z." Wire the stepper cable according to the
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/718/original/1096.jpg?1424475165!
 
+Check out this diagram for clarification.
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1101/original/wiring-diagram.jpg?1431728956!
+
 h3. 7. Mount the Arduino
 
 |\3{color:#fff;background: #0a91d1}. **Arduino/gShield Motion Controller Kit** |
