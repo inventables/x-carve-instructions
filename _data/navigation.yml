@@ -24,19 +24,30 @@ stepnav:
   url: /step03/
   subnav:
   - title: Smooth Idlers
-    url: '/step03/#1'
+    url: '#smooth-idlers'
   - title: V-Wheels
-    url: '/step03/#2'
+    url: '#v-wheels'
   - title: Y-Axis Motor Mounting
-    url: '/step03/#3'
+    url: '#motor-mounting'
   - title: Mounting Drag Chain End
-    url: '/step03/#4'
+    url: '#drag-chain-end'
   - title: Mounting Terminal Block
-    url: '/step03/#5'
+    url: '#terminal-block'
   - title: Mounting Y-Axis Limit Switch
-    url: '/step03/#6'
+    url: '#limit-switch'
 - title: Gantry
   url: /step04/
+  subnav:
+  - title: Attach the Makerslide
+    url: '#attach-makerslide'
+  - title: Second piece of Makerslide
+    url: '#second-makerslide'
+  - title: Sliding on X-Carriage
+    url: '#sliding-on-x-carriage'
+  - title: Insertion Nuts for Belt Clips
+    url: '#insertion-nuts'
+  - title: Makerslide and Right Y-Plate
+    url: '#makerslide-right-y-plate'
 - title: Y-Axis
   url: /step05/
 - title: Belting
