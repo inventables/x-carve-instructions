@@ -9,6 +9,8 @@ next-step: /step03/
 grabcad-name1: "X Carriage"
 grabcad-url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/156177"
 ---
+{%image step02/0091.jpg%}
+
 You'll need these parts to assemble the X Carriage:
 
 |\3{color:#fff;background: #383838}. **Core Components Kit** |
