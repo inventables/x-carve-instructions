@@ -10,3 +10,6 @@ gems:
 - github-pages
 - octopress-autoprefixer
 - jekyll-assets
+
+image:
+  source: assets/images/

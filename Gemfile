@@ -10,4 +10,5 @@ gem 'jekyll-textile-converter'
 
 gem 'octopress-autoprefixer'
 
-gem 'jekyll-assets'
+gem 'mini_magick'
+gem 'rmagick', '2.13.2'
