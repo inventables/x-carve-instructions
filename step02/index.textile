@@ -11,8 +11,6 @@ grabcad-url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvY
 ---
 {%image step02/0091.jpg%}
 
-You'll need these parts to assemble the X Carriage:
-
 |\3{color:#fff;background: #383838}. **Core Components Kit** |
 | **SKU** | **Name** | **Quantity** |
 | 30545-01 | X Carriage Extrusion | 1 |
