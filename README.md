@@ -2,11 +2,11 @@
 
 To do: 
 - [x] Finish adding subnavs
-- [ ] Add all necessary accordions
+- [x] Add all necessary accordions
 - [x] Figure out solution for images
 - [ ] Create and apply standard classes for all images
 - [ ] Clean up any formatting problems
-- [ ] Embed videos
+- [x] Embed videos
 - [ ] Make time estimates more accurate
 - [ ] Add better images to accordion sections of Step 3
 - [ ] Update images with hi-res versions
@@ -22,6 +22,6 @@ To do:
 - [x] Step 10
 - [ ] Step 11
 - [x] Step 12
-- [ ] Step 13
+- [x] Step 13
 - [x] Step 14
 - [x] Step 15
