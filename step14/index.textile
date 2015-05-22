@@ -20,13 +20,14 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 Start by mounting the Power Supply Circuit Board to the Power Supply. You'll see that the circuit board has fingers that will extend into terminals on the power supply. Hold the circuit board up to the power supply to see which terminals you'll be using. Remove the screws from each of these terminals and place the power supply circuit board in them. Put the screws back into the terminals through the circuit board and tighten them firmly.
 
-!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/695/original/1031.jpg?1424471534! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/696/original/1033.jpg?1424471536! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/697/original/1038.jpg?1424471537! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/698/original/1039.jpg?1424471538!
+<div class="row"> !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/695/original/1031.jpg?1424471534! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/696/original/1033.jpg?1424471536! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/697/original/1038.jpg?1424471537! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/698/original/1039.jpg?1424471538!
+</div>
 
 p=(note). Note: Your 24V Power Supply has a toggle switch for input voltage on the side. Use a small flat-blade screwdriver to switch it to the voltage that corresponds to your outlet voltage
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/710/original/1053.jpg?1424472467!
 
-<h3 id="mount-gshield-enclosure"> 2. Mount gShield Enclosure and P/S Interface</h3>
+<h3 id="mount-gshield-enclosure">2. Mount gShield Enclosure and P/S Interface</h3>
 
 |\3{color:#fff;background: #f47b44}. **Power Supply Kit** |
 | **SKU** | **Name** | **Quantity** |
@@ -39,8 +40,8 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 | 30265-04 | Nylon Insert Lock Nut M5 | 2 |
 
 Next you'll mount the gShield Enclosure to the Power Supply Interface. You'll put two M5  x 10mm screws into the holes of the gShield Enclosure through the corresponding holes in the Power Supply Interface. Secure them from the inside of the Power Supply Interface with nylock nuts.
-
-!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/699/original/1016.jpg?1424471663! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/700/original/1017.jpg?1424471664! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/701/original/1020.jpg?1424471665! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/702/original/1024.jpg?1424471666!
+<div class="row"> !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/699/original/1016.jpg?1424471663! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/700/original/1017.jpg?1424471664! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/701/original/1020.jpg?1424471665! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/702/original/1024.jpg?1424471666!
+</div>
 
 The Power Supply Interface attaches to the Power Supply with four phillips head screws. Slide the interface onto the power supply making sure to push the green terminal blocks through their respective holes. Thread the screws through the interface and into the power supply by hand and then use your wrench to tighten them a little more.
 
@@ -49,13 +50,16 @@ The Power Supply Interface attaches to the Power Supply with four phillips head 
 | 25286-23 | Button Head Cap Screw M4 x 5mm | 4 |
 |   | Power Supply Assembly | 1 |
 
-!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/896/original/1041.jpg?1428000397! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/895/original/1048.jpg?1428000396! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/894/original/1049.jpg?1428000395! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/893/original/1051.jpg?1428000394!
+<div class="row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/896/original/1041.jpg?1428000397! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/895/original/1048.jpg?1428000396! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/894/original/1049.jpg?1428000395! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/893/original/1051.jpg?1428000394!
+</div>
 
 <h3 id="strip-stepper-cable">3. Strip the Stepper Cable</h3>
 
 Now for some wiring. Strip about two inches from the end of one piece of stepper cable. You'll notice that underneath the grey jacket of the stepper cable are foil wrapping, string, a thin raw wire and four colored wires (black, green, white and red). Remove everything except the four colored wires.
 
-!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/703/original/1060.jpg?1424471789! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/704/original/1061.jpg?1424471790! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/705/original/1062.jpg?1424471792! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/706/original/1063.jpg?1424471793!
+<div class="row">
+!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/703/original/1060.jpg?1424471789! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/704/original/1061.jpg?1424471790! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/705/original/1062.jpg?1424471792! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/706/original/1063.jpg?1424471793!
+</div>
 
 Strip the ends of the four wires about one quarter of an inch.
 
@@ -83,9 +87,9 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 <h3 id="solder-pins">5. Solder Pins to gShield</h3>
 
-h5. (Skip this step if you did not order limit switches and/or PWM spindle control)
+p=(note). Skip this step if you did not order limit switches and/or PWM spindle control
 
-"gShield Soldering Video":https://youtu.be/VuWspDydKIU
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VuWspDydKIU" frameborder="0" allowfullscreen></iframe>
 
 |\3{color:#fff;background: #0a91d1}. **Arduino/gShield Motion Controller Kit** |
 | **SKU** | **Name** | **Quantity** |
@@ -93,8 +97,8 @@ h5. (Skip this step if you did not order limit switches and/or PWM spindle contr
 | 30209-12 | Male Header Connector Right Angle 1 x 40 Pins | 1 |
 
 Place the pins into the gShield making sure that the black plastic touches the top of the board. Solder each pin individually making sure to not "bridge" the pins by soldering them together. You may find it easier to solder the pins if you support them with a small object.
-
-!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/871/original/1004.jpg?1427990285! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/870/original/1006.jpg?1427990284! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/872/original/1008.jpg?1427990646! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/868/original/1014.jpg?1427990282!
+<div class="row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/871/original/1004.jpg?1427990285! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/870/original/1006.jpg?1427990284! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/872/original/1008.jpg?1427990646! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/868/original/1014.jpg?1427990282!
+</div>
 
 <h3 id="wire-stepper-cable">6. Wire the Stepper Cable to the gShield</h3>
 
@@ -122,7 +126,7 @@ Now grab your Arduino and mount it in the gShield Enclosure. You'll use three of
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/729/original/Electronics%20Arduino%20Mounting%20Holes.png?1424475991!
 
-Push the USB port through the square hole on the gShield enclosure and line up the screws with the threaded inserts on the gShield Enclosure. Screw the Arduino down to the enclosure remembering to alternate screws as you tighten to keep the board even. There's no reason to go passed finger tight with these.
+Push the USB port through the square hole on the gShield enclosure and line up the screws with the threaded inserts on the gShield Enclosure. Screw the Arduino down to the enclosure remembering to alternate screws as you tighten to keep the board even. There's no reason to go past finger tight with these.
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/721/original/1107.jpg?1424475530!
 
@@ -151,8 +155,8 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 Now strip the zip wire on one end and strip the 24V fan's wires. Twist the %{color:black}black% wires together and then twist the %{color:red}red% wires together.
 
-!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/723/original/1119.jpg?1424475658! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/724/original/1132.jpg?1424475660! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/725/original/1121.jpg?1424475661! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/726/original/1125.jpg?1424475662!
-
+<div class="row"> !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/723/original/1119.jpg?1424475658! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/724/original/1132.jpg?1424475660! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/725/original/1121.jpg?1424475661! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/726/original/1125.jpg?1424475662!
+</div>
 Loosen the screws in the power terminal of the gShield and insert the %{color:red}red% twisted pair into Vmot and the %{color:black}black% twisted pair into Gnd.
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/727/original/1129.jpg?1424475663!
@@ -163,11 +167,11 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 <h3 id="power-spindle">10. Power the 24V Spindle</h3>
 
-h5. (Skip this step if you did not order the 24V spindle)
+p=(note). (Skip this step if you did not order the 24V spindle)
 
 Strip the zip wire from your spindle and put the ends into the remaining spots on the large green terminal.
-
-!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/876/original/1135.jpg?1427991353! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/875/original/1136.jpg?1427991352! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/874/original/1137.jpg?1427991351! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/873/original/1139.jpg?1427991350!
+<div class="row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/876/original/1135.jpg?1427991353! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/875/original/1136.jpg?1427991352! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/874/original/1137.jpg?1427991351! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/873/original/1139.jpg?1427991350!
+</div>
 
 <h3 id="install-enclosure-cover">11. Install the gShield Enclosure cover</h3>
 
@@ -198,9 +202,9 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 <h3 id="connect-pwm">13. Connect PWM Spindle Control</h3>
 
-h4. (Skip this step if you'll be controlling your spindle manually)
+p=(note). Skip this step if you'll be controlling your spindle manually.
 
-"Header Crimping Video":https://youtu.be/SWR3DYrZ7YA
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SWR3DYrZ7YA" frameborder="0" allowfullscreen></iframe>
 
 |\3{color:#fff;background: #f47b44}. **Power Supply Kit** |
 | **SKU** | **Name** | **Quantity** |
@@ -214,12 +218,13 @@ h4. (Skip this step if you'll be controlling your spindle manually)
 |   | Power Supply Assembly | 1 |
 
 Strip one end of the black and yellow stranded wire. Use the header connectors to see how much jacket to remove. Crimp the header connectors onto the stripped wire ends.
-
-!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/883/original/1157.jpg?1427992427! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/882/original/1160.jpg?1427992426! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/881/original/1163.jpg?1427992425! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/880/original/1166.jpg?1427992424!
+<div class="row"> !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/883/original/1157.jpg?1427992427! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/882/original/1160.jpg?1427992426! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/881/original/1163.jpg?1427992425! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/880/original/1166.jpg?1427992424!
+</div>
 
 Insert the crimped pins into the header connector as shown. They should click when they are in far enough and you should be able to pull gently on the wire without the pins coming out. Strip the other end of the black and yellow stranded wire. Insert them into the small green terminal block and press it into the Power Supply Interface.
 
-!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/886/original/1177.jpg?1427993108! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/887/original/1182.jpg?1427993109! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/885/original/1187.jpg?1427992867! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/884/original/1189.jpg?1427992866!
+<div class="row"> !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/886/original/1177.jpg?1427993108! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/887/original/1182.jpg?1427993109! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/885/original/1187.jpg?1427992867! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/884/original/1189.jpg?1427992866!
+</div>
 
 <h3 id="connect-limit-switches">14. Connect Limit Switches to gShield</h3>
 
@@ -227,9 +232,14 @@ Insert the crimped pins into the header connector as shown. They should click wh
 | **SKU** | **Name** | **Quantity** |
 | 30210-03 | Header Crimp Contact 0.100" Female 10 Pins | 3 (pins) |
 
-Crimp the white ends of each limit switch wire pair. Insert them into the Header Connector. **The order of the white wires from left to right is X, Y, Z.** Solder the black wires of each pair together and insert them into the GND terminal of the gShield (you will have to temporarily remove the top of the gShield enclosure to do this).
+Crimp the white ends of each limit switch wire pair. Insert them into the Header Connector. 
 
-!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/891/original/1256.jpg?1427993696! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/890/original/1263.jpg?1427993695! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/889/original/1269.jpg?1427993694! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/888/original/1270.jpg?1427993693!
+**The order of the white wires from left to right is X, Y, Z.** 
+
+Solder the black wires of each pair together and insert them into the GND terminal of the gShield (you will have to temporarily remove the top of the gShield enclosure to do this).
+
+<div class="row"> !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/891/original/1256.jpg?1427993696! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/890/original/1263.jpg?1427993695! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/889/original/1269.jpg?1427993694! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/888/original/1270.jpg?1427993693!
+</div>
 
 |\3{color:#fff;background: #9d9fa2}. **Limit Switch Kit** |
 | **SKU** | **Name** | **Quantity** |
@@ -238,7 +248,8 @@ Crimp the white ends of each limit switch wire pair. Insert them into the Header
 
 Now is a good time to add the "actuators" for the limit switches. Start with the X-Axis limit switch actuator. Push the post assembly insertion nut into the rear piece of X-Axis Makerslide. Screw the M5 screw into the insertion nut. Adjust the placement of the insertion nut by loosening the screw and sliding it left and right. When the actuator is in the right place you'll be able to activate the switch (you'll hear a gentle click) without the X Carriage contacting the smooth idlers on the left Y-Plate. 
 
-!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/900/original/1228.jpg?1428001046! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/899/original/1231.jpg?1428001045! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/898/original/1232.jpg?1428001044! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/897/original/1233.jpg?1428001043!
+<div class="row"> !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/900/original/1228.jpg?1428001046! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/899/original/1231.jpg?1428001045! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/898/original/1232.jpg?1428001044! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/897/original/1233.jpg?1428001043!
+</div>
 
 Repeat the process with the Y-Axis limit switch actuator on the left piece of Y-Axis Makerslide.
 
