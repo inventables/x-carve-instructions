@@ -26,7 +26,7 @@ p=(note). Note: Your 24V Power Supply has a toggle switch for input voltage on t
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/710/original/1053.jpg?1424472467!
 
-<h3 id="mount-gshield-enclosure">. 2. Mount gShield Enclosure and P/S Interface</h3>
+<h3 id="mount-gshield-enclosure"> 2. Mount gShield Enclosure and P/S Interface</h3>
 
 |\3{color:#fff;background: #f47b44}. **Power Supply Kit** |
 | **SKU** | **Name** | **Quantity** |

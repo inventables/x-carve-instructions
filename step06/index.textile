@@ -34,24 +34,15 @@ Next you’ll be threading a length of  belt between the pulley and one idler. I
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/754/original/1446.jpg?1424546350!
 
-h4. Sliding Between Pulley and Smooth Idler
-
 Insert the belt between the pulley and the left idler from the top. Make sure the belt goes in with its teeth facing down and that it goes underneath the idler.
-<div class="row">
-!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/630/original/0471.jpg?1424385911! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/631/original/0472.jpg?1424385912! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/756/original/0475.jpg?1424546352! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/632/original/0473.jpg?1424385913!
+<div class="row"> !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/630/original/0471.jpg?1424385911! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/631/original/0472.jpg?1424385912! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/756/original/0475.jpg?1424546352! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/632/original/0473.jpg?1424385913!
 </div>
-
-h4{clear:both}. Repeat on Other Side
 
 Curl the other end and insert it on the right side of the pulley.
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/633/original/0479.jpg?1424386059!
 
-h4. Belt Clip (Static [Left] Side)
-
 One side of this belt is going to stay put all of the time, we’ll call that side static. The other side of the belt will be adjustable so that you can tune its tension, we’ll call that side dynamic.
-
-h5. Thread Belt Through Clip
 
 You’ll start with the static side on the left of the machine. Thread the belt through as shown, be sure to check that the belt is running through the slots in the proper order and that the teeth are facing the correct way.
 
@@ -61,20 +52,13 @@ If you’ve looped the belt through correctly the teeth should mate like this:
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/635/original/0483.jpg?1424386061!
 
-h5. Attach Belt Clip to Makerslide
-
 Next you’ll attach this belt clip to the Makerslide. Insert the smaller screw into the hole on the belt clip and screw it almost all of the way down.
-<div class="row">
-!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/750/original/1422.jpg?1424546131! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/751/original/1423.jpg?1424546132! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/752/original/1424.jpg?1424546133! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/753/original/1426.jpg?1424546134!
+<div class="row"> !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/750/original/1422.jpg?1424546131! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/751/original/1423.jpg?1424546132! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/752/original/1424.jpg?1424546133! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/753/original/1426.jpg?1424546134!
 </div>
-
-h5. Tighten the Belt Clip Flush with the Y-Motor Plate
 
 Flush the belt clip with the Y-Motor Plate and tighten the screw as much as you can without stripping the head.
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/757/original/1428.jpg?1424546353!
-
-h4. Belt Clip (Dynamic [Right] Side)
 
 Thread the other end of the belt through another belt clip.
 
@@ -102,4 +86,4 @@ Thread an M5 nylock nut onto the 25mm screw to fasten it to the Y Plate. Tighten
 
 <h3 id="repeat">3. Repeat for Y-Axis</h3>
 
-Repeat this process two more times for the left and right y-axis assemblies. 
+Repeat this process two more times for the left and right Y-axis assemblies. 
