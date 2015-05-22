@@ -119,7 +119,12 @@ Strip one end of each pair of wires. Solder the white wire to the middle tab on 
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/867/original/1193.jpg?1427922595!
 
-p=(note). Heating the switch for too long may damage it, try to work as quickly as possible when soldering the wires to the tabs.
+<div class="note">
+  <i class="fa fa-hand-o-right"></i>
+  <span>
+    Heating the switch for too long may damage it, try to work as quickly as possible when soldering the wires to the tabs.
+  </span>
+</div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mBiC6D7dsxs" frameborder="0" allowfullscreen></iframe>
 	  </div>

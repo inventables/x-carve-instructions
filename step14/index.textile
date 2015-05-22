@@ -23,7 +23,12 @@ Start by mounting the Power Supply Circuit Board to the Power Supply. You'll see
 <div class="row"> !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/695/original/1031.jpg?1424471534! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/696/original/1033.jpg?1424471536! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/697/original/1038.jpg?1424471537! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/698/original/1039.jpg?1424471538!
 </div>
 
-p=(note). Note: Your 24V Power Supply has a toggle switch for input voltage on the side. Use a small flat-blade screwdriver to switch it to the voltage that corresponds to your outlet voltage
+<div class="note">
+  <i class="fa fa-hand-o-right"></i>
+  <span>
+    Note: Your 24V Power Supply has a toggle switch for input voltage on the side. Use a small flat-blade screwdriver to switch it to the voltage that corresponds to your outlet voltage.
+  </span>
+</div>
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/710/original/1053.jpg?1424472467!
 
@@ -40,6 +45,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 | 30265-04 | Nylon Insert Lock Nut M5 | 2 |
 
 Next you'll mount the gShield Enclosure to the Power Supply Interface. You'll put two M5  x 10mm screws into the holes of the gShield Enclosure through the corresponding holes in the Power Supply Interface. Secure them from the inside of the Power Supply Interface with nylock nuts.
+
 <div class="row"> !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/699/original/1016.jpg?1424471663! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/700/original/1017.jpg?1424471664! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/701/original/1020.jpg?1424471665! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/702/original/1024.jpg?1424471666!
 </div>
 
@@ -87,7 +93,12 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 <h3 id="solder-pins">5. Solder Pins to gShield</h3>
 
-p=(note). Skip this step if you did not order limit switches and/or PWM spindle control
+<div class="note">
+  <i class="fa fa-hand-o-right"></i>
+  <span>
+    Skip this step if you did not order limit switches and/or PWM spindle control
+  </span>
+</div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VuWspDydKIU" frameborder="0" allowfullscreen></iframe>
 
@@ -167,7 +178,12 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 <h3 id="power-spindle">10. Power the 24V Spindle</h3>
 
-p=(note). (Skip this step if you did not order the 24V spindle)
+<div class="note">
+  <i class="fa fa-hand-o-right"></i>
+  <span>
+    Skip this step if you did not order the 24V spindle
+  </span>
+</div>
 
 Strip the zip wire from your spindle and put the ends into the remaining spots on the large green terminal.
 <div class="row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/876/original/1135.jpg?1427991353! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/875/original/1136.jpg?1427991352! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/874/original/1137.jpg?1427991351! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/873/original/1139.jpg?1427991350!
@@ -202,7 +218,12 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 <h3 id="connect-pwm">13. Connect PWM Spindle Control</h3>
 
-p=(note). Skip this step if you'll be controlling your spindle manually.
+<div class="note">
+  <i class="fa fa-hand-o-right"></i>
+  <span>
+    Skip this step if you'll be controlling your spindle manually.
+  </span>
+</div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SWR3DYrZ7YA" frameborder="0" allowfullscreen></iframe>
 

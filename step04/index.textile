@@ -33,7 +33,12 @@ You'll be using two pieces of Makerslide to create an X-Axis. Make sure to grab 
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/731/original/1336.jpg?1424543604!
 
-p=(note). Note: The "rails" of the Makerslide are what the V-Wheels ride on. Make sure they are pointed towards the front of the plate.
+<div class="note">
+  <i class="fa fa-hand-o-right"></i>
+  <span>
+    Note: The "rails" of the Makerslide are what the V-Wheels ride on. Make sure they are pointed towards the front of the plate.
+  </span>
+</div>
 
 Drive the self tapping screws into the Makerslide until the are flush with the plate:
 
@@ -51,7 +56,12 @@ Your X-Axis should look like this:
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/740/original/1362.jpg?1424543842!
 
-p=(note). Note: Check that the last two screws you inserted are loose enough to allow the back piece of X-Axis Makerslide to slide freely in the slot. This will make the next step much easier.
+<div class="note">
+  <i class="fa fa-hand-o-right"></i>
+  <span>
+    Note: Check that the last two screws you inserted are loose enough to allow the back piece of X-Axis Makerslide to slide freely in the slot. This will make the next step much easier.
+  </span>
+</div>
 
 <h3 id="slide-on-x-carriage">3. Slide on the X Carriage</h3>
 

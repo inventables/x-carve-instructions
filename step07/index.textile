@@ -38,7 +38,12 @@ Before you attach the Z-Axis Makerslide to the Z-Plate be sure that you have the
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/546/original/0959.jpg?1424378497!
 
-p=(note). Note: The flange on the bearing is facing down and the rails of the Makerslide are facing forward.
+<div class="note">
+  <i class="fa fa-hand-o-right"></i>
+  <span>
+    Note: The flange on the bearing is facing down and the rails of the Makerslide are facing forward.
+  </span>
+</div>
 
 Use two self tapping screws to attach the Z-Plate to the Z-Axis Makerslide. The screws go through the Z-Plate and into the Makerslide. Be sure to keep constant pressure along the hole you're tapping.
 
@@ -87,7 +92,12 @@ The Z-Axis should be captured by four insertion nuts and screws at this point, b
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/560/original/0546.jpg?1424379091!
 
-p=(note). Note: The bottom of the Z-Axis will not be flush with the X Carriage, it will protrude slightly.
+<div class="note">
+  <i class="fa fa-hand-o-right"></i>
+  <span>
+    Note: The bottom of the Z-Axis will not be flush with the X Carriage, it will protrude slightly.
+  </span>
+</div>
 
 Tighten all four screws that capture the Z-Axis. Alternate between screws in an x-pattern to maintain alignment. 
 
@@ -97,7 +107,12 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 <h3 id="limit-switch">4. Mounting Z-Axis Limit Switch</h3>
 
-p=(note). If you did not purchase limit switches, skip this step.
+<div class="note">
+  <i class="fa fa-hand-o-right"></i>
+  <span>
+    If you did not purchase limit switches, skip this step.
+  </span>
+</div>
 
 |\3{color:#fff;background: #9d9fa2}. **Limit Switch Kit** |
 | **SKU** | **Name** | **Quantity** |

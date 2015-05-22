@@ -32,7 +32,12 @@ You’re going to use self tapping screws again. This time you'll attach a piece
 !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1077/original/0331.jpg?1431031633! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1078/original/0334.jpg?1431032389! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1079/original/0337.jpg?1431032390! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1094/original/0343Text.jpg?1431040998?1431032391!
 </div>
 
-p=(note). Note: You want to make sure that the rails of the Makerslide are on the flat side of the end plate and that you leave one hole open on the top side of the end plate.
+<div class="note">
+  <i class="fa fa-hand-o-right"></i>
+  <span>
+    Note: You want to make sure that the rails of the Makerslide are on the flat side of the end plate and that you leave one hole open on the top side of the end plate.
+  </span>
+</div>
 
 Repeat this process with another piece of Makerslide and another end plate, but mirror the piece you made in the previous step. You should have two pieces like this:
 
@@ -66,7 +71,12 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 <h3 id="connect-end-plates">5. Connect End Plates with Extrusions</h3>
 
-p=(note). (Skip this step if you ordered the 1000mm rail kit.)
+<div class="note">
+  <i class="fa fa-hand-o-right"></i>
+  <span>
+    Skip this step if you ordered the 1000mm rail kit.
+  </span>
+</div>
 
 |\3. **Rail Kit** |
 | **SKU** | **Name** | **Quantity** |
@@ -85,7 +95,12 @@ Slide the insertion nuts into the extrusions and fasten the end plates to them w
 <div class="row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/625/original/0380.jpg?1424385401! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/626/original/0382.jpg?1424385402! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/627/original/0385.jpg?1424385403! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/628/original/0386.jpg?1424385404!
 </div>
 
-p=(note). Note: You can use your wrench to align the insertion nut with the hole on the end plate.
+<div class="note">
+  <i class="fa fa-hand-o-right"></i>
+  <span>
+    Note: You can use your wrench to align the insertion nut with the hole on the end plate.
+  </span>
+</div>
 
 Your X-Carve should look like this now:
 

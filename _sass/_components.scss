@@ -69,11 +69,23 @@
 }
 
 .note {
-  font-size: 16px;
-  line-height: 20px;
-  text-align: center;
   background: #d0e3f8;
-  padding: 10px;
+  padding: 14px 20px;
+  margin-bottom: 15px;
+
+  i {
+    display: inline-block;
+    font-size: 36px;
+  }
+
+  span {
+    display: inline-block;
+    font-size: 16px;
+    line-height: 22px;
+    width: 90%;
+    padding-left: 20px;
+    vertical-align: top;
+  }
 }
 
 .btn-invent {
