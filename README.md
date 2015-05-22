@@ -19,7 +19,7 @@ To do:
 - [x] Step 7
 - [x] Step 8
 - [x] Step 9
-- [ ] Step 10
+- [x] Step 10
 - [ ] Step 11
 - [ ] Step 12
 - [ ] Step 13
