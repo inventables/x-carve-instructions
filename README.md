@@ -1,7 +1,7 @@
 # X-Carve Instructions
 
 To do: 
-- [ ] Finish adding subnavs
+- [x] Finish adding subnavs
 - [ ] Add all necessary accordions
 - [ ] Figure out solution for images
 - [ ] Create and apply standard classes for all images
