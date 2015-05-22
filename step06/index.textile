@@ -28,7 +28,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 When you've got the pulley in the right place tighten the set screws with moderate force.
 
-<h3 id="thread-belt-through">Thread Belt Through</h3>
+<h3 id="thread-belt-through">2. Thread Belt Through</h3>
 
 Next you’ll be threading a length of  belt between the pulley and one idler. It helps a lot to curl the end of the belt beforehand:
 
@@ -98,6 +98,6 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
  
 Thread an M5 nylock nut onto the 25mm screw to fasten it to the Y Plate. Tighten the nut until the belt is taught and you can pluck it like a loose guitar string, then tighten the 8mm screw all the way down.
 
-<h3 id="repeat">Repeat for Y-Axis</h3>
+<h3 id="repeat">3. Repeat for Y-Axis</h3>
 
 Repeat this process two more times for the left and right y-axis assemblies. 

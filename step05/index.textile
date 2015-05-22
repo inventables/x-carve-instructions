@@ -56,7 +56,7 @@ Your X-Carve should look like this:
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/540/original/0377.jpg?1424363386!
 
-<h3 id="connect-end-plates">Connect End Plates with Extrusions</h3>
+<h3 id="connect-end-plates">5. Connect End Plates with Extrusions</h3>
 
 h5. (Skip this step if you ordered the 1000mm rail kit.)
 

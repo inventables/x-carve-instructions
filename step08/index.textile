@@ -57,31 +57,7 @@ When you're done your Z-Axis should look like this:
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/584/original/0574.jpg?1424381437!
 
-<h3 id="acme">Acme Threaded Rod</h3>
-
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1073/original/P4290316.jpg?1430341938!
-
-h4{margin-bottom: 14px;}. **Skip this step if your ACME Lead Screw Kit shipped before 4/28/15**
-
-|\3{color:#fff;background: #6b4e40}. **ACME Lead Screw Kit** |
-| **SKU** | **Name** | **Quantity** |
-| 30396-01 | Lead Screw ACME | 1 |
-| 25280-02 | Delrin Nut ACME | 1 |
-| 25284-10 | Nylon Insert Lock Nut M6 | 1 |
-
-|\3{color:#fff;background: #383838}. **Core Components Kit** |
-| **SKU** | **Name** | **Quantity** |
-| 26054-04 | Aluminum GT2 Pulley 20T 8mm | 1 |
-
-!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1068/original/P4290305.jpg?1430341929!
-
-<div class="row">
-!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1069/original/P4290307.jpg?1430341931! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1070/original/P4290308.jpg?1430341933! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1071/original/P4290309.jpg?1430341935! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1072/original/P4290314.jpg?1430341936!
-</div>
-
 h3. Acme Threaded Rod
-
-h4{margin-bottom: 14px;}. **Skip this step if your ACME Lead Screw Kit shipped after 4/28/15**
 
 |\3{color:#fff;background: #6b4e40}. **ACME Lead Screw Kit** |
 | **SKU** | **Name** | **Quantity** |
