@@ -20,7 +20,7 @@ next-step: /step07/
 
 Now that you've got the X and Y axes assembled let's put belts on them. Start by cutting your belting into **three equal lengths.**
 
-<h3 id="align-x-axis-motor-pulley"> 1. Align X-Axis Motor Pulley w/ Smooth Idlers
+<h3 id="align-x-axis-motor-pulley"> 1. Align X-Axis Motor Pulley w/ Smooth Idlers</h3>
 
 Aligning the pulley on your x-axis motor with the smooth idlers on either side of it will ensure that the belt travels smoothly. To adjust the placement of the pulley on the motor shaft loosen the two set screws a full turn. Move the pulley so that the outer lip lines up with the outer lip of the smooth idlers.
 
