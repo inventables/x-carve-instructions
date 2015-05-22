@@ -83,9 +83,18 @@ Repeat everything you did with the other Y-Plate, but mirror the orientation of 
 
 <h3 id="motor-mounting">3. Y-Axis Motor Mounting</h3>
 
-h4. NEMA 17 Stepper Motors
+<img src="P5210332.JPG">
 
-h5. (Skip this step if you purchased NEMA 23s)
+If you purchased a stepper motor kit with your X-Carve, click on your chosen type below to mount your motors.
+
+<div class="panel-group" id="motor-accordion" role="tablist" aria-multiselectable="true">
+  <div class="panel panel-default">
+    <a data-toggle="collapse" data-parent="#motor-accordion" href="#nema17" aria-expanded="false" aria-controls="nema17" class="panel-heading" role="tab" id="nema17-header">
+      <h4 class="panel-title">Nema 17</h4>
+    </a>
+    <div id="nema17" class="panel-collapse collapse" role="tabpanel" aria-labelledby="nema17-header">
+      <div class="panel-body">
+<img src="0235.jpg">
 
 |\3{color:#fff;background: #cc3440}. **NEMA 17 Stepper Motor Kit** |
 | **SKU** | **Name** | **Quantity** |
@@ -94,19 +103,23 @@ h5. (Skip this step if you purchased NEMA 23s)
 | 25285-31 | Socket Head Cap Screw M3 x 8mm | 8 |
 | 25287-10 | Flat Washer M3 | 8 |
 
-"NEMA 17 Motor Mounting Video":http://youtu.be/vpJgw8YUEoA
-
-!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/691/original/1326.jpg?1424466354!
-
 To mount a NEMA 17 motor on your Y-Plate slide the washers onto the screws, insert the screws through the plate and thread them into the motor. Insert them in an x pattern and get them all finger tight, then tighten them with moderate force. Be sure to orient the motor as shown in the photos with the wires facing the bottom of the plate.
 
 !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/521/original/0912.jpg?1424298342! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/522/original/0915.jpg?1424298352! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/523/original/0916.jpg?1424298362! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/524/original/0919.jpg?1424298371!
 
 Repeat with the second Y-Plate.
 
-h4. NEMA 23 Stepper Motors
-
-h5. (Skip this step if you purchased NEMA 17s)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vpJgw8YUEoA" frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+  <div class="panel panel-default">
+    <a data-toggle="collapse" data-parent="#motor-accordion" href="#nema23" aria-expanded="false" aria-controls="nema23" class="panel-heading" role="tab" id="nema23-header">
+      <h4 class="panel-title">Nema 23</h4>
+    </a>
+    <div id="nema23" class="panel-collapse collapse" role="tabpanel" aria-labelledby="nema23-header">
+      <div class="panel-body">
+<img src="0257.jpg">
 
 |\3{color:#fff;background: #cc3440}. **NEMA 23 Stepper Motor Kit** |
 | **SKU** | **Name** | **Quantity** |
@@ -115,8 +128,6 @@ h5. (Skip this step if you purchased NEMA 17s)
 | 25285-36 | Socket Head Cap Screw M5 x 16mm | 8 |
 | 25287-08 | Flat Washer M5 | 8 |
 | 30265-04 | Nylon Insert Lock Nut M5 | 8 |
-
-"NEMA 23 Motor Mounting Video":https://www.youtube.com/watch?v=N65WMdgOUUE
 
 To mount a NEMA 23 motor on your Y-Plate insert a screw through a mounting hole on the motor and then the plate. Slide a washer onto the screw and use and finger tighten a nylock nut. Orient the motor as shown in the photos with the wires facing the bottom of the plate.
 
@@ -127,6 +138,12 @@ Repeat with the remaining three screws and then tighten all screws firmly.
 !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/528/original/0936.jpg?1424298606!
 
 Repeat with the second Y-Plate.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N65WMdgOUUE" frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+</div>
 
 <h3 id="drag-chain-end">4. Mounting Drag Chain End (Left Plate)</h3>
 
