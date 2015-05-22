@@ -21,7 +21,7 @@ To do:
 - [x] Step 9
 - [x] Step 10
 - [ ] Step 11
-- [ ] Step 12
+- [x] Step 12
 - [ ] Step 13
-- [ ] Step 14
+- [x] Step 14
 - [x] Step 15
