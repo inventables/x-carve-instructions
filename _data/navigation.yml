@@ -42,11 +42,11 @@ stepnav:
     url: '#attach-makerslide'
   - title: Second piece of Makerslide
     url: '#second-makerslide'
-  - title: Sliding on X-Carriage
-    url: '#sliding-on-x-carriage'
-  - title: Insertion Nuts for Belt Clips
+  - title: Slide on X-Carriage
+    url: '#slide-on-x-carriage'
+  - title: Add Insertion Nuts
     url: '#insertion-nuts'
-  - title: Makerslide and Right Y-Plate
+  - title: Attach Right Y-Plate
     url: '#makerslide-right-y-plate'
 - title: Y-Axis
   url: /step05/

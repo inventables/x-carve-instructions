@@ -27,23 +27,23 @@ Now it's time to combine the X Carriage, Y-Plates and X-Axis to form the Gantry.
 
 If you’ve been following the order of the general instructions this will be your first time using self tapping screws. Go slowly (especially for the first few threads), keep constant pressure down the hole you’re tapping and use cutting fluid or lubricant of any kind.  If you're having difficulty with these self tapping screws, try first using the screws to cut a few threads without the plates attached.
 
-h4. First Piece of Makerslide
-
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/730/original/1329.jpg?1424543603!
 
 You'll be using two pieces of Makerslide to create an X-Axis. Make sure to grab the MakerSlide with the X-Carve logo.  **The logo will be oriented on the right side of the machine facing front.**  You’ll start by attaching the left Y-Plate to one piece of Makerslide. Orient the Makerslide and Y-Plate like this:
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/731/original/1336.jpg?1424543604!
 
-p=. Note: The "rails" of the Makerslide are what the V-Wheels ride on. Make sure they are pointed towards the front of the plate.
+p=(note). Note: The "rails" of the Makerslide are what the V-Wheels ride on. Make sure they are pointed towards the front of the plate.
 
 Drive the self tapping screws into the Makerslide until the are flush with the plate:
 
 !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/732/original/1337.jpg?1424543605! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/733/original/1338.jpg?1424543606! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/734/original/1342.jpg?1424543607! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/735/original/1344.jpg?1424543608!
 
-<h3 id="second-makerslide">2. Second Piece of Makerslide with Washers</h3>
+<h3 id="second-makerslide">2. Attach the Second Piece of Makerslide</h3>
 
-Next you’ll attach another piece of Makerslide to the left Y-Plate with two more self-tapping screws and two washers. Notice that these screws will be going through slots, not holes. All screws that are driven through slots on the X-Carve will use washers to distribute the load on the joint. Drive these screws until they are flush with the plate and then back them off a full turn.  **If you have limit switches, make sure the slot on the Makerslide is oriented in the upper position.**  This slot is used to attach the limit switch "actuator" and will not be aligned with the switch if the Makerslide is positioned incorrectly.  
+Next you’ll attach another piece of Makerslide to the left Y-Plate with two more self-tapping screws and two washers. Notice that these screws will be going through slots, not holes. All screws that are driven through slots on the X-Carve will use washers to distribute the load on the joint. Drive these screws until they are flush with the plate and then back them off a full turn.
+
+**If you have limit switches, make sure the slot on the Makerslide is oriented in the upper position.**  This slot is used to attach the limit switch "actuator" and will not be aligned with the switch if the Makerslide is positioned incorrectly.  
 
 !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/736/original/1346.jpg?1424543838! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/737/original/1348.jpg?1424543839! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/738/original/1356.jpg?1424543840! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/739/original/1358.jpg?1424543841!
 
@@ -51,9 +51,9 @@ Your X-Axis should look like this:
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/740/original/1362.jpg?1424543842!
 
-p=. _Note: Check that the last two screws you inserted are loose enough to allow the back piece of X-Axis Makerslide to slide freely in the slot. This will make the next step much easier._
+p=(note). Note: Check that the last two screws you inserted are loose enough to allow the back piece of X-Axis Makerslide to slide freely in the slot. This will make the next step much easier.
 
-<h3 id="sliding-on-x-carriage">3. Sliding on the X Carriage</h3>
+<h3 id="slide-on-x-carriage">3. Slide on the X Carriage</h3>
 
 Now you’ll slide the X Carriage onto the x-axis. Be gentle with this step as it’s easy to mar the V-Wheels on the sharp edges of the Makerslide if you’re not careful. If you’re finding that the Makerslide doesn't quite fit in between the V-Wheels check that the eccentric nuts on the X Carriage are in the “open” position. If they are the screws that hold them in place will be as far from the top V-Wheels as possible.
 
@@ -65,13 +65,13 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 Slide the X Carriage midway along the X-Axis and set the assembly down.
 
-<h3 id="insertion-nuts">4. Insertion Nuts for Belt Clips</h3>
+<h3 id="insertion-nuts">4. Add Insertion Nuts for Belt Clips</h3>
 
 Before you attach the right Y-Plate to the X-axis slide two insertion nuts into the rear X-axis Makerslide (the one that is closest to the X-Motor). You’ll use these to attach belt clips later.
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/742/original/1372.jpg?1424543844!
 
-<h3 id="makerslide-right-y-plate">5. Makerslide and Right Y Motor Plate</h3>
+<h3 id="makerslide-right-y-plate">5. Attach Right Y Motor Plate and Makerslide</h3>
 
 Now repeat the process you used to attach the left Y-Plate to the X-axis. You should have an assembly that looks like this when you’re done:
 
