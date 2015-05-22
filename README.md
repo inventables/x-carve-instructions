@@ -24,4 +24,4 @@ To do:
 - [ ] Step 12
 - [ ] Step 13
 - [ ] Step 14
-- [ ] Step 15
+- [x] Step 15
