@@ -147,6 +147,10 @@ Repeat with the second Y-Plate.
 
 <h3 id="drag-chain-end">4. Mounting Drag Chain End (Left Plate)</h3>
 
+<img src="0728.jpg">
+
+If you purchased a drag chain kit with your X-Carve, click on your chosen type below to mount your drag chain ends.
+
 <div class="panel-group" id="drag-chain-accordion" role="tablist" aria-multiselectable="true">
   <div class="panel panel-default">
     <a data-toggle="collapse" data-parent="#drag-chain-accordion" href="#500mm-drag-chain" aria-expanded="false" aria-controls="500mm-drag-chain" class="panel-heading" role="tab" id="500mm-drag-chain-header">
@@ -194,6 +198,10 @@ If you purchased drag chain with your 1000mm X-Carve now is the time to attach a
 
 <h3 id="terminal-block">5. Mounting Terminal Block (Both Plates)</h3>
 
+<img src="0291.jpg">
+
+If you purchased a wiring kit with your X-Carve, click below to mount your terminal block.
+
 <div class="panel-group" id="wiring-accordion" role="tablist" aria-multiselectable="true">
   <div class="panel panel-default">
     <a data-toggle="collapse" data-parent="#wiring-accordion" href="#wiring" aria-expanded="false" aria-controls="wiring" class="panel-heading" role="tab" id="wiring-header">
@@ -219,6 +227,10 @@ Attach terminal blocks to the Y-Plates of your X-Carve with two screws and nuts 
 </div>
 
 <h3 id="mount-limit-switch">6. Mounting Y-Axis Limit Switch</h3>
+
+<img src="P5210333.JPG">
+
+If you purchased a limit switch kit with your X-Carve, click below to mount your x-axis limit switch.
 
 <div class="panel-group" id="limit-switch-accordion" role="tablist" aria-multiselectable="true">
   <div class="panel panel-default">
