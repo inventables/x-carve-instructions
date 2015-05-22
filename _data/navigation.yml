@@ -46,8 +46,8 @@ stepnav:
     url: '#slide-on-x-carriage'
   - title: Add Insertion Nuts
     url: '#insertion-nuts'
-  - title: Attach Right Y-Plate
-    url: '#makerslide-right-y-plate'
+  - title: Attach Left Y-Plate
+    url: '#makerslide-left-y-plate'
 - title: Y-Axis
   url: /step05/
   subnav:

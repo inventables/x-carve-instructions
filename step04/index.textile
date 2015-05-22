@@ -13,11 +13,12 @@ Now it's time to combine the X Carriage, Y-Plates and X-Axis to form the Gantry.
 
 |\3. **Rail Kit** |
 | **SKU** | **Name** | **Quantity** |
-| 25142-10 | MakerSlide Black (one with the X-Carve logo) | 2 |
+| 25142-10 | MakerSlide Black | 1 |
+| 25142-10 | MakerSlide Black with X-Carve Logo | 1 |
 
 |\3{color:#fff;background: #383838}. **Core Components Kit** |
 | **SKU** | **Name** | **Quantity** |
-| 30544-01 | Pan Head Thread Forming Screw M5 x 12mm (Self Tapping Screw) | 8 |
+| 30544-01 | Pan Head Thread Forming Screw M5 x 12mm (Self Tapping) | 8 |
 | 25287-08 | Flat Washer M5 | 4 |
 | 25281-05 | T-Slot Nut M5 Pre-Assembly (Insertion Nut) | 2 |
 |   | X Carriage Assembly | 1 |
@@ -29,7 +30,7 @@ If you’ve been following the order of the general instructions this will be yo
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/730/original/1329.jpg?1424543603!
 
-You'll be using two pieces of Makerslide to create an X-Axis. Make sure to grab the MakerSlide with the X-Carve logo.  **The logo will be oriented on the right side of the machine facing front.**  You’ll start by attaching the left Y-Plate to one piece of Makerslide. Orient the Makerslide and Y-Plate like this:
+You'll be using two pieces of Makerslide to create an X-Axis. Make sure to grab the MakerSlide with the X-Carve logo.  **The logo will be oriented on the right side of the machine facing front.**  You’ll start by attaching the right Y-Plate to one piece of Makerslide. Orient the Makerslide and Y-Plate like this:
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/731/original/1336.jpg?1424543604!
 
@@ -46,7 +47,7 @@ Drive the self tapping screws into the Makerslide until the are flush with the p
 
 <h3 id="second-makerslide">2. Attach the Second Piece of Makerslide</h3>
 
-Next you’ll attach another piece of Makerslide to the left Y-Plate with two more self-tapping screws and two washers. Notice that these screws will be going through slots, not holes. All screws that are driven through slots on the X-Carve will use washers to distribute the load on the joint. Drive these screws until they are flush with the plate and then back them off a full turn.
+Next you’ll attach another piece of Makerslide to the right Y-Plate with two more self-tapping screws and two washers. Notice that these screws will be going through slots, not holes. All screws that are driven through slots on the X-Carve will use washers to distribute the load on the joint. Drive these screws until they are flush with the plate and then back them off a full turn.
 
 **If you have limit switches, make sure the slot on the Makerslide is oriented in the upper position.**  This slot is used to attach the limit switch "actuator" and will not be aligned with the switch if the Makerslide is positioned incorrectly.  
 
@@ -77,12 +78,12 @@ Slide the X Carriage midway along the X-Axis and set the assembly down.
 
 <h3 id="insertion-nuts">4. Add Insertion Nuts for Belt Clips</h3>
 
-Before you attach the right Y-Plate to the X-axis slide two insertion nuts into the rear X-axis Makerslide (the one that is closest to the X-Motor). You’ll use these to attach belt clips later.
+Before you attach the left Y-Plate to the X-axis slide two insertion nuts into the rear X-axis Makerslide (the one that is closest to the X-Motor). You’ll use these to attach belt clips later.
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/742/original/1372.jpg?1424543844!
 
-<h3 id="makerslide-right-y-plate">5. Attach Right Y Motor Plate and Makerslide</h3>
+<h3 id="makerslide-left-y-plate">5. Attach Left Y Motor Plate and Makerslide</h3>
 
-Now repeat the process you used to attach the left Y-Plate to the X-axis. You should have an assembly that looks like this when you’re done:
+Now repeat the process you used to attach the right Y-Plate to the X-axis. You should have an assembly that looks like this when you’re done:
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/533/original/0957.jpg?1424361798!
