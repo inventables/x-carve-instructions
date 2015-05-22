@@ -82,7 +82,7 @@ Snap the drag chain into the female drag chain end on the front left end plate.
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/792/original/0779.jpg?1425059316!
 
-You're X-Carve should look like this:
+Your X-Carve should look like this:
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/793/original/0780.jpg?1425059317!
 	  </div>
