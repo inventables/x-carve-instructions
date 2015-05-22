@@ -24,9 +24,13 @@ Your X-Carve is really coming along! Next you'll add the Y-Axis to the machine. 
 
 <h3 id="attach-end-plates">1. Attach End Plates to Makerslide</h3>
 
-You’re going to use self tapping screws again. This time you'll attach a piece of Makerslide to an end plate. Make sure you use the correct holes in the end plate and that you orient the two pieces correctly.  **If you have limit switches, make sure the slot on the Makerslide is oriented in the upper position.**  This slot is used to attach the limit switch "actuator" and will not be aligned with the switch if the Makerslide is positioned incorrectly.
+You’re going to use self tapping screws again. This time you'll attach a piece of Makerslide to an end plate. Make sure you use the correct holes in the end plate and that you orient the two pieces correctly.  
 
-!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1077/original/0331.jpg?1431031633! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1078/original/0334.jpg?1431032389! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1079/original/0337.jpg?1431032390! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1094/original/0343Text.jpg?1431040998?1431032391!
+**If you have limit switches, make sure the slot on the Makerslide is oriented in the upper position.**  This slot is used to attach the limit switch "actuator" and will not be aligned with the switch if the Makerslide is positioned incorrectly.
+
+<div class="row">
+!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1077/original/0331.jpg?1431031633! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1078/original/0334.jpg?1431032389! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1079/original/0337.jpg?1431032390! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1094/original/0343Text.jpg?1431040998?1431032391!
+</div>
 
 p=(note). Note: You want to make sure that the rails of the Makerslide are on the flat side of the end plate and that you leave one hole open on the top side of the end plate.
 
@@ -38,7 +42,9 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 Now you’ll slide the gantry onto each of the Y-axes. This step is just like when you put the X Carriage onto the x-axis. Go slow and check the orientation of the eccentric nuts on the Y-Plates if you are encountering resistance.
 
-!(thumnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/746/original/0354.jpg?1424545296! !(thumnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/747/original/0357.jpg?1424545297! !(thumnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/619/original/0359.jpg?1424385097! !(thumnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/748/original/0360.jpg?1424545298!
+<div class="row">
+!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/746/original/0354.jpg?1424545296! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/747/original/0357.jpg?1424545297! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/619/original/0359.jpg?1424385097! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/748/original/0360.jpg?1424545298!
+</div>
 
 <h3 id="add-insertion-nuts">3. Add Insertion Nuts for Belt Clips</h3>
 
@@ -50,7 +56,9 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 Now put the last two end plates on the y-axis Makerslide with self tapping screws. The flat sides of the end plates should face out:
 
-!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/621/original/0365.jpg?1424385220! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/622/original/0366.jpg?1424385230! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/623/original/0371.jpg?1424385287! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/624/original/0375.jpg?1424385297!
+<div class="row">
+!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/621/original/0365.jpg?1424385220! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/622/original/0366.jpg?1424385230! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/623/original/0371.jpg?1424385287! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/624/original/0375.jpg?1424385297!
+</div>
 
 Your X-Carve should look like this:
 
@@ -58,7 +66,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 <h3 id="connect-end-plates">5. Connect End Plates with Extrusions</h3>
 
-h5. (Skip this step if you ordered the 1000mm rail kit.)
+p=(note). (Skip this step if you ordered the 1000mm rail kit.)
 
 |\3. **Rail Kit** |
 | **SKU** | **Name** | **Quantity** |
@@ -74,8 +82,8 @@ You’ll connect the two y-axes with extrusions in the front and back of the mac
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/541/original/0379.jpg?1424363431!
 
 Slide the insertion nuts into the extrusions and fasten the end plates to them with 8mm screws: 
-
-!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/625/original/0380.jpg?1424385401! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/626/original/0382.jpg?1424385402! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/627/original/0385.jpg?1424385403! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/628/original/0386.jpg?1424385404!
+<div class="row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/625/original/0380.jpg?1424385401! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/626/original/0382.jpg?1424385402! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/627/original/0385.jpg?1424385403! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/628/original/0386.jpg?1424385404!
+</div>
 
 p=(note). Note: You can use your wrench to align the insertion nut with the hole on the end plate.
 
