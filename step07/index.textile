@@ -38,7 +38,7 @@ Before you attach the Z-Axis Makerslide to the Z-Plate be sure that you have the
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/546/original/0959.jpg?1424378497!
 
-p=. Note: The flange on the bearing is facing down and the rails of the Makerslide are facing forward.
+p=(note). Note: The flange on the bearing is facing down and the rails of the Makerslide are facing forward.
 
 Use two self tapping screws to attach the Z-Plate to the Z-Axis Makerslide. The screws go through the Z-Plate and into the Makerslide. Be sure to keep constant pressure along the hole you're tapping.
 
@@ -79,7 +79,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 Insert two more insertion nuts from the bottom of the Z-Axis and finger tighten two screws into them to secure the Z-Axis Makerslide:
 
-!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/555/original/0540.jpg?1424378924!!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/556/original/0541.jpg?1424378946!!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/557/original/0542.jpg?1424378947!!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/558/original/0543.jpg?1424378948!
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/556/original/0541.jpg?1424378946!
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/559/original/0544.jpg?1424378949!
 
@@ -87,7 +87,7 @@ The Z-Axis should be captured by four insertion nuts and screws at this point, b
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/560/original/0546.jpg?1424379091!
 
-Note: The bottom of the Z-Axis will not be flush with the X Carriage, it will protrude slightly.
+p=(note). Note: The bottom of the Z-Axis will not be flush with the X Carriage, it will protrude slightly.
 
 Tighten all four screws that capture the Z-Axis. Alternate between screws in an x-pattern to maintain alignment. 
 
@@ -97,7 +97,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 <h3 id="limit-switch">4. Mounting Z-Axis Limit Switch</h3>
 
-h5. (If you did not purchase limit switches skip this step)
+p=(note). If you did not purchase limit switches, skip this step.
 
 |\3{color:#fff;background: #9d9fa2}. **Limit Switch Kit** |
 | **SKU** | **Name** | **Quantity** |
@@ -106,5 +106,5 @@ h5. (If you did not purchase limit switches skip this step)
 | 30555-02 | Split Lock Washer M2 | 2 |
 
 Put the lock washers onto the screws and insert them through the switch and into the holes on the side of the Z-Plate. The holes are threaded, simply tighten the screws just passed finger tight.
-
-!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/863/original/1197.jpg?1427920758! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/864/original/1204.jpg?1427920759! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/865/original/1207.jpg?1427920760! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/866/original/1208.jpg?1427920761!
+<div class="row"> !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/863/original/1197.jpg?1427920758! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/864/original/1204.jpg?1427920759! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/865/original/1207.jpg?1427920760! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/866/original/1208.jpg?1427920761!
+</div>
