@@ -97,7 +97,7 @@ If you purchased a stepper motor kit with your X-Carve, click on your chosen typ
   <div class="panel panel-default">
     <a data-toggle="collapse" data-parent="#motor-accordion" href="#nema17" aria-expanded="false" aria-controls="nema17" class="panel-heading" role="tab" id="nema17-header">
       <h4 class="panel-title">
-          Nema 17
+          NEMA 17
       </h4>
     </a>
     <div id="nema17" class="panel-collapse collapse" role="tabpanel" aria-labelledby="nema17-header">
@@ -130,7 +130,7 @@ Put a washer on each screw and insert them  from the opposite side of the X Carr
   <div class="panel panel-default">
     <a data-toggle="collapse" data-parent="#motor-accordion" href="#nema23" aria-expanded="false" aria-controls="nema23" class="panel-heading" role="tab" id="nema23-header">
       <h4 class="panel-title">
-          Nema 23
+          NEMA 23
       </h4>
     </a>
     <div id="nema23" class="panel-collapse collapse" role="tabpanel" aria-labelledby="nema23-header">
@@ -230,7 +230,7 @@ If you purchased a 1000mm X-Carve attach the male drag chain end to the angle br
 
 <h3 id="terminal-block">6. Mounting Terminal Block</h3>
 
-<img src="step02/0284.jpg">
+<img src="0284.jpg">
 
 If you purchased a wiring kit with your X-Carve, click below to mount your terminal block.
 
@@ -244,7 +244,7 @@ If you purchased a wiring kit with your X-Carve, click below to mount your termi
     </a>
     <div id="wiring" class="panel-collapse collapse" role="tabpanel" aria-labelledby="wiring-header">
       <div class="panel-body">
-<img src="step02/0895.jpg">
+<img src="0895.jpg">
 
 |\3{background: #ffcd05}. **Wiring Kit** |
 | **SKU** | **Name** | **Quantity** |

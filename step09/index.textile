@@ -9,10 +9,15 @@ next-step: /step10/
 ---
 Now you'll mount a stepper motor to the Z-Axis Plate of your X-Carve. This motor will control the up and down movement of your spindle.
 
-<h3 id="nema17">Mount a NEMA 17 Stepper Motor to Your Z-Axis</h3> 
+Click below to select your chosen motor type.
 
-h5. (Skip this step if you purchase NEMA 23s)
-
+<div class="panel-group" id="motor-accordion" role="tablist" aria-multiselectable="true">
+  <div class="panel panel-default">
+    <a data-toggle="collapse" data-parent="#motor-accordion" href="#nema17" aria-expanded="false" aria-controls="nema17" class="panel-heading" role="tab" id="nema17-header">
+      <h4 class="panel-title">NEMA 17</h4>
+    </a>
+    <div id="nema17" class="panel-collapse collapse" role="tabpanel" aria-labelledby="nema17-header">
+      <div class="panel-body">
 |\3{color:#fff;background: #cc3440}. **NEMA 17 Stepper Motor Kit** |
 | **SKU** | **Name** | **Quantity** |
 | 25253-01 | Stepper Motor NEMA 17 62 oz-in | 1 |
@@ -43,11 +48,15 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 Apply pressure on the motor toward the back of the machine while you tighten the screws in an x pattern.
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/596/original/0987.jpg?1424382501!
-
-<h3 id="nema23">Mount a NEMA 23 Stepper Motor to Your Z-Axis</h3> 
-
-h5. (Skip this step if you purchase NEMA 17s)
-
+      </div>
+    </div>
+  </div>
+  <div class="panel panel-default">
+    <a data-toggle="collapse" data-parent="#motor-accordion" href="#nema23" aria-expanded="false" aria-controls="nema23" class="panel-heading" role="tab" id="nema23-header">
+      <h4 class="panel-title">NEMA 23</h4>
+    </a>
+    <div id="nema23" class="panel-collapse collapse" role="tabpanel" aria-labelledby="nema23-header">
+      <div class="panel-body">
 |\3{color:#fff;background: #cc3440}. **NEMA 23 Stepper Motor Kit** |
 | **SKU** | **Name** | **Quantity** |
 | 25311-04 | Stepper Motor NEMA 23 140oz-in | 1 |
@@ -93,3 +102,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 When you're done your Z-Axis should look like this:
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/609/original/1001.jpg?1424383000!
+      </div>
+    </div>
+  </div>
+</div>

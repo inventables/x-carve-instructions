@@ -83,18 +83,8 @@ stepnav:
     url: '#limit-switch'
 - title: Drive Rod
   url: /step08/
-  subnav:
-  - title: M8 Threaded Rod
-    url: '#m8'
-  - title: ACME Threaded Rod
-    url: '#acme'
 - title: Z-Axis Motor
   url: /step09/
-  subnav: 
-  - title: NEMA 17
-    url: '#nema17'
-  - title: NEMA 23
-    url: '#nema23'
 - title: Wiring
   url: /step10/
   subnav:

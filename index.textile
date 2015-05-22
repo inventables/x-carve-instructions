@@ -11,7 +11,7 @@ Congratulations on purchasing an "X-Carve":https://www.inventables.com/technolog
 
 We've divided assembly into steps corresponding to the modules of your kit. You can navigate between steps using the table of contents to the left.
 
-Each step will start with a parts list and a short video. After the video are written instructions with pictures. We find it easiest to first collect the parts in the list, then read through the instructions, then watch the video for clarification. 
+Each step contains a parts list, written instructions with pictures, and a short video. We find it easiest to first collect the parts in the list, then read through the instructions, then watch the video for clarification.
 
 The instructions are still in flux: so when in doubt, the written instructions are more accurate and up-to-date than the videos.
 

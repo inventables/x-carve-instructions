@@ -12,9 +12,15 @@ z-axis: true
 ---
 Now you'll add the drive rod to your X-Carve. This is the piece that will allow the spindle carriage to move up and down the Z-Axis.
 
-<h3 id="m8">M8 Threaded Rod </h3>
+Click below to select your chosen type of drive rod.
 
-"(btn btn-carvey btn-animate-arrow)Skip this step if you purchased an ACME rod":#acme
+<div class="panel-group" id="drive-rod-accordion" role="tablist" aria-multiselectable="true">
+  <div class="panel panel-default">
+    <a data-toggle="collapse" data-parent="#drive-rod-accordion" href="#m8" aria-expanded="false" aria-controls="m8" class="panel-heading" role="tab" id="m8-header">
+      <h4 class="panel-title">M8 Threaded Rod</h4>
+    </a>
+    <div id="m8" class="panel-collapse collapse" role="tabpanel" aria-labelledby="m8-header">
+      <div class="panel-body">
 
 |\3{color:#fff;background: #6b4e40}. **M8 Threaded Rod Lead Screw Kit** |
 | **SKU** | **Name** | **Quantity** |
@@ -57,9 +63,15 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 When you're done your Z-Axis should look like this:
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/584/original/0574.jpg?1424381437!
-
-h3. Acme Threaded Rod
-
+      </div>
+    </div>
+  </div>
+  <div class="panel panel-default">
+    <a data-toggle="collapse" data-parent="#drive rod-accordion" href="#acme" aria-expanded="false" aria-controls="acme" class="panel-heading" role="tab" id="acme-header">
+      <h4 class="panel-title">Acme Threaded Rod</h4>
+    </a>
+    <div id="acme" class="panel-collapse collapse" role="tabpanel" aria-labelledby="acme-header">
+      <div class="panel-body">
 |\3{color:#fff;background: #6b4e40}. **ACME Lead Screw Kit** |
 | **SKU** | **Name** | **Quantity** |
 | 30396-01 | Lead Screw ACME | 1 |
@@ -84,3 +96,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 Stop when the Delrin Nut is about halfway up the rod:
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/591/original/0594.jpg?1424381733!
+      </div>
+    </div>
+  </div>
+</div>
