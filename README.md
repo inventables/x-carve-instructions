@@ -8,14 +8,15 @@ To do:
 - [ ] Clean up any formatting problems
 - [ ] Embed videos
 - [ ] Make time estimates more accurate
+- [ ] Add better images to accordion sections of Step 3
 
 - [x] Step 1
 - [x] Step 2
-- [ ] Step 3
+- [x] Step 3
 - [x] Step 4
 - [x] Step 5
 - [ ] Step 6
-- [ ] Step 7
+- [x] Step 7
 - [ ] Step 8
 - [ ] Step 9
 - [ ] Step 10
