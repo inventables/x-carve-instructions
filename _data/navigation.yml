@@ -50,6 +50,17 @@ stepnav:
     url: '#makerslide-right-y-plate'
 - title: Y-Axis
   url: /step05/
+  subnav:
+  - title: Attach End Plates to Makerslide
+    url: '#attach-end-plates'
+  - title: Slide on Gantry
+    url: '#slide-on-gantry'
+  - title: Add Insertion Nuts
+    url: '#add-insertion-nuts'
+  - title: Attach Front End Plates
+    url: '#attach-front-end-plates'
+  - title: Connect End Plates
+    url: '#connect-end-plates'
 - title: Belting
   url: /step06/
 - title: Z-Axis
