@@ -117,11 +117,6 @@ stepnav:
     url: '#quiet-cut'
 - title: Work Area
   url: /step13/
-  subnav:
-  - title: 500mm Work Area
-    url: '#500mm'
-  - title: 1000mm Work Area
-    url: '#1000mm'
 - title: Electronics
   url: /step14/
   subnav:
