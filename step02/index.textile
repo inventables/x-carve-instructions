@@ -274,7 +274,7 @@ If you purchased a limit switch kit with your X-Carve, click below to mount your
     </a>
     <div id="limit-switch" class="panel-collapse collapse" role="tabpanel" aria-labelledby="limit-switch-header">
       <div class="panel-body">
-<img src="step02/1223.jpg">
+<img src="1223.jpg">
 
 |\3{color:#fff;background: #9d9fa2}. **Limit Switch Kit** |
 | **SKU** | **Name** | **Quantity** |
