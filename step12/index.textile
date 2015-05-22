@@ -9,7 +9,7 @@ next-step: /step13/
 grabcad-name1: "Spindle Carriage"
 grabcad-url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/file/22283285"
 ---
-Now you'll mount the spindle to the X-Carve. You'll need these parts:
+<img src="0820.jpg">
 
 |\3{color:#fff;background: #42a44e}. **300W 24VDC Spindle Kit** |
 | **SKU** | **Name** | **Quantity** |
@@ -42,13 +42,13 @@ Slide the V-Wheels onto the Z-Axis Makerslide. Move the Spindle Carriage up the 
 
 Put the Spindle into the Spindle Carriage. Make sure the spacer around the body of the Spindle stays flush with the bottom of the can. You may need to push with a little force to get the Spindle all of the way into the Spindle Carriage. Insert and alternately tighten the M4 x 10mm Low Profile Screws. You'll want to tighten these screws firmly, but don't over tighten to the point that your clamp is narrower at the top than at the bottom.
 
-!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/839/original/0817.jpg?1425391592! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/840/original/0818.jpg?1425391593! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/841/original/0819.jpg?1425391594! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/842/original/0820.jpg?1425391595!
+!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/839/original/0817.jpg?1425391592! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/840/original/0818.jpg?1425391593! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/841/original/0819.jpg?1425391594!
 
 If you're using terminal blocks to wire your machine put the ends of the %{color:red}**red**% and %{color:black}**black**% wires into the matching terminals of the 10 block terminal on the back of the X Carriage. 
 
 <h3 id="dewalt-dw660">Mounting Dewalt DW660</h3>
-"Dewalt DW660 Mounting Video":http://youtu.be/VGZ3SmE7gsA
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VGZ3SmE7gsA" frameborder="0" allowfullscreen></iframe>
 <h3 id="bosch-colt">Mounting Bosch Colt</h3>
-"Bosch Colt Mounting Video":http://youtu.be/ZPa6D1egveE
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZPa6D1egveE" frameborder="0" allowfullscreen></iframe>
 <h3 id="quiet-cut">Mounting Quiet Cut Spindle</h3>
-"Quiet Cut Spindle Mounting Video":http://youtu.be/HQoC_W6kdV0
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HQoC_W6kdV0" frameborder="0" allowfullscreen></iframe>
