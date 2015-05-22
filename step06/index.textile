@@ -37,8 +37,9 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 h4. Sliding Between Pulley and Smooth Idler
 
 Insert the belt between the pulley and the left idler from the top. Make sure the belt goes in with its teeth facing down and that it goes underneath the idler.
-
-!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/630/original/0471.jpg?1424385911! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/631/original/0472.jpg?1424385912! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/756/original/0475.jpg?1424546352! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/632/original/0473.jpg?1424385913!
+<div class="row">
+!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/630/original/0471.jpg?1424385911! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/631/original/0472.jpg?1424385912! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/756/original/0475.jpg?1424546352! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/632/original/0473.jpg?1424385913!
+</div>
 
 h4{clear:both}. Repeat on Other Side
 
@@ -63,8 +64,9 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 h5. Attach Belt Clip to Makerslide
 
 Next you’ll attach this belt clip to the Makerslide. Insert the smaller screw into the hole on the belt clip and screw it almost all of the way down.
-
-!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/750/original/1422.jpg?1424546131! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/751/original/1423.jpg?1424546132! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/752/original/1424.jpg?1424546133! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/753/original/1426.jpg?1424546134!
+<div class="row">
+!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/750/original/1422.jpg?1424546131! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/751/original/1423.jpg?1424546132! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/752/original/1424.jpg?1424546133! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/753/original/1426.jpg?1424546134!
+</div>
 
 h5. Tighten the Belt Clip Flush with the Y-Motor Plate
 
