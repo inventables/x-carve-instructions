@@ -35,7 +35,7 @@ Next you’ll put a spacer onto the screw followed by the smooth idler and a nyl
 !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/637/original/0012.jpg?1424451129! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/638/original/0014.jpg?1424451138! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/640/original/0021.jpg?1424451287! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/641/original/0022.jpg?1424451288!
 </div>
 
-_Note: make sure the side of the Smooth Idler with the protruding bearing is installed next to the aluminum spacer.  If not, the plastic portion of the Smooth Idler may get in the way of the screws used to mount your stepper motor._
+p=(note). Note: make sure the side of the Smooth Idler with the protruding bearing is installed next to the aluminum spacer.  If not, the plastic portion of the Smooth Idler may get in the way of the screws used to mount your stepper motor.
 
 Repeat this process with the other smooth idler.
 

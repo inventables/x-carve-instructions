@@ -28,7 +28,7 @@ You’re going to use self tapping screws again. This time you'll attach a piece
 
 !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1077/original/0331.jpg?1431031633! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1078/original/0334.jpg?1431032389! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1079/original/0337.jpg?1431032390! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1094/original/0343Text.jpg?1431040998?1431032391!
 
-p=. _Note: You want to make sure that the rails of the Makerslide are on the flat side of the end plate and that you leave one hole open on the top side of the end plate._
+p=(note). Note: You want to make sure that the rails of the Makerslide are on the flat side of the end plate and that you leave one hole open on the top side of the end plate.
 
 Repeat this process with another piece of Makerslide and another end plate, but mirror the piece you made in the previous step. You should have two pieces like this:
 
@@ -77,7 +77,7 @@ Slide the insertion nuts into the extrusions and fasten the end plates to them w
 
 !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/625/original/0380.jpg?1424385401! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/626/original/0382.jpg?1424385402! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/627/original/0385.jpg?1424385403! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/628/original/0386.jpg?1424385404!
 
-p=. _Note: You can use your wrench to align the insertion nut with the hole on the end plate._
+p=(note). Note: You can use your wrench to align the insertion nut with the hole on the end plate.
 
 Your X-Carve should look like this now:
 

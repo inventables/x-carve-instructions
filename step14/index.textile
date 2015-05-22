@@ -22,7 +22,7 @@ Start by mounting the Power Supply Circuit Board to the Power Supply. You'll see
 
 !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/695/original/1031.jpg?1424471534! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/696/original/1033.jpg?1424471536! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/697/original/1038.jpg?1424471537! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/698/original/1039.jpg?1424471538!
 
-p=. _Note: Your 24V Power Supply has a toggle switch for input voltage on the side. Use a small flat-blade screwdriver to switch it to the voltage that corresponds to your outlet voltage_
+p=(note). Note: Your 24V Power Supply has a toggle switch for input voltage on the side. Use a small flat-blade screwdriver to switch it to the voltage that corresponds to your outlet voltage
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/710/original/1053.jpg?1424472467!
 
@@ -250,6 +250,6 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 | **SKU** | **Name** | **Quantity** |
 | 25320-01 | Power Cord EIC320-C13 3ft | 1 |
 
-Now it's time to plug your Power Supply Assembly into the wall. Make sure both switches on the interface are set to off and double check all of your wiring (especially the placement of red and black wires). If you've wired everything correctly there should be blue lights on the grbl shield and no smoke!
+Now it's time to plug your Power Supply Assembly into the wall. Make sure both switches on the interface are set to off and double check all of your wiring (especially the placement of red and black wires). If you've wired everything correctly, the blue lights on the gShield should light up!
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/892/original/1274.jpg?1428000007!

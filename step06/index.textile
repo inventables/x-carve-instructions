@@ -84,7 +84,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/846/original/1435.jpg?1425393672!
 
-Note: It may a little difficult to get the 8mm screw into the belt clip as the head of the 25mm screw will be in the way. Use your wrench to push straight down on the head and it will snap into place.
+p=(note). Note: It may a little difficult to get the 8mm screw into the belt clip as the head of the 25mm screw will be in the way. Use your wrench to push straight down on the head and it will snap into place.
 
 Tighten the 8mm screw into the insertion nut in the Makerslide all of the way down and then back it off *less than a quarter of a turn*. If you loosen this screw too much the belt will slip when you tighten it. Slide the belt clip along the X-Axis and push the 25mm screw through the hole in the right Y Motor Plate.
 
@@ -92,7 +92,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/848/original/1440.jpg?1425393673!
 
-_Note: You’ll want to adjust the length of belt that goes through the clip until it takes a little bit of force to get the longer screw through the hole._
+p=(note). Note: You’ll want to adjust the length of belt that goes through the clip until it takes a little bit of force to get the longer screw through the hole.
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/849/original/1441.jpg?1425393674!
  
