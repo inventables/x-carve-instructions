@@ -1,27 +1,17 @@
 # X-Carve Instructions
 
-To do: 
+To do before going public: 
 - [x] Finish adding subnavs
 - [x] Add all necessary accordions
 - [x] Figure out solution for images
-- [ ] Create and apply standard classes for all images
 - [ ] Clean up any formatting problems
+- [ ] Create and apply standard classes for all images
 - [x] Embed videos
+- [ ] Hero class images for all steps that don't have them
+- [ ] Fix ACME step to new version
+- [ ] Make blatantly inaccurate time estimates more realistic
+
+Longer-term:
 - [ ] Make time estimates more accurate
-- [ ] Add better images to accordion sections of Step 3
 - [ ] Update images with hi-res versions
-- [x] Step 1
-- [x] Step 2
-- [x] Step 3
-- [x] Step 4
-- [x] Step 5
-- [x] Step 6
-- [x] Step 7
-- [x] Step 8
-- [x] Step 9
-- [x] Step 10
-- [ ] Step 11
-- [x] Step 12
-- [x] Step 13
-- [x] Step 14
-- [x] Step 15
+- [ ] Add better images to accordion sections of Step 3
