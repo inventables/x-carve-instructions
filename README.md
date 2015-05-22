@@ -8,7 +8,7 @@ To do:
 - [ ] Clean up any formatting problems
 - [ ] Embed videos
 - [ ] Make time estimates more accurate
-- 
+
 - [x] Step 1
 - [x] Step 2
 - [ ] Step 3
