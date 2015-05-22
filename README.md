@@ -6,3 +6,4 @@ To do:
 - [ ] Figure out solution for images
 - [ ] Create and apply standard classes for all images
 - [ ] Clean up any formatting problems
+- [ ] Embed videos
