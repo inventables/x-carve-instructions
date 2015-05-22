@@ -9,6 +9,7 @@ To do:
 - [ ] Embed videos
 - [ ] Make time estimates more accurate
 - [ ] Add better images to accordion sections of Step 3
+- [ ] Update images with hi-res versions
 - [x] Step 1
 - [x] Step 2
 - [x] Step 3
