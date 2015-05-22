@@ -9,7 +9,7 @@ next-step: /step03/
 grabcad-name1: "X Carriage"
 grabcad-url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/156177"
 ---
-{%image step02/0091.jpg%}
+<img src="0091.jpg">
 
 |\3{color:#fff;background: #383838}. **Core Components Kit** |
 | **SKU** | **Name** | **Quantity** |
@@ -89,7 +89,7 @@ The eccentric nuts on your X-Carve are a slick little example of good engineerin
 
 <h3 id="motor-mounting">4. Motor Mounting</h3>
 
-{% image step02/P5210332.JPG %}
+<img src="P5210332.JPG">
 
 If you purchased a stepper motor kit with your X-Carve, click on your chosen type below to mount your motors.
 
@@ -102,7 +102,7 @@ If you purchased a stepper motor kit with your X-Carve, click on your chosen typ
     </a>
     <div id="nema17" class="panel-collapse collapse" role="tabpanel" aria-labelledby="nema17-header">
       <div class="panel-body">
-{% image step02/0100.jpg %}
+<img src="0100.jpg">
 
 |\3{color:#fff;background: #cc3440}. **NEMA 17 Stepper Motor Kit** |
 | **SKU** | **Name** | **Quantity** |
@@ -135,7 +135,7 @@ Put a washer on each screw and insert them  from the opposite side of the X Carr
     </a>
     <div id="nema23" class="panel-collapse collapse" role="tabpanel" aria-labelledby="nema23-header">
       <div class="panel-body">
-{% image step02/0150.jpg %}
+<img src="0150.jpg">
 
 |\3{color:#fff;background: #cc3440}. **NEMA 23 Stepper Motor Kit** |
 | **SKU** | **Name** | **Quantity** |
@@ -164,7 +164,7 @@ The NEMA 23 mounting holes on the X Carriage are tapped. Simply insert the screw
 
 <h3 id="drag-chain-end">5. Mounting Drag Chain End</h3>
 
-{% image step02/0728.jpg %}
+<img src="0728.jpg">
 
 If you purchased a drag chain kit with your X-Carve, click on your chosen type below to mount your drag chain ends.
  
@@ -177,7 +177,7 @@ If you purchased a drag chain kit with your X-Carve, click on your chosen type b
     </a>
     <div id="500mm-drag-chain" class="panel-collapse collapse" role="tabpanel" aria-labelledby="500mm-drag-chain-header">
       <div class="panel-body">
-{% image step02/0893.jpg %}
+<img src="0893.jpg">
 
 |\3{color:#fff;background: #8a52a1}. **500mm Drag Chain Kit** |
 | **SKU** | **Name** | **Quantity** |
@@ -206,7 +206,7 @@ Mount it on the X Carriage by inserting the screws through the holes in the chai
     </a>
     <div id="1000mm-drag-chain" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1000mm-drag-chain-header">
       <div class="panel-body">
-{% image step02/1625.jpg %}
+<img src="1625.jpg">
 
 |\3{color:#fff;background: #8a52a1}. **1000mm Drag Chain Kit** |
 | **SKU** | **Name** | **Quantity** |
@@ -218,7 +218,10 @@ Mount it on the X Carriage by inserting the screws through the holes in the chai
 
 If you purchased a 1000mm X-Carve attach the male drag chain end to the angle bracket and then the X-Carriage like this:
 
-{% image step02/1616.jpg class="thumbnail col-md-3" %} {% image step02/1621.jpg class="thumbnail col-md-3" %} {% image step02/1622.jpg class="thumbnail col-md-3" %} {% image step02/_MG_6613.jpg class="thumbnail col-md-3" %}
+<img src="1616.jpg" class="thumbnail col-md-3">
+<img src="1621.jpg" class="thumbnail col-md-3">
+<img src="1622.jpg" class="thumbnail col-md-3"> 
+<img src="_MG_6613.jpg" class="thumbnail col-md-3">
 
       </div>
     </div>
@@ -227,7 +230,7 @@ If you purchased a 1000mm X-Carve attach the male drag chain end to the angle br
 
 <h3 id="terminal-block">6. Mounting Terminal Block</h3>
 
-{% image step02/0284.jpg %}
+<img src="step02/0284.jpg">
 
 If you purchased a wiring kit with your X-Carve, click below to mount your terminal block.
 
@@ -241,7 +244,7 @@ If you purchased a wiring kit with your X-Carve, click below to mount your termi
     </a>
     <div id="wiring" class="panel-collapse collapse" role="tabpanel" aria-labelledby="wiring-header">
       <div class="panel-body">
-{% image step02/0895.jpg %}
+<img src="step02/0895.jpg">
 
 |\3{background: #ffcd05}. **Wiring Kit** |
 | **SKU** | **Name** | **Quantity** |
@@ -258,7 +261,7 @@ Put the screws through the top holes of the terminal block and screw them into t
 
 <h3 id="x-axis-limit-switch">7. Mounting X-Axis Limit Switch</h3>
 
-{% image step02/P5210333.JPG %}
+<img src="step02/P5210333.JPG">
 
 If you purchased a limit switch kit with your X-Carve, click below to mount your x-axis limit switch.
 
@@ -271,7 +274,7 @@ If you purchased a limit switch kit with your X-Carve, click below to mount your
     </a>
     <div id="limit-switch" class="panel-collapse collapse" role="tabpanel" aria-labelledby="limit-switch-header">
       <div class="panel-body">
-{% image step02/1223.jpg %}
+<img src="step02/1223.jpg">
 
 |\3{color:#fff;background: #9d9fa2}. **Limit Switch Kit** |
 | **SKU** | **Name** | **Quantity** |
