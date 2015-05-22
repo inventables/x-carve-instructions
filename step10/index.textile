@@ -89,7 +89,19 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 <h3 id="solder-limit-switches">5. Soldering Limit Switches</h3>
 
-h5. (Skip this step if you did not purchase limit switches)
+<img src="P5210333.JPG">
+
+If you purchased a limit switch kit with your X-Carve, click below to solder your limit switches.
+
+<div class="panel-group" id="limit-switch-accordion" role="tablist" aria-multiselectable="true">
+  <div class="panel panel-default">
+    <a data-toggle="collapse" data-parent="#limit-switch-accordion" href="#limit-switch" aria-expanded="false" aria-controls="limit-switch" class="panel-heading" role="tab" id="limit-switch-header">
+      <h4 class="panel-title">
+          Limit Switch
+      </h4>
+    </a>
+    <div id="limit-switch" class="panel-collapse collapse" role="tabpanel" aria-labelledby="limit-switch-header">
+      <div class="panel-body">
 
 Cut the black and white stranded wiring into the following lengths:
 
@@ -103,8 +115,14 @@ Cut the black and white stranded wiring into the following lengths:
 | Y-Axis | 6 feet |
 | Z-Axis | 12 feet |
 
-"Limit Switch Soldering Video":https://youtu.be/mBiC6D7dsxs
-
-Strip one end of each pair of wires. Solder the white wire to the middle tab on each switch (marked NO) and the black wire to the tab closest to the lever (marked C). *Heating the switch for too long may damage it, try to work as quickly as possible when soldering the wires to the tabs.*
+Strip one end of each pair of wires. Solder the white wire to the middle tab on each switch (marked NO) and the black wire to the tab closest to the lever (marked C).
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/867/original/1193.jpg?1427922595!
+
+p=(note). Heating the switch for too long may damage it, try to work as quickly as possible when soldering the wires to the tabs.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mBiC6D7dsxs" frameborder="0" allowfullscreen></iframe>
+	  </div>
+	</div>
+  </div>
+</div>
