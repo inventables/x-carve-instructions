@@ -1,3 +1,3 @@
 # X-Carve Instructions
 
-[ ] Finish adding subnavs
+- [ ] Finish adding subnavs
