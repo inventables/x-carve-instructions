@@ -26,19 +26,19 @@ Now you'll mount the spindle to the X-Carve. You'll need these parts:
 | 30158-01 | Eccentric Nut M5 | 2 |
 | 25312-23 | Aluminum Spacer 5.1mm ID 9.5mm OD 9.5mm LG | 4 |
 
-h3. 1. Attach the V-Wheels to the Spindle Carriage
+<h3 id="attach-v-wheels">1. Attach the V-Wheels to the Spindle Carriage</h3>
 
 You'll start by putting V-Wheels followed by spacers onto the 35mm Button Head Cap Screws. put the screws through the backside of the Spindle Carriage and fasten them with nylock and eccentric nuts. just like the X Carriage and Y-Plates there are larger holes that are designed to accept the eccentric nuts.
 
 !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/831/original/0790.jpg?1425391334! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/832/original/0791.jpg?1425391336! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/833/original/0793.jpg?1425391337! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/843/original/0796.jpg?1425392191!
 
-h3. 2. Attach the Spindle Carriage to the Drive Rod
+<h3 id="attach-spindle-carriage">2. Attach the Spindle Carriage to the Drive Rod</h3>
 
 Slide the V-Wheels onto the Z-Axis Makerslide. Move the Spindle Carriage up the Z-Axis until the Delrin Nut aligns with the mounting holes. Insert two M5 x 10mm Button Head Cap Screws through the plate and into the Delrin Nut. Tighten them alternately until they are both just past finger tight.
 
 !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/835/original/0803.jpg?1425391471! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/836/original/0805.jpg?1425391472! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/837/original/0806.jpg?1425391473! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/838/original/0808.jpg?1425391474!
 
-h3. 3. Insert the Spindle
+<h3 id="insert-spindle">3. Insert the Spindle</h3>
 
 Put the Spindle into the Spindle Carriage. Make sure the spacer around the body of the Spindle stays flush with the bottom of the can. You may need to push with a little force to get the Spindle all of the way into the Spindle Carriage. Insert and alternately tighten the M4 x 10mm Low Profile Screws. You'll want to tighten these screws firmly, but don't over tighten to the point that your clamp is narrower at the top than at the bottom.
 
@@ -46,6 +46,9 @@ Put the Spindle into the Spindle Carriage. Make sure the spacer around the body 
 
 If you're using terminal blocks to wire your machine put the ends of the %{color:red}**red**% and %{color:black}**black**% wires into the matching terminals of the 10 block terminal on the back of the X Carriage. 
 
+<h3 id="dewalt-dw660">Mounting Dewalt DW660</h3>
 "Dewalt DW660 Mounting Video":http://youtu.be/VGZ3SmE7gsA
+<h3 id="bosch-colt">Mounting Bosch Colt</h3>
 "Bosch Colt Mounting Video":http://youtu.be/ZPa6D1egveE
+<h3 id="quiet-cut">Mounting Quiet Cut Spindle</h3>
 "Quiet Cut Spindle Mounting Video":http://youtu.be/HQoC_W6kdV0

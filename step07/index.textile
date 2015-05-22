@@ -17,13 +17,11 @@ grabcad-url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvY
 | 25286-17 | Button Head Cap Screw M5 x 8mm | 2 |
 | 30544-01 | Pan Head Thread Forming Screw M5 x 12mm | 2 |
 
-h3. 1. Insert Flanged Bearing
+<h3 id="insert-flanged-bearing">1. Insert Flanged Bearing</h3>
 
 Insert the flanged bearing into the Z-Plate as shown. Be sure to insert the bearing from the side of the plate that has a recession, the bearing will sit inside the hole so that the flange is flush with the Z-Plate.
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/542/original/0952.jpg?1424364483!
-
-h3. 2. Insert Screws to Hold the Bearing
 
 Insert two small screws to hold the bearing captive. finger tighten them both and check to make sure the flange is flush with the Z-Plate. Then tighten them down with moderate force.
 
@@ -33,7 +31,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/545/original/0956.jpg?1424364548!
 
-h3. 3. Attach the Z-Plate to the Z-Axis Makerslide
+<h3 id="attach-z-plate">2. Attach the Z-Plate to the Z-Axis Makerslide</h3>
 
 Before you attach the Z-Axis Makerslide to the Z-Plate be sure that you have the correct orientation:
 
@@ -49,7 +47,7 @@ When you're done your Z-Axis should look like this:
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/548/original/0967.jpg?1424378581!
 
-h3. 4. Attach the Z-Axis to the X Carriage
+<h3 id="attach-z-axis">3. Attach the Z-Axis to the X Carriage</h3>
 
 |\3{color:#fff;background: #383838}. **Core Components Kit** |
 | **SKU** | **Name** | **Quantity** |
@@ -96,7 +94,7 @@ Rock the machine back on to its feet again to continue:
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/561/original/0580.jpg?1424379102!
 
-h3. 5. Mounting Z-Axis Limit Switch 
+<h3 id="limit-switch">4. Mounting Z-Axis Limit Switch</h3>
 
 h5. (If you did not purchase limit switches skip this step)
 

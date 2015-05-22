@@ -9,13 +9,13 @@ next-step: /step11/
 ---
 Ok, you've got the bones of your X-Carve assembled, now it's time to add some wiring.
 
-h3. 1. Prepare Stepper Motor Wires
+<h3 id="prepare-stepper-motor-wires">1. Prepare Stepper Motor Wires</h3>
 
 First you'll trim the excess wire from each stepper motor and strip each wire of each stepper motor (16 in total). You'll want about 1/4" of bare wire showing.
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/770/original/0673.jpg?1425054295!
 
-h3. 2. Secure Wires in Terminal Blocks
+<h3 id="secure-wires">2. Secure Wires in Terminal Blocks</h3>
 
 Next insert the stepper motor wires for the X and Z motors into the corresponding terminal blocks. To keep wiring consistent work from left to right and keep the order of %{color:red}**red**%, %{color:blue}**blue**%, %{color:green}**green**% and %{color:black}**black**%. 
 
@@ -33,7 +33,7 @@ Next insert the stepper motor wires for the *right Y-Motor* into the correspondi
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/764/original/0694.jpg?1425052770!
 
-h3. 3. Prepare Stepper Cable
+<h3 id="prepare-stepper-cable">3. Prepare Stepper Cable</h3>
 
 Next cut the stepper cable to length.
 
@@ -57,7 +57,7 @@ Strip about 1/4" of each of these colored wires.
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/775/original/1066.jpg?1425054522!
 
-h3.  4. Secure Stepper Cable in Terminal Blocks
+<h3 id="secure-stepper-cable">4. Secure Stepper Cable in Terminal Blocks</h3>
 
 Take the shortest length of stepper cable and wire it to the terminal block on the right Y-Plate. Match %{color:red}**red**% to %{color:red}**red**%, *white* to %{color:blue}**blue**%, %{color: green}**green**% to %{color:green}**green**% and %{color:black}**black**% to %{color:black}**black**%.
 
@@ -87,7 +87,7 @@ This diagram should help clarify this step, and will be referenced again when yo
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1101/original/wiring-diagram.jpg?1431728956!
 
-h3. 5. Soldering Limit Switches
+<h3 id="solder-limit-switches">5. Soldering Limit Switches</h3>
 
 h5. (Skip this step if you did not purchase limit switches)
 

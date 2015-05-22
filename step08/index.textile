@@ -11,7 +11,7 @@ grabcad-url1: https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYk
 ---
 Now you'll add the drive rod to your X-Carve. This is the piece that will allow the spindle carriage to move up and down the Z-Axis.
 
-h3{margin-bottom: 14px;}. M8 Threaded Rod 
+<h3 id="m8">M8 Threaded Rod </h3>
 
 "(btn btn-carvey btn-animate-arrow)Skip this step if you purchased an ACME rod":#acme
 
@@ -57,7 +57,7 @@ When you're done your Z-Axis should look like this:
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/584/original/0574.jpg?1424381437!
 
-h3(#acme). Acme Threaded Rod
+<h3 id="acme">Acme Threaded Rod</h3>
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1073/original/P4290316.jpg?1430341938!
 

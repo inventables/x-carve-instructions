@@ -9,7 +9,7 @@ next-step: /step15/
 grabcad-name1: "X-Carve Electronics"
 grabcad-url1: "https://workbench.grabcad.com/workbench/projects/gci1roMQX8PSBmp0bjnR6FTVjVg-Pb1wR-xuUNwtcAuvwC#/home"
 ---
-h3. 1. Attach the Power Supply to the Power Supply Interface
+<h3 id="attach-power-supply">1. Attach the Power Supply to the Power Supply Interface</h3>
 
 |\3{color:#fff;background: #f47b44}. **Power Supply Kit** |
 | **SKU** | **Name** | **Quantity** |
@@ -26,7 +26,7 @@ p=. _Note: Your 24V Power Supply has a toggle switch for input voltage on the si
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/710/original/1053.jpg?1424472467!
 
-h3{clear:both}. 2. Mount gShield Enclosure and P/S Interface
+<h3 id="mount-gshield-enclosure">. 2. Mount gShield Enclosure and P/S Interface</h3>
 
 |\3{color:#fff;background: #f47b44}. **Power Supply Kit** |
 | **SKU** | **Name** | **Quantity** |
@@ -51,7 +51,7 @@ The Power Supply Interface attaches to the Power Supply with four phillips head 
 
 !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/896/original/1041.jpg?1428000397! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/895/original/1048.jpg?1428000396! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/894/original/1049.jpg?1428000395! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/893/original/1051.jpg?1428000394!
 
-h3. 3. Strip the Stepper Cable
+<h3 id="strip-stepper-cable">3. Strip the Stepper Cable</h3>
 
 Now for some wiring. Strip about two inches from the end of one piece of stepper cable. You'll notice that underneath the grey jacket of the stepper cable are foil wrapping, string, a thin raw wire and four colored wires (black, green, white and red). Remove everything except the four colored wires.
 
@@ -61,7 +61,7 @@ Strip the ends of the four wires about one quarter of an inch.
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/707/original/1066.jpg?1424471887!
 
-h3. 4. Determine the Axes
+<h3 id="determine-axes">4. Determine the Axes</h3>
 
 Now twist the copper from the black and green wires together. This will make the stepper motor that the cable is attached to resist movement.
 
@@ -81,7 +81,7 @@ Label the stepper cable as you go.
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/716/original/1079.jpg?1424475162!
 
-h3. 5. Solder Pins to gShield
+<h3 id="solder-pins">5. Solder Pins to gShield</h3>
 
 h5. (Skip this step if you did not order limit switches and/or PWM spindle control)
 
@@ -96,7 +96,7 @@ Place the pins into the gShield making sure that the black plastic touches the t
 
 !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/871/original/1004.jpg?1427990285! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/870/original/1006.jpg?1427990284! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/872/original/1008.jpg?1427990646! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/868/original/1014.jpg?1427990282!
 
-h3. 6. Wire the Stepper Cable to the gShield
+<h3 id="wire-stepper-cable">6. Wire the Stepper Cable to the gShield</h3>
 
 Once you've determined which stepper cable belongs to which axis you can wire them into the gShield. First loosen all of the screws on the gShield (they will jump a thread when they are fully loose, but they won't come out of the terminal blocks.)
 
@@ -110,7 +110,7 @@ Check out this diagram for clarification.
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1101/original/wiring-diagram.jpg?1431728956!
 
-h3. 7. Mount the Arduino
+<h3 id="mount-arduino">7. Mount the Arduino</h3>
 
 |\3{color:#fff;background: #0a91d1}. **Arduino/gShield Motion Controller Kit** |
 | **SKU** | **Name** | **Quantity** |
@@ -126,7 +126,7 @@ Push the USB port through the square hole on the gShield enclosure and line up t
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/721/original/1107.jpg?1424475530!
 
-h3. 8. Mount the gShield
+<h3 id="mount-gshield">8. Mount the gShield</h3>
 
 |\3{color:#fff;background: #0a91d1}. **Arduino/gShield Motion Controller Kit** |
 | **SKU** | **Name** | **Quantity** |
@@ -137,7 +137,7 @@ Now push the gShield onto the Arduino. There are pins on the gShield that go int
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/722/original/1117.jpg?1424475531!
 
-h3. 9. Power the gShield and 24V Fan
+<h3 id="power-gshield">9. Power the gShield and 24V Fan</h3>
 
 |\3{color:#fff;background: #f47b44}. **Power Supply Kit** |
 | **SKU** | **Name** | **Quantity** |
@@ -161,7 +161,7 @@ Strip the other end of the zip wire and insert the ends into the large green ter
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/728/original/1134.jpg?1424475664!
 
-h3. 10. Power the 24V Spindle
+<h3 id="power-spindle">10. Power the 24V Spindle</h3>
 
 h5. (Skip this step if you did not order the 24V spindle)
 
@@ -169,7 +169,7 @@ Strip the zip wire from your spindle and put the ends into the remaining spots o
 
 !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/876/original/1135.jpg?1427991353! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/875/original/1136.jpg?1427991352! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/874/original/1137.jpg?1427991351! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/873/original/1139.jpg?1427991350!
 
-h3. 11. Install the gShield Enclosure cover
+<h3 id="install-enclosure-cover">11. Install the gShield Enclosure cover</h3>
 
 |\3{color:#fff;background: #0a91d1}. **Arduino/gShield Motion Controller Kit** |
 | **SKU** | **Name** | **Quantity** |
@@ -185,7 +185,7 @@ There are two M3 x 6mm screws that couple the top and bottom. Thread them into t
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/877/original/1143.jpg?1427991580!
 
-h3. 12. Install the 24V Fan
+<h3 id="install-fan">12. Install the 24V Fan</h3>
 
 |\3{color:#fff;background: #0a91d1}. **Arduino/gShield Motion Controller Kit** |
 | **SKU** | **Name** | **Quantity** |
@@ -196,7 +196,7 @@ Use the four M3 x 35mm screws to attach the 24V fan to the gShield enclosure.  *
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/879/original/1148.jpg?1427991781!
 
-h3. 13. Connect PWM Spindle Control
+<h3 id="connect-pwm">13. Connect PWM Spindle Control</h3>
 
 h4. (Skip this step if you'll be controlling your spindle manually)
 
@@ -221,7 +221,7 @@ Insert the crimped pins into the header connector as shown. They should click wh
 
 !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/886/original/1177.jpg?1427993108! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/887/original/1182.jpg?1427993109! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/885/original/1187.jpg?1427992867! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/884/original/1189.jpg?1427992866!
 
-h3. 14. Connect Limit Switches to gShield
+<h3 id="connect-limit-switches">14. Connect Limit Switches to gShield</h3>
 
 |\3{color:#fff;background: #0a91d1}. **Arduino/gShield Motion Controller Kit** |
 | **SKU** | **Name** | **Quantity** |
@@ -244,7 +244,7 @@ Repeat the process with the Y-Axis limit switch actuator on the left piece of Y-
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/901/original/1246.jpg?1428001827!
 
-h3. 15. Plug in the Electronics Assembly
+<h3 id="plug-in-assembly">15. Plug in the Electronics Assembly</h3>
 
 |\3{color:#fff;background: #f47b44}. **Power Supply Kit** |
 | **SKU** | **Name** | **Quantity** |

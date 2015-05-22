@@ -63,21 +63,107 @@ stepnav:
     url: '#connect-end-plates'
 - title: Belting
   url: /step06/
+  subnav:
+  - title: Align X-Axis Motor Pulley
+    url: '#align-x-axis-motor-pulley'
+  - title: Thread Belt Through
+    url: '#thread-belt-through'
+  - title: Repeat for Y-Axis
+    url: '#repeat'
 - title: Z-Axis
   url: /step07/
+  subnav:
+  - title: Insert Flanged Bearing
+    url: '#insert-flanged-bearing'
+  - title: Attach Z-Plate
+    url: '#attach-z-plate'
+  - title: Attach Z-Axis to X-Carriage
+    url: '#attach-z-axis'
+  - title: Mount Z-Axis Limit Switch
+    url: '#limit-switch'
 - title: Drive Rod
   url: /step08/
+  subnav:
+  - title: M8 Threaded Rod
+    url: '#m8'
+  - title: ACME Threaded Rod
+    url: '#acme'
 - title: Z-Axis Motor
   url: /step09/
+  subnav: 
+  - title: NEMA 17
+    url: '#nema17'
+  - title: NEMA 23
+    url: '#nema23'
 - title: Wiring
   url: /step10/
+  subnav:
+  - title: Prepare Stepper Motor Wires
+    url: '#prepare-stepper-motor-wires'
+  - title: Secure Wires in Terminal Blocks
+    url: '#secure-wires'
+  - title: Prepare Stepper Cable
+    url: '#prepare-stepper-cable'
+  - title: Secure Stepper Cable
+    url: '#secure-stepper-cable'
+  - title: Solder Limit Switches
+    url: '#solder-limit-switches'
 - title: Drag Chain
   url: /step11/
 - title: Spindle Mount
   url: /step12/
+  subnav:
+  - title: Attach V-Wheels
+    url: '#attach-v-wheels'
+  - title: Attach Spindle Carriage
+    url: '#attach-spindle-carriage'
+  - title: Insert the Spindle
+    url: '#insert-spindle'
+  - title: Mounting Dewalt DW660
+    url: '#dewalt-dw660'
+  - title: Mounting Bosch Colt
+    url: '#bosch-colt'
+  - title: Mounting Quiet Cut Spindle
+    url: '#quiet-cut'
 - title: Work Area
   url: /step13/
+  subnav:
+  - title: 500mm Work Area
+    url: '#500mm'
+  - title: 1000mm Work Area
+    url: '#1000mm'
 - title: Electronics
   url: /step14/
+  subnav:
+  - title: Attach Power Supply
+    url: '#attach-power-supply'
+  - title: Mount gShield Enclosure
+    url: '#mount-gshield-enclosure'
+  - title: Strip Stepper Cable
+    url: '#strip-stepper-cable'
+  - title: Determine the Axes
+    url: '#determine-axes'
+  - title: Solder Pins to gShield
+    url: '#solder-pins'
+  - title: Wire Stepper Cable
+    url: '#wire-stepper-cable'
+  - title: Mount the Arduino
+    url: '#mount-arduino'
+  - title: Mount the gShield
+    url: '#mount-gshield'
+  - title: Power gShield and 24V Fan 
+    url: '#power-gshield'
+  - title: Power 24V Spindle
+    url: '#power-spindle'
+  - title: Install Enclosure Cover
+    url: '#install-enclosure-cover'
+  - title: Install 24V Fan
+    url: '#install-fan'
+  - title: Connect PWM Spindle Control
+    url: '#connect-pwm'
+  - title: Connect Limit Switches
+    url: '#connect-limit-switches'
+  - title: Plug in Assembly
+    url: '#plug-in-assembly'
 - title: Get Carving!
   url: /step15/

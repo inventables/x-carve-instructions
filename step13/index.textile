@@ -22,7 +22,7 @@ You'll need these parts (If you purchased a 1000mm X-Carve see below):
 | 25286-19 | Button Head Cap Screw M5 x 12mm | 6 |
 | 25281-05 | T-Slot Nut M5 Pre-Assembly (Insertion Nut) | 6 |
 
-h3. 500mm Work Area
+<h3 id="500mm">500mm Work Area</h3>
 
 h4. 1. Drive Threaded Inserts into Waste Board
 
@@ -50,7 +50,7 @@ When all of your insertion nuts and mounting screws are in square up the waste b
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/829/original/1413.jpg?1425388975!
 
-h3. 1000mm Work Area
+<h3 id="1000mm">1000mm Work Area</h3>
 
 |\3{color:#fff;background: #666666}. **1000mm Waste Board Kit** |
 | **SKU** | **Name** | **Quantity** |

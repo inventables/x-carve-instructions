@@ -9,7 +9,7 @@ next-step: /step10/
 ---
 Now you'll mount a stepper motor to the Z-Axis Plate of your X-Carve. This motor will control the up and down movement of your spindle.
 
-h4. Mount a NEMA 17 Stepper Motor to Your Z-Axis 
+<h3 id="nema17">Mount a NEMA 17 Stepper Motor to Your Z-Axis</h3> 
 
 h5. (Skip this step if you purchase NEMA 23s)
 
@@ -44,7 +44,7 @@ Apply pressure on the motor toward the back of the machine while you tighten the
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/596/original/0987.jpg?1424382501!
 
-h4. Mount a NEMA 23 Stepper Motor to Your Z-Axis 
+<h3 id="nema23">Mount a NEMA 23 Stepper Motor to Your Z-Axis</h3> 
 
 h5. (Skip this step if you purchase NEMA 17s)
 
