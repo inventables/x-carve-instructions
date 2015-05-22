@@ -218,10 +218,12 @@ Mount it on the X Carriage by inserting the screws through the holes in the chai
 
 If you purchased a 1000mm X-Carve attach the male drag chain end to the angle bracket and then the X-Carriage like this:
 
-<img src="1616.jpg" class="thumbnail col-md-3">
-<img src="1621.jpg" class="thumbnail col-md-3">
-<img src="1622.jpg" class="thumbnail col-md-3"> 
-<img src="_MG_6613.jpg" class="thumbnail col-md-3">
+<div class="row">
+  <img src="1616.jpg" class="thumbnail col-md-3">
+  <img src="1621.jpg" class="thumbnail col-md-3">
+  <img src="1622.jpg" class="thumbnail col-md-3"> 
+  <img src="6613.jpg" class="thumbnail col-md-3">
+</div>
 
       </div>
     </div>
