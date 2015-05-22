@@ -68,3 +68,45 @@
   background: #d0e3f8;
   padding: 10px;
 }
+
+.btn-invent {
+  text-transform: uppercase;
+  border-radius: 2px;
+  font-size: 16px;
+  letter-spacing: 1px;
+  position: relative;
+  display: inline-block;
+  background: #4990E2;
+  color: #fff;
+  border: 2px solid #4990E2;
+  text-shadow: none;
+  box-shadow: none;
+  padding: 12px 16px;
+  font-weight: 400;
+  transition: border 0.3s ease,
+              color 0.3s ease,
+              background 0.3s ease;
+  &:hover, &:focus {
+    text-decoration: none;
+    color: #4990E2;
+    border-color: #4990E2;
+    background: #FFF;
+    opacity: 1;
+  }
+}
+
+.btn-animate-arrow {
+  &:after {
+    content: "\279E";
+    opacity: 0;
+    transition: opacity 0.3s,
+                margin 0.3s;
+    padding: 0;
+    margin-left: -1em;
+  }
+  &:hover:after {
+    opacity: 1;
+    margin-left: 0.3em;
+    content: "\279E";
+  }
+}
