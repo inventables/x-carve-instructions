@@ -7,7 +7,7 @@ next-step: /step02/
 ---
 
 <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_image_uploaded_images/1721/carousel/1430604400_X_Carve_angle_Logo_0015.jpg?1430604400" style="margin-bottom: 20px" />
-Congratulations on purchasing an "X-Carve":https://www.inventables.com/technologies/x-carve DIY CNC kit! These detailed instructions will guide you through the process of building your very own desktop 3D carver.
+Congratulations on purchasing an "X-Carve":https://www.inventables.com/technologies/x-carve DIY 3D Carver kit! These detailed instructions will guide you through the process of building your very own desktop 3D carver.
 
 We've divided assembly into steps corresponding to the modules of your kit. You can navigate between steps using the table of contents to the left.
 
