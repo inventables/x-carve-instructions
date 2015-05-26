@@ -33,9 +33,10 @@ Click below to set up your chosen work area.
 
 h3. 1. Drive Threaded Inserts into Waste Board
 
-Now you'll put a threaded insert into each of the holes you just countersunk. Drive the insert so that the head is flush or sub flush with the backside of the waste board.
+Now you'll put a threaded insert into each of the countersunk holes from the back side. Drive the insert so that the head is flush or sub flush with the back side of the waste board.
 <div class="row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/813/original/1386.jpg?1425388585! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/814/original/1387.jpg?1425388586! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/815/original/1388.jpg?1425388587! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/816/original/1394.jpg?1425388588!
 </div>
+Be careful not to use too much force when driving the inserts in.
 
 h3. 2. Insert the Insertion Nuts
 
@@ -81,7 +82,14 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 | 25286-18 | Button Head Cap Screw M5 x 10mm | 12 |
 | 25281-05 | T-Slot Nut M5 Pre-Assembly | 12 |
 
-h3. 1. Build the First Half of the Frame
+h3. 1. Drive Threaded Inserts into Waste Board
+
+Now you'll put a threaded insert into each of the countersunk holes from the back side. Drive the insert so that the head is flush or sub flush with the back side of the waste board.
+<div class="row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/813/original/1386.jpg?1425388585! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/814/original/1387.jpg?1425388586! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/815/original/1388.jpg?1425388587! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/816/original/1394.jpg?1425388588!
+</div>
+Be careful not to use too much force when driving the inserts in.
+
+h3. 2. Build the First Half of the Frame
 
 Start by identifying the three pieces of 20mm x 20mm extrusion that are 958mm and the two pieces that are 1000mm. We'll call the 958mm pieces "shorter" and the 1000mm pieces "longer" for ease of communication.
 
@@ -97,7 +105,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1026/original/1513.jpg?1429819357!
 
-h3. 2. Attach the Waste board
+h3. 3. Attach the Waste board
 
 Now grab your waste board and put two 20mm screws through these holes:
 
@@ -137,7 +145,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1009/original/1536.jpg?1429819340!
 
-h3. 3. Build the Second Half of the Frame
+h3. 4. Build the Second Half of the Frame
 
 Now flip the waste board back over so it's upside down again being sure to keep it fairly level so the shorter extrusion in the middle of the waste board doesn't slide off.
 
@@ -189,7 +197,7 @@ Now flip the whole assembly back over one more time and tighten all of the M5 x 
 
 If you purchased drag chain with your 1000mm X-Carve now's the time to install the last bracket to hold it in place.
 
-h3. 4. Mount the Drag Chain Bracket
+h3. 5. Mount the Drag Chain Bracket
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1075/original/P5040322.JPG?1430774523!
 
@@ -214,7 +222,7 @@ Use two insertion nuts and two M5 x 8mm screws to attach the assembly to the fro
 
 Tape the wires that will travel with the Gantry to the bundle of wires that came through the X-Axis drag chain. Thread all wires through the Y-Axis drag chain.
 
-h3. 5. Attach the Work Area to the Rest of Your X-Carve
+h3. 6. Attach the Work Area to the Rest of Your X-Carve
 
 Place your X-Carve on top of the work area and fasten each of the four end plates with insertion nuts and M5 x 10mm screws like this:
 
