@@ -9,7 +9,7 @@ next-step: /step06/
 grabcad-name1: "Y-Axis"
 grabcad-url1: https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/125936
 ---
-Your X-Carve is really coming along! Next you'll add the Y-Axis to the machine. You'll need these parts:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRSegK2lujI" frameborder="0" allowfullscreen></iframe>
 
 |\3. **Rail Kit** |
 | **SKU** | **Name** | **Quantity** |
