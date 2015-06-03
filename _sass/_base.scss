@@ -10,6 +10,16 @@ a {
     }
 }
 
+table {
+    tr > td:nth-of-type(1) {
+        width: 91px;
+    }
+
+    tr > td:last-of-type {
+        width: 91px;
+    }
+}
+
 // BS overrides
 
 .thumbnail {
