@@ -10,6 +10,7 @@ To do before going public:
 - [ ] Fix ACME step to new version
 - [ ] Add something about the Shapeoko Upgrade kit to getting started section (under an accordion)
 - [ ] Move "Next" button to the bottom of each step
+- [ ] Make sure everything is responsive (subnav)
 
 Longer-term:
 - [ ] Make time estimates more accurate
