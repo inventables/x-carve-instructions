@@ -9,7 +9,7 @@ next-step: /step03/
 grabcad-name1: "X Carriage"
 grabcad-url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/156177"
 ---
-<img src="0091.jpg">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Pts70Si3aTI" frameborder="0" allowfullscreen></iframe>
 
 |\3{color:#fff;background: #383838}. **Core Components Kit** |
 | **SKU** | **Name** | **Quantity** |
@@ -54,8 +54,6 @@ Next you’ll be attaching the V-Wheels. There will be eight V-Wheels on the X C
 
 !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/760/original/X-Carriage%20V-Wheel%20Mounting%20Holes.png?1424562878!
 
-h4. V-Wheels with Nylock Nuts
-
 Start by attaching one of the top four V-Wheels with nylock nuts. You’ll insert a 25mm button head cap screw into this hole on the X Carriage. 
 
 !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/642/original/0028.jpg?1424455895!
@@ -67,8 +65,6 @@ Next slide a washer over the screw, followed by a V-Wheel and a nylock hex nut. 
 Repeat that three times and your X Carriage will look like this:
 
 !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/535/original/0868.jpg?1424362473!
-
-h4. V-Wheels with Eccentric Nuts
 
 Next you’ll attach the bottom V-Wheels with eccentric nuts. These nuts have a "shoulder" on them which is designed to be seated in various holes on your X-Carve.
 
