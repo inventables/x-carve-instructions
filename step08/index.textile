@@ -21,6 +21,7 @@ Click below to select your chosen type of drive rod.
     </a>
     <div id="m8" class="panel-collapse collapse" role="tabpanel" aria-labelledby="m8-header">
       <div class="panel-body">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k4MhzC2_odU" frameborder="0" allowfullscreen></iframe>
 
 |\3{color:#fff;background: #6b4e40}. **M8 Threaded Rod Lead Screw Kit** |
 | **SKU** | **Name** | **Quantity** |
