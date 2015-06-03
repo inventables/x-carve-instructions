@@ -7,6 +7,8 @@ permalink: /step06/
 previous-step: /step05/
 next-step: /step07/
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JXco1gg48Y8" frameborder="0" allowfullscreen></iframe>
+
 |\3. **Rail Kit** |
 | **SKU** | **Name** | **Quantity** |
 | 26053-01 | GT2 Belting - Open Ended | 7 (feet) |
@@ -92,7 +94,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/849/original/1441.jpg?1425393674!
  
-Thread an M5 nylock nut onto the 25mm screw to fasten it to the Y Plate. Tighten the nut until the belt is taught and you can pluck it like a loose guitar string, then tighten the 8mm screw all the way down.
+Thread an M5 nylock nut onto the 25mm screw to fasten it to the Y Plate. Tighten the nut until the belt is taut and you can pluck it like a loose guitar string, then tighten the 8mm screw all the way down.
 
 <h3 id="repeat">3. Repeat for Y-Axis</h3>
 

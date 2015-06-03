@@ -10,6 +10,8 @@ grabcad-name1: "Z-Axis Assembly"
 grabcad-url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/125928"
 z-axis: true
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/80KqP6JMXZc" frameborder="0" allowfullscreen></iframe>
+
 |\3{color:#fff;background: #383838}. **Core Components Kit** |
 | **SKU** | **Name** | **Quantity** |
 | 25142-09 | MakerSlide Black 200mm | 1 |
@@ -24,7 +26,7 @@ Insert the flanged bearing into the Z-Plate as shown. Be sure to insert the bear
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/542/original/0952.jpg?1424364483!
 
-Insert two small screws to hold the bearing captive. finger tighten them both and check to make sure the flange is flush with the Z-Plate. Then tighten them down with moderate force.
+Insert two small screws to hold the bearing captive. Finger tighten both and check to make sure the flange is flush with the Z-Plate. Then tighten them down with moderate force.
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/543/original/0953.jpg?1424364526!
 
