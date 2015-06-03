@@ -129,3 +129,9 @@
     content: "\279E";
   }
 }
+
+@media (max-width:1220px) {
+  iframe {
+    width: 100%;
+  }
+}
