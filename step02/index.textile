@@ -13,7 +13,7 @@ grabcad-url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvY
 
 |\3{color:#fff;background: #383838}. **Core Components Kit** |
 | **SKU** | **Name** | **Quantity** |
-| 30545-01 | X Carriage Extrusion | 1 |
+| 30545-01 | X Carriage Extrusion test| 1 |
 | 25197-04 | Smooth Idler Wheel Kit | 2 |
 | 25203-04 | Dual Bearing V-Wheel Kit | 8 |
 | 30552-01 | Flat Head Socket Cap Screw M5 x 35mm | 2 |
