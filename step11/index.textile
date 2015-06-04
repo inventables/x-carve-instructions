@@ -15,7 +15,12 @@ grabcad-url2: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvY
 
 The drag chain assembly is very similar for the 500mm and 1000mm machines. The main difference is that the drag chain mounts and wraps horizontally on the 500mm machine and vertically on the 1000mm machine. As a result, the brackets that hold the drag chain are a little bit different and mount in slightly different ways. 
 
-p(note). **If you have the 1000mm X-Carve, stop at the point where you've routed your wires through the x-axis drag chain.** The y-axis mounting bracket is installed on the frame of the machine, and the remaining steps are completed in the Work Area section.
+<div class="note">
+  <i class="fa fa-hand-o-right"></i>
+  <span>
+    **If you have the 1000mm X-Carve, stop at the point where you've routed your wires through the x-axis drag chain.** The y-axis mounting bracket is installed on the frame of the machine, and the remaining steps are completed in the Work Area section.
+  </span>
+</div>
 
 Click below to select your chosen drag chain.
 
