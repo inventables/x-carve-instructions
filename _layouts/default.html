@@ -8,9 +8,13 @@
     {% include header.html %}
 
     <div class="instructions-wrapper container-fluid">
-
+      <div id="off-canvas-sidebar">
+        {% include stepnav.html %}
+        <a id="close" href="#"><i class="fa fa-times"></i></a>
+      </div>
       <div class="row">
         <div class="col-sm-2">
+          <a id="hamburger" href="#"><i class="fa fa-bars"></i></a>
           <div class="sidebar">
             {% include stepnav.html %}
           </div>

@@ -4,19 +4,24 @@ a {
     border-bottom: 1px solid #4990e2;
     transition: opacity .3s ease;
 
+    &:hover, &:focus, &:active {
+      color: #4990e2;
+    }
+
     &:hover {
       opacity: .7;
-      color: #4990e2;
     }
 }
 
-table {
-    tr > td:nth-of-type(1) {
-        width: 91px;
-    }
+@media (min-width: 350px) {
+    table {
+        tr > td:nth-of-type(1) {
+            width: 91px;
+        }
 
-    tr > td:last-of-type {
-        width: 91px;
+        tr > td:last-of-type {
+            width: 91px;
+        }
     }
 }
 
@@ -39,6 +44,12 @@ table {
 
 b, strong {
     font-weight: 600;
+}
+
+@media (min-width: 768px) and (max-width: 830px) {
+    .col-sm-7 {
+        width: 80%;
+    }
 }
 
 /**
