@@ -1,19 +1,25 @@
-# X-Carve Instructions
+[X-Carve Instructions] (http://x-carve-instructions.inventables.com/)
+=========================
 
-To do before going public: 
-- [x] Finish adding subnavs
-- [x] Add all necessary accordions
-- [x] Figure out solution for images
-- [ ] Clean up any formatting problems
-- [x] Embed videos
-- [ ] Hero class images for all steps that don't have them
-- [ ] Fix ACME step to new version
-- [ ] Add something about the Shapeoko Upgrade kit to getting started section (under an accordion)
-- [ ] Move "Next" button to the bottom of each step
-- [ ] Make sure everything is responsive (subnav)
+This is the official documentation for assembling X-Carve, a 3D carving kit from [Inventables] (https://www.inventables.com/). Like X-Carve itself, these instructions are open-source. 
 
-Longer-term:
-- [ ] Make time estimates more accurate
-- [ ] Update images with hi-res versions
-- [ ] Add better images to accordion sections of Step 3
-- [ ] Create and apply standard classes for all images
+If you have experience with Github, feel free to fork this branch and submit a pull request. The instructions are built using [Jekyll] (http://jekyllrb.com/) and are formatted using [Textile] (http://redcloth.org/textile) (with some HTML mixed in).
+
+It's also possible to suggest changes through Github itself. Each step of the instructions is generated from a file named ```index.textile```, contained inside the folder for that step (eg ```step02/index.textile```). The one exception is the file for the first step, which is ```index.textile``` inside the main ```x-carve-instructions``` folder.
+
+Find the ```index.textile``` file for the step you'd like to edit, and click the pencil icon in the top right. This will let you fork a branch and make changes right in the browser. You can then submit a pull request to have your changes reviewed and integrated. [Learn more about pull requests here] (https://help.github.com/articles/using-pull-requests). 
+
+If you prefer, you can also submit a Github issue using the menu to the right:
+
+![Github issues](http://i.imgur.com/4OgNB2L.png)!
+
+### Local Installation
+
+Setting up the page on your local machine:
+
+1. ```$ gem install bundler``` - Install [bundler](http://bundler.io/) ruby gem
+2. ```$ git clone https://github.com/inventables/x-carve-instructions.git``` - Clone project
+3. ```$ cd x-carve-instructions``` - Switch to project directory
+4. ```$ bundle install ``` - Install the necessary gems
+5. ```$ bundle exec jekyll serve``` - Serve site locally using Jekyll
+6. go to [```http://localhost:4000```](http://localhost:4000)
