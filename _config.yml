@@ -1,5 +1,5 @@
 # Site settings
-baseurl: "/"
+baseurl: ""
 url: "https://inventables.github.io/x-carve-instructions" # the base hostname & protocol for your site
 
 # Build settings
