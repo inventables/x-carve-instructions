@@ -15,7 +15,7 @@ If you prefer, you can also submit a Github issue using the menu to the right:
 
 ### Local Installation
 
-Setting up the page on your local machine:
+Setting up the site on your local machine:
 
 1. ```$ gem install bundler``` - Install [bundler](http://bundler.io/) ruby gem
 2. ```$ git clone https://github.com/inventables/x-carve-instructions.git``` - Clone project
