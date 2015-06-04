@@ -64,10 +64,18 @@
     display: inline-block;
     font-size: 16px;
     line-height: 22px;
-    width: 90%;
+    width: 86%;
     padding-left: 20px;
     vertical-align: top;
+
+    @media (max-width: 400px) {
+      width: 72%;
+    }
   }
+}
+
+.btn-next {
+  margin-top: 14px;
 }
 
 .btn-invent {
