@@ -40,24 +40,6 @@
   }
 }
 
-.paginate-buttons {
-  padding-top: 14px;
-
-  a {
-    font-size: 14px;
-    border-bottom: none;
-    display: inline-block;
-
-    i {
-      padding: 0 2px;
-    }
-
-    &:first-of-type {
-      margin-right: 12px;
-    }
-  }
-}
-
 .step-text img {
   border: 1px solid transparent;
   transition: border-color 0.5s ease;
@@ -92,7 +74,7 @@
   text-transform: uppercase;
   border-radius: 2px;
   font-size: 16px;
-  letter-spacing: 1px;
+  letter-spacing: 2px;
   position: relative;
   display: inline-block;
   background: #4990E2;
