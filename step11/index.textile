@@ -11,6 +11,8 @@ grabcad-url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvY
 grabcad-name2: "1000m Drag Chain"
 grabcad-url2: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/155521"
 ---
+<img src="XCarveDragChain.jpg">
+
 <h3 id="overview">Overview</h3>
 
 The drag chain assembly is very similar for the 500mm and 1000mm machines. The main difference is that the drag chain mounts and wraps horizontally on the 500mm machine and vertically on the 1000mm machine. As a result, the brackets that hold the drag chain are a little bit different and mount in slightly different ways. 
