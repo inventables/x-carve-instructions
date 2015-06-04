@@ -7,7 +7,7 @@ permalink: /step10/
 next-step: /step11/
 next-step-title: "Drag Chain"
 ---
-Ok, you've got the bones of your X-Carve assembled, now it's time to add some wiring.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_vCIVagKgzA" frameborder="0" allowfullscreen></iframe>
 
 <h3 id="prepare-stepper-motor-wires">1. Prepare Stepper Motor Wires</h3>
 

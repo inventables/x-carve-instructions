@@ -9,7 +9,7 @@ next-step-title: "Work Area"
 grabcad-name1: "Spindle Carriage"
 grabcad-url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/file/22283285"
 ---
-<img src="0820.jpg">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wz3ZoGK_HIk" frameborder="0" allowfullscreen></iframe>
 
 |\3{color:#fff;background: #42a44e}. **300W 24VDC Spindle Kit** |
 | **SKU** | **Name** | **Quantity** |

@@ -9,6 +9,8 @@ next-step-title: "Get Carving!"
 grabcad-name1: "X-Carve Electronics"
 grabcad-url1: "https://workbench.grabcad.com/workbench/projects/gci1roMQX8PSBmp0bjnR6FTVjVg-Pb1wR-xuUNwtcAuvwC#/home"
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6DkhEQ8LhYA" frameborder="0" allowfullscreen></iframe>
+
 <h3 id="attach-power-supply">1. Attach the Power Supply to the Power Supply Interface</h3>
 
 |\3{color:#fff;background: #f47b44}. **Power Supply Kit** |

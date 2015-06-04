@@ -24,6 +24,8 @@ Click below to set up your chosen work area.
     </a>
     <div id="500mm" class="panel-collapse collapse" role="tabpanel" aria-labelledby="500mm-header">
       <div class="panel-body">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZZWA0Srxx0g" frameborder="0" allowfullscreen></iframe>
+
 |\3{color:#fff;background: #666666}. **500mm Waste Board Kit** |
 | **SKU** | **Name** | **Quantity** |
 | 30535-01 | Waste Board | 1 |

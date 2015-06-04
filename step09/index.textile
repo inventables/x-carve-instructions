@@ -18,6 +18,8 @@ Click below to select your chosen motor type.
     </a>
     <div id="nema17" class="panel-collapse collapse" role="tabpanel" aria-labelledby="nema17-header">
       <div class="panel-body">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cEJDROc9ZEs" frameborder="0" allowfullscreen></iframe>
+
 |\3{color:#fff;background: #cc3440}. **NEMA 17 Stepper Motor Kit** |
 | **SKU** | **Name** | **Quantity** |
 | 25253-01 | Stepper Motor NEMA 17 62 oz-in | 1 |

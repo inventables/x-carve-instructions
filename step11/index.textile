@@ -33,6 +33,8 @@ Click below to select your chosen drag chain.
     </a>
     <div id="500mm-drag-chain" class="panel-collapse collapse" role="tabpanel" aria-labelledby="500mm-drag-chain-header">
       <div class="panel-body">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RVQDwC8H6U4" frameborder="0" allowfullscreen></iframe>
+
 |\3{color:#fff;background: #8a52a1}. **500mm Drag Chain Kit** |
 | **SKU** | **Name** | **Quantity** |
 | 30331-09 | Drag Chain 27 Links | 2 |
