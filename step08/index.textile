@@ -10,6 +10,8 @@ grabcad-name1: "Z-Axis Assembly"
 grabcad-url1: https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/125928
 z-axis: true
 ---
+<img src="0579.jpg">
+
 Now you'll add the drive rod to your X-Carve. This is the piece that will allow the spindle carriage to move up and down the Z-Axis.
 
 Click below to select your chosen type of drive rod.
