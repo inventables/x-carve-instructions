@@ -1,7 +1,7 @@
 [X-Carve Instructions] (http://x-carve-instructions.inventables.com/)
 =========================
 
-This is the official documentation for assembling X-Carve, a 3D carving kit from [Inventables] (https://www.inventables.com/). Like X-Carve itself, these instructions are open-source. 
+This is the official documentation for assembling [X-Carve] (https://www.inventables.com/technologies/x-carve/), a 3D carving kit from [Inventables] (https://www.inventables.com/). Like X-Carve itself, these instructions are open-source. 
 
 If you have experience with Github, feel free to fork this branch and submit a pull request. The instructions are built using [Jekyll] (http://jekyllrb.com/) and are formatted using [Textile] (http://redcloth.org/textile) (with some HTML mixed in).
 
