@@ -100,6 +100,10 @@ If you purchased a stepper motor kit with your X-Carve, click on your chosen typ
       <h4 class="panel-title">
           NEMA 17
       </h4>
+      <div class="expand-icons">
+        <i class="fa fa-plus"></i>
+        <i class="fa fa-minus"></i>
+      </div>
     </a>
     <div id="nema17" class="panel-collapse collapse" role="tabpanel" aria-labelledby="nema17-header">
       <div class="panel-body">
@@ -133,6 +137,10 @@ Put a washer on each screw and insert them  from the opposite side of the X Carr
       <h4 class="panel-title">
           NEMA 23
       </h4>
+      <div class="expand-icons">
+        <i class="fa fa-plus"></i>
+        <i class="fa fa-minus"></i>
+      </div>
     </a>
     <div id="nema23" class="panel-collapse collapse" role="tabpanel" aria-labelledby="nema23-header">
       <div class="panel-body">
@@ -175,6 +183,10 @@ If you purchased a drag chain kit with your X-Carve, click on your chosen type b
       <h4 class="panel-title">
           500mm Drag Chain
       </h4>
+      <div class="expand-icons">
+        <i class="fa fa-plus"></i>
+        <i class="fa fa-minus"></i>
+      </div>
     </a>
     <div id="500mm-drag-chain" class="panel-collapse collapse" role="tabpanel" aria-labelledby="500mm-drag-chain-header">
       <div class="panel-body">
@@ -204,6 +216,10 @@ Mount it on the X Carriage by inserting the screws through the holes in the chai
       <h4 class="panel-title">
           1000mm Drag Chain
       </h4>
+      <div class="expand-icons">
+        <i class="fa fa-plus"></i>
+        <i class="fa fa-minus"></i>
+      </div>
     </a>
     <div id="1000mm-drag-chain" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1000mm-drag-chain-header">
       <div class="panel-body">
@@ -244,6 +260,10 @@ If you purchased a wiring kit with your X-Carve, click below to mount your termi
       <h4 class="panel-title">
           Wiring
       </h4>
+      <div class="expand-icons">
+        <i class="fa fa-plus"></i>
+        <i class="fa fa-minus"></i>
+      </div>
     </a>
     <div id="wiring" class="panel-collapse collapse" role="tabpanel" aria-labelledby="wiring-header">
       <div class="panel-body">
@@ -274,6 +294,10 @@ If you purchased a limit switch kit with your X-Carve, click below to mount your
       <h4 class="panel-title">
           Limit Switch
       </h4>
+      <div class="expand-icons">
+        <i class="fa fa-plus"></i>
+        <i class="fa fa-minus"></i>
+      </div>
     </a>
     <div id="limit-switch" class="panel-collapse collapse" role="tabpanel" aria-labelledby="limit-switch-header">
       <div class="panel-body">

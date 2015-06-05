@@ -21,6 +21,10 @@ Click below to set up your chosen work area.
   <div class="panel panel-default">
     <a data-toggle="collapse" data-parent="#work-area-accordion" href="#500mm" aria-expanded="false" aria-controls="500mm" class="panel-heading" role="tab" id="500mm-header">
       <h4 class="panel-title">500mm Work Area</h4>
+      <div class="expand-icons">
+        <i class="fa fa-plus"></i>
+        <i class="fa fa-minus"></i>
+      </div>
     </a>
     <div id="500mm" class="panel-collapse collapse" role="tabpanel" aria-labelledby="500mm-header">
       <div class="panel-body">
@@ -48,10 +52,12 @@ Now you'll put insertion nuts into the extrusions that connect your y-axes. Put 
 </div>
 
 Slide the waste board onto the extrusions of your X-carve. You'll want 'Inventables" to be facing the front of the machine. Put a 12mm screw through the middle mounting holes of the waste board and tighten them all the way down, then back them off a full turn.
+
 <div class="row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/821/original/1406.jpg?1425388849! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/822/original/1408.jpg?1425388850! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/823/original/1409.jpg?1425388851! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/824/original/1411.jpg?1425388852!
 </div>
 
 Now insert the other four insertion nuts from each of their respective corners and capture them with screws through the waste board.
+
 <div class="row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/825/original/1414.jpg?1425388971! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/826/original/1415.jpg?1425388972! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/827/original/1416.jpg?1425388973! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/830/original/1421.jpg?1425389198!
 </div>
 
@@ -73,6 +79,10 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
   <div class="panel panel-default">
     <a data-toggle="collapse" data-parent="#work-area-accordion" href="#1000mm" aria-expanded="false" aria-controls="1000mm" class="panel-heading" role="tab" id="1000mm-header">
       <h4 class="panel-title">1000mm Work Area</h4>
+      <div class="expand-icons">
+        <i class="fa fa-plus"></i>
+        <i class="fa fa-minus"></i>
+      </div>
     </a>
     <div id="1000mm" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1000mm-header">
       <div class="panel-body">
@@ -87,8 +97,10 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 h3. 1. Drive Threaded Inserts into Waste Board
 
 Now you'll put a threaded insert into each of the countersunk holes from the back side. Drive the insert so that the head is flush or sub flush with the back side of the waste board.
+
 <div class="row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/813/original/1386.jpg?1425388585! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/814/original/1387.jpg?1425388586! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/815/original/1388.jpg?1425388587! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/816/original/1394.jpg?1425388588!
 </div>
+
 Be careful not to use too much force when driving the inserts in.
 
 h3. 2. Build the First Half of the Frame
@@ -154,8 +166,10 @@ Now flip the waste board back over so it's upside down again being sure to keep 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/950/original/1538.jpg?1429819239!
 
 Put a 10mm M5 screw into a gusset bracket, thread an insertion nut onto it, slide it down the longer extrusion and attach it the middle shorter extrusion like this:
+
 <div class="row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1018/original/1526.jpg?1429819349!!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1017/original/1527.jpg?1429819348!!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1007/original/1539.jpg?1429819338!!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1006/original/1542.jpg?1429819337!
 </div>
+
 Slide another gusset bracket, t-nut and M5 screw assembly onto the longer extrusion like this:
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1004/original/1545.jpg?1429819335!

@@ -17,6 +17,10 @@ Click below to select your chosen motor type.
   <div class="panel panel-default">
     <a data-toggle="collapse" data-parent="#motor-accordion" href="#nema17" aria-expanded="false" aria-controls="nema17" class="panel-heading" role="tab" id="nema17-header">
       <h4 class="panel-title">NEMA 17</h4>
+      <div class="expand-icons">
+        <i class="fa fa-plus"></i>
+        <i class="fa fa-minus"></i>
+      </div>
     </a>
     <div id="nema17" class="panel-collapse collapse" role="tabpanel" aria-labelledby="nema17-header">
       <div class="panel-body">
@@ -58,6 +62,10 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
   <div class="panel panel-default">
     <a data-toggle="collapse" data-parent="#motor-accordion" href="#nema23" aria-expanded="false" aria-controls="nema23" class="panel-heading" role="tab" id="nema23-header">
       <h4 class="panel-title">NEMA 23</h4>
+      <div class="expand-icons">
+        <i class="fa fa-plus"></i>
+        <i class="fa fa-minus"></i>
+      </div>
     </a>
     <div id="nema23" class="panel-collapse collapse" role="tabpanel" aria-labelledby="nema23-header">
       <div class="panel-body">

@@ -20,6 +20,10 @@ Click below to select your chosen type of drive rod.
   <div class="panel panel-default">
     <a data-toggle="collapse" data-parent="#drive-rod-accordion" href="#m8" aria-expanded="false" aria-controls="m8" class="panel-heading" role="tab" id="m8-header">
       <h4 class="panel-title">M8 Threaded Rod</h4>
+      <div class="expand-icons">
+        <i class="fa fa-plus"></i>
+        <i class="fa fa-minus"></i>
+      </div>
     </a>
     <div id="m8" class="panel-collapse collapse" role="tabpanel" aria-labelledby="m8-header">
       <div class="panel-body">
@@ -72,6 +76,10 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
   <div class="panel panel-default">
     <a data-toggle="collapse" data-parent="#drive rod-accordion" href="#acme" aria-expanded="false" aria-controls="acme" class="panel-heading" role="tab" id="acme-header">
       <h4 class="panel-title">Acme Threaded Rod</h4>
+      <div class="expand-icons">
+        <i class="fa fa-plus"></i>
+        <i class="fa fa-minus"></i>
+      </div>
     </a>
     <div id="acme" class="panel-collapse collapse" role="tabpanel" aria-labelledby="acme-header">
       <div class="panel-body">

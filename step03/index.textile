@@ -93,6 +93,10 @@ If you purchased a stepper motor kit with your X-Carve, click on your chosen typ
   <div class="panel panel-default">
     <a data-toggle="collapse" data-parent="#motor-accordion" href="#nema17" aria-expanded="false" aria-controls="nema17" class="panel-heading" role="tab" id="nema17-header">
       <h4 class="panel-title">Nema 17</h4>
+      <div class="expand-icons">
+        <i class="fa fa-plus"></i>
+        <i class="fa fa-minus"></i>
+      </div>
     </a>
     <div id="nema17" class="panel-collapse collapse" role="tabpanel" aria-labelledby="nema17-header">
       <div class="panel-body">
@@ -119,6 +123,10 @@ Repeat with the second Y-Plate.
   <div class="panel panel-default">
     <a data-toggle="collapse" data-parent="#motor-accordion" href="#nema23" aria-expanded="false" aria-controls="nema23" class="panel-heading" role="tab" id="nema23-header">
       <h4 class="panel-title">Nema 23</h4>
+      <div class="expand-icons">
+        <i class="fa fa-plus"></i>
+        <i class="fa fa-minus"></i>
+      </div>
     </a>
     <div id="nema23" class="panel-collapse collapse" role="tabpanel" aria-labelledby="nema23-header">
       <div class="panel-body">
@@ -159,6 +167,10 @@ If you purchased a drag chain kit with your X-Carve, click on your chosen type b
   <div class="panel panel-default">
     <a data-toggle="collapse" data-parent="#drag-chain-accordion" href="#500mm-drag-chain" aria-expanded="false" aria-controls="500mm-drag-chain" class="panel-heading" role="tab" id="500mm-drag-chain-header">
       <h4 class="panel-title">500mm Drag Chain</h4>
+      <div class="expand-icons">
+        <i class="fa fa-plus"></i>
+        <i class="fa fa-minus"></i>
+      </div>
     </a>
     <div id="500mm-drag-chain" class="panel-collapse collapse" role="tabpanel" aria-labelledby="500mm-drag-chain-header">
       <div class="panel-body">
@@ -180,6 +192,10 @@ If you purchased drag chain with your 500mm X-Carve now is the time to attach a 
   <div class="panel panel-default">
     <a data-toggle="collapse" data-parent="#drag-chain-accordion" href="#1000mm-drag-chain" aria-expanded="false" aria-controls="1000mm-drag-chain" class="panel-heading" role="tab" id="1000mm-drag-chain-header">
       <h4 class="panel-title">1000mm Drag Chain</h4>
+      <div class="expand-icons">
+        <i class="fa fa-plus"></i>
+        <i class="fa fa-minus"></i>
+      </div>
     </a>
     <div id="1000mm-drag-chain" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1000mm-drag-chain-header">
       <div class="panel-body">
@@ -217,6 +233,10 @@ If you purchased a wiring kit with your X-Carve, click below to mount your termi
   <div class="panel panel-default">
     <a data-toggle="collapse" data-parent="#wiring-accordion" href="#wiring" aria-expanded="false" aria-controls="wiring" class="panel-heading" role="tab" id="wiring-header">
       <h4 class="panel-title">Wiring</h4>
+      <div class="expand-icons">
+        <i class="fa fa-plus"></i>
+        <i class="fa fa-minus"></i>
+      </div>
     </a>
     <div id="wiring" class="panel-collapse collapse" role="tabpanel" aria-labelledby="wiring-header">
       <div class="panel-body">
@@ -247,6 +267,10 @@ If you purchased a limit switch kit with your X-Carve, click below to mount your
   <div class="panel panel-default">
     <a data-toggle="collapse" data-parent="#limit-switch-accordion" href="#limit-switch" aria-expanded="false" aria-controls="limit-switch" class="panel-heading" role="tab" id="limit-switch-header">
       <h4 class="panel-title">Limit Switch</h4>
+      <div class="expand-icons">
+        <i class="fa fa-plus"></i>
+        <i class="fa fa-minus"></i>
+      </div>
     </a>
     <div id="limit-switch" class="panel-collapse collapse" role="tabpanel" aria-labelledby="limit-switch-header">
       <div class="panel-body">

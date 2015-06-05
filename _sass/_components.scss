@@ -140,5 +140,22 @@
     line-height: 11px;
     vertical-align: middle;
   }
+}
 
+.panel-heading {
+  position: relative;
+}
+
+.expand-icons {
+  position: absolute;
+  right: 20px;
+  top: 5px;
+
+  .fa-plus, .fa-minus {
+    transition: display .5s ease;
+  }
+
+  .fa-minus {
+    display: none;
+  }
 }

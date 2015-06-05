@@ -99,6 +99,10 @@ If you purchased a limit switch kit with your X-Carve, click below to solder you
       <h4 class="panel-title">
           Limit Switch
       </h4>
+      <div class="expand-icons">
+        <i class="fa fa-plus"></i>
+        <i class="fa fa-minus"></i>
+      </div>
     </a>
     <div id="limit-switch" class="panel-collapse collapse" role="tabpanel" aria-labelledby="limit-switch-header">
       <div class="panel-body">

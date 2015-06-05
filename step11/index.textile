@@ -32,6 +32,10 @@ Click below to select your chosen drag chain.
       <h4 class="panel-title">
           500mm Drag Chain
       </h4>
+      <div class="expand-icons">
+        <i class="fa fa-plus"></i>
+        <i class="fa fa-minus"></i>
+      </div>
     </a>
     <div id="500mm-drag-chain" class="panel-collapse collapse" role="tabpanel" aria-labelledby="500mm-drag-chain-header">
       <div class="panel-body">
@@ -101,6 +105,10 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
     <div class="panel panel-default">
       <a data-toggle="collapse" data-parent="#drag-chain-accordion" href="#1000mm-drag-chain" aria-expanded="false" aria-controls="1000mm-drag-chain" class="panel-heading" role="tab" id="1000mm-drag-chain-header">
         <h4 class="panel-title">1000mm Drag Chain</h4>
+        <div class="expand-icons">
+          <i class="fa fa-plus"></i>
+          <i class="fa fa-minus"></i>
+        </div>
       </a>
     <div id="1000mm-drag-chain" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1000mm-drag-chain-header">
       <div class="panel-body">
