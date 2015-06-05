@@ -203,7 +203,7 @@ Place the top of the gShield enclosure on to the bottom.
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/878/original/1141.jpg?1427991581!
 
-There are two M3 x 6mm screws that couple the top and bottom. Thread them into the enclosure by hand and tighten them just passed finger tight with your wrench.
+There are two M3 x 6mm screws that couple the top and bottom. Thread them into the enclosure by hand and tighten them just past finger tight with your wrench.
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/877/original/1143.jpg?1427991580!
 

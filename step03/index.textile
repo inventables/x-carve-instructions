@@ -257,7 +257,7 @@ If you purchased a limit switch kit with your X-Carve, click below to mount your
 | 25284-09 | Hex Nuts M2 | 2 |
 | 30555-02 | Split Lock Washer M2 | 2 |
 
-Put the lock washers onto the screws and insert them through the switch and into the holes on the left Y-Plate. Use a pair of pliers and a screwdriver to snug these down just passed finger tight.
+Put the lock washers onto the screws and insert them through the switch and into the holes on the left Y-Plate. Use a pair of pliers and a screwdriver to snug these down just past finger tight.
 
 !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/862/original/1485.jpg?1427919741! 
 
