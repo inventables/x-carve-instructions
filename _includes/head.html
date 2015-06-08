@@ -4,7 +4,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>X-Carve Instructions: {% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+  <link rel="icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}" />
+
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" type="text/css" data-noprefix="">
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
