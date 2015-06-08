@@ -35,15 +35,13 @@
   display: none;
   text-decoration: none !important;
   border-bottom: none !important;
-  font-size: 50px;
+  font-size: 30px;
   margin-top: 14px;
   margin-bottom: 14px;
   background: #4990e2;
   text-align: center;
   padding: 10px;
   box-sizing: border-box;
-  width: 70px;
-  height: 70px;
 
   i {
     color: #fff !important;
@@ -80,9 +78,9 @@
 
   #close {
     position: absolute;
-    top: 0;
+    top: 10px;
     right: 10px;
-    font-size: 80px;
+    font-size: 40px;
   }
 }
 
