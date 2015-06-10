@@ -67,12 +67,6 @@ When all of your insertion nuts and mounting screws are in square up the waste b
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/829/original/1413.jpg?1425388975!
 
-|\3{color:#fff;background: #666666}. **1000mm Waste Board Kit** |
-| **SKU** | **Name** | **Quantity** |
-| 30537-01 | Waste Board 1000mm | 1 |
-| 30517-03 | Threaded Insert M5 | 144 |
-| 25286-20 | Button Head Cap Screw M5 x 20mm | 14 |
-| 25281-05 | T-Slot Nut M5 Pre-Assembly (Insertion Nut) | 14 |
       </div>
     </div>
   </div>
@@ -86,6 +80,13 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
     </a>
     <div id="1000mm" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1000mm-header">
       <div class="panel-body">
+|\3{color:#fff;background: #666666}. **1000mm Waste Board Kit** |
+| **SKU** | **Name** | **Quantity** |
+| 30537-01 | Waste Board 1000mm | 1 |
+| 30517-03 | Threaded Insert M5 | 144 |
+| 25286-20 | Button Head Cap Screw M5 x 20mm | 14 |
+| 25281-05 | T-Slot Nut M5 Pre-Assembly (Insertion Nut) | 14 |
+        
 |\3. **1000mm Rail Kit** |
 | **SKU** | **Name** | **Quantity** |
 | 26049-02 | Aluminum Extrusion 20mm x 20mm Black 1000mm Lg | 2 |
