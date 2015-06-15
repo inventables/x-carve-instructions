@@ -28,7 +28,7 @@ Start by mounting the Power Supply Circuit Board to the Power Supply. You'll see
 <div class="note">
   <i class="fa fa-hand-o-right"></i>
   <span>
-    Note: Your 24V Power Supply has a toggle switch for input voltage on the side. Use a small flat-blade screwdriver to switch it to the voltage that corresponds to your outlet voltage.
+    *Note:* Your 24V Power Supply has a toggle switch for input voltage on the side. Use a small flat-blade screwdriver to switch it to the voltage that corresponds to your outlet voltage.
   </span>
 </div>
 
@@ -98,7 +98,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 <div class="note">
   <i class="fa fa-hand-o-right"></i>
   <span>
-    Skip this step if you did not order limit switches and/or PWM spindle control
+    *Note:* Skip this step if you did not order limit switches and/or PWM spindle control
   </span>
 </div>
 
@@ -143,6 +143,13 @@ Push the USB port through the square hole on the gShield enclosure and line up t
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/721/original/1107.jpg?1424475530!
 
+<div class="note">
+  <i class="fa fa-hand-o-right"></i>
+  <span>
+    *Note:* Nylon spacers are not required to mount the Arduino to the enclosure.
+  </span>
+</div>
+
 <h3 id="mount-gshield">8. Mount the gShield</h3>
 
 |\3{color:#fff;background: #0a91d1}. **Arduino/gShield Motion Controller Kit** |
@@ -183,7 +190,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 <div class="note">
   <i class="fa fa-hand-o-right"></i>
   <span>
-    Skip this step if you did not order the 24V spindle
+    *Note:* Skip this step if you did not order the 24V spindle
   </span>
 </div>
 
@@ -223,7 +230,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 <div class="note">
   <i class="fa fa-hand-o-right"></i>
   <span>
-    Skip this step if you'll be controlling your spindle manually.
+    *Note:* Skip this step if you'll be controlling your spindle manually.
   </span>
 </div>
 
