@@ -87,7 +87,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 |\3{color:#fff;background: #6b4e40}. **ACME Lead Screw Kit** |
 | **SKU** | **Name** | **Quantity** |
-| 30396-01 | Lead Screw ACME | 1 |
+| 30396-02 | Lead Screw ACME | 1 |
 | 25280-02 | Delrin Nut ACME | 1 |
 | 25284-10 | Nylon Insert Lock Nut M6 | 1 |
 
