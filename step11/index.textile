@@ -141,6 +141,13 @@ h3. X-Axis Bracket Assembly
 
 Attach a female drag chain end to a drag chain bracket with two M4 flat head screws and two M4 nylock nuts.
 
+<div class="note">
+  <i class="fa fa-hand-o-right"></i>
+  <span>
+    *Note:* The female drag chain end comes attached to the 51 drag chain links and needs to be removed in order to be installed on the drag chain bracket.
+  </span>
+</div>
+
 !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1064/original/1626.jpg?1430276046! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1065/original/1627.jpg?1430276048! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1066/original/1629.jpg?1430276050! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1067/original/1631.jpg?1430276051!
 
 h3. Mount Drag Chain Bracket
