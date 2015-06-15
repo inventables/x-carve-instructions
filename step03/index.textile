@@ -130,6 +130,15 @@ Repeat with the second Y-Plate.
     </a>
     <div id="nema23" class="panel-collapse collapse" role="tabpanel" aria-labelledby="nema23-header">
       <div class="panel-body">
+<img src="P6120528EDIT.jpg">
+
+<div class="note">
+  <i class="fa fa-hand-o-right"></i>
+  <span>
+    *Note:* The current version of the Nema 23 Stepper Motor Kits do not have wires attached.  The wires come separately and plug directly into the connector on the stepper motor body.  The current motors also have a flat side on the motor shaft, which provides a more secure installation of the pulley.
+  </span>
+</div>
+
 <img src="0257.jpg">
 
 |\3{color:#fff;background: #cc3440}. **NEMA 23 Stepper Motor Kit** |
