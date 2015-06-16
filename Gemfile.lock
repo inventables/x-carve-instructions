@@ -136,10 +136,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (= 37)
-  jekyll-redirect-from
   jekyll-textile-converter
   json
   octopress-autoprefixer
-
-BUNDLED WITH
-   1.10.3
