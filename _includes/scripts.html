@@ -13,7 +13,7 @@
     , currentUrl = window.location.href;
   
   if (currentUrl.indexOf(githubBaseUrl) !== -1) {
-    window.location = currentUrl.replace(githubBaseUrl, inventablesBaseUrl);
+    window.location = currentUrl.replace(githubBaseUrl, inventablesBaseUrl).replace("https://", "http://");
   }
   
   $(function() {
