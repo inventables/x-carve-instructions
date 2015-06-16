@@ -5,6 +5,8 @@ category: step
 permalink: /
 next-step: /step02/
 next-step-title: "X Carriage"
+redirect_to:
+  - http://x-carve-instructions.inventables.com/
 ---
 
 <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_image_uploaded_images/1721/carousel/1430604400_X_Carve_angle_Logo_0015.jpg?1430604400" style="margin-bottom: 20px" />

@@ -9,3 +9,4 @@ gems:
 - jekyll-textile-converter
 - github-pages
 - octopress-autoprefixer
+- jekyll-redirect-from

@@ -9,3 +9,5 @@ gem 'github-pages', versions['github-pages']
 gem 'jekyll-textile-converter'
 
 gem 'octopress-autoprefixer'
+
+gem 'jekyll-redirect-from'
