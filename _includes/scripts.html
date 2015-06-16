@@ -8,11 +8,11 @@
 <script src="{{ "/js/expand-icons.js" | prepend: site.baseurl }}"></script>
 <script>
   // redirect to the canonical url if you happen upon the github project page url
-  var githubBaseUrl = 'http://inventables.github.io/x-carve-instructions'
-    , inventablesBaseUrl = 'http://x-carve-instructions.inventables.com'
+  var githubBaseUrl = 'inventables.github.io/x-carve-instructions'
+    , inventablesBaseUrl = 'x-carve-instructions.inventables.com'
     , currentUrl = window.location.href;
   
-  if (currentUrl.indexOf('http://inventables.github.io/x-carve-instructions') !== -1) {
+  if (currentUrl.indexOf(githubBaseUrl) !== -1) {
     window.location = currentUrl.replace(githubBaseUrl, inventablesBaseUrl);
   }
   
