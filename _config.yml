@@ -1,6 +1,6 @@
 # Site settings
 baseurl: ""
-url: "https://inventables.github.io/x-carve-instructions" # the base hostname & protocol for your site
+url: "http://x-carve-instructions.inventables.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
