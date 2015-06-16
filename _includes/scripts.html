@@ -7,8 +7,6 @@
 <script src="{{ "/js/sidebar.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/js/expand-icons.js" | prepend: site.baseurl }}"></script>
 <script>
-  smoothScroll.init();
-  
   // redirect to the canonical url if you happen upon the github project page url
   var githubBaseUrl = 'http://inventables.github.io/x-carve-instructions'
     , inventablesBaseUrl = 'http://x-carve-instructions.inventables.com'
@@ -17,4 +15,8 @@
   if (currentUrl.indexOf('http://inventables.github.io/x-carve-instructions') !== -1) {
     window.location = currentUrl.replace(githubBaseUrl, inventablesBaseUrl);
   }
+  
+  $(function() {
+    smoothScroll.init();
+  });
 </script>
