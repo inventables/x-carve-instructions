@@ -107,7 +107,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 |\3{color:#fff;background: #0a91d1}. **Arduino/gShield Motion Controller Kit** |
 | **SKU** | **Name** | **Quantity** |
 | 25368-03 | gShield V5 | 1 |
-| 30209-12 | Male Header Connector Right Angle 1 x 40 Pins | 1 |
+| 30457-05 | Male Header Connector Right Angle 1 x 40 Pins | 1 |
 
 Place the pins into the gShield making sure that the black plastic touches the top of the board. Solder each pin individually making sure to not "bridge" the pins by soldering them together. You may find it easier to solder the pins if you support them with a small object.
 <div class="row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/871/original/1004.jpg?1427990285! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/870/original/1006.jpg?1427990284! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/872/original/1008.jpg?1427990646! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/868/original/1014.jpg?1427990282!
