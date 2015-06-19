@@ -94,6 +94,17 @@ The eccentric nuts on your X-Carve are a slick little example of good engineerin
 
 If you purchased a stepper motor kit with your X-Carve, click on your chosen type below to mount your motors.
 
+<img src="PluginStepper.jpg">
+
+You may have received stepper motors with white connectors on them. Plug the provided four wire connectors in to the motors and follow the rest of the instructions. 
+
+<div class="note">
+  <i class="fa fa-hand-o-right"></i>
+  <span>
+    Note: Note: the connectors only go together one way, be sure to line up the tabs on the wire side to the slots on the motor side.
+  </span>
+</div>
+
 <div class="panel-group" id="motor-accordion" role="tablist" aria-multiselectable="true">
   <div class="panel panel-default">
     <a data-toggle="collapse" data-parent="#motor-accordion" href="#nema17" aria-expanded="false" aria-controls="nema17" class="panel-heading" role="tab" id="nema17-header">
