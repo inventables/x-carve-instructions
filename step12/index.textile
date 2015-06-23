@@ -9,13 +9,16 @@ next-step-title: "Work Area"
 grabcad-name1: "Spindle Carriage"
 grabcad-url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/file/22283285"
 ---
-<div class="note">
-  <i class="fa fa-hand-o-right"></i>
-  <span>
-  Note: If you are not using the default spindle, use the table of contents to the right to find instructions for your specific mount.
-  </span>
-</div>
 
+For mounting instructions, select your spindle choice below.
+
+<div class="panel-group" id="spindle-accordion" role="tablist" aria-multiselectable="true">
+  <div class="panel panel-default">
+    <a data-toggle="collapse" data-parent="#spindle-accordion" href="#spindle" aria-expanded="false" aria-controls="spindle" class="panel-heading" role="tab" id="spindle-header">
+      <h4 class="panel-title">24V DC Spindle</h4>
+    </a>
+    <div id="spindle" class="panel-collapse collapse" role="tabpanel" aria-labelledby="spindle-header">
+      <div class="panel-body">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wz3ZoGK_HIk" frameborder="0" allowfullscreen></iframe>
 
 |\3{color:#fff;background: #42a44e}. **300W 24VDC Spindle Kit** |
@@ -37,47 +40,94 @@ grabcad-url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvY
 
 You'll start by putting V-Wheels followed by spacers onto the 35mm Button Head Cap Screws. put the screws through the backside of the Spindle Carriage and fasten them with nylock and eccentric nuts. just like the X Carriage and Y-Plates there are larger holes that are designed to accept the eccentric nuts.
 
-!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/831/original/0790.jpg?1425391334! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/832/original/0791.jpg?1425391336! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/833/original/0793.jpg?1425391337! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/843/original/0796.jpg?1425392191!
+<div class="row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/831/original/0790.jpg?1425391334! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/832/original/0791.jpg?1425391336! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/833/original/0793.jpg?1425391337! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/843/original/0796.jpg?1425392191!
+</div>
 
 <h3 id="attach-spindle-carriage">2. Attach the Spindle Carriage to the Drive Rod</h3>
 
 Slide the V-Wheels onto the Z-Axis Makerslide. Move the Spindle Carriage up the Z-Axis until the Delrin Nut aligns with the mounting holes. Insert two M5 x 10mm Button Head Cap Screws through the plate and into the Delrin Nut. Tighten them alternately until they are both just past finger tight.
 
-!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/835/original/0803.jpg?1425391471! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/836/original/0805.jpg?1425391472! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/837/original/0806.jpg?1425391473! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/838/original/0808.jpg?1425391474!
+<div class="row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/835/original/0803.jpg?1425391471! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/836/original/0805.jpg?1425391472! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/837/original/0806.jpg?1425391473! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/838/original/0808.jpg?1425391474!
+</div>
 
 <h3 id="insert-spindle">3. Insert the Spindle</h3>
 
 Put the Spindle into the Spindle Carriage. Make sure the spacer around the body of the Spindle stays flush with the bottom of the can. You may need to push with a little force to get the Spindle all of the way into the Spindle Carriage. Insert and alternately tighten the M4 x 10mm Low Profile Screws. You'll want to tighten these screws firmly, but don't over tighten to the point that your clamp is narrower at the top than at the bottom.
 
-!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/839/original/0817.jpg?1425391592! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/840/original/0818.jpg?1425391593! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/841/original/0819.jpg?1425391594!
+<div class="row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/839/original/0817.jpg?1425391592! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/840/original/0818.jpg?1425391593! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/841/original/0819.jpg?1425391594!
+</div>
 
 If you're using terminal blocks to wire your machine put the ends of the %{color:red}**red**% and %{color:black}**black**% wires into the matching terminals of the 10 block terminal on the back of the X Carriage.
 
-<h3 id="dewalt-611">Mounting DeWalt 611</h3>
+      </div>
+    </div>
+  </div>
+  <div class="panel panel-default">
+    <a data-toggle="collapse" data-parent="#spindle-accordion" href="#dewalt-611" aria-expanded="false" aria-controls="dewalt-611" class="panel-heading" role="tab" id="dewalt-611-header">
+      <h4 class="panel-title">Dewalt 661</h4>
+    </a>
+    <div id="dewalt-611" class="panel-collapse collapse" role="tabpanel" aria-labelledby="dewalt-611-header">
+      <div class="panel-body">
 
-To mount your DeWalt 611 router follow steps 1 and 2 for the 24V spindle mount, but use 16mm M5 Button Head Cap Screws to attach the mount to the Delrin Nut.
+        <h3>Mounting DeWalt 611</h3>
 
-<img class="vertical-img" src="611Mount1.jpg">
+        To mount your DeWalt 611 router follow steps 1 and 2 for the 24V spindle mount, but use 16mm M5 Button Head Cap Screws to attach the mount to the Delrin Nut.
 
-The fit between the router and your mount will be snug. You can use a flat head screw driver to gently pry the clamp open in order to insert your router.
+        <img class="vertical-img" src="611Mount1.jpg">
 
-<img class="vertical-img" src="611Mount2.jpg">
+        The fit between the router and your mount will be snug. You can use a flat head screw driver to gently pry the clamp open in order to insert your router.
 
-Be sure that the router body sticks out at least 1/4" from the bottom of the mount.
+        <img class="vertical-img" src="611Mount2.jpg">
 
-<img src="611Mount3.jpg">
+        Be sure that the router body sticks out at least 1/4" from the bottom of the mount.
 
-Altenately tighten the the M4 Socket Head Cap Screws to clamp the router into the mount. These screws should be tight, but it is possible to strip the threads in the mount so do not overtighten.
+        <img src="611Mount3.jpg">
 
-<img class="vertical-img" src="611Mount4.jpg">
+        Altenately tighten the the M4 Socket Head Cap Screws to clamp the router into the mount. These screws should be tight, but it is possible to strip the threads in the mount so do not overtighten.
 
-The housing of your router may just touch your Z-Plate during a homing cycle. Do not worry this will not affect your homing cycle or your Z-Axis movement.
+        <img class="vertical-img" src="611Mount4.jpg">
 
-<img class="vertical-img" src="611Mount5.jpg">
+        The housing of your router may just touch your Z-Plate during a homing cycle. Do not worry this will not affect your homing cycle or your Z-Axis movement.
 
-<h3 id="dewalt-dw660">Mounting DeWalt DW660</h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VGZ3SmE7gsA" frameborder="0" allowfullscreen></iframe>
-<h3 id="bosch-colt">Mounting Bosch Colt</h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZPa6D1egveE" frameborder="0" allowfullscreen></iframe>
-<h3 id="quiet-cut">Mounting Quiet Cut Spindle</h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HQoC_W6kdV0" frameborder="0" allowfullscreen></iframe>
+        <img class="vertical-img" src="611Mount5.jpg">
+
+      </div>
+    </div>
+  </div>
+
+  <div class="panel panel-default">
+    <a data-toggle="collapse" data-parent="#spindle-accordion" href="#dewalt-dw660" aria-expanded="false" aria-controls="dewalt-dw660" class="panel-heading" role="tab" id="dewalt-dw660-header">
+      <h4 class="panel-title">Dewalt DW660</h4>
+    </a>
+    <div id="dewalt-dw660" class="panel-collapse collapse" role="tabpanel" aria-labelledby="dewalt-dw660-header">
+      <div class="panel-body">
+        <h3>Mounting DeWalt DW660</h3>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/VGZ3SmE7gsA" frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+
+  <div class="panel panel-default">
+    <a data-toggle="collapse" data-parent="#spindle-accordion" href="#bosch-colt" aria-expanded="false" aria-controls="bosch-colt" class="panel-heading" role="tab" id="bosch-colt-header">
+      <h4 class="panel-title">Bosch Colt</h4>
+    </a>
+    <div id="bosch-colt" class="panel-collapse collapse" role="tabpanel" aria-labelledby="bosch-colt-header">
+      <div class="panel-body">
+        <h3>Mounting Bosch Colt</h3>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/ZPa6D1egveE" frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+
+  <div class="panel panel-default">
+    <a data-toggle="collapse" data-parent="#spindle-accordion" href="#quiet-cut" aria-expanded="false" aria-controls="quiet-cut" class="panel-heading" role="tab" id="quiet-cut-header">
+      <h4 class="panel-title">Quiet Cut Spindle</h4>
+    </a>
+    <div id="quiet-cut" class="panel-collapse collapse" role="tabpanel" aria-labelledby="quiet-cut-header">
+      <div class="panel-body">
+        <h3>Mounting Quiet Cut Spindle</h3>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/HQoC_W6kdV0" frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+</div>

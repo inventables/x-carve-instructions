@@ -102,21 +102,6 @@ stepnav:
   url: /step11/
 - title: Spindle Mount
   url: /step12/
-  subnav:
-  - title: Attach V-Wheels
-    url: '#attach-v-wheels'
-  - title: Attach Spindle Carriage
-    url: '#attach-spindle-carriage'
-  - title: Insert the Spindle
-    url: '#insert-spindle'
-  - title: Mounting DeWalt 611
-    url: '#dewalt-611'
-  - title: Mounting Dewalt DW660
-    url: '#dewalt-dw660'
-  - title: Mounting Bosch Colt
-    url: '#bosch-colt'
-  - title: Mounting Quiet Cut Spindle
-    url: '#quiet-cut'
 - title: Work Area
   url: /step13/
 - title: Electronics
