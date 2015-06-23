@@ -109,6 +109,8 @@ stepnav:
     url: '#attach-spindle-carriage'
   - title: Insert the Spindle
     url: '#insert-spindle'
+  - title: Mounting DeWalt 611
+    url: '#dewalt-611'
   - title: Mounting Dewalt DW660
     url: '#dewalt-dw660'
   - title: Mounting Bosch Colt
@@ -136,7 +138,7 @@ stepnav:
     url: '#mount-arduino'
   - title: Mount the gShield
     url: '#mount-gshield'
-  - title: Power gShield and 24V Fan 
+  - title: Power gShield and 24V Fan
     url: '#power-gshield'
   - title: Power 24V Spindle
     url: '#power-spindle'

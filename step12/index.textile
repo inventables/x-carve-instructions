@@ -9,6 +9,13 @@ next-step-title: "Work Area"
 grabcad-name1: "Spindle Carriage"
 grabcad-url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/file/22283285"
 ---
+<div class="note">
+  <i class="fa fa-hand-o-right"></i>
+  <span>
+  Note: If you are not using the default spindle, use the table of contents to the right to find instructions for your specific mount.
+  </span>
+</div>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wz3ZoGK_HIk" frameborder="0" allowfullscreen></iframe>
 
 |\3{color:#fff;background: #42a44e}. **300W 24VDC Spindle Kit** |
@@ -46,7 +53,7 @@ Put the Spindle into the Spindle Carriage. Make sure the spacer around the body 
 
 If you're using terminal blocks to wire your machine put the ends of the %{color:red}**red**% and %{color:black}**black**% wires into the matching terminals of the 10 block terminal on the back of the X Carriage.
 
-<h3 id="mounting-dewalt-611"> Mounting DeWalt 611 </h3>
+<h3 id="dewalt-611">Mounting DeWalt 611</h3>
 
 To mount your DeWalt 611 router follow steps 1 and 2 for the 24V spindle mount, but use 16mm M5 Button Head Cap Screws to attach the mount to the Delrin Nut.
 
@@ -68,7 +75,7 @@ The housing of your router may just touch your Z-Plate during a homing cycle. Do
 
 <img class="vertical-img" src="611Mount5.jpg">
 
-<h3 id="dewalt-dw660">Mounting Dewalt DW660</h3>
+<h3 id="dewalt-dw660">Mounting DeWalt DW660</h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VGZ3SmE7gsA" frameborder="0" allowfullscreen></iframe>
 <h3 id="bosch-colt">Mounting Bosch Colt</h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZPa6D1egveE" frameborder="0" allowfullscreen></iframe>
