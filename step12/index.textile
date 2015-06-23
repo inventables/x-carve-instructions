@@ -44,7 +44,29 @@ Put the Spindle into the Spindle Carriage. Make sure the spacer around the body 
 
 !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/839/original/0817.jpg?1425391592! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/840/original/0818.jpg?1425391593! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/841/original/0819.jpg?1425391594!
 
-If you're using terminal blocks to wire your machine put the ends of the %{color:red}**red**% and %{color:black}**black**% wires into the matching terminals of the 10 block terminal on the back of the X Carriage. 
+If you're using terminal blocks to wire your machine put the ends of the %{color:red}**red**% and %{color:black}**black**% wires into the matching terminals of the 10 block terminal on the back of the X Carriage.
+
+<h3 id="mounting-dewalt-611"> Mounting DeWalt 611 </h3>
+
+To mount your DeWalt 611 router follow steps 1 and 2 for the 24V spindle mount, but use 16mm M5 Button Head Cap Screws to attach the mount to the Delrin Nut.
+
+<img class="vertical-img" src="611Mount1.jpg">
+
+The fit between the router and your mount will be snug. You can use a flat head screw driver to gently pry the clamp open in order to insert your router.
+
+<img class="vertical-img" src="611Mount2.jpg">
+
+Be sure that the router body sticks out at least 1/4" from the bottom of the mount.
+
+<img src="611Mount3.jpg">
+
+Altenately tighten the the M4 Socket Head Cap Screws to clamp the router into the mount. These screws should be tight, but it is possible to strip the threads in the mount so do not overtighten.
+
+<img class="vertical-img" src="611Mount4.jpg">
+
+The housing of your router may just touch your Z-Plate during a homing cycle. Do not worry this will not affect your homing cycle or your Z-Axis movement.
+
+<img class="vertical-img" src="611Mount5.jpg">
 
 <h3 id="dewalt-dw660">Mounting Dewalt DW660</h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VGZ3SmE7gsA" frameborder="0" allowfullscreen></iframe>

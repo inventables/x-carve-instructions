@@ -139,3 +139,6 @@ DEPENDENCIES
   jekyll-textile-converter
   json
   octopress-autoprefixer
+
+BUNDLED WITH
+   1.10.4
