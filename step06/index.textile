@@ -9,8 +9,11 @@ next-step-title: "Z-Axis"
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JXco1gg48Y8" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g0HRqtWj0qM" frameborder="0" allowfullscreen></iframe>
-
+<div class="callout">
+  <b><i class="fa fa-star"></i> Tips and tricks for belt tensioning</b>
+  <span>Video contributed by <a href="https://discuss.inventables.com/users/peterjames">Peter James</a></span>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/g0HRqtWj0qM" frameborder="0" allowfullscreen></iframe>
+</div>
 |\3. **Rail Kit** |
 | **SKU** | **Name** | **Quantity** |
 | 26053-01 | GT2 Belting - Open Ended | 7 (feet) |
@@ -83,7 +86,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 Tighten the 8mm screw into the insertion nut in the Makerslide all of the way down and then back it off *less than a quarter of a turn*. If you loosen this screw too much the belt will slip when you tighten it. Slide the belt clip along the X-Axis and push the 25mm screw through the hole in the right Y Motor Plate.
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/847/original/1438.jpg?1425393672! 
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/847/original/1438.jpg?1425393672!
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/848/original/1440.jpg?1425393673!
 
@@ -95,9 +98,9 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 </div>
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/849/original/1441.jpg?1425393674!
- 
+
 Using an allen wrench, push the 25mm screw through the hole, and thread an M5 nylock nut onto it to fasten it to the Y Plate. Tighten the nut until the belt is taut and you can pluck it like a loose guitar string, then tighten the 8mm screw all the way down.
 
 <h3 id="repeat">3. Repeat for Y-Axis</h3>
 
-Repeat this process two more times for the left and right Y-axis assemblies. 
+Repeat this process two more times for the left and right Y-axis assemblies.

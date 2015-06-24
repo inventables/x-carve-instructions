@@ -156,3 +156,16 @@
   display: block;
   margin: 0 auto;
 }
+
+.callout {
+  border: 1px solid #c8c8c8;
+  background: #e6f0fb;
+  padding: 10px;
+  display: inline-block;
+  margin-bottom: 16px;
+
+  span {
+    font-size: 70%;
+    display: block;
+  }
+}
