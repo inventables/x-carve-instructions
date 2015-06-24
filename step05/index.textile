@@ -74,7 +74,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 <div class="note">
   <i class="fa fa-hand-o-right"></i>
   <span class="note-text">
-    Skip this step if you ordered the 1000mm rail kit.
+    *This step is for 500mm X-Carves ONLY; please skip this step if you ordered the 1000mm rail kit.*
   </span>
 </div>
 
