@@ -83,7 +83,7 @@ If you're using terminal blocks to wire your machine put the ends of the %{color
 
         <img src="611Mount3.jpg">
 
-        Altenately tighten the the M4 Socket Head Cap Screws to clamp the router into the mount. These screws should be tight, but it is possible to strip the threads in the mount so do not overtighten.
+        Alternately tighten the M4 Socket Head Cap Screws to clamp the router into the mount with even pressure. These screws should be tight, but it is possible to strip the threads in the mount so do not overtighten.
 
         <img class="vertical-img" src="611Mount4.jpg">
 
