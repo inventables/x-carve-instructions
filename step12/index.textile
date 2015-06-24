@@ -64,14 +64,14 @@ If you're using terminal blocks to wire your machine put the ends of the %{color
   </div>
   <div class="panel panel-default">
     <a data-toggle="collapse" data-parent="#spindle-accordion" href="#dewalt-611" aria-expanded="false" aria-controls="dewalt-611" class="panel-heading" role="tab" id="dewalt-611-header">
-      <h4 class="panel-title">Dewalt 661</h4>
+      <h4 class="panel-title">Dewalt DWP611</h4>
     </a>
     <div id="dewalt-611" class="panel-collapse collapse" role="tabpanel" aria-labelledby="dewalt-611-header">
       <div class="panel-body">
 
-        <h3>Mounting DeWalt 611</h3>
+        <h3>Mounting Dewalt DWP611</h3>
 
-        To mount your DeWalt 611 router follow steps 1 and 2 for the 24V spindle mount, but use 16mm M5 Button Head Cap Screws to attach the mount to the Delrin Nut.
+        To mount your Dewalt DWP611 router follow steps 1 and 2 for the 24V spindle mount, but use 16mm M5 Button Head Cap Screws to attach the mount to the Delrin Nut.
 
         <img class="vertical-img" src="611Mount1.jpg">
 
