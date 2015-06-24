@@ -79,7 +79,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 <div class="note">
   <i class="fa fa-hand-o-right"></i>
-  <span>
+  <span class="note-text">
     Note: It may a little difficult to get the 8mm screw into the belt clip as the head of the 25mm screw will be in the way. Use your wrench to push straight down on the head and it will snap into place.
   </span>
 </div>
@@ -92,7 +92,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 <div class="note">
   <i class="fa fa-hand-o-right"></i>
-  <span>
+  <span class="note-text">
     Note: You’ll want to adjust the length of belt that goes through the clip until it takes a little bit of force to get the longer screw to the edge of the hole.  Once you have the belt adjusted, you can use a zip tie or some electrical tape to keep the teeth of the doubled-over belt engaged.  This will help keep the belt from slipping while you tighten the longer screw.
   </span>
 </div>

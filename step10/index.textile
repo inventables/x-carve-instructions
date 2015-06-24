@@ -17,7 +17,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 <h3 id="secure-wires">2. Secure Wires in Terminal Blocks</h3>
 
-Next insert the stepper motor wires for the X and Z motors into the corresponding terminal blocks. To keep wiring consistent work from left to right and keep the order of %{color:red}**red**%, %{color:blue}**blue**%, %{color:green}**green**% and %{color:black}**black**%. 
+Next insert the stepper motor wires for the X and Z motors into the corresponding terminal blocks. To keep wiring consistent work from left to right and keep the order of %{color:red}**red**%, %{color:blue}**blue**%, %{color:green}**green**% and %{color:black}**black**%.
 
 h4. X-Motor
 
@@ -26,7 +26,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 h4. Z-Motor
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/763/original/0686.jpg?1425052769!
- 
+
 h4. Right Y-Motor
 
 Next insert the stepper motor wires for the *right Y-Motor* into the corresponding terminal block. To keep wiring consistent work from left to right and keep the order of %{color:red}**red**%, %{color:blue}**blue**%, %{color:green}**green**% and %{color:black}**black**%.
@@ -125,7 +125,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 <div class="note">
   <i class="fa fa-hand-o-right"></i>
-  <span>
+  <span class="note-text">
     Heating the switch for too long may damage it, try to work as quickly as possible when soldering the wires to the tabs.
   </span>
 </div>

@@ -24,7 +24,7 @@ grabcad-url1: https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYk
 
 <h3 id="attach-end-plates">1. Attach End Plates to Makerslide</h3>
 
-You’re going to use self tapping screws again. This time you'll attach a piece of Makerslide to an end plate. Make sure you use the correct holes in the end plate and that you orient the two pieces correctly.  
+You’re going to use self tapping screws again. This time you'll attach a piece of Makerslide to an end plate. Make sure you use the correct holes in the end plate and that you orient the two pieces correctly.
 
 **If you have limit switches, make sure the slot on the Makerslide is oriented in the upper position.**  This slot is used to attach the limit switch "actuator" and will not be aligned with the switch if the Makerslide is positioned incorrectly.
 
@@ -34,7 +34,7 @@ You’re going to use self tapping screws again. This time you'll attach a piece
 
 <div class="note">
   <i class="fa fa-hand-o-right"></i>
-  <span>
+  <span class="note-text">
     Note: You want to make sure that the rails of the Makerslide are on the flat side of the end plate and that you leave one hole open on the top side of the end plate.
   </span>
 </div>
@@ -73,7 +73,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 <div class="note">
   <i class="fa fa-hand-o-right"></i>
-  <span>
+  <span class="note-text">
     Skip this step if you ordered the 1000mm rail kit.
   </span>
 </div>
@@ -91,13 +91,13 @@ You’ll connect the two y-axes with extrusions in the front and back of the mac
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/541/original/0379.jpg?1424363431!
 
-Slide the insertion nuts into the extrusions and fasten the end plates to them with 8mm screws: 
+Slide the insertion nuts into the extrusions and fasten the end plates to them with 8mm screws:
 <div class="row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/625/original/0380.jpg?1424385401! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/626/original/0382.jpg?1424385402! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/627/original/0385.jpg?1424385403! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/628/original/0386.jpg?1424385404!
 </div>
 
 <div class="note">
   <i class="fa fa-hand-o-right"></i>
-  <span>
+  <span class="note-text">
     Note: You can use your wrench to align the insertion nut with the hole on the end plate.
   </span>
 </div>

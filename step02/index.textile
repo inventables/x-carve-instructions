@@ -37,7 +37,7 @@ Next you’ll put a spacer onto the screw followed by the smooth idler and a nyl
 
 <div class="note">
   <i class="fa fa-hand-o-right"></i>
-  <span>
+  <span class="note-text">
     Note: make sure the side of the Smooth Idler with the protruding bearing is installed next to the aluminum spacer.  If not, the plastic portion of the Smooth Idler may get in the way of the screws used to mount your stepper motor.
   </span>
 </div>
@@ -54,7 +54,7 @@ Next you’ll be attaching the V-Wheels. There will be eight V-Wheels on the X C
 
 !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/760/original/X-Carriage%20V-Wheel%20Mounting%20Holes.png?1424562878!
 
-Start by attaching one of the top four V-Wheels with nylock nuts. You’ll insert a 25mm button head cap screw into this hole on the X Carriage. 
+Start by attaching one of the top four V-Wheels with nylock nuts. You’ll insert a 25mm button head cap screw into this hole on the X Carriage.
 
 !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/642/original/0028.jpg?1424455895!
 
@@ -70,7 +70,7 @@ Next you’ll attach the bottom V-Wheels with eccentric nuts. These nuts have a 
 
 !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/488/span4/Eccentric%20Nut.jpg?1423759789!
 
-You'll need to adjust them later so put a V-Wheel and then a washer onto a screw and insert it into the X Carriage from the inside. 
+You'll need to adjust them later so put a V-Wheel and then a washer onto a screw and insert it into the X Carriage from the inside.
 
 !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/483/original/0050.jpg?1423679351!
 
@@ -96,12 +96,12 @@ If you purchased a stepper motor kit with your X-Carve, click on your chosen typ
 
 <img src="PluginStepper.jpg">
 
-You may have received stepper motors with white connectors on them. Plug the provided four wire connectors in to the motors and follow the rest of the instructions. 
+You may have received stepper motors with white connectors on them. Plug the provided four wire connectors in to the motors and follow the rest of the instructions.
 
 <div class="note">
   <i class="fa fa-hand-o-right"></i>
-  <span>
-    Note: Note: the connectors only go together one way, be sure to line up the tabs on the wire side to the slots on the motor side.
+  <span class="note-text">
+    Note: the connectors only go together one way, be sure to line up the tabs on the wire side to the slots on the motor side.
   </span>
 </div>
 
@@ -159,8 +159,8 @@ Put a washer on each screw and insert them  from the opposite side of the X Carr
 
 <div class="note">
   <i class="fa fa-hand-o-right"></i>
-  <span>
-    *Note:* The current version of the Nema 23 Stepper Motor Kits do not have wires attached.  The wires come separately and plug directly into the connector on the stepper motor body.  The current motors also have a flat side on the motor shaft, which provides a more secure installation of the pulley.
+  <span class="note-text">
+    Note: The current version of the Nema 23 Stepper Motor Kits do not have wires attached.  The wires come separately and plug directly into the connector on the stepper motor body.  The current motors also have a flat side on the motor shaft, which provides a more secure installation of the pulley.
   </span>
 </div>
 
@@ -174,7 +174,7 @@ Put a washer on each screw and insert them  from the opposite side of the X Carr
 
 Start this step by putting a pulley on your NEMA 23 stepper motor. You will use two set screws to hold it in place. Slide it on so the edge is flush with the end of the motor shaft and tighten the screws just enough to hold it in place.
 
-!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/667/original/0139.jpg?1424462093! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/668/original/0141.jpg?1424462104! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/669/original/0143.jpg?1424462115! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/670/original/0148.jpg?1424462125! 
+!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/667/original/0139.jpg?1424462093! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/668/original/0141.jpg?1424462104! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/669/original/0143.jpg?1424462115! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/670/original/0148.jpg?1424462125!
 
 
 The NEMA 23 mounting holes on the X Carriage are tapped. Simply insert the screws through the motor housing and screw them into the X Carriage. Get all of the screws finger tight and then tighten them in an x-pattern with moderate force . Be sure to orient the wires of your stepper motor towards the bottom of the X Carriage.
@@ -196,7 +196,7 @@ The NEMA 23 mounting holes on the X Carriage are tapped. Simply insert the screw
 <img src="0728.jpg">
 
 If you purchased a drag chain kit with your X-Carve, click on your chosen type below to mount your drag chain ends.
- 
+
 <div class="panel-group" id="drag-chain-accordion" role="tablist" aria-multiselectable="true">
   <div class="panel panel-default">
     <a data-toggle="collapse" data-parent="#drag-chain-accordion" href="#500mm-drag-chain" aria-expanded="false" aria-controls="500mm-drag-chain" class="panel-heading" role="tab" id="500mm-drag-chain-header">
@@ -258,7 +258,7 @@ If you purchased a 1000mm X-Carve attach the male drag chain end to the angle br
 <div class="row">
   <img src="1616.jpg" class="thumbnail col-md-3">
   <img src="1621.jpg" class="thumbnail col-md-3">
-  <img src="1622.jpg" class="thumbnail col-md-3"> 
+  <img src="1622.jpg" class="thumbnail col-md-3">
   <img src="6613.jpg" class="thumbnail col-md-3">
 </div>
 
@@ -273,7 +273,7 @@ If you purchased a 1000mm X-Carve attach the male drag chain end to the angle br
 
 If you purchased a wiring kit with your X-Carve, click below to mount your terminal block.
 
- 
+
 <div class="panel-group" id="wiring-accordion" role="tablist" aria-multiselectable="true">
   <div class="panel panel-default">
     <a data-toggle="collapse" data-parent="#wiring-accordion" href="#wiring" aria-expanded="false" aria-controls="wiring" class="panel-heading" role="tab" id="wiring-header">

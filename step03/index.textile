@@ -33,11 +33,11 @@ You'll mount two smooth idlers to each Y-Plate. These are the mounting holes:
 
 !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/680/original/Y-Plates%20Smooth%20Idler%20Holes.png?1424463927!
 
-To mount a smooth idler to your Y-Plate slide it onto a 35mm screw followed by an aluminum spacer. Remember that the smooth idler is an asymmetrical part. 
+To mount a smooth idler to your Y-Plate slide it onto a 35mm screw followed by an aluminum spacer. Remember that the smooth idler is an asymmetrical part.
 
 <div class="note">
   <i class="fa fa-hand-o-right"></i>
-  <span>
+  <span class="note-text">
     Just as in the X-Carriage assembly, make sure the side of the Smooth Idler with the protruding bearing is installed next to the aluminum spacer.
   </span>
 </div>
@@ -134,7 +134,7 @@ Repeat with the second Y-Plate.
 
 <div class="note">
   <i class="fa fa-hand-o-right"></i>
-  <span>
+  <span class="note-text">
     *Note:* The current version of the Nema 23 Stepper Motor Kits do not have wires attached.  The wires come separately and plug directly into the connector on the stepper motor body.  The current motors also have a flat side on the motor shaft, which provides a more secure installation of the pulley.
   </span>
 </div>
@@ -194,7 +194,7 @@ If you purchased drag chain with your 500mm X-Carve now is the time to attach a 
 !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/529/original/0941.jpg?1424299278!
 
 !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/530/original/0942.jpg?1424299287!
-        
+
       </div>
     </div>
   </div>
@@ -218,11 +218,11 @@ If you purchased drag chain with your 500mm X-Carve now is the time to attach a 
 
 If you purchased drag chain with your 1000mm X-Carve now is the time to attach a male drag chain end to the left Y-Plate. Check the photo to see which Y-Plate is the left one. It's not so easy to tell yet. Affix the drag chain end to the angle bracket and then the Y-Plate like this:
 
-!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/912/original/1606.jpg?1429812937! 
+!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/912/original/1606.jpg?1429812937!
 
-!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/911/original/1607.jpg?1429812935! 
+!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/911/original/1607.jpg?1429812935!
 
-!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/910/original/1612.jpg?1429812934! 
+!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/910/original/1612.jpg?1429812934!
 
 !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/909/original/1613.jpg?1429812933!
 
@@ -292,11 +292,11 @@ If you purchased a limit switch kit with your X-Carve, click below to mount your
 
 Put the lock washers onto the screws and insert them through the switch and into the holes on the left Y-Plate. Use a pair of pliers and a screwdriver to snug these down just past finger tight.
 
-!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/862/original/1485.jpg?1427919741! 
+!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/862/original/1485.jpg?1427919741!
 
-!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/861/original/1488.jpg?1427919740! 
+!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/861/original/1488.jpg?1427919740!
 
-!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/860/original/1498.jpg?1427919739! 
+!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/860/original/1498.jpg?1427919739!
 
 !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/859/original/1500.jpg?1427919737!
 	  </div>

@@ -27,7 +27,7 @@ Start by mounting the Power Supply Circuit Board to the Power Supply. You'll see
 
 <div class="note">
   <i class="fa fa-hand-o-right"></i>
-  <span>
+  <span class="note-text">
     *Note:* Your 24V Power Supply has a toggle switch for input voltage on the side. Use a small flat-blade screwdriver to switch it to the voltage that corresponds to your outlet voltage.
   </span>
 </div>
@@ -97,7 +97,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 <div class="note">
   <i class="fa fa-hand-o-right"></i>
-  <span>
+  <span class="note-text">
     *Note:* Skip this step if you did not order limit switches and/or PWM spindle control
   </span>
 </div>
@@ -145,7 +145,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 <div class="note">
   <i class="fa fa-hand-o-right"></i>
-  <span>
+  <span class="note-text">
     *Note:* Nylon spacers are not required to mount the Arduino to the enclosure.
   </span>
 </div>
@@ -189,7 +189,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 <div class="note">
   <i class="fa fa-hand-o-right"></i>
-  <span>
+  <span class="note-text">
     *Note:* Skip this step if you did not order the 24V spindle
   </span>
 </div>
@@ -206,7 +206,7 @@ Strip the zip wire from your spindle and put the ends into the remaining spots o
 | 25285-30 | Socket Head Cap Screw M3 x 6mm | 2 |
 |   | Power Supply Assembly | 1 |
 
-Place the top of the gShield enclosure on to the bottom. 
+Place the top of the gShield enclosure on to the bottom.
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/878/original/1141.jpg?1427991581!
 
@@ -229,7 +229,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 <div class="note">
   <i class="fa fa-hand-o-right"></i>
-  <span>
+  <span class="note-text">
     *Note:* Skip this step if you'll be controlling your spindle manually.
   </span>
 </div>
@@ -262,9 +262,9 @@ Insert the crimped pins into the header connector as shown. They should click wh
 | **SKU** | **Name** | **Quantity** |
 | 30210-03 | Header Crimp Contact 0.100" Female 10 Pins | 3 (pins) |
 
-Crimp the white ends of each limit switch wire pair. Insert them into the Header Connector. 
+Crimp the white ends of each limit switch wire pair. Insert them into the Header Connector.
 
-**The order of the white wires from left to right is X, Y, Z.** 
+**The order of the white wires from left to right is X, Y, Z.**
 
 Solder the black wires of each pair together and insert them into the GND terminal of the gShield (you will have to temporarily remove the top of the gShield enclosure to do this).
 
@@ -276,7 +276,7 @@ Solder the black wires of each pair together and insert them into the GND termin
 | 25285-36 | Socket Head Cap Screw M5 x 16mm | 2 |
 | 26016-03 | T-Slot Nut M5 Post-Assembly (Insertion Nut) | 2 |
 
-Now is a good time to add the "actuators" for the limit switches. Start with the X-Axis limit switch actuator. Push the post assembly insertion nut into the rear piece of X-Axis Makerslide. Screw the M5 screw into the insertion nut. Adjust the placement of the insertion nut by loosening the screw and sliding it left and right. When the actuator is in the right place you'll be able to activate the switch (you'll hear a gentle click) without the X Carriage contacting the smooth idlers on the left Y-Plate. 
+Now is a good time to add the "actuators" for the limit switches. Start with the X-Axis limit switch actuator. Push the post assembly insertion nut into the rear piece of X-Axis Makerslide. Screw the M5 screw into the insertion nut. Adjust the placement of the insertion nut by loosening the screw and sliding it left and right. When the actuator is in the right place you'll be able to activate the switch (you'll hear a gentle click) without the X Carriage contacting the smooth idlers on the left Y-Plate.
 
 <div class="row"> !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/900/original/1228.jpg?1428001046! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/899/original/1231.jpg?1428001045! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/898/original/1232.jpg?1428001044! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/897/original/1233.jpg?1428001043!
 </div>

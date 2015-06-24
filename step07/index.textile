@@ -42,7 +42,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 <div class="note">
   <i class="fa fa-hand-o-right"></i>
-  <span>
+  <span class="note-text">
     Note: The flange on the bearing is facing down and the rails of the Makerslide are facing forward.
   </span>
 </div>
@@ -96,12 +96,12 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 <div class="note">
   <i class="fa fa-hand-o-right"></i>
-  <span>
+  <span class="note-text">
     Note: The bottom of the Z-Axis will not be flush with the X Carriage, it will protrude slightly.
   </span>
 </div>
 
-Tighten all four screws that capture the Z-Axis. Alternate between screws in an x-pattern to maintain alignment. 
+Tighten all four screws that capture the Z-Axis. Alternate between screws in an x-pattern to maintain alignment.
 
 Rock the machine back on to its feet again to continue:
 
@@ -111,7 +111,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 <div class="note">
   <i class="fa fa-hand-o-right"></i>
-  <span>
+  <span class="note-text">
     If you did not purchase limit switches, skip this step.
   </span>
 </div>

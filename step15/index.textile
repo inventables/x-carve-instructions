@@ -5,7 +5,7 @@ time-estimate: 15
 category: step
 permalink: /step15/
 ---
-h3. Congratulations!!  
+h3. Congratulations!!
 
 Way to go, you finished assembling your machine!  Check out this tuning video to make sure you've got everything assembled and working the way it should.
 
