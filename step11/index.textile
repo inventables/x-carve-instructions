@@ -160,7 +160,12 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 Snap the drag chain with all of the wires inside of it to the bracket you just mounted.
 
-p=(note). Stop your drag chain assembly here. The remaining steps to install the drag chain on your 1000mm X-Carve will be detailed in the Work Area section when mounting the waste board.
+<div class="note">
+  <i class="fa fa-hand-o-right"></i>
+  <span>
+    *Note:* *Stop your drag chain assembly here.* The remaining steps to install the drag chain on your 1000mm X-Carve will be detailed in the Work Area section when mounting the waste board.
+  </span>
+</div>
 	  </div>
 	</div>
   </div>
