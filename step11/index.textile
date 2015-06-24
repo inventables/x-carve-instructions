@@ -44,14 +44,14 @@ Click below to select your chosen drag chain.
 |\3{color:#fff;background: #8a52a1}. **500mm Drag Chain Kit** |
 | **SKU** | **Name** | **Quantity** |
 | 30331-09 | Drag Chain 27 Links | 2 |
-| 30331-09 | Drag Chain Female End Link | 2 |
+| 30331-09 | Drag Chain Female End Link (attached) | 2 |
 | 30527-01 | Drag Chain Bracket | 2 |
 | 30554-01 | Flat Head Socket Cap Screw M4 x 10mm | 4 |
 | 30265-03 | Nylon Insert Lock Nut M4 | 4 |
 
-You should have two lengths of drag chain with the ends removed. Note that it flexes in one direction and is stiff in the other direction.
+You should have two lengths of drag chain, each with one of the male end links removed. Note that it flexes in one direction and is stiff in the other direction.
 
-Take one length of drag chain and snap it into the male end on your X Carriage. It should bend easily around to the left side of the machine. If it does not unsnap it and flip it around. The 500mm drag chain will bend horizontally toward the back of your machine.
+Take one length of drag chain and snap it into the male end on your X Carriage. It should bend easily around to the left side of the machine. If it does not, unsnap it and flip it around. The 500mm drag chain will bend horizontally toward the back of your machine.
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/788/original/0735.jpg?1425059312!
 
@@ -121,15 +121,15 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
       <div class="panel-body">
 |\3{color:#fff;background: #8a52a1}. **1000mm Drag Chain Kit** |
 | **SKU** | **Name** | **Quantity** |
-| 30331-10 | Drag Chain 51 Links | 1 |
-| 30331-10 | Drag Chain Female End Link | 1 |
+| 30331-10 | Drag Chain 54 Links | 1 |
+| 30331-10 | Drag Chain Female End Link (attached) | 1 |
 | 30587-01 | Drag Chain Gantry Bracket | 1 |
 | 30554-01 | Flat Head Socket Cap Screw M4 x 10mm | 2 |
 | 30265-03 | Nylon Insert Lock Nut M4 | 2 |
 
-You should have two lengths of drag chain with the ends removed. Note that it flexes in one direction and is stiff in the other direction.
+You should have two lengths of drag chain, each with one of the male end links removed. At this time you will be working with only one of the two lengths, and will use the second length during the Work Area section of the instructions.
 
-Take one length of drag chain and snap it into the male end on your X Carriage (500mm bracket shown in picture below). It should bend easily up and over to the left side of the machine. If it does not, unsnap it and flip it around. The drag chain will bend vertically around the x-axis motor of your machine.
+Note that the drag chain flexes in one direction and is stiff in the other direction. The drag chain will bend vertically around the x-axis motor of your machine. Take the length of drag chain and snap it into the male end on your X Carriage (500mm bracket pictured below). It should bend easily *up and over to the left* side of the machine (pictured at the end of this section). If it does not, unsnap it and flip it around.
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/788/original/0735.jpg?1425059312!
 
@@ -144,7 +144,7 @@ Attach a female drag chain end to a drag chain bracket with two M4 flat head scr
 <div class="note">
   <i class="fa fa-hand-o-right"></i>
   <span class="note-text">
-    *Note:* The female drag chain end comes attached to the 51 drag chain links and needs to be removed in order to be installed on the drag chain bracket.
+    *Note:* The female drag chain end comes attached to the 54 drag chain links and needs to be removed in order to be installed on the drag chain bracket.
   </span>
 </div>
 
