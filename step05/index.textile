@@ -3,6 +3,7 @@ layout: default
 title:  "Y-Axis"
 time-estimate: 45
 category: step
+step-number: 5
 permalink: /step05/
 next-step: /step06/
 next-step-title: "Belting"

@@ -1,3 +1,12 @@
+.instruction-breadcrumbs {
+  font-size: 12px;
+  color: #999;
+
+  a {
+    border-bottom: none;
+  }
+}
+
 .page-content {
   @media (min-width: 768px) {
     padding: 30px 50px;

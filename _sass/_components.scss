@@ -81,6 +81,21 @@
   }
 }
 
+.note-alert {
+  background: #fff;
+  color: #e8534f;
+  border: 2px solid #e8534f;
+
+  .note-text {
+    padding: 0 20px;
+    width: 80%;
+
+    @media (max-width: 1060px) {
+      width: 72%;
+    }
+  }
+}
+
 .btn-next {
   margin-top: 14px;
 }
@@ -167,5 +182,19 @@
   span {
     font-size: 70%;
     display: block;
+  }
+}
+
+.step-card {
+  border: 1px solid #c8c8c8;
+  box-shadow: 2px 2px 2px rgba(0,0,0,.1);
+  padding: 20px;
+
+  &~& {
+    margin-top: 20px;
+  }
+
+  img {
+    margin-bottom: 10px;
   }
 }

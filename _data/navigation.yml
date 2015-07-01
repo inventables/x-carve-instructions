@@ -139,3 +139,18 @@ stepnav:
     url: '#plug-in-assembly'
 - title: Get Carving!
   url: /step15/
+
+accessories:
+  - title: E-Stop with Enclosure
+    url: /accessories/e-stop-with-enclosure/
+    subnav:
+    - title: Disassemble Button
+      url: '#disassemble-button'
+    - title: Attach Button
+      url: '#attach-button'
+    - title: Attach Cable Strain Relief
+      url: '#attach-cable-strain-relief'
+    - title: Wire It Up
+      url: '#wire-it-up'
+    - title: Close It Up
+      url: '#close-it-up'
