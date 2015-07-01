@@ -7,23 +7,116 @@ permalink: /accessories/e-stop-with-enclosure/
 
 !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1451/original/P6300787EDIT.jpg?1435694885!
 
-h3. Remove Nut
+<div class="step-card">
+  <h2 id="disassemble-button">1. Disassemble Button</h2>
 
-Unscrew the nut attached to the base of the button.  This nut will be used to secure the button to the enclosure.
+  !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1425/original/P6290746EDIT.jpg?1435678925!
 
-<div class="row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1429/original/P6290753EDIT.jpg?1435678933! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1430/original/P6290755EDIT.jpg?1435678935! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1431/original/P6290756EDIT.jpg?1435678937!
+  <h3>Pull Tab to Left Position</h3>
+
+  Remove the button from the screw terminals by gently pulling on the yellow tab.  If facing the button (as pictured) **pull the tab towards you** and then to the left to disengage the two parts.
+
+  <div class="row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1423/original/P6290744EDIT.jpg?1435678922! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1424/original/P6290745EDIT.jpg?1435678924! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1426/original/P6290749EDIT.jpg?1435678928!
+  </div>
 </div>
-h3. Insert Button into Enclosure
+<div class="step-card">
+  <h2 id="attach-button">2. Attach Button</h2>
 
-**Line up the notch in the enclosure with the break in the threads**, placing the Emergency Stop ring between the button and enclosure.  This break in the threads should be on the side of the button marked **"Top"**.  The "Top" side of the button will correspond with the "Top" side of the screw terminals when reassembling.
+  <h3>Remove Nut</h3>
 
-<div class="row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1432/original/P6290757EDIT.jpg?1435678938! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1433/original/P6290758EDIT.jpg?1435678940! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1434/original/P6290760EDIT.jpg?1435678942! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1435/original/P6290761EDIT.jpg?1435678943!
+  Unscrew the nut attached to the base of the button.  This nut will be used to secure the button to the enclosure.
+
+  <div class="row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1429/original/P6290753EDIT.jpg?1435678933! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1430/original/P6290755EDIT.jpg?1435678935! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1431/original/P6290756EDIT.jpg?1435678937!
+  </div>
+
+  <h3>Insert Button into Enclosure</h3>
+
+  **Line up the notch in the enclosure with the break in the threads**, placing the Emergency Stop ring between the button and enclosure.  This break in the threads should be on the side of the button marked **"Top"**.  The "Top" side of the button will correspond with the "Top" side of the screw terminals when reassembling.
+
+  <div class="row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1432/original/P6290757EDIT.jpg?1435678938! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1433/original/P6290758EDIT.jpg?1435678940! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1434/original/P6290760EDIT.jpg?1435678942! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1435/original/P6290761EDIT.jpg?1435678943!
+  </div>
+
+  <h3>Secure Button with Nut</h3>
+
+  Screw on the nut to secure the button to the enclosure.  If you're having problems tightening the nut try using the button itself, making sure to keep the break in the threads aligned.
+  <div class="row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1436/original/P6290762EDIT.jpg?1435678944!
+  </div>
+
+  <div class="note note-alert">
+    <i class="fa fa-exclamation-triangle"></i>
+    <span class="note-text">
+      <b>IMPORTANT:</b> Make sure you follow the direction of the arrows on the button when disengaging the e-stop. You can loosen the nut securing the button to the enclosure if turned the wrong direction. If this continues to be an issue, try removing the emergency stop ring, which allows direct contact between the gasket on the button and the enclosure.
+    </span>
+    <i class="fa fa-exclamation-triangle"></i>
+  </div>
 </div>
 
-h3. Secure Button with Nut
+<div class="step-card">
+  <h2 id="attach-cable-strain-relief">3. Attach Cable Strain Relief</h2>
 
-Screw on the nut to secure the button to the enclosure.  If you're having problems tightening the nut try using the button itself, making sure to keep the break in the threads aligned.
-<div class="row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1436/original/P6290762EDIT.jpg?1435678944!
+  !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1447/original/P6290780EDIT.jpg?1435678960!
+
+  <h3>Remove Nut and Attach to Enclosure</h3>
+
+  Pop off the plastic cover from the enclosure and remove the bottom nut from the cable strain relief piece.  **Place the nut inside of the enclosure and hold it stationary** while you screw in the cable strain relief piece from the outside of the enclosure.
+
+  <div class="row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1440/original/P6290770EDIT.jpg?1435678951! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1443/original/P6290774EDIT.jpg?1435678955! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1442/original/P6290772EDIT.jpg?1435678954! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1445/original/P6290778EDIT.jpg?1435678958!
+  </div>
 </div>
 
-p=. _MAKE SURE YOU FOLLOW THE DIRECTION OF THE ARROWS ON THE BUTTON WHEN DISENGAGING THE E-STOP.  YOU CAN LOOSEN THE NUT SECURING THE BUTTON TO THE ENCLOSURE IF TURNED THE WRONG DIRECTION.  IF THIS CONTINUES TO BE AN ISSUE TRY REMOVING THE EMERGENCY STOP RING, WHICH ALLOWS DIRECT CONTACT BETWEEN THE GASKET ON THE BUTTON AND THE ENCLOSURE._
+<div class="step-card">
+  <h2 id="wire-it-up">4. Wire It Up</h2>
+
+  !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1454/original/P7010790EDITDiagram.jpg?1435769789!
+
+  <h3>Wire Power Cable to Screw Terminals</h3>
+
+  <div class="note note-alert">
+    <i class="fa fa-exclamation-triangle"></i>
+    <span class="note-text">
+      Make sure everything is <b>unplugged</b> when wiring!
+    </span>
+    <i class="fa fa-exclamation-triangle"></i>
+  </div>
+  <p>
+  Cut and strip the **power cable** to your setup.  Feed the two pieces of cable through the cable strain relief piece and attach the stripped ends of the power cable (pictured in red) to each side of the **NC** (purple) screw terminal.  Tighten the Phillips head screws on the screw terminals to hold the power cable in place.
+  </p>
+  <p>
+  For a more solid connection, you can use "insulated ferrules":https://www.inventables.com/technologies/insulated-ferrule-kit and a "ferrule crimper tool.":https://www.inventables.com/technologies/ferrule-crimper  The remaining cut wire ends can be soldered back together and cleaned up with "heat shrink tubing.":https://www.inventables.com/categories/electrical/wire-management?utf8=%E2%9C%93&selected_filters%5BType%5D%5B%5D=Heat+Shrink+Tubing&selected_filters%5BType%5D%5B%5D=Kit  "Solder sleeves":https://www.inventables.com/technologies/solder-sleeves can also be used to clean up the remaining wire ends.
+  </p>
+
+  !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1437/original/P6290765EDIT.jpg?1435678946!
+
+  <h3>Attach Wired Screw Terminals to the Button</h3>
+
+  <p>Line up the **"Top" marking on the screw terminals with the "Top" marking** on the button.</p>
+
+  <p>!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1438/original/P6290766EDIT.jpg?1435678947!</p>
+
+  <p>**Move the tab from the "left" position...**</p>
+
+  <p>!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1439/original/P6290767EDIT.jpg?1435678949!</p>
+
+  <p>**...to the "right" position to secure the screw terminals in place.**</p>
+</div>
+
+<div class="step-card">
+  <h2 id="close-it-up">5. Close It Up</h2>
+
+  !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1450/original/P6290785EDIT.jpg?1435678965!
+
+  <h3>Assemble the Enclosure</h3>
+
+  <p>Secure the two enclosure pieces together using the included screws.</p>
+
+  <div class="row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1448/original/P6290783EDIT.jpg?1435678962! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1449/original/P6290784EDIT.jpg?1435678963!
+  </div>
+
+  <div class="note note-alert">
+    <i class="fa fa-exclamation-triangle"></i>
+    <span class="note-text">
+      <b>IMPORTANT:</b> Make sure you follow the direction of the arrows on the button when disengaging the e-stop. You can loosen the nut securing the button to the enclosure if turned the wrong direction. If this continues to be an issue, try removing the emergency stop ring, which allows direct contact between the gasket on the button and the enclosure.
+    </span>
+    <i class="fa fa-exclamation-triangle"></i>
+  </div>
+</div>
