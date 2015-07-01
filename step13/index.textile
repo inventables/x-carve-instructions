@@ -3,6 +3,7 @@ layout: default
 title:  "Work Area"
 time-estimate: 30
 category: step
+step-number: 13
 permalink: /step13/
 next-step: /step14/
 next-step-title: "Electronics"
@@ -61,7 +62,7 @@ Now insert the other four insertion nuts from each of their respective corners a
 <div class="row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/825/original/1414.jpg?1425388971! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/826/original/1415.jpg?1425388972! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/827/original/1416.jpg?1425388973! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/830/original/1421.jpg?1425389198!
 </div>
 
-Remember to back off each screw a full turn after tightening them down; this will ensure that the waste board can slide left and right, which will make it easier to align the mounting holes with the insertion nuts. 
+Remember to back off each screw a full turn after tightening them down; this will ensure that the waste board can slide left and right, which will make it easier to align the mounting holes with the insertion nuts.
 
 When all of your insertion nuts and mounting screws are in square up the waste board with the corners of your X-Carve and tighten them down.
 
@@ -86,7 +87,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 | 30517-03 | Threaded Insert M5 | 144 |
 | 25286-20 | Button Head Cap Screw M5 x 20mm | 14 |
 | 25281-05 | T-Slot Nut M5 Pre-Assembly (Insertion Nut) | 14 |
-        
+
 |\3. **1000mm Rail Kit** |
 | **SKU** | **Name** | **Quantity** |
 | 26049-02 | Aluminum Extrusion 20mm x 20mm Black 1000mm Lg | 2 |
