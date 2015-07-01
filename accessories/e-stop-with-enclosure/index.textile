@@ -1,0 +1,29 @@
+---
+layout: default
+title:  "E-Stop with Enclosure"
+category: step
+permalink: /accessories/e-stop-with-enclosure/
+---
+
+!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1451/original/P6300787EDIT.jpg?1435694885!
+
+h3. Remove Nut
+
+Unscrew the nut attached to the base of the button.  This nut will be used to secure the button to the enclosure.
+
+<div class="row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1429/original/P6290753EDIT.jpg?1435678933! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1430/original/P6290755EDIT.jpg?1435678935! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1431/original/P6290756EDIT.jpg?1435678937!
+</div>
+h3. Insert Button into Enclosure
+
+**Line up the notch in the enclosure with the break in the threads**, placing the Emergency Stop ring between the button and enclosure.  This break in the threads should be on the side of the button marked **"Top"**.  The "Top" side of the button will correspond with the "Top" side of the screw terminals when reassembling.
+
+<div class="row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1432/original/P6290757EDIT.jpg?1435678938! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1433/original/P6290758EDIT.jpg?1435678940! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1434/original/P6290760EDIT.jpg?1435678942! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1435/original/P6290761EDIT.jpg?1435678943!
+</div>
+
+h3. Secure Button with Nut
+
+Screw on the nut to secure the button to the enclosure.  If you're having problems tightening the nut try using the button itself, making sure to keep the break in the threads aligned.
+<div class="row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1436/original/P6290762EDIT.jpg?1435678944!
+</div>
+
+p=. _MAKE SURE YOU FOLLOW THE DIRECTION OF THE ARROWS ON THE BUTTON WHEN DISENGAGING THE E-STOP.  YOU CAN LOOSEN THE NUT SECURING THE BUTTON TO THE ENCLOSURE IF TURNED THE WRONG DIRECTION.  IF THIS CONTINUES TO BE AN ISSUE TRY REMOVING THE EMERGENCY STOP RING, WHICH ALLOWS DIRECT CONTACT BETWEEN THE GASKET ON THE BUTTON AND THE ENCLOSURE._
