@@ -88,6 +88,11 @@
 
   .note-text {
     padding: 0 20px;
+    width: 80%;
+
+    @media (max-width: 1060px) {
+      width: 72%;
+    }
   }
 }
 

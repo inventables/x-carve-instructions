@@ -5,7 +5,7 @@ category: step
 permalink: /accessories/e-stop-with-enclosure/
 ---
 
-!https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1451/original/P6300787EDIT.jpg?1435694885!
+!https://dzevsq2emy08i.cloudfront.net/paperclip/technology_image_uploaded_images/25238/large/E%20Stop%203.JPG?1433537668!
 
 <div class="step-card">
   <h2 id="disassemble-button">1. Disassemble Button</h2>
@@ -21,6 +21,7 @@ permalink: /accessories/e-stop-with-enclosure/
 </div>
 <div class="step-card">
   <h2 id="attach-button">2. Attach Button</h2>
+  !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1451/original/P6300787EDIT.jpg?1435694885!
 
   <h3>Remove Nut</h3>
 
