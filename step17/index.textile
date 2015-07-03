@@ -1,24 +1,11 @@
 ---
 layout: default
-title:  "Get Carving!"
+title:  "Machine Setup"
 time-estimate: 15
 category: step
-step-number: 15
-permalink: /step15/
+step-number: 17
+permalink: /step17/
 ---
-h3. Congratulations!!
-
-Way to go, you finished assembling your machine!  Check out this tuning video to make sure you've got everything assembled and working the way it should.
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5AwuLbbvZNQ" frameborder="0" allowfullscreen></iframe>
-
-**For those of you using a Windows PC** to control your newly assembled X-Carve, head on over to the Arduino downloads page and get the drivers to allow communication between your PC and Arduino.  Make sure you **STOP after step _4 | Install the drivers_**, or else the pre-loaded Grbl firmware required to communicate with your machine will be wiped from the Arduino.
-
-<a href="http://www.arduino.cc/en/Guide/Windows" target="_blank" class="btn btn-invent btn-animate-arrow">Get Arduino Software</a>
-
-**For those of you using a Mac** to control your X-Carve, you don't have any drivers to install.
-
-Now that that's taken care of, head over to Easel to set up your machine and start carving!
+Head over to Easel to set up your machine and start carving!
 
 <a href="http://app.easel.com/setup" target="_blank" class="btn btn-invent btn-animate-arrow">Get Started With Easel</a>
