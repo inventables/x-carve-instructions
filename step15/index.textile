@@ -6,12 +6,11 @@ category: step
 step-number: 15
 permalink: /step15/
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5AwuLbbvZNQ" frameborder="0" allowfullscreen></iframe>
+
 h3. Congratulations!!
 
 Way to go, you finished assembling your machine!  Check out this tuning video to make sure you've got everything assembled and working the way it should.
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5AwuLbbvZNQ" frameborder="0" allowfullscreen></iframe>
 
 **For those of you using a Windows PC** to control your newly assembled X-Carve, head on over to the Arduino downloads page and get the drivers to allow communication between your PC and Arduino.  Make sure you **STOP after step _4 | Install the drivers_**, or else the pre-loaded Grbl firmware required to communicate with your machine will be wiped from the Arduino.
 
