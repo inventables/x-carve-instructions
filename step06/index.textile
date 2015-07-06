@@ -27,7 +27,7 @@ next-step-title: "Z-Axis"
 | 30265-04 | Nylon Insert Lock Nut M5 | 3 |
 
 <div class="note note-shapeoko">
-  <i class="fa fa-hand-o-right"></i>
+  <i class="fa fa-level-up"></i>
   <span class="note-text">
     Note: *Shapeoko 2 Upgraders,* use the included Button Head Cap Screw M5 × 25mm and Nylon Insert Lock Nut M5 to complete this step.
   </span>

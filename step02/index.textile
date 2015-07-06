@@ -25,7 +25,7 @@ grabcad-url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvY
 | 25312-23 | Aluminum Spacer 5.1mm ID 9.5mm OD 9.5mm LG | 2|
 
 <div class="note note-shapeoko">
-  <i class="fa fa-hand-o-right"></i>
+  <i class="fa fa-level-up"></i>
   <span class="note-text">
     Note: *Shapeoko 2 Upgraders,* use the included Flat Head Socket Cap Screw M5 × 35mm to complete this step.
   </span>

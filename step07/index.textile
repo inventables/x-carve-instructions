@@ -22,7 +22,7 @@ z-axis: true
 | 30544-01 | Pan Head Thread Forming Screw M5 x 12mm | 2 |
 
 <div class="note note-shapeoko">
-  <i class="fa fa-hand-o-right"></i>
+  <i class="fa fa-level-up"></i>
   <span class="note-text">
     Note: *Shapeoko 2 Upgraders,* use the included Button Head Cap Screw M5 × 8mm to complete this step.
   </span>
