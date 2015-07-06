@@ -26,6 +26,13 @@ next-step-title: "Z-Axis"
 | 25286-21 | Button Head Cap Screw M5 x 25mm | 3 |
 | 30265-04 | Nylon Insert Lock Nut M5 | 3 |
 
+<div class="note note-shapeoko">
+  <i class="fa fa-hand-o-right"></i>
+  <span class="note-text">
+    Note: *Shapeoko 2 Upgraders,* use the included Button Head Cap Screw M5 × 25mm and Nylon Insert Lock Nut M5 to complete this step.
+  </span>
+</div>
+
 Now that you've got the X and Y axes assembled let's put belts on them. Start by cutting your belting into **three equal lengths.**
 
 <h3 id="align-x-axis-motor-pulley"> 1. Align X-Axis Motor Pulley w/ Smooth Idlers</h3>

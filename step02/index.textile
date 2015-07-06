@@ -24,6 +24,13 @@ grabcad-url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvY
 | 25287-08 | Flat Washer M5 | 8 |
 | 25312-23 | Aluminum Spacer 5.1mm ID 9.5mm OD 9.5mm LG | 2|
 
+<div class="note note-shapeoko">
+  <i class="fa fa-hand-o-right"></i>
+  <span class="note-text">
+    Note: *Shapeoko 2 Upgraders,* use the included Flat Head Socket Cap Screw M5 × 35mm to complete this step.
+  </span>
+</div>
+
 <h3 id="smooth-idlers">1. Smooth Idlers</h3>
 
 The first thing you’ll do is attach the smooth idlers. Insert one of the flat head screws like this:

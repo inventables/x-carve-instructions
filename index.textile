@@ -22,3 +22,13 @@ We recommend following the order of the table of contents during your assembly a
 This project can seem daunting, but after you've completed a few modules you'll see that it's really just a grown-up set of Legos. Remember to move slowly, enjoy the process and take it one step at a time.
 
 We've provided a model of the entire machine and each sub-assembly on GrabCad. You can find it "here":https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/125894.
+
+<h3>*SHAPEOKO 2 UPGRADERS*</h3>
+
+When assembling your Shapeoko 2 Upgrade Kit, you will be using all of the same hardware used on your Shapeoko 2 with the exception of the following hardware that is included:
+
+| **SKU** | **Name** | **Section of Instructions** |
+| 30552-01 | Flat Head Socket Cap Screw M5 × 35mmm | "X Carriage":http://x-carve-instructions.inventables.com/step02/ |
+| 25286-21 | Button Head Cap Screw M5 × 25mm | "Belting":http://x-carve-instructions.inventables.com/step06/ |
+| 30265-04 | Nylon Insert Lock Nut M5 | "Belting":http://x-carve-instructions.inventables.com/step06/ |
+| 25286-17 | Button Head Cap Screw M5 × 8mm | "Z-Axis":http://x-carve-instructions.inventables.com/step07/ |

@@ -21,6 +21,13 @@ z-axis: true
 | 25286-17 | Button Head Cap Screw M5 x 8mm | 2 |
 | 30544-01 | Pan Head Thread Forming Screw M5 x 12mm | 2 |
 
+<div class="note note-shapeoko">
+  <i class="fa fa-hand-o-right"></i>
+  <span class="note-text">
+    Note: *Shapeoko 2 Upgraders,* use the included Button Head Cap Screw M5 × 8mm to complete this step.
+  </span>
+</div>
+
 <h3 id="insert-flanged-bearing">1. Insert Flanged Bearing</h3>
 
 Insert the flanged bearing into the Z-Plate as shown. Be sure to insert the bearing from the side of the plate that has a recession, the bearing will sit inside the hole so that the flange is flush with the Z-Plate.
