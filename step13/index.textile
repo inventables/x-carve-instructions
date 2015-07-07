@@ -242,7 +242,12 @@ Tape the wires that will travel with the Gantry to the bundle of wires that came
 
 h3. 6. Attach the Work Area to the Rest of Your X-Carve
 
-Place your X-Carve on top of the work area and fasten each of the four end plates with insertion nuts and M5 x 10mm screws like this:
+|\3{color:#fff;background: #383838}. **Core Components Kit** |
+| **SKU** | **Name** | **Quantity** |
+| 25281-05 | T-Slot Nut M5 Pre-Assembly (Insertion Nut) | 8 |
+| 25286-17 | Button Head Cap Screw M5 x 8mm | 8 |
+
+Place your X-Carve on top of the work area and fasten each of the four end plates with insertion nuts and M5 x 8mm screws like this:
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/913/original/1413.jpg?1429819170!
 
