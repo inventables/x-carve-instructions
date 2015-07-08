@@ -6,10 +6,13 @@ category: step
 step-number: 16
 permalink: /step16/
 ---
+<img src="arduinoLanding.jpg">
 
 <p>
-  Select your computers operating system.
+  Select your computer's operating system.
 </p>
+
+
 
 <div class="panel-group" id="os-accordion" role="tablist" aria-multiselectable="true">
   <div class="panel panel-default">
@@ -18,18 +21,38 @@ permalink: /step16/
     </a>
     <div id="windows" class="panel-collapse collapse" role="tabpanel" aria-labelledby="windows-header">
       <div class="panel-body">
+
+        <img src="arduinoDownload.jpg">
+
         <p>
-          To control your newly assembled X-Carve, head on over to the Arduino downloads page and get the drivers to allow communication between your PC and Arduino.
+          To control your newly assembled X-Carve, head on over to the Arduino homepage and click on the "Download" button.  Downloading these drivers are necessary to allow communication between your PC and Arduino.
+        </p>
+
+        <img src="arduinoOS.jpg">
+
+        <p>
+          Select your computer's operating system by clicking on "Windows Installer."
+        </p>
+
+        <img src="arduinoJustDownload.jpg">
+
+        <p>
+          We encourage you to contribute to the Arduino Software, however you can start your download immediately by clicking on "Just Download."
+
+        <img src="arduinoDrivers.jpg">
+
+        <p>
+          Certain versions of Windows require you to manually assign the drivers to the Arduino.  Follow the directions above if you are using Windows 7, Vista, or XP.
         </p>
 
         <p class="note">
           <i class="fa fa-hand-o-right"></i>
           <span class="note-text">
-            Make sure you stop after step 4 (Install the drivers). Do not load a sketch from the arduino IDE or else the pre-loaded machine firmware will be wiped from the Arduino.
+            *DO NOT* load a sketch from the arduino IDE or else the pre-loaded machine firmware will be wiped from the Arduino.
           </span>
         </p>
 
-        <a href="http://www.arduino.cc/en/Guide/Windows" target="_blank" class="btn btn-invent btn-animate-arrow">Get Arduino Software</a>
+        <a href="http://www.arduino.cc/" target="_blank" class="btn btn-invent btn-animate-arrow">Get Arduino Software</a>
       </div>
     </div>
   </div>
