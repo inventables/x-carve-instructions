@@ -1,7 +1,6 @@
 ---
 layout: default
 title:  "Get Carving!"
-time-estimate: 15
 category: step
 step-number: 18
 permalink: /step18/
