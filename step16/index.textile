@@ -22,8 +22,11 @@ permalink: /step16/
           To control your newly assembled X-Carve, head on over to the Arduino downloads page and get the drivers to allow communication between your PC and Arduino.
         </p>
 
-        <p class="alert alert-danger">
-          Make sure you stop after step 4 (Install the drivers). Do not load a sketch from the arduino IDE or else the pre-loaded machine firmware will be wiped from the Arduino.
+        <p class="note">
+          <i class="fa fa-hand-o-right"></i>
+          <span class="note-text">
+            Make sure you stop after step 4 (Install the drivers). Do not load a sketch from the arduino IDE or else the pre-loaded machine firmware will be wiped from the Arduino.
+          </span>
         </p>
 
         <a href="http://www.arduino.cc/en/Guide/Windows" target="_blank" class="btn btn-invent btn-animate-arrow">Get Arduino Software</a>
