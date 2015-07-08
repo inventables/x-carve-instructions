@@ -137,8 +137,14 @@ stepnav:
     url: '#connect-limit-switches'
   - title: Plug in Assembly
     url: '#plug-in-assembly'
-- title: Get Carving!
+- title: Calibrate
   url: /step15/
+- title: Drivers
+  url: /step16/
+- title: Machine Setup
+  url: /step17/
+- title: Get Carving!
+  url: /step18/
 
 accessories:
   - title: E-Stop with Enclosure

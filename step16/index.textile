@@ -1,0 +1,47 @@
+---
+layout: default
+title:  "Drivers"
+time-estimate: 15
+category: step
+step-number: 16
+permalink: /step16/
+---
+
+<p>
+  Select your computers operating system.
+</p>
+
+<div class="panel-group" id="os-accordion" role="tablist" aria-multiselectable="true">
+  <div class="panel panel-default">
+    <a data-toggle="collapse" data-parent="#os-accordion" href="#windows" aria-expanded="false" aria-controls="windows" class="panel-heading" role="tab" id="windows-header">
+      <h4 class="panel-title">Windows</h4>
+    </a>
+    <div id="windows" class="panel-collapse collapse" role="tabpanel" aria-labelledby="windows-header">
+      <div class="panel-body">
+        <p>
+          To control your newly assembled X-Carve, head on over to the Arduino downloads page and get the drivers to allow communication between your PC and Arduino.
+        </p>
+
+        <p class="note">
+          <i class="fa fa-hand-o-right"></i>
+          <span class="note-text">
+            Make sure you stop after step 4 (Install the drivers). Do not load a sketch from the arduino IDE or else the pre-loaded machine firmware will be wiped from the Arduino.
+          </span>
+        </p>
+
+        <a href="http://www.arduino.cc/en/Guide/Windows" target="_blank" class="btn btn-invent btn-animate-arrow">Get Arduino Software</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="panel panel-default">
+    <a data-toggle="collapse" data-parent="#os-accordion" href="#mac" aria-expanded="false" aria-controls="mac" class="panel-heading" role="tab" id="mac-header">
+      <h4 class="panel-title">Mac</h4>
+    </a>
+    <div id="mac" class="panel-collapse collapse" role="tabpanel" aria-labelledby="mac-header">
+      <div class="panel-body">
+        You don't need to install any drivers to connect to your machine. Hooray!
+      </div>
+    </div>
+  </div>
+</div>
