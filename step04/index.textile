@@ -21,15 +21,22 @@ Now it's time to combine the X Carriage, Y-Plates and X-Axis to form the Gantry.
 
 |\3{color:#fff;background: #383838}. **Core Components Kit** |
 | **SKU** | **Name** | **Quantity** |
-| 30544-01 | Pan Head Thread Forming Screw M5 x 12mm (Self Tapping) | 8 |
+| 30544-01 | Pan Head Thread Forming Screw M5 x 12mm | 8 |
 | 25287-08 | Flat Washer M5 | 4 |
 | 25281-05 | T-Slot Nut M5 Pre-Assembly (Insertion Nut) | 2 |
 |   | X Carriage Assembly | 1 |
 |   | Y-Plate Assembly | 2 |
 
+<div class="note">
+  <i class="fa fa-hand-o-right"></i>
+  <span class="note-text">
+    "Thread forming" and "Self tapping" are interchangeable in this context. Note that the screws you need are labelled "Thread forming".
+  </span>
+</div>
+
 <h3 id="attach-makerslide">1. Attach the Makerslide to the Left Y Motor Plate</h3>
 
-If you’ve been following the order of the general instructions this will be your first time using self tapping screws. Go slowly (especially for the first few threads), keep constant pressure down the hole you’re tapping and use cutting fluid or lubricant of any kind.  If you're having difficulty with these self tapping screws, try first using the screws to cut a few threads without the plates attached.
+If you’ve been following the order of the general instructions this will be your first time using thread forming screws. Go slowly (especially for the first few threads), keep constant pressure down the hole you’re tapping and use cutting fluid or lubricant of any kind.  If you're having difficulty with these thread forming screws, try first using the screws to cut a few threads without the plates attached.
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/730/original/1329.jpg?1424543603!
 
@@ -44,7 +51,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
   </span>
 </div>
 
-Drive the self tapping screws into the Makerslide until the are flush with the plate:
+Drive the thread forming screws into the Makerslide until the are flush with the plate:
 
 <div class="row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/732/original/1337.jpg?1424543605! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/733/original/1338.jpg?1424543606! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/734/original/1342.jpg?1424543607! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/735/original/1344.jpg?1424543608!
 </div>
