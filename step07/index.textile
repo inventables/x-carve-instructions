@@ -55,7 +55,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
   </span>
 </div>
 
-Use two self tapping screws to attach the Z-Plate to the Z-Axis Makerslide. The screws go through the Z-Plate and into the Makerslide. Be sure to keep constant pressure along the hole you're tapping.
+Use two thread forming screws to attach the Z-Plate to the Z-Axis Makerslide. The screws go through the Z-Plate and into the Makerslide. Be sure to keep constant pressure along the hole you're tapping.
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/547/original/0963.jpg?1424378546!
 
