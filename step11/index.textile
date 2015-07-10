@@ -75,7 +75,7 @@ Attach a female drag chain end to a drag chain bracket with two M4 flat head scr
 
 h3. Mount Drag Chain Bracket
 
-Attach the bracket you just assembled to the left Y-Plate. You'll back out two of the self tapping screws that hold the X-Axis Makerslide to the Left Y-Plate. Back them out one at a time to install the bracket.
+Attach the bracket you just assembled to the left Y-Plate. You'll back out two of the thread forming screws that hold the X-Axis Makerslide to the Left Y-Plate. Back them out one at a time to install the bracket.
 
 !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/802/original/0755.jpg?1425059685! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/803/original/0757.jpg?1425059686! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/804/original/0758.jpg?1425059687! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/805/original/0759.jpg?1425059688!
 
@@ -87,7 +87,7 @@ Take the second female drag chain end and attach to the second drag chain bracke
 
 !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/794/original/0746.jpg?1425059529! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/795/original/0747.jpg?1425059530! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/796/original/0748.jpg?1425059531! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/797/original/0754.jpg?14250595321!
 
-Install this bracket on the front left end plate using the self tapping screws. Again, back out one screw at a time to keep the machine supported while installing the bracket.
+Install this bracket on the front left end plate using the thread forming screws. Again, back out one screw at a time to keep the machine supported while installing the bracket.
 
 !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/808/original/0764.jpg?1425060116! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/809/original/0765.jpg?1425060117! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/810/original/0767.jpg?1425060118! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/811/original/0769.jpg?1425060119!
 
@@ -153,7 +153,7 @@ Attach a female drag chain end to a drag chain bracket with two M4 flat head scr
 
 h3. Mount Drag Chain Bracket
 
-Attach the bracket you just assembled to the left Y-Plate. You'll back out two of the self tapping screws that hold the X-Axis Makerslide to the Left Y-Plate. Back them out one at a time to install the bracket.
+Attach the bracket you just assembled to the left Y-Plate. You'll back out two of the thread forming screws that hold the X-Axis Makerslide to the Left Y-Plate. Back them out one at a time to install the bracket.
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/904/original/1633.jpg?1429806439!
 
