@@ -136,7 +136,7 @@ Repeat with the second Y-Plate.
 <div class="note">
   <i class="fa fa-hand-o-right"></i>
   <span class="note-text">
-    *Note:* The current version of the Nema 23 Stepper Motor Kits do not have wires attached.  The wires come separately and plug directly into the connector on the stepper motor body.  The current motors also have a flat side on the motor shaft, which provides a more secure installation of the pulley.
+    *Note:* There are two styles of motors; one style with wires attached and one with connectors.  If you received the style with the connectors, the wires come separately and plug directly into the connector on the stepper motor body.
   </span>
 </div>
 

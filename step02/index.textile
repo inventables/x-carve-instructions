@@ -102,17 +102,6 @@ The eccentric nuts on your X-Carve are a slick little example of good engineerin
 
 If you purchased a stepper motor kit with your X-Carve, click on your chosen type below to mount your motors.
 
-<img src="PluginStepper.jpg">
-
-You may have received stepper motors with white connectors on them. Plug the provided four wire connectors in to the motors and follow the rest of the instructions.
-
-<div class="note">
-  <i class="fa fa-hand-o-right"></i>
-  <span class="note-text">
-    Note: the connectors only go together one way, be sure to line up the tabs on the wire side to the slots on the motor side.
-  </span>
-</div>
-
 <div class="panel-group" id="motor-accordion" role="tablist" aria-multiselectable="true">
   <div class="panel panel-default">
     <a data-toggle="collapse" data-parent="#motor-accordion" href="#nema17" aria-expanded="false" aria-controls="nema17" class="panel-heading" role="tab" id="nema17-header">
@@ -168,7 +157,7 @@ Put a washer on each screw and insert them  from the opposite side of the X Carr
 <div class="note">
   <i class="fa fa-hand-o-right"></i>
   <span class="note-text">
-    Note: The current version of the Nema 23 Stepper Motor Kits do not have wires attached.  The wires come separately and plug directly into the connector on the stepper motor body.  The current motors also have a flat side on the motor shaft, which provides a more secure installation of the pulley.
+    *Note:* There are two styles of motors; one style with wires attached and one with connectors.  If you received the style with the connectors, the wires come separately and plug directly into the connector on the stepper motor body.
   </span>
 </div>
 
@@ -191,6 +180,17 @@ The NEMA 23 mounting holes on the X Carriage are tapped. Simply insert the screw
 
 <div class="row">
 !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/610/original/0151.jpg?1424383737! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/611/original/0152.jpg?1424383738! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/612/original/0154.jpg?1424383756! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/671/original/1306.jpg?1424462609!
+</div>
+
+<img src="PluginStepper.jpg">
+
+You may have received stepper motors with white connectors on them. Plug the provided four wire connectors in to the motors and follow the rest of the instructions.
+
+<div class="note">
+  <i class="fa fa-hand-o-right"></i>
+  <span class="note-text">
+    Note: the connectors only go together one way, be sure to line up the tabs on the wire side to the slots on the motor side.
+  </span>
 </div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0w-rUEsHl78" frameborder="0" allowfullscreen></iframe>
