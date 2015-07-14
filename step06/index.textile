@@ -10,6 +10,10 @@ next-step-title: "Z-Axis"
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JXco1gg48Y8" frameborder="0" allowfullscreen></iframe>
 
+<p>
+  Be careful cutting the belt when assembling the larger 1000mm sized X-Carve; **the video above is strictly for the 500mm sized machine.**
+</p>
+
 <div class="callout">
   <b><i class="fa fa-star"></i> Tips and tricks for belt tensioning</b>
   <span>Video contributed by <a href="https://discuss.inventables.com/users/peterjames">Peter James</a></span>
