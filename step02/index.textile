@@ -184,7 +184,7 @@ The NEMA 23 mounting holes on the X Carriage are tapped. Simply insert the screw
 
 <img src="PluginStepper.jpg">
 
-You may have received stepper motors with white connectors on them. Plug the provided four wire connectors in to the motors and follow the rest of the instructions.
+You may have received stepper motors with white connectors on them. Plug the provided four wire connectors into the motors and follow the rest of the instructions.
 
 <div class="note">
   <i class="fa fa-hand-o-right"></i>
