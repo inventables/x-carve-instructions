@@ -30,7 +30,7 @@ Now it's time to combine the X Carriage, Y-Plates and X-Axis to form the Gantry.
 <div class="note">
   <i class="fa fa-hand-o-right"></i>
   <span class="note-text">
-    "Thread forming" and "Self tapping" are interchangeable in this context. Note that the screws you need are labelled "Thread forming".
+    "Thread forming" and "Self tapping" are interchangeable in this context. Note that the screws you need are labelled "Thread forming," and will either be black or silver in color.
   </span>
 </div>
 
