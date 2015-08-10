@@ -98,9 +98,19 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1068/original/P4290305.jpg?1430341929!
 
-<div class="row">
-!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1069/original/P4290307.jpg?1430341931! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1070/original/P4290308.jpg?1430341933! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1071/original/P4290309.jpg?1430341935! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1072/original/P4290314.jpg?1430341936!
-</div>
+<p>Insert the ACME Lead Screw through the the bottom of the flanged bearing, with the Delrin Nut attached just below the Z Axis Motor Plate (as pictured).</p>
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1069/original/P4290307.jpg?1430341931! 
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1070/original/P4290308.jpg?1430341933!
+
+<p>Slide the pulley onto the ACME Lead Screw and tighten the two set screws.</p>
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1071/original/P4290309.jpg?1430341935!
+
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1072/original/P4290314.jpg?1430341936!
+
+<p>With the allen wrench still in place to prevent the pulley from moving, tighten down the M6 Nylon Lock Nut to secure the assembly in place.</p>
       </div>
     </div>
   </div>
