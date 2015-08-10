@@ -255,13 +255,13 @@ Mount it on the X Carriage by inserting the screws through the holes in the chai
 
 |\3{color:#fff;background: #8a52a1}. **1000mm Drag Chain Kit** |
 | **SKU** | **Name** | **Quantity** |
-| 30331-09 | Drag Chain Male End Link | 1 |
+| 30331-09 | Drag Chain Male End Link (attached) | 1 |
 | 25286-24 | Button Head Cap Screw M4 × 10mm | 2 |
 | 30554-01 | Flat Head Socket Cap Screw M4 x 10mm | 2 |
 | 30265-03 | Nylon Insert Lock Nut M4 | 2 |
 | 30586-01 | Drag Chain Angle Bracket | 1 |
 
-If you purchased a 1000mm X-Carve attach the male drag chain end to the angle bracket and then the X-Carriage like this:
+If you purchased a 1000mm X-Carve remove a male drag chain end from one of the longer drag chain lengths, and attach it to the angle bracket and then the X-Carriage like this:
 
 <div class="row">
   <img src="1616.jpg" class="thumbnail col-md-3">
