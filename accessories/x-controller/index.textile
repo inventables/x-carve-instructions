@@ -1,0 +1,6 @@
+---
+layout: default
+title:  "X-Controller"
+category: step
+permalink: /accessories/x-controller/
+---
