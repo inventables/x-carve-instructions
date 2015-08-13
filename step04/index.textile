@@ -34,7 +34,7 @@ Now it's time to combine the X Carriage, Y-Plates and X-Axis to form the Gantry.
   </span>
 </div>
 
-<h3 id="attach-makerslide">1. Attach the Makerslide to the Left Y Motor Plate</h3>
+<h3 id="attach-makerslide">1. Attach the Makerslide to the Right Y Motor Plate</h3>
 
 If you’ve been following the order of the general instructions this will be your first time using thread forming screws. Go slowly (especially for the first few threads), keep constant pressure down the hole you’re tapping and use cutting fluid or lubricant of any kind.  If you're having difficulty with these thread forming screws, try first using the screws to cut a few threads without the plates attached.
 
@@ -90,7 +90,7 @@ Slide the X Carriage midway along the X-Axis and set the assembly down.
 
 <h3 id="insertion-nuts">4. Add Insertion Nuts for Belt Clips</h3>
 
-Before you attach the left Y-Plate to the X-axis slide two insertion nuts into the rear X-axis Makerslide (the one that is closest to the X-Motor). You’ll use these to attach belt clips later.
+Before you attach the left Y-Plate to the X-axis, slide two insertion nuts into the rear X-axis Makerslide (the one that is closest to the X-Motor). You’ll use these to attach belt clips later.
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/742/original/1372.jpg?1424543844!
 
