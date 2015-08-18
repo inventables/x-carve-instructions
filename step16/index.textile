@@ -5,6 +5,8 @@ time-estimate: 5
 category: step
 step-number: 16
 permalink: /step16/
+next-step: /step17/
+next-step-title: "Machine setup"
 ---
 <img src="arduinoLanding.jpg">
 
