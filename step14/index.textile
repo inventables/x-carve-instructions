@@ -6,7 +6,7 @@ category: step
 step-number: 14
 permalink: /step14/
 next-step: /step15/
-next-step-title: "Get Carving!"
+next-step-title: "Calibrate"
 grabcad-name1: "X-Carve Electronics"
 grabcad-url1: "https://workbench.grabcad.com/workbench/projects/gci1roMQX8PSBmp0bjnR6FTVjVg-Pb1wR-xuUNwtcAuvwC#/home"
 ---
