@@ -30,7 +30,7 @@ For mounting instructions, select your spindle choice below.
 
 |\3{color:#fff;background: #383838}. **Core Components Kit** |
 | **SKU** | **Name** | **Quantity** |
-| 25203-04 | Dual Bearing V-Wheel Kit | 4 |
+| 25203-01 | Dual Bearing V-Wheel Kit | 4 |
 | 25286-22 | Button Head Cap Screw M5 x 35mm | 4 |
 | 25286-18 | Button Head Cap Screw M5 x 10mm | 2 |
 | 30265-04 | Nylon Insert Lock Nut M5 | 2 |
