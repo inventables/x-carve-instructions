@@ -4,3 +4,51 @@ title:  "X-Controller"
 category: step
 permalink: /accessories/x-controller/
 ---
+
+<img src="P8201136Editcopy.jpg">
+
+<div class="step-card"> 
+  <h2 id="install-power-supply">*Install Power Supply*</h2>
+
+  <img src="P8200931Editcopy.jpg">
+
+  <h3>Attach PCB Interface</h3>
+  
+  <p>Remove the screws on the enclosed power supply that correspond to the "fingers" on the PCB interface board.  Attach the PCB interface board and reinstall the screws to secure it in place.
+  </p>
+
+  <div class="row">
+  		<div class="col-xs-6 col-md-3">
+  			<a href="#" class="thumbnail"><img src="P8200922Editcopy.jpg"></a>
+		</div>
+		<div class="col-xs-6 col-md-3">
+			<a href="#" class="thumbnail"><img src="P8200924Editcopy.jpg"></a>
+		</div>
+		<div class="col-xs-6 col-md-3">
+			<a href="#" class="thumbnail"><img src="P8200925Editcopy.jpg"></a>
+		</div>
+		<div class="col-xs-6 col-md-3">
+			<a href="#" class="thumbnail"><img src="P8200926Editcopy.jpg"></a>
+		</div>
+  </div>
+
+  <h3>Attach Power Supply to Chassis</h3>
+
+  <p>Using the included hardware, attach the power supply through the mounting holes on the underside of the chassis.
+  </p>
+
+  <div class="row">
+  		<div class="col-xs-6 col-md-3">
+  			<a href="#" class="thumbnail"><img src="P8200936Editcopy.jpg"></a>
+		</div>
+  </div>
+
+  <div class="note">
+  	<i class="fa fa-hand-o-right"></i>
+  	<span class="note-text">
+    	*Note: The chassis is not symmetrical.*  The PCB interface will be flush with the end of the chassis when installed correctly.
+  	</span>
+  </div>
+
+ </div>
+</div>
