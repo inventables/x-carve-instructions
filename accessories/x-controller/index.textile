@@ -13,13 +13,14 @@ permalink: /accessories/x-controller/
   <img src="P8200931Editcopy.jpg">
 
   <h3>Attach PCB Interface</h3>
+
+  <img src="P8200926Editcopy.jpg">
   
-  <p>Remove the screws on the enclosed power supply that correspond to the "fingers" on the PCB interface board.  Attach the PCB interface board and reinstall the screws to secure it in place.
-  </p>
+  <p>Remove the screws on the enclosed power supply that correspond to the "fingers" on the PCB interface board.  Attach the PCB interface board and reinstall the screws to secure it in place.</p>
 
   <div class="row">
-  		<div class="col-xs-6 col-md-3">
-  			<a href="#" class="thumbnail"><img src="P8200922Editcopy.jpg"></a>
+  	<div class="col-xs-6 col-md-3">
+  		<a href="#" class="thumbnail"><img src="P8200922Editcopy.jpg"></a>
 		</div>
 		<div class="col-xs-6 col-md-3">
 			<a href="#" class="thumbnail"><img src="P8200924Editcopy.jpg"></a>
@@ -27,21 +28,14 @@ permalink: /accessories/x-controller/
 		<div class="col-xs-6 col-md-3">
 			<a href="#" class="thumbnail"><img src="P8200925Editcopy.jpg"></a>
 		</div>
-		<div class="col-xs-6 col-md-3">
-			<a href="#" class="thumbnail"><img src="P8200926Editcopy.jpg"></a>
-		</div>
   </div>
 
   <h3>Attach Power Supply to Chassis</h3>
 
+  <img src="P8200936Editcopy.jpg">
+
   <p>Using the included hardware, attach the power supply through the mounting holes on the underside of the chassis.
   </p>
-
-  <div class="row">
-  		<div class="col-xs-6 col-md-3">
-  			<a href="#" class="thumbnail"><img src="P8200936Editcopy.jpg"></a>
-		</div>
-  </div>
 
   <div class="note">
   	<i class="fa fa-hand-o-right"></i>
@@ -49,6 +43,137 @@ permalink: /accessories/x-controller/
     	*Note: The chassis is not symmetrical.*  The PCB interface will be flush with the end of the chassis when installed correctly.
   	</span>
   </div>
-
- </div>
 </div>
+
+<div class="step-card">
+  <h2 id="install-controller-board">*Install Controller Board*</h2>
+
+  <img src="P8200995Editcopy.jpg">
+
+  <h3>Pepare Controller Board</h3>
+
+  <p>Information on pots and PWM (create diagrams rather than images)</p>
+
+  <div class="row">
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="DIAGRAM"></a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="DIAGRAM"></a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="IMAGE"></a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="IMAGE"></a>
+    </div>
+  </div>
+
+  <h3>Attach Stops</h3>
+
+  <img src="P8200944Editcopy.jpg">
+
+  <p>Install the screws in the threaded holes on the side of the chassis.  These screws locate the back of the controller board and make the face of the board flush with the chassis.</p>
+
+  <h3>Wire Controller Board</h3>
+
+  <img src="P8200993Editcopy.jpg">
+
+  <p>Attach the cables to the PCB Interface board.  There is only one way to attach the cables, so if they don't attach well, double check them and try again.  Make sure to tuck the e-stop cable along the edge of the enclosed power supply to prevent any sort of snagging or pinching.</p>
+
+  <div class="row">
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="P8200958Editcopy.jpg"></a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="P8200964Editcopy.jpg"></a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="P8200968Editcopy.jpg"></a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="P8200972Editcopy.jpg"></a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="P8200987Editcopy.jpg"></a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="P8200991Editcopy.jpg"></a>
+    </div>
+  </div>
+
+  <h3>Attach Controller Board</h3>
+
+  <img src="P8200979Editcopy.jpg">
+
+  <p>TEXT</p>
+
+  <div class="row">
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="P8200973Editcopy.jpg"></a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="P8200976Editcopy.jpg"></a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="P8200950Editcopy.jpg"></a>
+    </div>
+  </div>
+</div>
+
+<div class="step-card"> 
+  <h2 id="install-e-stop">*Install E-Stop*</h2>
+
+  <img src="IMAGE">
+
+  <h3>Attach asdlfl;jk</h3>
+
+  <img src="IMAGE">
+  
+  <p>TEXT</p>
+
+  <div class="row">
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="IMAGE"></a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="IMAGE"></a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="IMAGE"></a>
+    </div>
+  </div>
+
+  <h3>Attach sldkflsdkjf</h3>
+
+  <img src="IMAGE">
+</div>
+
+<div class="step-card"> 
+  <h2 id="close-it-up">*Close It Up*</h2>
+
+  <img src="IMAGE">
+
+  <h3>Attach asdlfl;jk</h3>
+
+  <img src="IMAGE">
+  
+  <p>TEXT</p>
+
+  <div class="row">
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="IMAGE"></a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="IMAGE"></a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="IMAGE"></a>
+    </div>
+  </div>
+
+  <h3>Attach sldkflsdkjf</h3>
+
+  <img src="IMAGE">
+</div>
+
