@@ -122,31 +122,52 @@ permalink: /accessories/x-controller/
 </div>
 
 <div class="step-card"> 
-  <h2 id="install-e-stop">*Install E-Stop*</h2>
+  <h2 id="install-e-stop-and-usb-module">*Install E-Stop and USB Module*</h2>
 
-  <img src="IMAGE">
+  <img src="P8201081Editcopy.jpg">
 
-  <h3>Attach asdlfl;jk</h3>
+  <h3>Dissasemble Button</h3>
 
-  <img src="IMAGE">
+  <img src="P8201008Editcopy.jpg">
   
   <p>TEXT</p>
 
   <div class="row">
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="IMAGE"></a>
+      <a href="#" class="thumbnail"><img src="P8201001Editcopy.jpg"></a>
     </div>
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="IMAGE"></a>
+      <a href="#" class="thumbnail"><img src="P8201003Editcopy.jpg"></a>
     </div>
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="IMAGE"></a>
+      <a href="#" class="thumbnail"><img src="P8201005Editcopy.jpg"></a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="P8201007Editcopy.jpg"></a>
     </div>
   </div>
 
-  <h3>Attach sldkflsdkjf</h3>
+  <h3>Attach Button</h3>
 
-  <img src="IMAGE">
+  <img src="P8201019Editcopy.jpg">
+
+  <p>TEXT</p>
+
+  <div class="row">
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="P8201022Editcopy.jpg"></a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="P8201025Editcopy.jpg"></a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="P8201030Editcopy.jpg"></a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="P8201034Editcopy.jpg"></a>
+    </div>
+  </div>
+
 </div>
 
 <div class="step-card"> 
