@@ -64,9 +64,16 @@ Now insert the other four insertion nuts from each of their respective corners a
 
 Remember to back off each screw a full turn after tightening them down; this will ensure that the waste board can slide left and right, which will make it easier to align the mounting holes with the insertion nuts.
 
-When all of your insertion nuts and mounting screws are in square up the waste board with the corners of your X-Carve and tighten them down.
+When all of your insertion nuts and mounting screws are in and the waste board is *centered,* tighten them down.
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/829/original/1413.jpg?1425388975!
+
+<div class="note">
+  <i class="fa fa-hand-o-right"></i>
+  <span class="note-text">
+    Note: The waste board currently shipping is 457.2mm x 498mm and will *NOT* be flush with the corners of the X-Carve as pictured.  The smaller width of the waste board allows extra clearance below the gantry side plates.
+  </span>
+</div>
 
       </div>
     </div>
