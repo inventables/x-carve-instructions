@@ -122,11 +122,11 @@ permalink: /accessories/x-controller/
 </div>
 
 <div class="step-card"> 
-  <h2 id="install-e-stop-and-usb-module">*Install E-Stop and USB Module*</h2>
+  <h2 id="install-front-panel">*Install Front Panel*</h2>
 
-  <img src="P8201081Editcopy.jpg">
+  <img src="P8201089Editcopy.jpg">
 
-  <h3>Dissasemble Button</h3>
+  <h3>Dissasemble E-Stop Button</h3>
 
   <img src="P8201008Editcopy.jpg">
   
@@ -147,7 +147,7 @@ permalink: /accessories/x-controller/
     </div>
   </div>
 
-  <h3>Attach Button</h3>
+  <h3>Attach E-Stop Button</h3>
 
   <img src="P8201019Editcopy.jpg">
 
@@ -168,33 +168,109 @@ permalink: /accessories/x-controller/
     </div>
   </div>
 
+  <h3>Attach USB Module</h3>
+
+  <img src="P8201063Editcopy.jpg">
+
+  <p>TEXT</p>
+
+  <div class="row">
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="P8201037Editcopy.jpg"></a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="P8201038Editcopy.jpg"></a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="P8201040Editcopy.jpg"></a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="P8201065Editcopy.jpg"></a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="P8201069Editcopy.jpg"></a>
+    </div>
+  </div>
+
+    <h3>Wire E-Stop And Attach Front Panel</h3>
+
+  <img src="P8201081Editcopy.jpg">
+
+  <p>TEXT</p>
+
+  <div class="row">
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="P8201044Editcopy.jpg"></a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="P8201048Editcopy.jpg"></a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="P8201050Editcopy.jpg"></a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="P8201053Editcopy.jpg"></a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="P8201059Editcopy.jpg"></a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="P8201080Editcopy.jpg"></a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="P8201082Editcopy.jpg"></a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="P8201085Editcopy.jpg"></a>
+    </div>
+  </div>
+
+
 </div>
 
 <div class="step-card"> 
-  <h2 id="close-it-up">*Close It Up*</h2>
+  <h2 id="install-back-panel">*Install Back Panel*</h2>
 
-  <img src="IMAGE">
+  <img src="P8201131Editcopy.jpg">
 
-  <h3>Attach asdlfl;jk</h3>
+  <h3>Attach Fan</h3>
 
-  <img src="IMAGE">
+  <img src="P8201107Editcopy.jpg">
   
   <p>TEXT</p>
 
   <div class="row">
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="IMAGE"></a>
+      <a href="#" class="thumbnail"><img src="P8201094Editcopy.jpg"></a>
     </div>
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="IMAGE"></a>
+      <a href="#" class="thumbnail"><img src="P8201099Editcopy.jpg"></a>
     </div>
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="IMAGE"></a>
+      <a href="#" class="thumbnail"><img src="P8201109Editcopy.jpg"></a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="P8201111Editcopy.jpg"></a>
     </div>
   </div>
 
-  <h3>Attach sldkflsdkjf</h3>
+  <h3>Wire Fan And Attach Back Panel</h3>
 
-  <img src="IMAGE">
+  <img src="P8201127Editcopy.jpg">
+
+  <p>text</p>
+
+  <div class="row">
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="P8201120Editcopy.jpg"></a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="P8201124Editcopy.jpg"></a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="P8201125Editcopy.jpg"></a>
+    </div>
+  </div>
+
 </div>
 
