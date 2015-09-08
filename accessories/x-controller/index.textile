@@ -73,13 +73,13 @@ permalink: /accessories/x-controller/
 
   <img src="P8200944Editcopy.jpg">
 
-  <p>Install the screws in the threaded holes on the side of the chassis.  These screws locate the back of the controller board and make the face of the board flush with the chassis.</p>
+  <p>Install the button head cap screws in the threaded holes on the side of the chassis.  These screws locate the back of the controller board and make the face of the board flush with the chassis.</p>
 
   <h3>Wire Controller Board</h3>
 
   <img src="P8200993Editcopy.jpg">
 
-  <p>Attach the cables to the PCB Interface board.  There is only one way to attach the cables, so if they don't attach well, double check them and try again.  Make sure to tuck the e-stop cable along the edge of the enclosed power supply to prevent any sort of snagging or pinching.</p>
+  <p>Attach the cables to the PCB Interface board.  The cables can only be connected in one orientation, so if they don't attach well double check them and try again.  Try to oreint them so that the wires can easily travel from board to board.  Make sure to tuck the e-stop cable along the edge of the enclosed power supply to prevent any sort of snagging or pinching.</p>
 
   <div class="row">
     <div class="col-xs-6 col-md-3">
@@ -106,7 +106,7 @@ permalink: /accessories/x-controller/
 
   <img src="P8200979Editcopy.jpg">
 
-  <p>TEXT</p>
+  <p>Slide the controller board into the channels of the chassis, making sure you route the wires through the cutout on the board to prevent snagging or pinching.</p>
 
   <div class="row">
     <div class="col-xs-6 col-md-3">
@@ -119,6 +119,13 @@ permalink: /accessories/x-controller/
       <a href="#" class="thumbnail"><img src="P8200950Editcopy.jpg"></a>
     </div>
   </div>
+
+<div class="note">
+    <i class="fa fa-hand-o-right"></i>
+    <span class="note-text">
+      *Note:*  The wires can be a bit stiff.  If you're having trouble don't force the wire, but instead try to shape the wire into place.  In case the wires snag and become loose, double check all of your connections after sliding the board into position.
+    </span>
+  </div>
 </div>
 
 <div class="step-card"> 
@@ -130,7 +137,7 @@ permalink: /accessories/x-controller/
 
   <img src="P8201008Editcopy.jpg">
   
-  <p>TEXT</p>
+  <p>Remove the button from the screw terminals by gently pulling on the yellow tab. With the button upside down (as pictured) pull the tab towards you and then to the right to disengage the two parts.  Unscrew the nut attached to the base of the button. This nut will be used to secure the button to the enclosure.</p>
 
   <div class="row">
     <div class="col-xs-6 col-md-3">
@@ -151,7 +158,7 @@ permalink: /accessories/x-controller/
 
   <img src="P8201019Editcopy.jpg">
 
-  <p>TEXT</p>
+  <p>Insert the button through the hole on the top panel and secure using the nut.  Make sure the side of the button marked "TOP" is facing the middle of the top panel.  Slide the top panel into the channels of the chassis, far enough back so you can access the Mini USB port on the main controller board.</p>
 
   <div class="row">
     <div class="col-xs-6 col-md-3">
@@ -166,6 +173,13 @@ permalink: /accessories/x-controller/
     <div class="col-xs-6 col-md-3">
       <a href="#" class="thumbnail"><img src="P8201034Editcopy.jpg"></a>
     </div>
+  </div>
+
+  <div class="note">
+    <i class="fa fa-hand-o-right"></i>
+    <span class="note-text">
+      *Note:* When wiring the e-stop in subsequent steps, make sure the "TOP" marking on the button lines up with the "TOP" marking on the screw terminals.
+    </span>
   </div>
 
   <h3>Attach USB Module</h3>
