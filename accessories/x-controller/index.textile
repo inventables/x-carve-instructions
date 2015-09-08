@@ -34,7 +34,7 @@ permalink: /accessories/x-controller/
 
   <img src="P8200936Editcopy.jpg">
 
-  <p>Using the included hardware, attach the power supply through the mounting holes on the underside of the chassis.
+  <p>Using the M4 button head cap screws, attach the power supply through the mounting holes on the underside of the chassis.
   </p>
 
   <div class="note">
@@ -73,13 +73,13 @@ permalink: /accessories/x-controller/
 
   <img src="P8200944Editcopy.jpg">
 
-  <p>Install the button head cap screws in the threaded holes on the side of the chassis.  These screws locate the back of the controller board and make the face of the board flush with the chassis.</p>
+  <p>Install the M4 button head cap screws in the threaded holes on the side of the chassis.  These screws locate the back of the controller board and make the face of the board flush with the chassis.</p>
 
   <h3>Wire Controller Board</h3>
 
   <img src="P8200993Editcopy.jpg">
 
-  <p>Attach the cables to the PCB Interface board.  The cables can only be connected in one orientation, so if they don't attach well double check them and try again.  Try to oreint them so that the wires can easily travel from board to board.  Make sure to tuck the e-stop cable along the edge of the enclosed power supply to prevent any sort of snagging or pinching.</p>
+  <p>Attach the cables to the PCB Interface board.  The cables can only be connected in one orientation, so if they don't attach well double check them and try again.  Try to orient them so that the wires can easily travel from board to board.  Make sure to tuck the e-stop cable along the edge of the enclosed power supply to prevent any sort of snagging or pinching.</p>
 
   <div class="row">
     <div class="col-xs-6 col-md-3">
@@ -168,9 +168,6 @@ permalink: /accessories/x-controller/
       <a href="#" class="thumbnail"><img src="P8201025Editcopy.jpg"></a>
     </div>
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="P8201030Editcopy.jpg"></a>
-    </div>
-    <div class="col-xs-6 col-md-3">
       <a href="#" class="thumbnail"><img src="P8201034Editcopy.jpg"></a>
     </div>
   </div>
@@ -182,11 +179,11 @@ permalink: /accessories/x-controller/
     </span>
   </div>
 
-  <h3>Attach USB Module</h3>
+  <h3>Attach USB Cable</h3>
 
   <img src="P8201063Editcopy.jpg">
 
-  <p>TEXT</p>
+  <p>Using the M3 phillips head screws, attach the USB cable to the front panel.  Attach the other end of the USB cable to the main controller board.</p>
 
   <div class="row">
     <div class="col-xs-6 col-md-3">
@@ -206,11 +203,18 @@ permalink: /accessories/x-controller/
     </div>
   </div>
 
+  <div class="note">
+    <i class="fa fa-hand-o-right"></i>
+    <span class="note-text">
+      *Note:* Make sure not to stress the connector on the main controller board.
+    </span>
+  </div>
+
     <h3>Wire E-Stop And Attach Front Panel</h3>
 
   <img src="P8201081Editcopy.jpg">
 
-  <p>TEXT</p>
+  <p>Attach the ends of the e-stop cable to each side of the NC screw terminal as pictured. Tighten the phillips head screws on the screw terminals to hold the cable in place.  To attach the wired screw terminal to the button, *line up the "TOP" marking on the button with the "TOP" marking on the screw terminal.*  Once in postion, move the yellow tab towards the back of the assembly to lock in place.  Attach the front panel using the included M4 socket head cap screws.</p>
 
   <div class="row">
     <div class="col-xs-6 col-md-3">
@@ -239,6 +243,12 @@ permalink: /accessories/x-controller/
     </div>
   </div>
 
+  <div class="note">
+    <i class="fa fa-hand-o-right"></i>
+    <span class="note-text">
+      *Note:* If your having any problems with this part of the assembly, check out the "E-Stop with Enclosure instructions":http://x-carve-instructions.inventables.com/accessories/e-stop-with-enclosure/ for more information.
+    </span>
+  </div>
 
 </div>
 
@@ -251,7 +261,7 @@ permalink: /accessories/x-controller/
 
   <img src="P8201107Editcopy.jpg">
   
-  <p>TEXT</p>
+  <p>Using the included M3 socket head cap screws and nuts, attach the fan to the front panel.</p>
 
   <div class="row">
     <div class="col-xs-6 col-md-3">
@@ -272,7 +282,7 @@ permalink: /accessories/x-controller/
 
   <img src="P8201127Editcopy.jpg">
 
-  <p>text</p>
+  <p>Attach the fan cable to the PCB interface board.  The cable can only be connected in one orientation, so if it doesn't attach well double check and try again.  Attach the back panel using the included M4 socket head cap screws.</p>
 
   <div class="row">
     <div class="col-xs-6 col-md-3">
