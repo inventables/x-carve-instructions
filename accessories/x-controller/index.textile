@@ -34,7 +34,7 @@ permalink: /accessories/x-controller/
 
   <img src="P8200936Editcopy.jpg">
 
-  <p>Using the M4 button head cap screws, attach the power supply through the mounting holes on the underside of the chassis.
+  <p>Line up the bottom of the power supply with the chassis.  The holes are not symmetrical so you need to make sure you orient the power supply so the PCB interface is near one end so the cover can fit on it. The power supply should be about a half inch short of the other side so the back plate can fit on the other end.  Using the M4 button head cap screws, attach the power supply through the mounting holes on the underside of the chassis.
   </p>
 
   <div class="note">
