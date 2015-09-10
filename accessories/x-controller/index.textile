@@ -16,7 +16,9 @@ permalink: /accessories/x-controller/
 
   <img src="P8200926Editcopy.jpg">
   
-  <p>Remove the screws on the enclosed power supply that correspond to the "fingers" on the PCB interface board.  Attach the PCB interface board and reinstall the screws to secure it in place.</p>
+  <p>Part #1: Flip up the orange cover and remove the screws along with the square washers on the enclosed power supply that correspond to the "fingers" on the PCB interface board.  (Slots 1,4,5,7,8,9)
+
+<p>Part #2: Attach the PCB interface board and reinstall the screws to secure it in place and flip down the orange cover.</p>
 
   <div class="row">
   	<div class="col-xs-6 col-md-3">
