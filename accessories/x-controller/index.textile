@@ -13,6 +13,7 @@ permalink: /accessories/x-controller/
   <img src="P8200931Editcopy.jpg">
 
   <h3>Attach PCB Interface</h3>
+<p>This picture shows what the X-Controller should look like at the end of this step. Scroll down to begin.</p>
 
   <img src="P8200926Editcopy.jpg">
   
