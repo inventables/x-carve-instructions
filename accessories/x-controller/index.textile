@@ -7,7 +7,7 @@ permalink: /accessories/x-controller/
 
 <img src="P8201136Editcopy.jpg">
 
-<p>Welcome to the X-Controller installation instructions!  The images shown at the beginning of each step show the finished results of that step.  This is to provide context for what you're about to start working on, and offer those eager and willing to figure things out on their own a way to skim through more quickly.  Make sure to click on the thumbnails to see more details.</p>
+<p>Welcome to the X-Controller assembly instructions!  The images shown at the beginning of each step show the finished results of that step.  This is to provide context for what you're about to start working on, and offer those eager and willing to figure things out on their own a way to skim through more quickly.  Make sure to click on the thumbnails to see more details.</p>
 
 <p>Bear in mind that these instructions were completed with a pre-production X-Controller, so you may find a few inconsistencies between what is pictured and what's in front of you.</p>
 
