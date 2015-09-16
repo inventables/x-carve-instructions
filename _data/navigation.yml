@@ -160,3 +160,14 @@ accessories:
       url: '#wire-it-up'
     - title: Close It Up
       url: '#close-it-up'
+  - title: X-Controller
+    url: /accessories/x-controller/
+    subnav:
+    - title: Install Power Supply
+      url: '#install-power-supply'
+    - title: Install Controller Board
+      url: '#install-controller-board'
+    - title: Install Front Panel
+      url: '#install-front-panel'
+    - title: Install Back Panel
+      url: '#install-back-panel'
