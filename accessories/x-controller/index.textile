@@ -7,17 +7,62 @@ permalink: /accessories/x-controller/
 
 <img src="P8201136Editcopy.jpg">
 
+<p>Welcome to the X-Controller installation instructions!  The images shown at the beginning of each step show the finished results of that step.  This is to provide context for what you're about to start working on, and offer those eager and willing to figure things out on their own a way to skim through more quickly.  Make sure to click on the thumbnails to see more details.</p>
+
+<p>Bear in mind that these instructions were completed with a pre-production X-Controller, so you may find a few inconsistencies between what is pictured and what's in front of you.</p>
+
 <div class="step-card">
   <h2 id="install-power-supply">*Install Power Supply*</h2>
+  <ol class="step-contents">
+    <li>Attach Feet</li>
+    <li>Prepare PCB Interface (OPTIONAL)</li>
+    <li>Attach PCB Interface</li>
+    <li>Attach Power Supply to Chassis</li>
+  </ol>
 
   <img src="P8200931Editcopy.jpg">
 
-  <h3>Attach PCB Interface</h3>
+  <h3>1. Attach Feet</h3>
+  <img src="INSERT IMAGE">
+  <p>Attach the four rubber "feet" to the bottom of the chassis.  Flip the chasis over and "screw" the foot through the hole.  Once the foot is partially in, try using your fingernail to bring it the rest of the way through.</p>
 
+  <h3>2. Prepare PCB Interface (OPTIONAL)</h3>
+  <p>This step is for the advanced user, and contains information on setting spindle control signals on the PCB interface.  *If you plan to use a DC spindle controlled by a PWM signal, everything should be set correctly from the get-go.*  Click below to see more information.</p>
+  <div class="panel-group" id="pcb-accordion" role="tablist" aria-multiselectable="true">
+  <div class="panel panel-default">
+    <a data-toggle="collapse" data-parent="#pcb-accordion" href="#pcb" aria-expanded="false" aria-controls="pcb" class="panel-heading" role="tab" id="pcb-header">
+      <h4 class="panel-title">
+          *FINE-TUNING*
+      </h4>
+      <div class="expand-icons">
+        <i class="fa fa-plus"></i>
+        <i class="fa fa-minus"></i>
+      </div>
+    </a>
+    <div id="pcb" class="panel-collapse collapse" role="tabpanel" aria-labelledby="pcb-header">
+      <div class="panel-body">
+  <div class="row image-row">
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="DIAGRAM"></a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="DIAGRAM"></a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="IMAGE"></a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="IMAGE"></a>
+    </div>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+
+  <h3>3. Attach PCB Interface</h3>
   <img src="P8200926Editcopy.jpg">
-
   <p>Remove the screws on the enclosed power supply that correspond to the "fingers" on the PCB interface board.  Attach the PCB interface board and reinstall the screws to secure it in place.</p>
-
   <div class="row image-row">
   	<div class="col-xs-6 col-md-3">
   		<a href="#" class="thumbnail"><img src="P8200922Editcopy.jpg"></a>
@@ -30,13 +75,10 @@ permalink: /accessories/x-controller/
 		</div>
   </div>
 
-  <h3>Attach Power Supply to Chassis</h3>
-
+  <h3>4. Attach Power Supply to Chassis</h3>
   <img src="P8200936Editcopy.jpg">
-
   <p>Using the M4 button head cap screws, attach the power supply through the mounting holes on the underside of the chassis.
   </p>
-
   <div class="note">
   	<i class="fa fa-hand-o-right"></i>
   	<span class="note-text">
@@ -47,13 +89,30 @@ permalink: /accessories/x-controller/
 
 <div class="step-card">
   <h2 id="install-controller-board">*Install Controller Board*</h2>
+  <ol class="step-contents">
+    <li>Prepare Controller Board (OPTIONAL)</li>
+    <li>Attach Stops</li>
+    <li>Wire Controller Board</li>
+    <li>Attach Controller Board</li>
+  </ol>
 
   <img src="P8200995Editcopy.jpg">
 
-  <h3>Pepare Controller Board</h3>
-
-  <p>Information on pots and PWM (create diagrams rather than images)</p>
-
+  <h3>1. Prepare Controller Board (OPTIONAL)</h3>
+  <p>This step is for the advanced user, and contains information on setting microstepping and fine-tuning motor current on the controller board.  *Everything should be set correctly from the get-go.*  Click below to see more information.</p>
+  <div class="panel-group" id="controlboard-accordion" role="tablist" aria-multiselectable="true">
+  <div class="panel panel-default">
+    <a data-toggle="collapse" data-parent="#controlboard-accordion" href="#controlboard" aria-expanded="false" aria-controls="controlboard" class="panel-heading" role="tab" id="controlboard-header">
+      <h4 class="panel-title">
+          *FINE-TUNING*
+      </h4>
+      <div class="expand-icons">
+        <i class="fa fa-plus"></i>
+        <i class="fa fa-minus"></i>
+      </div>
+    </a>
+    <div id="controlboard" class="panel-collapse collapse" role="tabpanel" aria-labelledby="controlboard-header">
+      <div class="panel-body">
   <div class="row image-row">
     <div class="col-xs-6 col-md-3">
       <a href="#" class="thumbnail"><img src="DIAGRAM"></a>
@@ -68,19 +127,18 @@ permalink: /accessories/x-controller/
       <a href="#" class="thumbnail"><img src="IMAGE"></a>
     </div>
   </div>
+  </div>
+  </div>
+  </div>
+  </div>
 
-  <h3>Attach Stops</h3>
-
+  <h3>2. Attach Stops</h3>
   <img src="P8200944Editcopy.jpg">
-
   <p>Install the M4 button head cap screws in the threaded holes on the side of the chassis.  These screws locate the back of the controller board and make the face of the board flush with the chassis.</p>
 
-  <h3>Wire Controller Board</h3>
-
+  <h3>3. Wire Controller Board</h3>
   <img src="P8200993Editcopy.jpg">
-
   <p>Attach the cables to the PCB Interface board.  The cables can only be connected in one orientation, so if they don't attach well double check them and try again.  Try to orient them so that the wires can easily travel from board to board.  Make sure to tuck the e-stop cable along the edge of the enclosed power supply to prevent any sort of snagging or pinching.</p>
-
   <div class="row image-row">
     <div class="col-xs-6 col-md-3">
       <a href="#" class="thumbnail"><img src="P8200958Editcopy.jpg"></a>
@@ -102,12 +160,9 @@ permalink: /accessories/x-controller/
     </div>
   </div>
 
-  <h3>Attach Controller Board</h3>
-
+  <h3>4. Attach Controller Board</h3>
   <img src="P8200979Editcopy.jpg">
-
   <p>Slide the controller board into the channels of the chassis, making sure you route the wires through the cutout on the board to prevent snagging or pinching.</p>
-
   <div class="row image-row">
     <div class="col-xs-6 col-md-3">
       <a href="#" class="thumbnail"><img src="P8200973Editcopy.jpg"></a>
@@ -119,7 +174,6 @@ permalink: /accessories/x-controller/
       <a href="#" class="thumbnail"><img src="P8200950Editcopy.jpg"></a>
     </div>
   </div>
-
 <div class="note">
     <i class="fa fa-hand-o-right"></i>
     <span class="note-text">
@@ -130,15 +184,18 @@ permalink: /accessories/x-controller/
 
 <div class="step-card">
   <h2 id="install-front-panel">*Install Front Panel*</h2>
+  <ol class="step-contents">
+    <li>Dissasemble E-Stop Button</li>
+    <li>Attach E-Stop Button</li>
+    <li>Attach USB Cable</li>
+    <li>Wire E-Stop And Attach Front Panel</li>
+  </ol>
 
   <img src="P8201089Editcopy.jpg">
 
-  <h3>Dissasemble E-Stop Button</h3>
-
+  <h3>1. Dissasemble E-Stop Button</h3>
   <img src="P8201008Editcopy.jpg">
-
   <p>Remove the button from the screw terminals by gently pulling on the yellow tab. With the button upside down (as pictured) pull the tab towards you and then to the right to disengage the two parts.  Unscrew the nut attached to the base of the button. This nut will be used to secure the button to the enclosure.</p>
-
   <div class="row image-row">
     <div class="col-xs-6 col-md-3">
       <a href="#" class="thumbnail"><img src="P8201001Editcopy.jpg"></a>
@@ -154,12 +211,9 @@ permalink: /accessories/x-controller/
     </div>
   </div>
 
-  <h3>Attach E-Stop Button</h3>
-
+  <h3>2. Attach E-Stop Button</h3>
   <img src="P8201019Editcopy.jpg">
-
   <p>Insert the button through the hole on the top panel and secure using the nut.  Make sure the side of the button marked "TOP" is facing the middle of the top panel.  Slide the top panel into the channels of the chassis, far enough back so you can access the Mini USB port on the main controller board.</p>
-
   <div class="row image-row">
     <div class="col-xs-6 col-md-3">
       <a href="#" class="thumbnail"><img src="P8201022Editcopy.jpg"></a>
@@ -171,7 +225,6 @@ permalink: /accessories/x-controller/
       <a href="#" class="thumbnail"><img src="P8201034Editcopy.jpg"></a>
     </div>
   </div>
-
   <div class="note">
     <i class="fa fa-hand-o-right"></i>
     <span class="note-text">
@@ -179,12 +232,9 @@ permalink: /accessories/x-controller/
     </span>
   </div>
 
-  <h3>Attach USB Cable</h3>
-
+  <h3>3. Attach USB Cable</h3>
   <img src="P8201063Editcopy.jpg">
-
   <p>Using the M3 phillips head screws, attach the USB cable to the front panel.  Attach the other end of the USB cable to the main controller board.</p>
-
   <div class="row image-row">
     <div class="col-xs-6 col-md-3">
       <a href="#" class="thumbnail"><img src="P8201037Editcopy.jpg"></a>
@@ -202,7 +252,6 @@ permalink: /accessories/x-controller/
       <a href="#" class="thumbnail"><img src="P8201069Editcopy.jpg"></a>
     </div>
   </div>
-
   <div class="note">
     <i class="fa fa-hand-o-right"></i>
     <span class="note-text">
@@ -210,12 +259,9 @@ permalink: /accessories/x-controller/
     </span>
   </div>
 
-    <h3>Wire E-Stop And Attach Front Panel</h3>
-
+  <h3>4. Wire E-Stop And Attach Front Panel</h3>
   <img src="P8201081Editcopy.jpg">
-
   <p>Attach the ends of the e-stop cable to each side of the NC screw terminal as pictured. Tighten the phillips head screws on the screw terminals to hold the cable in place.  To attach the wired screw terminal to the button, *line up the "TOP" marking on the button with the "TOP" marking on the screw terminal.*  Once in postion, move the yellow tab towards the back of the assembly to lock in place.  Attach the front panel using the included M4 socket head cap screws.</p>
-
   <div class="row image-row">
     <div class="col-xs-6 col-md-3">
       <a href="#" class="thumbnail"><img src="P8201044Editcopy.jpg"></a>
@@ -242,27 +288,26 @@ permalink: /accessories/x-controller/
       <a href="#" class="thumbnail"><img src="P8201085Editcopy.jpg"></a>
     </div>
   </div>
-
   <div class="note">
     <i class="fa fa-hand-o-right"></i>
     <span class="note-text">
       *Note:* If your having any problems with this part of the assembly, check out the "E-Stop with Enclosure instructions":http://x-carve-instructions.inventables.com/accessories/e-stop-with-enclosure/ for more information.
     </span>
   </div>
-
 </div>
 
 <div class="step-card">
   <h2 id="install-back-panel">*Install Back Panel*</h2>
+  <ol class="step-contents">
+    <li>Attach Fan</li>
+    <li>Wire Fan And Attach Back Panel</li>
+  </ol>
 
   <img src="P8201131Editcopy.jpg">
 
-  <h3>Attach Fan</h3>
-
+  <h3>1. Attach Fan</h3>
   <img src="P8201107Editcopy.jpg">
-
   <p>Using the included M3 socket head cap screws and nuts, attach the fan to the front panel.</p>
-
   <div class="row image-row">
     <div class="col-xs-6 col-md-3">
       <a href="#" class="thumbnail"><img src="P8201094Editcopy.jpg"></a>
@@ -278,12 +323,9 @@ permalink: /accessories/x-controller/
     </div>
   </div>
 
-  <h3>Wire Fan And Attach Back Panel</h3>
-
+  <h3>2. Wire Fan And Attach Back Panel</h3>
   <img src="P8201127Editcopy.jpg">
-
   <p>Attach the fan cable to the PCB interface board.  The cable can only be connected in one orientation, so if it doesn't attach well double check and try again.  Attach the back panel using the included M4 socket head cap screws.</p>
-
   <div class="row image-row">
     <div class="col-xs-6 col-md-3">
       <a href="#" class="thumbnail"><img src="P8201120Editcopy.jpg"></a>
@@ -295,6 +337,5 @@ permalink: /accessories/x-controller/
       <a href="#" class="thumbnail"><img src="P8201125Editcopy.jpg"></a>
     </div>
   </div>
-
 </div>
 
