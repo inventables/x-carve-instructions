@@ -42,7 +42,9 @@ Click below to select your chosen type of drive rod.
 
 Your M8 Threaded Rod came with a Delrin Nut that is designed to travel along it. The fit between the rod and the nut will be tight at first. It is a good idea to use a handheld drill and traverse the nut up and down the rod a few dozen times:
 
-!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/562/original/0552.jpg?1424380688! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/564/original/0554.jpg?1424380690! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/759/original/0556.jpg?1424561655! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/568/original/0558.jpg?1424380695!
+<div class="row image-row">
+!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/562/original/0552.jpg?1424380688! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/564/original/0554.jpg?1424380690! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/759/original/0556.jpg?1424561655! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/568/original/0558.jpg?1424380695!
+</div>
 
 Leave the Delrin Nut in the middle of the rod and thread one of the M8 hex nuts onto one of its end. You'll want to thread the nut about an inch and a half onto the rod.
 
@@ -100,7 +102,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 <p>Insert the ACME Lead Screw through the the bottom of the flanged bearing, with the Delrin Nut attached just below the Z Axis Motor Plate (as pictured).</p>
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1069/original/P4290307.jpg?1430341931! 
+p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1069/original/P4290307.jpg?1430341931!
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1070/original/P4290308.jpg?1430341933!
 

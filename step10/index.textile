@@ -52,7 +52,8 @@ Next cut the stepper cable to length.
 
 Strip one end of each piece of stepper cable. There is grey insulation around all four wires inside. Remove it as well as the foil, string and thin silver wire. You should be left with four wires; one %{color:black}**black**%, one %{color:green}**green**%, one **white** and one %{color:red}**red**%.
 
-!(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/771/original/1060.jpg?1425054296! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/772/original/1061.jpg?1425054297! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/773/original/1062.jpg?1425054298! !(thumbnail span2)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/774/original/1063.jpg?1425054298!
+<div class="row image-row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/771/original/1060.jpg?1425054296! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/772/original/1061.jpg?1425054297! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/773/original/1062.jpg?1425054298! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/774/original/1063.jpg?1425054298!
+</div>
 
 Strip about 1/4" of each of these colored wires.
 

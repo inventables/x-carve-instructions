@@ -16,7 +16,7 @@ permalink: /accessories/e-stop-with-enclosure/
 
   Remove the button from the screw terminals by gently pulling on the yellow tab.  If facing the button (as pictured) **pull the tab towards you** and then to the left to disengage the two parts.
 
-  <div class="row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1423/original/P6290744EDIT.jpg?1435678922! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1424/original/P6290745EDIT.jpg?1435678924! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1426/original/P6290749EDIT.jpg?1435678928!
+  <div class="row image-row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1423/original/P6290744EDIT.jpg?1435678922! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1424/original/P6290745EDIT.jpg?1435678924! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1426/original/P6290749EDIT.jpg?1435678928!
   </div>
 </div>
 <div class="step-card">
@@ -27,26 +27,26 @@ permalink: /accessories/e-stop-with-enclosure/
 
   Unscrew the nut attached to the base of the button.  This nut will be used to secure the button to the enclosure.
 
-  <div class="row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1429/original/P6290753EDIT.jpg?1435678933! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1430/original/P6290755EDIT.jpg?1435678935! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1431/original/P6290756EDIT.jpg?1435678937!
+  <div class="row image-row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1429/original/P6290753EDIT.jpg?1435678933! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1430/original/P6290755EDIT.jpg?1435678935! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1431/original/P6290756EDIT.jpg?1435678937!
   </div>
 
   <h3>Insert Button into Enclosure</h3>
 
   **Line up the notch in the enclosure with the break in the threads**, placing the Emergency Stop ring between the button and enclosure.  This break in the threads should be on the side of the button marked **"Top"**.  The "Top" side of the button will correspond with the "Top" side of the screw terminals when reassembling.
 
-  <div class="row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1432/original/P6290757EDIT.jpg?1435678938! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1433/original/P6290758EDIT.jpg?1435678940! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1434/original/P6290760EDIT.jpg?1435678942! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1435/original/P6290761EDIT.jpg?1435678943!
+  <div class="row image-row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1432/original/P6290757EDIT.jpg?1435678938! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1433/original/P6290758EDIT.jpg?1435678940! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1434/original/P6290760EDIT.jpg?1435678942! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1435/original/P6290761EDIT.jpg?1435678943!
   </div>
 
   <h3>Secure Button with Nut</h3>
 
   Screw on the nut to secure the button to the enclosure.  If you're having problems tightening the nut try using the button itself, making sure to keep the break in the threads aligned.
-  <div class="row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1436/original/P6290762EDIT.jpg?1435678944!
+  <div class="row image-row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1436/original/P6290762EDIT.jpg?1435678944!
   </div>
 
   <div class="note note-alert">
     <i class="fa fa-exclamation-triangle"></i>
     <span class="note-text">
-      <b>IMPORTANT:</b> Make sure you follow the direction of the arrows on the button when disengaging the e-stop. You can loosen the nut securing the button to the enclosure if turned the wrong direction. If this continues to be an issue, try removing the emergency stop ring, which allows direct contact between the gasket on the button and the enclosure.
+      <b>IMPORTANT:</b> Make sure you follow the direction of the arrow image-rows on the button when disengaging the e-stop. You can loosen the nut securing the button to the enclosure if turned the wrong direction. If this continues to be an issue, try removing the emergency stop ring, which allows direct contact between the gasket on the button and the enclosure.
     </span>
     <i class="fa fa-exclamation-triangle"></i>
   </div>
@@ -61,7 +61,7 @@ permalink: /accessories/e-stop-with-enclosure/
 
   Pop off the plastic cover from the enclosure and remove the bottom nut from the cable strain relief piece.  **Place the nut inside of the enclosure and hold it stationary** while you screw in the cable strain relief piece from the outside of the enclosure.
 
-  <div class="row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1440/original/P6290770EDIT.jpg?1435678951! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1443/original/P6290774EDIT.jpg?1435678955! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1442/original/P6290772EDIT.jpg?1435678954! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1445/original/P6290778EDIT.jpg?1435678958!
+  <div class="row image-row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1440/original/P6290770EDIT.jpg?1435678951! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1443/original/P6290774EDIT.jpg?1435678955! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1442/original/P6290772EDIT.jpg?1435678954! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1445/original/P6290778EDIT.jpg?1435678958!
   </div>
 </div>
 
@@ -110,13 +110,13 @@ permalink: /accessories/e-stop-with-enclosure/
 
   <p>Secure the two enclosure pieces together using the included screws.</p>
 
-  <div class="row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1448/original/P6290783EDIT.jpg?1435678962! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1449/original/P6290784EDIT.jpg?1435678963!
+  <div class="row image-row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1448/original/P6290783EDIT.jpg?1435678962! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1449/original/P6290784EDIT.jpg?1435678963!
   </div>
 
   <div class="note note-alert">
     <i class="fa fa-exclamation-triangle"></i>
     <span class="note-text">
-      <b>IMPORTANT:</b> Make sure you follow the direction of the arrows on the button when disengaging the e-stop. You can loosen the nut securing the button to the enclosure if turned the wrong direction. If this continues to be an issue, try removing the emergency stop ring, which allows direct contact between the gasket on the button and the enclosure.
+      <b>IMPORTANT:</b> Make sure you follow the direction of the arrow image-rows on the button when disengaging the e-stop. You can loosen the nut securing the button to the enclosure if turned the wrong direction. If this continues to be an issue, try removing the emergency stop ring, which allows direct contact between the gasket on the button and the enclosure.
     </span>
     <i class="fa fa-exclamation-triangle"></i>
   </div>

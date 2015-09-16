@@ -39,7 +39,7 @@ The first thing you’ll do is attach the smooth idlers. Insert one of the flat 
 
 Next you’ll put a spacer onto the screw followed by the smooth idler and a nylock hex nut. Tighten the hex nut with moderate force.
 
-<div class="row">
+<div class="row image-row">
 !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/637/original/0012.jpg?1424451129! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/638/original/0014.jpg?1424451138! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/640/original/0021.jpg?1424451287! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/641/original/0022.jpg?1424451288!
 </div>
 
@@ -178,7 +178,7 @@ The NEMA 23 mounting holes on the X Carriage are tapped. Simply insert the screw
 
 !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/660/original/X-Carriage%20NEMA%2023%20Mounting%20Holes.png?1424458322!
 
-<div class="row">
+<div class="row image-row">
 !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/610/original/0151.jpg?1424383737! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/611/original/0152.jpg?1424383738! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/612/original/0154.jpg?1424383756! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/671/original/1306.jpg?1424462609!
 </div>
 
@@ -263,7 +263,7 @@ Mount it on the X Carriage by inserting the screws through the holes in the chai
 
 If you purchased a 1000mm X-Carve remove a male drag chain end from one of the longer drag chain lengths, and attach it to the angle bracket and then the X-Carriage like this:
 
-<div class="row">
+<div class="row image-row">
   <img src="1616.jpg" class="thumbnail col-md-3">
   <img src="1621.jpg" class="thumbnail col-md-3">
   <img src="1622.jpg" class="thumbnail col-md-3">
