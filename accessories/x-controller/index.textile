@@ -74,6 +74,13 @@ permalink: /accessories/x-controller/
 			<a href="#" class="thumbnail"><img src="P8200925Editcopy.jpg"></a>
 		</div>
   </div>
+  <div class="note">
+    <i class="fa fa-hand-o-right"></i>
+    <span class="note-text">
+      *Note: Not pictured is a transparent yellow/orange flap over the screw terminals on the power supply.*  This can be either removed or flipped back for easier access to the screw terminals.
+    </span>
+  </div>
+
 
   <h3>4. Attach Power Supply to Chassis</h3>
   <img src="P8200936Editcopy.jpg">
@@ -336,6 +343,12 @@ permalink: /accessories/x-controller/
     <div class="col-xs-6 col-md-3">
       <a href="#" class="thumbnail"><img src="P8201125Editcopy.jpg"></a>
     </div>
+  </div>
+  <div class="note">
+    <i class="fa fa-hand-o-right"></i>
+    <span class="note-text">
+      *Note:* Make sure to *remove the terminal blocks* from both the PCB interface and main controller boards prior to attaching the back panel, otherwise the panel will not sit flush against the chassis.
+    </span>
   </div>
 </div>
 
