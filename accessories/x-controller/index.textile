@@ -9,14 +9,20 @@ permalink: /accessories/x-controller/
 
 <p>Welcome to the X-Controller assembly instructions!  The images shown at the beginning of each step show the finished results of that step.  This is to provide context for what you're about to start working on, and offer those eager and willing to figure things out on their own a way to skim through more quickly.  Make sure to click on the thumbnails to see more details.</p>
 
+|\3{color:#fff;background: #383838}. **Tools** |
+|\3. Phillips Screwdriver |
+|\3. 2.5mm Allen Wrench |
+|\3. 3mm Allen Wrench |
+|\3. 5.5mm Open End Wrench (Adjustable Wrench or Pliers) |
+
 <p>Bear in mind that these instructions were completed with a pre-production X-Controller, so you may find a few inconsistencies between what is pictured and what's in front of you.</p>
 
 <div class="step-card">
   <h2 id="install-power-supply">*Install Power Supply*</h2>
   <ol class="step-contents">
     <li>Attach Feet</li>
-    <li>Prepare PCB Interface (OPTIONAL)</li>
-    <li>Attach PCB Interface</li>
+    <li>Prepare Power Supply Interface PCB (OPTIONAL)</li>
+    <li>Attach Power Supply Interface PCB</li>
     <li>Attach Power Supply to Chassis</li>
   </ol>
 
@@ -24,10 +30,10 @@ permalink: /accessories/x-controller/
 
   <h3>1. Attach Feet</h3>
   <img src="INSERT IMAGE">
-  <p>Attach the four rubber "feet" to the bottom of the chassis.  Flip the chasis over and "screw" the foot through the hole.  Once the foot is partially in, try using your fingernail to bring it the rest of the way through.</p>
+  <p>Attach the four rubber "feet" to the bottom of the chassis.  Flip the chassis over and "screw" the foot through the hole.  Once the foot is partially in, try using your fingernail to bring it the rest of the way through.</p>
 
-  <h3>2. Prepare PCB Interface (OPTIONAL)</h3>
-  <p>This step is for the advanced user, and contains information on setting spindle control signals on the PCB interface.  *If you plan to use a DC spindle controlled by a PWM signal, everything should be set correctly from the get-go.*  Click below to see more information.</p>
+  <h3>2. Prepare Power Supply Interface PCB (OPTIONAL)</h3>
+  <p>This step is for the advanced user, and contains information on setting spindle control signals on the interface PCB.  *If you plan to use a DC spindle controlled by a PWM signal, everything should be set correctly from the get-go.*  Click below to see more information.</p>
   <div class="panel-group" id="pcb-accordion" role="tablist" aria-multiselectable="true">
   <div class="panel panel-default">
     <a data-toggle="collapse" data-parent="#pcb-accordion" href="#pcb" aria-expanded="false" aria-controls="pcb" class="panel-heading" role="tab" id="pcb-header">
@@ -60,9 +66,9 @@ permalink: /accessories/x-controller/
   </div>
   </div>
 
-  <h3>3. Attach PCB Interface</h3>
+  <h3>3. Attach Power Supply Interface PCB</h3>
   <img src="P8200926Editcopy.jpg">
-  <p>Remove the screws on the enclosed power supply that correspond to the "fingers" on the PCB interface board.  Attach the PCB interface board and reinstall the screws to secure it in place.</p>
+  <p>Remove the screws on the enclosed power supply that correspond to the "fingers" on the power supply interface PCB.  Attach the power supply interface PCB and reinstall the screws to secure it in place.</p>
   <div class="row image-row">
   	<div class="col-xs-6 col-md-3">
   		<a href="#" class="thumbnail"><img src="P8200922Editcopy.jpg"></a>
@@ -84,12 +90,12 @@ permalink: /accessories/x-controller/
 
   <h3>4. Attach Power Supply to Chassis</h3>
   <img src="P8200936Editcopy.jpg">
-  <p>Using the M4 button head cap screws, attach the power supply through the mounting holes on the underside of the chassis.
+  <p>Using the M4 button head cap screws, attach the power supply through the mounting holes on the underside of the chassis.  The threaded holes on the base of the power supply are delicate, so try not to overtighten the screws when assembling.
   </p>
   <div class="note">
   	<i class="fa fa-hand-o-right"></i>
   	<span class="note-text">
-    	*Note: The chassis is not symmetrical.*  The PCB interface will be flush with the end of the chassis when installed correctly.
+    	*Note: The chassis is not symmetrical.*  The interface PCB side of the enclosed power supply should be on the same end of the chassis with the mounting holes set furthest away.  The power supply interface PCB will be flush with the end of the chassis when installed correctly.
   	</span>
   </div>
 </div>
@@ -145,7 +151,7 @@ permalink: /accessories/x-controller/
 
   <h3>3. Wire Controller Board</h3>
   <img src="P8200993Editcopy.jpg">
-  <p>Attach the cables to the PCB Interface board.  The cables can only be connected in one orientation, so if they don't attach well double check them and try again.  Try to orient them so that the wires can easily travel from board to board.  Make sure to tuck the e-stop cable along the edge of the enclosed power supply to prevent any sort of snagging or pinching.</p>
+  <p>Attach the cables to the power supply interface PCB.  The cables can only be connected in one orientation, so if they don't attach well double check them and try again.  Try to orient them so that the wires can easily travel from board to board.  Make sure to tuck the e-stop cable along the edge of the enclosed power supply to prevent any sort of snagging or pinching.</p>
   <div class="row image-row">
     <div class="col-xs-6 col-md-3">
       <a href="#" class="thumbnail"><img src="P8200958Editcopy.jpg"></a>
@@ -169,7 +175,7 @@ permalink: /accessories/x-controller/
 
   <h3>4. Attach Controller Board</h3>
   <img src="P8200979Editcopy.jpg">
-  <p>Slide the controller board into the channels of the chassis, making sure you route the wires through the cutout on the board to prevent snagging or pinching.</p>
+  <p>Slide the controller board into the channels of the chassis, making sure you route the wires through the cutout on the board to prevent snagging or pinching.  Remove the terminal blocks from both the power supply interface PCB and main controller board, otherwise the back panel will not sit flush against the chassis.</p>
   <div class="row image-row">
     <div class="col-xs-6 col-md-3">
       <a href="#" class="thumbnail"><img src="P8200973Editcopy.jpg"></a>
@@ -241,7 +247,7 @@ permalink: /accessories/x-controller/
 
   <h3>3. Attach USB Cable</h3>
   <img src="P8201063Editcopy.jpg">
-  <p>Using the M3 phillips head screws, attach the USB cable to the front panel.  Attach the other end of the USB cable to the main controller board.</p>
+  <p>Using the M3 phillips head screws, attach the USB cable to the front panel.  Attach the other end of the USB cable to the main controller board.  *Don't attach the front panel* to the chassis until the rest of the e-stop is installed in the next step.</p>
   <div class="row image-row">
     <div class="col-xs-6 col-md-3">
       <a href="#" class="thumbnail"><img src="P8201037Editcopy.jpg"></a>
@@ -268,7 +274,7 @@ permalink: /accessories/x-controller/
 
   <h3>4. Wire E-Stop And Attach Front Panel</h3>
   <img src="P8201081Editcopy.jpg">
-  <p>Attach the ends of the e-stop cable to each side of the NC screw terminal as pictured. Tighten the phillips head screws on the screw terminals to hold the cable in place.  To attach the wired screw terminal to the button, *line up the "TOP" marking on the button with the "TOP" marking on the screw terminal.*  Once in postion, move the yellow tab towards the back of the assembly to lock in place.  Attach the front panel using the included M4 socket head cap screws.</p>
+  <p>Loosen the phillips head screws on the screw terminals and attach the ends of the e-stop cable to each side of the NC screw terminal as pictured. Tighten the screws on the screw terminals to hold the cable in place.  To attach the wired screw terminal to the button, *line up the "TOP" marking on the button with the "TOP" marking on the screw terminal.*  Once in postion, move the yellow tab towards the back of the assembly to lock in place.  Attach the front panel using the included M4 socket head cap screws.</p>
   <div class="row image-row">
     <div class="col-xs-6 col-md-3">
       <a href="#" class="thumbnail"><img src="P8201044Editcopy.jpg"></a>
@@ -314,7 +320,7 @@ permalink: /accessories/x-controller/
 
   <h3>1. Attach Fan</h3>
   <img src="P8201107Editcopy.jpg">
-  <p>Using the included M3 socket head cap screws and nuts, attach the fan to the front panel.</p>
+  <p>Using the included M3 socket head cap screws and nuts, attach the fan to the front panel with the *wires pointed down.*</p>
   <div class="row image-row">
     <div class="col-xs-6 col-md-3">
       <a href="#" class="thumbnail"><img src="P8201094Editcopy.jpg"></a>
@@ -332,7 +338,7 @@ permalink: /accessories/x-controller/
 
   <h3>2. Wire Fan And Attach Back Panel</h3>
   <img src="P8201127Editcopy.jpg">
-  <p>Attach the fan cable to the PCB interface board.  The cable can only be connected in one orientation, so if it doesn't attach well double check and try again.  Attach the back panel using the included M4 socket head cap screws.</p>
+  <p>Attach the fan cable to the power supply interface PCB.  The cable can only be connected in one orientation, so if it doesn't attach well double check and try again.  *Check the ribbon cable connector at the power supply interface PCB* and attach the back panel using the included M4 socket head cap screws.</p>
   <div class="row image-row">
     <div class="col-xs-6 col-md-3">
       <a href="#" class="thumbnail"><img src="P8201120Editcopy.jpg"></a>
@@ -347,7 +353,7 @@ permalink: /accessories/x-controller/
   <div class="note">
     <i class="fa fa-hand-o-right"></i>
     <span class="note-text">
-      *Note:* Make sure to *remove the terminal blocks* from both the PCB interface and main controller boards prior to attaching the back panel, otherwise the panel will not sit flush against the chassis.
+      *Note:* Make sure to *remove the terminal blocks* from both the power supply interface PCB and main controller board prior to attaching the back panel, otherwise the panel will not sit flush against the chassis.
     </span>
   </div>
 </div>
