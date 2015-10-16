@@ -87,7 +87,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 This diagram should help clarify this step, and will be referenced again when you wire your stepper cable to the gShield in the Electronics section.
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1101/original/wiring-diagram.jpg?1431728956!
+<img src="wiring-diagram2.jpg">
 
 <h3 id="solder-limit-switches">5. Soldering Limit Switches</h3>
 

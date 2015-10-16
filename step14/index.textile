@@ -125,7 +125,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 Check out this diagram for clarification.
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1101/original/wiring-diagram.jpg?1431728956!
+<img src="wiring-diagram2_copy.jpg">
 
 <h3 id="mount-arduino">7. Mount the Arduino</h3>
 
@@ -264,7 +264,9 @@ Insert the crimped pins into the header connector as shown. They should click wh
 
 Crimp the white ends of each limit switch wire pair. Insert them into the Header Connector.
 
-**The order of the white wires from left to right is X, Y, Z.**
+<img src="wiring-diagram-limit-switches-01.jpg">
+
+**The order of the white wires from left to right is X, Y, Z.  The first, sixth, and eighth slots are left EMPTY.**
 
 Solder the black wires of each pair together and insert them into the GND terminal of the gShield (you will have to temporarily remove the top of the gShield enclosure to do this).
 
