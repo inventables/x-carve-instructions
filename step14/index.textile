@@ -264,7 +264,7 @@ Insert the crimped pins into the header connector as shown. They should click wh
 
 Crimp the white ends of each limit switch wire pair. Insert them into the Header Connector.
 
-<img src="wiring-diagram-limit-switches-01.jpg">
+<img src="wiring-diagram-limit-switches.jpg">
 
 **The order of the white wires from left to right is X, Y, Z.  The first, sixth, and eighth slots are left EMPTY.**
 
