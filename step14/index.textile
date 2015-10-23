@@ -131,7 +131,7 @@ Check out this diagram for clarification.
 
 |\3{color:#fff;background: #0a91d1}. **Arduino/gShield Motion Controller Kit** |
 | **SKU** | **Name** | **Quantity** |
-| 25063-03 | Arduino Uno w/ Grbl CNC 0.9i | 1 |
+| 25063-03 | Arduino Uno w/ Grbl CNC | 1 |
 | 25285-30 | Socket Head Cap Screw M3 x 6mm | 3 |
 |   | Power Supply Assembly | 1 |
 
