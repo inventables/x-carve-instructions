@@ -17,6 +17,10 @@ For mounting instructions, select your spindle choice below.
   <div class="panel panel-default">
     <a data-toggle="collapse" data-parent="#spindle-accordion" href="#spindle" aria-expanded="false" aria-controls="spindle" class="panel-heading" role="tab" id="spindle-header">
       <h4 class="panel-title">24V DC Spindle</h4>
+      <div class="expand-icons">
+        <i class="fa fa-plus"></i>
+        <i class="fa fa-minus"></i>
+      </div>
     </a>
     <div id="spindle" class="panel-collapse collapse" role="tabpanel" aria-labelledby="spindle-header">
       <div class="panel-body">
@@ -66,6 +70,10 @@ If you're using terminal blocks to wire your machine put the ends of the %{color
   <div class="panel panel-default">
     <a data-toggle="collapse" data-parent="#spindle-accordion" href="#dewalt-611" aria-expanded="false" aria-controls="dewalt-611" class="panel-heading" role="tab" id="dewalt-611-header">
       <h4 class="panel-title">Dewalt DWP611</h4>
+      <div class="expand-icons">
+        <i class="fa fa-plus"></i>
+        <i class="fa fa-minus"></i>
+      </div>
     </a>
     <div id="dewalt-611" class="panel-collapse collapse" role="tabpanel" aria-labelledby="dewalt-611-header">
       <div class="panel-body">
@@ -99,6 +107,10 @@ If you're using terminal blocks to wire your machine put the ends of the %{color
   <div class="panel panel-default">
     <a data-toggle="collapse" data-parent="#spindle-accordion" href="#dewalt-dw660" aria-expanded="false" aria-controls="dewalt-dw660" class="panel-heading" role="tab" id="dewalt-dw660-header">
       <h4 class="panel-title">Dewalt DW660</h4>
+      <div class="expand-icons">
+        <i class="fa fa-plus"></i>
+        <i class="fa fa-minus"></i>
+      </div>
     </a>
     <div id="dewalt-dw660" class="panel-collapse collapse" role="tabpanel" aria-labelledby="dewalt-dw660-header">
       <div class="panel-body">
@@ -111,6 +123,10 @@ If you're using terminal blocks to wire your machine put the ends of the %{color
   <div class="panel panel-default">
     <a data-toggle="collapse" data-parent="#spindle-accordion" href="#bosch-colt" aria-expanded="false" aria-controls="bosch-colt" class="panel-heading" role="tab" id="bosch-colt-header">
       <h4 class="panel-title">Bosch Colt</h4>
+      <div class="expand-icons">
+        <i class="fa fa-plus"></i>
+        <i class="fa fa-minus"></i>
+      </div>
     </a>
     <div id="bosch-colt" class="panel-collapse collapse" role="tabpanel" aria-labelledby="bosch-colt-header">
       <div class="panel-body">
@@ -123,6 +139,10 @@ If you're using terminal blocks to wire your machine put the ends of the %{color
   <div class="panel panel-default">
     <a data-toggle="collapse" data-parent="#spindle-accordion" href="#quiet-cut" aria-expanded="false" aria-controls="quiet-cut" class="panel-heading" role="tab" id="quiet-cut-header">
       <h4 class="panel-title">Quiet Cut Spindle</h4>
+      <div class="expand-icons">
+        <i class="fa fa-plus"></i>
+        <i class="fa fa-minus"></i>
+      </div>
     </a>
     <div id="quiet-cut" class="panel-collapse collapse" role="tabpanel" aria-labelledby="quiet-cut-header">
       <div class="panel-body">
