@@ -28,9 +28,9 @@ permalink: /accessories/x-controller/
 
   <img src="P8200931Editcopy.jpg">
 
-  <h3>1. Attach Feet</h3>
+  <h3>1. Attach Feet (OPTIONAL)</h3>
   <img src="P9231171Editcopy.jpg">
-  <p>Attach the four rubber "feet" to the bottom of the chassis.  Flip the chassis over and "screw" the foot through the hole.  Once the foot is partially in, try using your fingernail to bring it the rest of the way through.</p>
+  <p>Attach the four rubber "feet" to the bottom of the chassis.  Flip the chassis over and twist the foot through the hole.  Once the foot is partially in, try using your fingernail to bring it the rest of the way through.  This is an option step and the holes can be used to mount the chassis to a work table.</p>
 
   <h3>2. Prepare Power Supply Interface PCB (OPTIONAL)</h3>
   <p>This step is for the advanced user, and contains information on setting spindle control signals on the interface PCB.  *If you plan to use a DC spindle controlled by a PWM signal, everything should be set correctly from the get-go.*  Click below to see more information.</p>
@@ -312,7 +312,7 @@ permalink: /accessories/x-controller/
 
   <h3>2. Wire Fan And Attach Back Panel</h3>
   <img src="P8201127Editcopy.jpg">
-  <p>Attach the fan cable to the power supply interface PCB.  The cable can only be connected in one orientation, so if it doesn't attach well double check and try again.  *Check the ribbon cable connector at the power supply interface PCB* and attach the back panel using the included M4 socket head cap screws.</p>
+  <p>Attach the fan cable to the power supply interface PCB.  The cable can only be connected in one orientation, so if it doesn't attach well double check and try again.  *Check the ribbon cable connector at the power supply interface PCB* and attach the back panel using the included M4 socket head cap screws.  You may need to wiggle the lower PCB in place when installing to have the back panel flush with the chassis.</p>
   <div class="row image-row">
     <div class="col-xs-6 col-md-3">
       <a href="#" class="thumbnail"><img src="P8201120Editcopy.jpg"></a>
@@ -323,12 +323,6 @@ permalink: /accessories/x-controller/
     <div class="col-xs-6 col-md-3">
       <a href="#" class="thumbnail"><img src="P8201125Editcopy.jpg"></a>
     </div>
-  </div>
-  <div class="note">
-    <i class="fa fa-hand-o-right"></i>
-    <span class="note-text">
-      *Note:* Make sure to *remove the terminal blocks* from both the power supply interface PCB and main controller board prior to attaching the back panel, otherwise the panel will not sit flush against the chassis.
-    </span>
   </div>
 </div>
 
