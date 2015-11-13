@@ -149,7 +149,7 @@ permalink: /accessories/x-controller/
 
   <h3>4. Attach Controller Board</h3>
   <img src="P8200979Editcopy.jpg">
-  <p>Slide the controller board into the channels of the chassis, making sure you route the wires through the cutout on the board to prevent snagging or pinching.  Remove the terminal blocks from both the power supply interface PCB and main controller board, otherwise the back panel will not sit flush against the chassis.</p>
+  <p>Slide the controller board into the channels of the chassis, making sure you route the wires through the cutout on the board to prevent snagging or pinching.</p>
   <div class="row image-row">
     <div class="col-xs-6 col-md-3">
       <a href="#" class="thumbnail"><img src="P8200973Editcopy.jpg"></a>
