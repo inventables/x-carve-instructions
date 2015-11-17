@@ -21,7 +21,7 @@ permalink: /accessories/x-controller/
   <h2 id="install-power-supply">*Install Power Supply*</h2>
   <ol class="step-contents">
     <li>Attach Feet</li>
-    <li>Prepare Power Supply Interface PCB (OPTIONAL)</li>
+    <li>Prepare Power Supply Interface PCB and Power Supply</li>
     <li>Attach Power Supply Interface PCB</li>
     <li>Attach Power Supply to Chassis</li>
   </ol>
@@ -30,27 +30,30 @@ permalink: /accessories/x-controller/
 
   <h3>1. Attach Feet (OPTIONAL)</h3>
   <img src="P9231171Editcopy.jpg">
-  <p>Attach the four rubber "feet" to the bottom of the chassis.  Flip the chassis over and twist the foot through the hole.  Once the foot is partially in, try using your fingernail to bring it the rest of the way through.  This is an option step and the holes can be used to mount the chassis to a work table.</p>
+  <p>Attach the four rubber "feet" to the bottom of the chassis.  Flip the chassis over and twist the foot through the hole.  Once the foot is partially in, try using your fingernail to bring it the rest of the way through.  This is an optional step and the holes can also be used to mount the chassis to a work table.</p>
 
-  <h3>2. Prepare Power Supply Interface PCB (OPTIONAL)</h3>
-  <p>This step is for the advanced user, and contains information on setting spindle control signals on the interface PCB.  *If you plan to use a DC spindle controlled by a PWM signal, everything should be set correctly from the get-go.*  Click below to see more information.</p>
-  <div class="panel-group" id="pcb-accordion" role="tablist" aria-multiselectable="true">
-  <div class="panel panel-default">
-    <a data-toggle="collapse" data-parent="#pcb-accordion" href="#pcb" aria-expanded="false" aria-controls="pcb" class="panel-heading" role="tab" id="pcb-header">
-      <h4 class="panel-title">
-          *FINE-TUNING*
-      </h4>
-      <div class="expand-icons">
-        <i class="fa fa-plus"></i>
-        <i class="fa fa-minus"></i>
-      </div>
-    </a>
-    <div id="pcb" class="panel-collapse collapse" role="tabpanel" aria-labelledby="pcb-header">
-      <div class="panel-body">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9P57CQ4Z0-0" frameborder="0" allowfullscreen></iframe>
+  <h3>2. Prepare Power Supply Interface PCB and Power Supply</h3>
+  <img src="PCB Overview without Fingers">
+  <p>The power supply interface PCB is capable of sending control signals for three different types of spindles; On/Off AC spindles, 0-5VDC PWM DC spindles and 0-10VDC analog VFD spindles. The On/Off AC spindles and 0-5VDC PWM DC spindles will need the jumper to be placed on the left two pins, marked "PWM". The 0-10VDC analog signal for VFD spindles will need the jumper to be placed on the left two pins, marked "0-10".</p>
+    <div class="row image-row">
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="PWM Jumper with fingers on jumper"></a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="0-10 Jumper with fingers on jumper"></a>
+    </div>
   </div>
+  <p>This is a universal power supply capable of running at 110V or 220V.  Flip the toggle switch on the side of the power supply to the voltage that correspondes to your "outlet voltage.":https://en.wikipedia.org/wiki/Mains_electricity_by_country#Table_of_mains_voltages_and_frequencies</p>
+  <div class="row image-row">
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="closeup of the switch with hands"></a>
+    </div>
   </div>
-  </div>
+      <div class="note">
+    <i class="fa fa-hand-o-right"></i>
+    <span class="note-text">
+      *Note: NEVER hook a spindle directly up to the X-Controller.*  These are only control signals, *NOT* power. 
+    </span>
   </div>
 
   <h3>3. Attach Power Supply Interface PCB</h3>
@@ -68,12 +71,19 @@ permalink: /accessories/x-controller/
 		</div>
   </div>
   <div class="note">
-    <i class="fa fa-hand-o-right"></i>
-    <span class="note-text">
-      *Note: Not pictured is a transparent yellow/orange flap over the screw terminals on the power supply.*  This can be either removed or flipped back for easier access to the screw terminals.
-    </span>
+    <div>
+      <i class="fa fa-hand-o-right"></i>
+      <span class="note-text">
+        <p>*Note: Not pictured is a transparent yellow/orange flap over the screw terminals on the power supply.*  This can be either removed or flipped back for easier access to the screw terminals.</p>
+      </span>
+    </div>
+    <div>
+      <i class="fa fa-hand-o-right"></i>
+      <span class="note-text">
+        <p>*Note:* You won't have access to the side of the power supply from here on out, so double check your voltage before moving forward.</p>
+      </span>
+    </div>
   </div>
-
 
   <h3>4. Attach Power Supply to Chassis</h3>
   <img src="P8200936Editcopy.jpg">
@@ -98,26 +108,38 @@ permalink: /accessories/x-controller/
 
   <img src="P8200995Editcopy.jpg">
 
-  <h3>1. Prepare Controller Board (OPTIONAL)</h3>
-  <p>This step is for the advanced user, and contains information on setting microstepping and fine-tuning motor current on the controller board.  *Everything should be set correctly from the get-go.*  Click below to see more information.</p>
-  <div class="panel-group" id="controlboard-accordion" role="tablist" aria-multiselectable="true">
-  <div class="panel panel-default">
-    <a data-toggle="collapse" data-parent="#controlboard-accordion" href="#controlboard" aria-expanded="false" aria-controls="controlboard" class="panel-heading" role="tab" id="controlboard-header">
-      <h4 class="panel-title">
-          *FINE-TUNING*
-      </h4>
-      <div class="expand-icons">
-        <i class="fa fa-plus"></i>
-        <i class="fa fa-minus"></i>
+  <h3>1. Prepare Controller Board</h3>
+  <img src="maybe video?">
+  <p>In order for the Grbl firmware to know how far the machine will move in reality, a few things need to be set on the controller board. Microstepping is one of these settings and allows the motors to move to positions between normal steps; increasing accuracy and smoothing the motion of the motor. Depending on the capabilites of the motors, there does come a point where the microstepping will no longer increase accuracy. Using high microstep values (e.g 16) can reduce stepper motor torque, so it's best to use the lowest value that can still give you the axes resolution you're looking for. Dip switches on the main controller board allow you to set the microstepping.  Make sure to check out the diagram on the board for propper placement of the switches. Unless you're working with *different motors* or an *advanced user* looking to makes some tweeks, *you won't need to make any adjustments.*</p>
+    <div class="row image-row">
+      <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="dip switches"></a>
       </div>
-    </a>
-    <div id="controlboard" class="panel-collapse collapse" role="tabpanel" aria-labelledby="controlboard-header">
-      <div class="panel-body">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9P57CQ4Z0-0" frameborder="0" allowfullscreen></iframe>
-  </div>
-  </div>
-  </div>
-  </div>
+      <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="diagram"></a>
+      </div>
+    </div>
+  <p>Idle current reduction is another feature that can be set on the controller board.  This setting automatically reduces the amount of current shortly after the motor stops moving, reducing heat from the driver and the motor.  This feature is especially great for the Z axis which spends a lot of its time idle.  You can set this using the dip switches, just make sure to check out the diagram for proper placement.</p>
+    <div class="row image-row">
+      <div class="col-xs-6 col-md-3">
+        <a href="#" class="thumbnail"><img src="idle current reduction"></a>
+      </div>
+    </div>
+  <p>The potentiometers on the controller board allow you to control the maximum current to the motors. Clockwise increases the current and counter-clockwise decreases the current.  Current ratings are different for NEMA 17 (1.6A) and NEMA 23 (2.8A) stepper motors and need to be set accordingly. The slot between the dots on the gray actuator is the pointer, and can be adjusted based on the diagram on the controller board.</p>
+    <div class="row image-row">
+      <div class="col-xs-6 col-md-3">
+        <a href="#" class="thumbnail"><img src="pots"></a>
+      </div>
+      <div class="col-xs-6 col-md-3">
+        <a href="#" class="thumbnail"><img src="diagram"></a>
+      </div>
+    </div>
+  <p>For those nitpicky users out there, you can measure the amount of voltage on the reference and ground test points.  Use the formula (I = ref * 2.13) on the diagram to determine the current.  For example, if you measure 1V you get 2.13 amps.</p>
+      <div class="row image-row">
+      <div class="col-xs-6 col-md-3">
+        <a href="#" class="thumbnail"><img src="pots"></a>
+      </div>
+    </div>
 
   <h3>2. Attach Stops</h3>
   <img src="P8200944Editcopy.jpg">
@@ -326,3 +348,11 @@ permalink: /accessories/x-controller/
   </div>
 </div>
 
+<div class="step-card">
+  <h2 id="troubleshooting">*Troubleshooting*</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9P57CQ4Z0-0" frameborder="0" allowfullscreen></iframe>
+<h3>X-Controller won't turn on.</h3>
+<p>Check to make sure your e-stop button is pulled out and not engaged.</p>
+<h3>Limit switches don't work.</h3>
+<p>Check that the ribbon connectors are fully pushed into the making connectors.</p>
+</div>
