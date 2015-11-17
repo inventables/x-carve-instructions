@@ -186,7 +186,7 @@ permalink: /accessories/x-controller/
 <div class="note">
     <i class="fa fa-hand-o-right"></i>
     <span class="note-text">
-      *Note:*  The wires can be a bit stiff.  If you're having trouble don't force the wire, but instead try to shape the wire into place.  In case the wires snag and become loose, double check all of your connections after sliding the board into position.
+      *Note:*  The wires can be a bit stiff.  If you're having trouble don't force the wire, but instead try to shape the wire into place.  In case the wires snag and become loose when sliding into position, double check all of your connections before moving forward.
     </span>
   </div>
 </div>
