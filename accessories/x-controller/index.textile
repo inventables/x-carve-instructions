@@ -300,7 +300,7 @@ permalink: /accessories/x-controller/
   <div class="note">
     <i class="fa fa-hand-o-right"></i>
     <span class="note-text">
-      *Note:* If your having any problems with this part of the assembly, check out the "E-Stop with Enclosure instructions":http://x-carve-instructions.inventables.com/accessories/e-stop-with-enclosure/ for more information.
+      *Note:* If your having any problems with this part of the assembly, check out the "E-Stop with Enclosure instructions":http://x-carve-instructions.inventables.com/accessories/e-stop-with-enclosure/ for more detailed information.
     </span>
   </div>
 </div>
