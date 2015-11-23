@@ -156,7 +156,7 @@ Slide the V-Wheels onto the Z-Axis Makerslide. Move the Spindle Carriage up the 
     <div id="bosch-colt" class="panel-collapse collapse" role="tabpanel" aria-labelledby="bosch-colt-header">
       <div class="panel-body">
         <h3>Mounting Bosch Colt</h3>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/ZPa6D1egveE" frameborder="0" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Raty-ijFP0c" frameborder="0" allowfullscreen></iframe>
       </div>
     </div>
   </div>
