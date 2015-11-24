@@ -21,7 +21,7 @@ permalink: /accessories/x-controller/
   <h2 id="install-power-supply">*Install Power Supply*</h2>
   <ol class="step-contents">
     <li>Attach Feet</li>
-    <li>Prepare Power Supply Interface PCB and Power Supply</li>
+    <li>Prepare Power Supply Power Supply</li>
     <li>Attach Power Supply Interface PCB</li>
     <li>Attach Power Supply to Chassis</li>
   </ol>
@@ -32,23 +32,9 @@ permalink: /accessories/x-controller/
   <img src="P9231171Editcopy.jpg">
   <p>Attach the four rubber "feet" to the bottom of the chassis.  Flip the chassis over and twist the foot through the hole.  Once the foot is partially in, try using your fingernail to bring it the rest of the way through.  This is an optional step and the holes can also be used to mount the chassis to a work table.</p>
 
-  <h3>2. Prepare Power Supply Interface PCB and Power Supply</h3>
-  <img src="PCB Overview without Fingers">
-  <p>The power supply interface PCB is capable of sending control signals for three different types of spindles; On/Off AC spindles, 0-5VDC PWM DC spindles and 0-10VDC analog VFD spindles. The On/Off AC spindles and 0-5VDC PWM DC spindles will need the jumper to be placed on the left two pins, marked "PWM". The 0-10VDC analog signal for VFD spindles will need the jumper to be placed on the left two pins, marked "0-10".</p>
-    <div class="row image-row">
-    <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="PWM Jumper with fingers on jumper"></a>
-    </div>
-    <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="0-10 Jumper with fingers on jumper"></a>
-    </div>
-  </div>
+  <h3>2. Prepare Enclosed Power Supply</h3>
+  <img src="Power Supply Switch with hands">
   <p>This is a universal power supply capable of running at 110V or 220V.  Flip the toggle switch on the side of the power supply to the voltage that correspondes to your "outlet voltage.":https://en.wikipedia.org/wiki/Mains_electricity_by_country#Table_of_mains_voltages_and_frequencies</p>
-  <div class="row image-row">
-    <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="closeup of the switch with hands"></a>
-    </div>
-  </div>
       <div class="note">
     <i class="fa fa-hand-o-right"></i>
     <span class="note-text">
@@ -74,7 +60,7 @@ permalink: /accessories/x-controller/
     <div>
       <i class="fa fa-hand-o-right"></i>
       <span class="note-text">
-        <p>*Note: Not pictured is a transparent yellow/orange flap over the screw terminals on the power supply.*  This can be either removed or flipped back for easier access to the screw terminals.</p>
+        <p>*Note: Not pictured is a transparent yellow/orange cover that sits over the screw terminals on the power supply.*  Flip the cover back for easier access to the screw terminals.</p>
       </span>
     </div>
     <div>
