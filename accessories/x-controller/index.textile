@@ -26,10 +26,10 @@ permalink: /accessories/x-controller/
     <li>Attach Power Supply to Chassis</li>
   </ol>
 
-  <img src="P8200931Editcopy.jpg">
+  <img src="PB231265BATCH054.jpg">
 
   <h3>1. Attach Feet (OPTIONAL)</h3>
-  <img src="P9231171Editcopy.jpg">
+  <img src="PB231229BATCH019.jpg">
   <p>Attach the four rubber "feet" to the bottom of the chassis.  Flip the chassis over and twist the foot through the hole.  Once the foot is partially in, try using your fingernail to bring it the rest of the way through.  This is an optional step and the holes can also be used to mount the chassis to a work table.</p>
 
   <h3>2. Prepare Enclosed Power Supply</h3>
@@ -43,36 +43,31 @@ permalink: /accessories/x-controller/
   </div>
 
   <h3>3. Attach Power Supply Interface PCB</h3>
-  <img src="P8200926Editcopy.jpg">
-  <p>Remove the screws on the enclosed power supply that correspond to the "fingers" on the power supply interface PCB.  Attach the power supply interface PCB and reinstall the screws to secure it in place.</p>
+  <img src="PB231244BATCH034.jpg">
+  <p>Flip the orange cover back and remove the screws on the enclosed power supply that correspond to the "fingers" on the power supply interface PCB.  Attach the power supply interface PCB and reinstall the screws to secure it in place.</p>
   <div class="row image-row">
   	<div class="col-xs-6 col-md-3">
-  		<a href="#" class="thumbnail"><img src="P8200922Editcopy.jpg"></a>
+  		<a href="#" class="thumbnail"><img src="PB231235BATCH025.jpg"></a>
 		</div>
 		<div class="col-xs-6 col-md-3">
-			<a href="#" class="thumbnail"><img src="P8200924Editcopy.jpg"></a>
+			<a href="#" class="thumbnail"><img src="PB231240BATCH030.jpg"></a>
 		</div>
 		<div class="col-xs-6 col-md-3">
-			<a href="#" class="thumbnail"><img src="P8200925Editcopy.jpg"></a>
+			<a href="#" class="thumbnail"><img src="PB231242BATCH032.jpg"></a>
 		</div>
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="PB231243BATCH033.jpg"></a>
+    </div>
   </div>
   <div class="note">
-    <div>
-      <i class="fa fa-hand-o-right"></i>
-      <span class="note-text">
-        <p>*Note: Not pictured is a transparent yellow/orange cover that sits over the screw terminals on the power supply.*  Flip the cover back for easier access to the screw terminals.</p>
-      </span>
-    </div>
-    <div>
       <i class="fa fa-hand-o-right"></i>
       <span class="note-text">
         <p>*Note:* You won't have access to the side of the power supply from here on out, so double check your voltage before moving forward.</p>
       </span>
-    </div>
   </div>
 
   <h3>4. Attach Power Supply to Chassis</h3>
-  <img src="P8200936Editcopy.jpg">
+  <img src="PB231247BATCH037.jpg">
   <p>Using the M4 button head cap screws, attach the power supply through the mounting holes on the underside of the chassis.  The threaded holes on the base of the power supply are delicate, so try not to overtighten the screws when assembling.
   </p>
   <div class="note">
@@ -92,7 +87,7 @@ permalink: /accessories/x-controller/
     <li>Attach Controller Board</li>
   </ol>
 
-  <img src="P8200995Editcopy.jpg">
+  <img src="PB231294BATCH083.jpg">
 
   <h3>1. Prepare Controller Board</h3>
   <img src="maybe video?">
@@ -128,30 +123,30 @@ permalink: /accessories/x-controller/
     </div>
 
   <h3>2. Attach Stops</h3>
-  <img src="P8200944Editcopy.jpg">
+  <img src="PB231250BATCH040.jpg">
   <p>Install the M4 button head cap screws in the threaded holes on the side of the chassis.  These screws locate the back of the controller board and make the face of the board flush with the chassis.</p>
 
   <h3>3. Wire Controller Board</h3>
-  <img src="P8200993Editcopy.jpg">
+  <img src="PB231284BATCH073.jpg">
   <p>Attach the cables to the power supply interface PCB.  The cables can only be connected in one orientation, so if they don't attach well double check them and try again.  Try to orient them so that the wires can easily travel from board to board.  Make sure to tuck the e-stop cable along the edge of the enclosed power supply to prevent any sort of snagging or pinching.</p>
   <div class="row image-row">
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="P8200958Editcopy.jpg"></a>
+      <a href="#" class="thumbnail"><img src="PB231268BATCH057.jpg"></a>
     </div>
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="P8200964Editcopy.jpg"></a>
+      <a href="#" class="thumbnail"><img src="PB231270BATCH059.jpg"></a>
     </div>
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="P8200968Editcopy.jpg"></a>
+      <a href="#" class="thumbnail"><img src="PB231275BATCH064.jpg"></a>
     </div>
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="P8200972Editcopy.jpg"></a>
+      <a href="#" class="thumbnail"><img src="PB231276BATCH065.jpg"></a>
     </div>
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="P8200987Editcopy.jpg"></a>
+      <a href="#" class="thumbnail"><img src="PB231278BATCH067.jpg"></a>
     </div>
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="P8200991Editcopy.jpg"></a>
+      <a href="#" class="thumbnail"><img src="PB231280BATCH069.jpg"></a>
     </div>
   </div>
 
