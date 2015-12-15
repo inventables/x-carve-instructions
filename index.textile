@@ -395,7 +395,7 @@ Each step of the instructions begins with a bill of materials that details the c
 |\3{color:#fff;background: #9d9fa2}. **Limit Switch Kit** |
 | **SKU** | **Name** | **Quantity** |
 | 30556-01 | Hookup Wire Twisted Blk/Wht 22AWG (feet) | 30 |
-| 30557-01 | Microswitch - Roller Actuator | 1 |
+| 30557-01 | Microswitch - Roller Actuator | 3 |
 | 25284-09 | Hex Nuts M2 | 2 |
 | 30544-02 | Pan Head Screw M2 x 14mm | 4 |
 | 30555-02 | Split Lock Washer M2 | 6 |
