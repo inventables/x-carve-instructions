@@ -5,7 +5,7 @@ category: step
 permalink: /accessories/x-controller/
 ---
 
-<img src="P8201136Editcopy.jpg">
+<img src="PB231421BATCH201.jpg">
 
 <p>Welcome to the X-Controller assembly instructions!  The images shown at the beginning of each step show the finished results of that step.  This is to provide context for what you're about to start working on, and offer those eager and willing to figure things out on their own a way to skim through more quickly.  Make sure to click on the thumbnails to see more details.</p>
 
@@ -151,17 +151,14 @@ permalink: /accessories/x-controller/
   </div>
 
   <h3>4. Attach Controller Board</h3>
-  <img src="P8200979Editcopy.jpg">
+  <img src="PB231293BATCH082.jpg">
   <p>Slide the controller board into the channels of the chassis, making sure you route the wires through the cutout on the board to prevent snagging or pinching.</p>
   <div class="row image-row">
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="P8200973Editcopy.jpg"></a>
+      <a href="#" class="thumbnail"><img src="PB231286BATCH075.jpg"></a>
     </div>
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="P8200976Editcopy.jpg"></a>
-    </div>
-    <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="P8200950Editcopy.jpg"></a>
+      <a href="#" class="thumbnail"><img src="PB231296BATCH085.jpg"></a>
     </div>
   </div>
 <div class="note">
@@ -181,38 +178,41 @@ permalink: /accessories/x-controller/
     <li>Wire E-Stop And Attach Front Panel</li>
   </ol>
 
-  <img src="P8201089Editcopy.jpg">
+  <img src="PB231420BATCH200.jpg">
 
   <h3>1. Dissasemble E-Stop Button</h3>
-  <img src="P8201008Editcopy.jpg">
+  <img src="PB231310BATCH099.jpg">
   <p>Remove the button from the screw terminals by gently pulling on the yellow tab. With the button upside down (as pictured) pull the tab towards you and then to the right to disengage the two parts.  Unscrew the nut attached to the base of the button. This nut will be used to secure the button to the enclosure.</p>
   <div class="row image-row">
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="P8201001Editcopy.jpg"></a>
+      <a href="#" class="thumbnail"><img src="PB231305BATCH094.jpg"></a>
     </div>
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="P8201003Editcopy.jpg"></a>
+      <a href="#" class="thumbnail"><img src="PB231306BATCH095.jpg"></a>
     </div>
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="P8201005Editcopy.jpg"></a>
+      <a href="#" class="thumbnail"><img src="PB231307BATCH096.jpg"></a>
     </div>
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="P8201007Editcopy.jpg"></a>
+      <a href="#" class="thumbnail"><img src="PB231308BATCH097.jpg"></a>
     </div>
   </div>
 
   <h3>2. Attach E-Stop Button</h3>
-  <img src="P8201019Editcopy.jpg">
+  <img src="PB231332BATCH121.jpg">
   <p>Insert the button through the hole on the top panel and secure using the nut.  Make sure the side of the button marked "TOP" is facing the middle of the top panel.  Slide the top panel into the channels of the chassis, far enough back so you can access the Mini USB port on the main controller board.</p>
   <div class="row image-row">
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="P8201022Editcopy.jpg"></a>
+      <a href="#" class="thumbnail"><img src="PB231313BATCH102.jpg"></a>
     </div>
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="P8201025Editcopy.jpg"></a>
+      <a href="#" class="thumbnail"><img src="PB231317BATCH106.jpg"></a>
     </div>
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="P8201034Editcopy.jpg"></a>
+      <a href="#" class="thumbnail"><img src="PB231322BATCH111.jpg"></a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="PB231330BATCH119.jpg"></a>
     </div>
   </div>
   <div class="note">
@@ -222,24 +222,27 @@ permalink: /accessories/x-controller/
     </span>
   </div>
 
-  <h3>3. Attach USB Cable</h3>
-  <img src="P8201063Editcopy.jpg">
+  <h3>3. Attach Buttons And USB Cable</h3>
+  <img src="PB231371BATCH151.jpg">
   <p>Using the M3 phillips head screws, attach the USB cable to the front panel.  Attach the other end of the USB cable to the main controller board.  *Don't attach the front panel* to the chassis until the rest of the e-stop is installed in the next step.</p>
   <div class="row image-row">
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="P8201037Editcopy.jpg"></a>
+      <a href="#" class="thumbnail"><img src="PB231341BATCH130.jpg"></a>
     </div>
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="P8201038Editcopy.jpg"></a>
+      <a href="#" class="thumbnail"><img src="PB231353BATCH133.jpg"></a>
     </div>
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="P8201040Editcopy.jpg"></a>
+      <a href="#" class="thumbnail"><img src="PB231361BATCH141.jpg"></a>
     </div>
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="P8201065Editcopy.jpg"></a>
+      <a href="#" class="thumbnail"><img src="PB231365BATCH145.jpg"></a>
     </div>
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="P8201069Editcopy.jpg"></a>
+      <a href="#" class="thumbnail"><img src="PB231368BATCH148.jpg"></a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+      <a href="#" class="thumbnail"><img src="PB231373BATCH153.jpg"></a>
     </div>
   </div>
   <div class="note">
@@ -249,7 +252,7 @@ permalink: /accessories/x-controller/
     </span>
   </div>
 
-  <h3>4. Wire E-Stop And Attach Front Panel</h3>
+  <h3>4. Wire And Attach Front Panel</h3>
   <img src="P8201081Editcopy.jpg">
   <p>Loosen the phillips head screws on the screw terminals and attach the ends of the e-stop cable to each side of the NC screw terminal as pictured. Tighten the screws on the screw terminals to hold the cable in place.  To attach the wired screw terminal to the button, *line up the "TOP" marking on the button with the "TOP" marking on the screw terminal.*  Once in postion, move the yellow tab towards the back of the assembly to lock in place.  Attach the front panel using the included M4 socket head cap screws.</p>
   <div class="row image-row">
