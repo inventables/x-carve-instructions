@@ -253,32 +253,29 @@ permalink: /accessories/x-controller/
   </div>
 
   <h3>4. Wire And Attach Front Panel</h3>
-  <img src="P8201081Editcopy.jpg">
+  <img src="PB231418BATCH198.jpg">
   <p>Loosen the phillips head screws on the screw terminals and attach the ends of the e-stop cable to each side of the NC screw terminal as pictured. Tighten the screws on the screw terminals to hold the cable in place.  To attach the wired screw terminal to the button, *line up the "TOP" marking on the button with the "TOP" marking on the screw terminal.*  Once in postion, move the yellow tab towards the back of the assembly to lock in place.  Attach the front panel using the included M4 socket head cap screws.</p>
   <div class="row image-row">
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="P8201044Editcopy.jpg"></a>
+      <a href="#" class="thumbnail"><img src="installUSB.gif"></a>
     </div>
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="P8201048Editcopy.jpg"></a>
+      <a href="#" class="thumbnail"><img src="installButtons.gif"></a>
     </div>
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="P8201050Editcopy.jpg"></a>
+      <a href="#" class="thumbnail"><img src="PB231390BATCH170.jpg"></a>
     </div>
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="P8201053Editcopy.jpg"></a>
+      <a href="#" class="thumbnail"><img src="wireEStop.gif"></a>
     </div>
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="P8201059Editcopy.jpg"></a>
+      <a href="#" class="thumbnail"><img src="installEStop.gif"></a>
     </div>
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="P8201080Editcopy.jpg"></a>
+      <a href="#" class="thumbnail"><img src="wireButtons.gif"></a>
     </div>
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="P8201082Editcopy.jpg"></a>
-    </div>
-    <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="P8201085Editcopy.jpg"></a>
+      <a href="#" class="thumbnail"><img src="PB231419BATCH199.jpg"></a>
     </div>
   </div>
   <div class="note">
@@ -296,38 +293,38 @@ permalink: /accessories/x-controller/
     <li>Wire Fan And Attach Back Panel</li>
   </ol>
 
-  <img src="P8201131Editcopy.jpg">
+  <img src="PB231447BATCH227.jpg">
 
   <h3>1. Attach Fan</h3>
   <img src="P8201107Editcopy.jpg">
   <p>Using the included M3 socket head cap screws and nuts, attach the fan to the front panel with the *wires pointed down.*</p>
   <div class="row image-row">
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="P8201094Editcopy.jpg"></a>
+      <a href="#" class="thumbnail"><img src="PB231426BATCH206.jpg"></a>
     </div>
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="P8201099Editcopy.jpg"></a>
+      <a href="#" class="thumbnail"><img src="PB231428BATCH208.jpg"></a>
     </div>
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="P8201109Editcopy.jpg"></a>
+      <a href="#" class="thumbnail"><img src="PB231429BATCH209.jpg"></a>
     </div>
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="P8201111Editcopy.jpg"></a>
+      <a href="#" class="thumbnail"><img src="PB231430BATCH210.jpg"></a>
     </div>
   </div>
 
   <h3>2. Wire Fan And Attach Back Panel</h3>
-  <img src="P8201127Editcopy.jpg">
+  <img src="PB231443BATCH223.jpg">
   <p>Attach the fan cable to the power supply interface PCB.  The cable can only be connected in one orientation, so if it doesn't attach well double check and try again.  *Check the ribbon cable connector at the power supply interface PCB* and attach the back panel using the included M4 socket head cap screws.  You may need to wiggle the lower PCB in place when installing to have the back panel flush with the chassis.</p>
   <div class="row image-row">
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="P8201120Editcopy.jpg"></a>
+      <a href="#" class="thumbnail"><img src="PB231433BATCH213.jpg"></a>
     </div>
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="P8201124Editcopy.jpg"></a>
+      <a href="#" class="thumbnail"><img src="wireFan.gif"></a>
     </div>
     <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="P8201125Editcopy.jpg"></a>
+      <a href="#" class="thumbnail"><img src="PB231445BATCH225.jpg"></a>
     </div>
   </div>
 </div>
