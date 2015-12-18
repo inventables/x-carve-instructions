@@ -4,3 +4,27 @@ title:  "X-Controller Usage"
 category: step
 permalink: /accessories/x-controller/usage/
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UT95_LCYoAQ" frameborder="0" allowfullscreen></iframe>
+
+<h3>Unwire</h3>
+
+<p>remove drag chain end</p>
+<p>unwire left terminal block</p>
+
+<h3>Wire</h3>
+
+<p>wire left and right terminal blocks</p>
+<p>run cable through drag chain</p>
+<p>attach drag chain end</p>
+<p>wire terminal blocks and plug in</p>
+
+<h3>Optional Upgrades</h3>
+
+<p>Limit Switches</p>
+<p>Coolant Controls</p>
+
+<h3>Usage</h3>
+
+<p>buttons</p>
+<p>easel setup</p>
