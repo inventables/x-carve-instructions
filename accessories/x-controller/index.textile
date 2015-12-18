@@ -38,7 +38,7 @@ permalink: /accessories/x-controller/
       <div class="note">
     <i class="fa fa-hand-o-right"></i>
     <span class="note-text">
-      *Note: NEVER hook a spindle directly up to the X-Controller.*  These are only control signals, *NOT* power. 
+      *Note: NEVER hook a spindle directly up to the X-Controller.*  These are only control signals, *NOT* power.
     </span>
   </div>
 
@@ -337,3 +337,5 @@ permalink: /accessories/x-controller/
 <h3>Limit switches don't work.</h3>
 <p>Check that the ribbon connectors are fully pushed into the making connectors.</p>
 </div>
+
+<a href="/accessories/x-controller/usage/">Usage</a>

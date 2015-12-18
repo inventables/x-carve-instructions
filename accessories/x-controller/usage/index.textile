@@ -1,0 +1,6 @@
+---
+layout: default
+title:  "X-Controller Usage"
+category: step
+permalink: /accessories/x-controller/usage/
+---
