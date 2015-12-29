@@ -208,13 +208,13 @@ Each step of the instructions begins with a bill of materials that details the c
 | **SKU** | **Name** | **Quantity** |
 | 30621-01 | DeWalt 611 Router | 1 |
 | 30610-01 | DeWalt 611 Spindle Carriage | 1 |
-| 25285-33 | Socket Head Cap Screw M4 × 10mm | 3 |
+| 25285-46 | Socket Head Cap Screw M4 × 16mm | 3 |
 | 25286-25 | Button Head Cap Screw M5 × 16mm | 2 |
 
 |\3{color:#fff;background: #42a44e}. **DeWalt DWP611 Spindle Mount Kit** |
 | **SKU** | **Name** | **Quantity** |
 | 30610-01 | DeWalt 611 Spindle Carriage | 1 |
-| 25285-33 | Socket Head Cap Screw M4 × 10mm | 3 |
+| 25285-46 | Socket Head Cap Screw M4 × 16mm | 3 |
 | 25286-25 | Button Head Cap Screw M5 × 16mm | 2 |
 
 |\3{color:#fff;background: #42a44e}. **DeWalt DW660 Spindle Mount Kit** |
