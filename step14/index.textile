@@ -119,7 +119,7 @@ Once you've determined which stepper cable belongs to which axis you can wire th
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/717/original/1082.jpg?1424475163!
 
-The gShield is marked "X," "Y," and "Z." Wire the stepper cable according to the markings on the shield and order your wires (from right to left) %{color:black}**black**%, %{color:green}**green**%, **white**,  %{color:red}**red**%.
+The gShield is marked "X," "Y," and "Z." Wire the stepper cable according to the markings on the shield and order your wires (from left to right) %{color:black}**black**%, %{color:green}**green**%, **white**,  %{color:red}**red**%.
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/718/original/1096.jpg?1424475165!
 
