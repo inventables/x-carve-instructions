@@ -27,7 +27,7 @@ grabcad-url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvY
 <div class="note note-shapeoko">
   <i class="fa fa-level-up"></i>
   <span class="note-text">
-    Note: *Shapeoko 2 Upgraders,* use the included Flat Head Socket Cap Screw M5 × 35mm to complete this step.
+    *Note: Shapeoko 2 Upgraders,* use the included Flat Head Socket Cap Screw M5 × 35mm in this step.  Also use the original aluminum spacers from your Shapeoko 2. The pulley can be positioned in a variety of places on the shaft of the stepper motor, so the spacing isn't critical. Just make sure to position the pulley in-line with the smooth idlers when going through the belting section.
   </span>
 </div>
 
@@ -46,7 +46,7 @@ Next you’ll put a spacer onto the screw followed by the smooth idler and a nyl
 <div class="note">
   <i class="fa fa-hand-o-right"></i>
   <span class="note-text">
-    Note: make sure the side of the Smooth Idler with the protruding bearing is installed next to the aluminum spacer.  If not, the plastic portion of the Smooth Idler may get in the way of the screws used to mount your stepper motor.
+    *Note:* make sure the side of the Smooth Idler with the protruding bearing is installed next to the aluminum spacer.  If not, the plastic portion of the Smooth Idler may get in the way of the screws used to mount your stepper motor.
   </span>
 </div>
 

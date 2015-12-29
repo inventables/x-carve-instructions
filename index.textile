@@ -466,7 +466,7 @@ Each step of the instructions begins with a bill of materials that details the c
 </div>
 </div>
 </div>
-When assembling your Shapeoko 2 Upgrade Kit, you will be using *the hardware from your Shapeoko 2* with the exception of the following hardware that is included:
+When assembling your Shapeoko 2 Upgrade Kit, you will be using the *original hardware from your Shapeoko 2 including the aluminum spacers.*  The following is a list of included hardware and the section of the instructions in which they are used:
 
 | **SKU** | **Name** | **Section of Instructions** |
 | 30552-01 | Flat Head Socket Cap Screw M5 × 35mmm | "X Carriage":http://x-carve-instructions.inventables.com/step02/ |
