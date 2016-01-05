@@ -51,7 +51,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 <div class="note">
   <i class="fa fa-hand-o-right"></i>
   <span class="note-text">
-    Note: The flange on the bearing is facing down and the rails of the Makerslide are facing forward.
+    Note: The flange on the bearing is facing down and the rails of the Makerslide are facing forward.  You can verify the correct orientation of the Makerslide by looking for the single slot facing foward.
   </span>
 </div>
 
