@@ -7,7 +7,58 @@ permalink: /accessories/x-controller/
 
 <img src="PB231421BATCH201.jpg">
 
-<p>Welcome to the X-Controller assembly instructions!  The images shown at the beginning of each step show the finished results of that step.  This is to provide context for what you're about to start working on, and offer those eager and willing to figure things out on their own a way to skim through more quickly.  Make sure to click on the thumbnails to see more details.</p>
+<p>Welcome to the X-Controller assembly instructions!  The images shown at the beginning of each step show the finished results of that step.  This is to provide context for what you're about to start working on, and offer those eager and willing to figure things out on their own a way to skim through more quickly.</p>
+
+<p>Each step also begins with a bill of materials that details the components about to be used.  To avoid any frustration you might have from finding out that something's missing, we've laid out the bill of materials here so you can find out now before you even get going.  Click below to reveal the BOM and make sure you received everything correctly.  If there's anything missing please contact us at help @ inventables.com for replacements.</p>
+
+<div class="bom">
+  <div class="panel-group" id="model-accordion" role="tablist" aria-multiselectable="true">
+    <div class="panel panel-default">
+      <a data-toggle="collapse" data-parent="#model-accordion" href="#model" aria-expanded="false" aria-controls="rail" style="color:#fff;background: #383838" class="panel-heading" role="tab" id="model-header">
+        <h4 class="panel-title"><b>Bill of Materials</b>
+        </h4>
+        <div class="expand-icons">
+          <i class="fa fa-plus"></i>
+          <i class="fa fa-minus"></i>
+        </div>
+      </a>
+      <div id="model" class="panel-collapse collapse" role="tabpanel" aria-labelledby="model-header">
+        <div class="panel-body">
+{color:#fff;background: #383838}.| **SKU** | **Name** | **Quantity** |
+| 01 | Rubber Foot | 4 |
+| 02 | Chassis | 1 |
+| 03 | Enclosed Power Supply | 1 |
+| 04 | Power Supply Interface PCB | 1 |
+| 05 | Button Head Cap Screw M4 x 10mm | 6 |
+| 06 | Main Controller PCB | 1 |
+| 07 | Power Cable | 1 |
+| 08 | Ribbon Cable | 2 |
+| 09 | E-Stop Cable | 1 |
+| 10 | E-Stop Button | 1 |
+| 11 | Top Panel | 1 |
+| 12 | Buttons PCB | 1 |
+| 13 | Threaded Standoff M3 | 4 |
+| 14 | Button Head Cap Screw M3 x 6mm | 10 |
+| 15 | USB Bulkhead Cable | 1 |
+| 16 | Front Panel | 1 |
+| 17 | Socket Head Cap Screw M4 x 6mm | 8 |
+| 18 | Back Panel | 1 |
+| 19 | Flat Washer #4/M3 | 4 |
+| 20 | Fan | 1 |
+| 21 | Socket Head Cap Screw M3 x 20mm | 4 |
+| 22 | Hex Nut M3 | 4 |
+| 23 | Terminal Block 4C 5mm Plug | 4 |
+| 24 | Terminal Block 8C 3.5mm Plug | 1 |
+| 25 | Terminal Block 7C 3.5mm Plug | 1 |
+| 26 | USB Cable | 1 |
+| 27 | Power Cord | 1 |
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<p>Make sure to click on the thumbnails to see more details and gather up the following tools to get started.</p>
 
 |\3{color:#fff;background: #383838}. **Tools** |
 |\3. Phillips Screwdriver |
@@ -27,6 +78,13 @@ permalink: /accessories/x-controller/
   </ol>
 
   <img src="PB231265BATCH054.jpg">
+
+{color:#fff;background: #383838}.| **SKU** | **Name** | **Quantity** |
+| 01 | Rubber Foot | 4 |
+| 02 | Chassis | 1 |
+| 03 | Enclosed Power Supply | 1 |
+| 04 | Power Supply Interface PCB | 1 |
+| 05 | Button Head Cap Screw M4 x 10mm | 4 |
 
   <h3>1. Attach Feet (OPTIONAL)</h3>
   <img src="PB231229BATCH019.jpg">
@@ -88,6 +146,12 @@ permalink: /accessories/x-controller/
   </ol>
 
   <img src="PB231294BATCH083.jpg">
+{color:#fff;background: #383838}.| **SKU** | **Name** | **Quantity** |
+| 05 | Button Head Cap Screw M4 x 10mm | 2 |
+| 06 | Main Controller PCB | 1 |
+| 07 | Power Cable | 1 |
+| 08 | Ribbon Cable | 1 |
+| 09 | E-Stop Cable | 1 |
 
   <h3>1. Prepare Controller Board</h3>
   <img src="PB231254EDIT.jpg">
@@ -179,6 +243,17 @@ permalink: /accessories/x-controller/
   </ol>
 
   <img src="PB231420BATCH200.jpg">
+
+{color:#fff;background: #383838}.| **SKU** | **Name** | **Quantity** |
+| 08 | Ribbon Cable | 1 |
+| 10 | E-Stop Button | 1 |
+| 11 | Top Panel | 1 |
+| 12 | Buttons PCB | 1 |
+| 13 | Threaded Standoff M3 | 4 |
+| 14 | Button Head Cap Screw M3 x 6mm | 10 |
+| 15 | USB Bulkhead Cable | 1 |
+| 16 | Front Panel | 1 |
+| 17 | Socket Head Cap Screw M4 x 6mm | 4 |
 
   <h3>1. Dissasemble E-Stop Button</h3>
   <img src="PB231310BATCH099.jpg">
@@ -294,6 +369,14 @@ permalink: /accessories/x-controller/
   </ol>
 
   <img src="PB231447BATCH227.jpg">
+
+{color:#fff;background: #383838}.| **SKU** | **Name** | **Quantity** |
+| 17 | Socket Head Cap Screw M4 x 6mm | 4 |
+| 18 | Back Panel | 1 |
+| 19 | Flat Washer #4/M3 | 4 |
+| 20 | Fan | 1 |
+| 21 | Socket Head Cap Screw M3 x 20mm | 4 |
+| 22 | Hex Nut M3 | 4 |
 
   <h3>1. Attach Fan</h3>
   <img src="P8201107Editcopy.jpg">
