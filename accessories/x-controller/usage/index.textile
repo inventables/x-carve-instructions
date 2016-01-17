@@ -21,6 +21,13 @@ permalink: /accessories/x-controller/usage/
 
 <h3>Optional Upgrades</h3>
 
+<p>Spindle Control</p>
+<div class="note">
+    <i class="fa fa-hand-o-right"></i>
+    	<span class="note-text">
+      		*Note: NEVER hook a spindle directly up to the X-Controller.*  These are only control signals, *NOT* power.
+    	</span>
+</div>
 <p>Limit Switches</p>
 <p>Coolant Controls</p>
 

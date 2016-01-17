@@ -30,3 +30,18 @@
   {% endif %}
 {% endfor %}
 
+{% for item in site.data.navigation.x-controller %}
+  {% if page.url == item.url %}
+    {% if item.subnav %}
+      <div id="subnav">
+        <ol class="nav subnav">
+          <h4>X-Controller Steps:</h4>
+          {% for subitem in item.subnav %}
+            <li><a data-scroll href="{{ subitem.url }}">{{ subitem.title }}</a></li>
+          {% endfor %}
+            <li class="return-top"><a data-scroll href="#"><i class="fa fa-arrow-up"></i>Return to top</a></li>
+        </ol>
+      </div>
+    {% endif %}
+  {% endif %}
+{% endfor %}

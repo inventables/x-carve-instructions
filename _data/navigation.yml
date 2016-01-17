@@ -160,6 +160,8 @@ accessories:
       url: '#wire-it-up'
     - title: Close It Up
       url: '#close-it-up'
+
+x-controller:
   - title: X-Controller
     url: /accessories/x-controller/
     subnav:

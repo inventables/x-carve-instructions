@@ -7,7 +7,7 @@ permalink: /accessories/x-controller/
 
 <img src="PB231421BATCH201.jpg">
 
-<p>Welcome to the X-Controller assembly instructions!  The images shown at the beginning of each step show the finished results of that step.  This is to provide context for what you're about to start working on, and offer those eager and willing to figure things out on their own a way to skim through more quickly.</p>
+<p>Welcome to the X-Controller assembly instructions!  The images shown at the beginning of each step show the finished results of that step.  This is to provide context for what you're about to start working on, and offer those eager and willing to figure things out on their own a way to skim through more quickly.  Make sure to click on the thumbnails to see more details.</p>
 
 <p>Each step also begins with a bill of materials that details the components about to be used.  To avoid any frustration you might have from finding out that something's missing, we've laid out the bill of materials here so you can find out now before you even get going.  Click below to reveal the BOM and make sure you received everything correctly.  If there's anything missing please contact us at help @ inventables.com for replacements.</p>
 
@@ -58,7 +58,7 @@ permalink: /accessories/x-controller/
   </div>
 </div>
 
-<p>Make sure to click on the thumbnails to see more details and gather up the following tools to get started.</p>
+<p>Gather up the following tools to get started.</p>
 
 |\3{color:#fff;background: #383838}. **Tools** |
 |\3. Phillips Screwdriver |
@@ -66,7 +66,13 @@ permalink: /accessories/x-controller/
 |\3. 3mm Allen Wrench |
 |\3. 5.5mm Open End Wrench (Adjustable Wrench or Pliers) |
 
-<p>Bear in mind that these instructions were completed with a pre-production X-Controller, so you may find a few inconsistencies between what is pictured and what's in front of you.</p>
+  <div class="note">
+    <i class="fa fa-hand-o-right"></i>
+    <span class="note-text">
+      *Note:* Bear in mind that these instructions were completed with a pre-production X-Controller, so you may find a few inconsistencies between what is pictured and what's in front of you.
+    </span>
+  </div>
+<p></p>
 
 <div class="step-card">
   <h2 id="install-power-supply">*Install Power Supply*</h2>
@@ -91,14 +97,8 @@ permalink: /accessories/x-controller/
   <p>Attach the four rubber "feet" to the bottom of the chassis.  Flip the chassis over and twist the foot through the hole.  Once the foot is partially in, try using your fingernail to bring it the rest of the way through.  This is an optional step and the holes can also be used to mount the chassis to a work table.</p>
 
   <h3>2. Prepare Enclosed Power Supply</h3>
-  <img src="Power Supply Switch with hands">
+  <img src="P1151511EDIT.jpg">
   <p>This is a universal power supply capable of running at 110V or 220V.  Flip the toggle switch on the side of the power supply to the voltage that correspondes to your "outlet voltage.":https://en.wikipedia.org/wiki/Mains_electricity_by_country#Table_of_mains_voltages_and_frequencies</p>
-      <div class="note">
-    <i class="fa fa-hand-o-right"></i>
-    <span class="note-text">
-      *Note: NEVER hook a spindle directly up to the X-Controller.*  These are only control signals, *NOT* power.
-    </span>
-  </div>
 
   <h3>3. Attach Power Supply Interface PCB</h3>
   <img src="PB231244BATCH034.jpg">
@@ -126,12 +126,12 @@ permalink: /accessories/x-controller/
 
   <h3>4. Attach Power Supply to Chassis</h3>
   <img src="PB231247BATCH037.jpg">
-  <p>Using the M4 button head cap screws, attach the power supply through the mounting holes on the underside of the chassis.  The threaded holes on the base of the power supply are delicate, so try not to overtighten the screws when assembling.
+  <p>Using the M4 x 10mm button head cap screws, attach the power supply through the mounting holes on the underside of the chassis.  The threaded holes on the base of the power supply are delicate, so try not to overtighten the screws when assembling.
   </p>
-  <div class="note">
+<div class="note">
   	<i class="fa fa-hand-o-right"></i>
   	<span class="note-text">
-    	*Note: The chassis is not symmetrical.*  The interface PCB side of the enclosed power supply should be on the same end of the chassis with the mounting holes set furthest away.  The power supply interface PCB will be flush with the end of the chassis when installed correctly.
+    	*Note: The chassis is not symmetrical.*  The power supply interface PCB will be flush with the end of the chassis when installed correctly.
   	</span>
   </div>
 </div>
@@ -192,7 +192,7 @@ permalink: /accessories/x-controller/
 
   <h3>3. Wire Controller Board</h3>
   <img src="PB231284BATCH073.jpg">
-  <p>Attach the cables to the power supply interface PCB.  The cables can only be connected in one orientation, so if they don't attach well double check them and try again.  Try to orient them so that the wires can easily travel from board to board.  Make sure to tuck the e-stop cable along the edge of the enclosed power supply to prevent any sort of snagging or pinching.</p>
+  <p>Attach the cables to the power supply interface PCB.  The cables can only be connected in one orientation, so if they don't attach well double check them and try again.  Try to orient them so that the wires can easily travel from board to board.</p>
   <div class="row image-row">
     <div class="col-xs-6 col-md-3">
       <a href="#" class="thumbnail"><img src="PB231268BATCH057.jpg"></a>
@@ -213,6 +213,13 @@ permalink: /accessories/x-controller/
       <a href="#" class="thumbnail"><img src="PB231280BATCH069.jpg"></a>
     </div>
   </div>
+
+<div class="note">
+  <i class="fa fa-hand-o-right"></i>
+    <span class="note-text">
+    *Note:* Make sure to tuck the e-stop cable along the edge of the enclosed power supply to prevent any sort of snagging or pinching.
+    </span>
+</div>
 
   <h3>4. Attach Controller Board</h3>
   <img src="PB231293BATCH082.jpg">
@@ -275,7 +282,7 @@ permalink: /accessories/x-controller/
 
   <h3>2. Attach E-Stop Button</h3>
   <img src="PB231332BATCH121.jpg">
-  <p>Insert the button through the hole on the top panel and secure using the nut.  Make sure the side of the button marked "TOP" is facing the middle of the top panel.  Slide the top panel into the channels of the chassis, far enough back so you can access the Mini USB port on the main controller board.</p>
+  <p>Insert the button through the hole on the top panel and secure using the nut.  Make sure the side of the button marked "TOP" is facing the center of the top panel.  Slide the top panel into the channels of the chassis, far enough back so you can access the Mini USB port on the main controller board.</p>
   <div class="row image-row">
     <div class="col-xs-6 col-md-3">
       <a href="#" class="thumbnail"><img src="PB231313BATCH102.jpg"></a>
