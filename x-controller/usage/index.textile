@@ -2,7 +2,7 @@
 layout: default
 title:  "X-Controller Usage"
 category: step
-permalink: /accessories/x-controller/usage/
+permalink: /x-controller/usage/
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UT95_LCYoAQ" frameborder="0" allowfullscreen></iframe>

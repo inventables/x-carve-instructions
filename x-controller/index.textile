@@ -408,4 +408,4 @@ permalink: /x-controller/
 </div>
 
 <p style="margin-top:15px;">Congratulations, you did it!  Now click on the button below for information on using your new X-Controller.</p>
-<a href="/accessories/x-controller/usage/" class="btn btn-invent btn-animate-arrow">Usage Instructions</a>
+<a href="/x-controller/usage/" class="btn btn-invent btn-animate-arrow">Usage Instructions</a>
