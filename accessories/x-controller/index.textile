@@ -155,32 +155,20 @@ permalink: /accessories/x-controller/
 
   <h3>1. Prepare Controller Board</h3>
   <img src="PB231254EDIT.jpg">
-  <p>In order for the Grbl firmware to know how far the machine will move in reality, a few things need to be set on the controller board. Microstepping is one of these settings and allows the motors to move to positions between normal steps; increasing accuracy and smoothing the motion of the motor. Depending on the capabilites of the motors, there does come a point where the microstepping will no longer increase accuracy. Using high microstep values (e.g 16) can reduce stepper motor torque, so it's best to use the lowest value that can still give you the axes resolution you're looking for. Dip switches on the main controller board allow you to set the microstepping.  Make sure to check out the diagram on the board for propper placement of the switches. Unless you're working with *different motors* or an *advanced user* looking to make some tweeks, *you won't need to make any adjustments.*</p>
-    <div class="row image-row">
-      <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="PB231255BATCH044.jpg"></a>
-      </div>
-      <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="PB231261BATCH050.jpg"></a>
-      </div>
-    </div>
+  <p>Unless you're working with *different motors* or an *advanced user* looking to make some tweaks, *you won't need to make any adjustments.*  That being said, in order for the Grbl firmware to know how far the machine will move in reality, a few things need to be set on the controller board. Microstepping is one of these settings and allows the motors to move to positions between normal steps; increasing accuracy and smoothing the motion of the motor. Depending on the capabilites of the motors, there does come a point where the microstepping will no longer increase accuracy. Using high microstep values (e.g 16) can reduce stepper motor torque, so it's best to use the lowest value that can still give you the axes resolution you're looking for. Dip switches on the main controller board allow you to set the microstepping.  Make sure to check out the diagram on the board for propper placement of the switches.</p>
+
   <p>Idle current reduction is another feature that can be set on the controller board.  This setting automatically reduces the amount of current shortly after the motor stops moving, reducing heat from the driver and the motor.  This feature is especially great for the Z axis which spends a lot of its time idle.  You can set this using the dip switches, just make sure to check out the diagram for proper placement.</p>
-    <div class="row image-row">
-      <div class="col-xs-6 col-md-3">
-        <a href="#" class="thumbnail"><img src="idle current reduction"></a>
-      </div>
-    </div>
+
   <p>The potentiometers on the controller board allow you to control the maximum current to the motors. Clockwise increases the current and counter-clockwise decreases the current.  Current ratings are different for NEMA 17 (1.6A) and NEMA 23 (2.8A) stepper motors and need to be set accordingly. The slot between the dots on the gray actuator is the pointer, and can be adjusted based on the diagram on the controller board.</p>
+
+  <p>For those nitpicky users out there, you can measure the amount of voltage on the reference and ground test points.  Use the formula (I = ref * 2.13) on the diagram to determine the current.  For example, if you measure 1V you get 2.13 amps.</p>
     <div class="row image-row">
       <div class="col-xs-6 col-md-3">
-        <a href="#" class="thumbnail"><img src="pots"></a>
+        <a href="#" class="thumbnail"><img src="PB231255BATCH044.jpg"></a>
       </div>
       <div class="col-xs-6 col-md-3">
-        <a href="#" class="thumbnail"><img src="diagram"></a>
+        <a href="#" class="thumbnail"><img src="PB231261BATCH050.jpg"></a>
       </div>
-    </div>
-  <p>For those nitpicky users out there, you can measure the amount of voltage on the reference and ground test points.  Use the formula (I = ref * 2.13) on the diagram to determine the current.  For example, if you measure 1V you get 2.13 amps.</p>
-      <div class="row image-row">
       <div class="col-xs-6 col-md-3">
         <a href="#" class="thumbnail"><img src="PB231263BATCH052.jpg"></a>
       </div>
@@ -419,13 +407,5 @@ permalink: /accessories/x-controller/
   </div>
 </div>
 
-<div class="step-card">
-  <h2 id="troubleshooting">*Troubleshooting*</h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9P57CQ4Z0-0" frameborder="0" allowfullscreen></iframe>
-<h3>X-Controller won't turn on.</h3>
-<p>Check to make sure your e-stop button is pulled out and not engaged.</p>
-<h3>Limit switches don't work.</h3>
-<p>Check that the ribbon connectors are fully pushed into the making connectors.</p>
-</div>
-
-<a href="/accessories/x-controller/usage/">Usage</a>
+<p style="margin-top:15px;">Congratulations, you did it!  Now click on the button below for information on using your new X-Controller.</p>
+<a href="/accessories/x-controller/usage/" class="btn btn-invent btn-animate-arrow">Usage Instructions</a>
