@@ -163,7 +163,7 @@ accessories:
 
 x-controller:
   - title: X-Controller
-    url: /accessories/x-controller/
+    url: /x-controller/
     subnav:
     - title: Install Power Supply
       url: '#install-power-supply'
