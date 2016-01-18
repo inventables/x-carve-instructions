@@ -2,7 +2,7 @@
 layout: default
 title:  "X-Controller"
 category: step
-permalink: /accessories/x-controller/
+permalink: /x-controller/
 ---
 
 <img src="PB231421BATCH201.jpg">
