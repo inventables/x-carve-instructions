@@ -63,6 +63,12 @@ When you're done your Z-Axis should look like this:
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/548/original/0967.jpg?1424378581!
 
+<div class="note">
+  <i class="fa fa-hand-o-right"></i>
+  <span class="note-text">
+    Note: It does not matter if the groove is on the right or left side, as long as it is facing up like the picture.
+  </span>
+</div>
 <h3 id="attach-z-axis">3. Attach the Z-Axis to the X Carriage</h3>
 
 |\3{color:#fff;background: #383838}. **Core Components Kit** |
