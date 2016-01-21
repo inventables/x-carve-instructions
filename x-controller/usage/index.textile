@@ -44,4 +44,4 @@ permalink: /x-controller/usage/
 
 <p>Limit switches don't work.</p>
 
-<p>Check that the ribbon connectors are fully pushed into the making connectors.</p>
+<p>Check that the ribbon connectors are fully pushed into the mating connectors.</p>
