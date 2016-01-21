@@ -20,7 +20,7 @@ You'll need these parts to assemble your Y-Plates:
 | **SKU** | **Name** | **Quantity** |
 | 30525-01 | Gantry Side Plate (Y-Plate) | 2 |
 | 25197-01 | Smooth Idler Wheel Kit | 4 |
-| 25203-0 | Dual Bearing V-Wheel Kit | 8 |
+| 25203-01 | Dual Bearing V-Wheel Kit | 8 |
 | 25286-22 | Button Head Cap Screw M5 x 35mm | 4 |
 | 25286-21 | Button Head Cap Screw M5 x 25mm | 8 |
 | 30265-04 | Nylon Insert Lock Nut M5 | 8 |
