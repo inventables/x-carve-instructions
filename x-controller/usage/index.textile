@@ -5,6 +5,12 @@ category: step
 permalink: /x-controller/usage/
 ---
 
+<img src="P1211533EDIT.jpg">
+
+Congratulations on assemblying your new X-Controller, now let's put it to use!  
+
+There are two options you can choose to take when putting this on your machine.  Option one keeps your same wiring setup, but requires you to make some changes to the main controller board.  Option two requires a new length of stepper motor cable and takes full advantage of the fourth stepper driver chip.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UT95_LCYoAQ" frameborder="0" allowfullscreen></iframe>
 
 <h3>Unwire</h3>
