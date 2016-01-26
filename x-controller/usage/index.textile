@@ -102,7 +102,7 @@ There are two options you can choose to take when putting this on your machine. 
 
 	<p>Check to make sure your e-stop button is pulled out and not engaged.</p>
 
-	<h3>My Limit switches don't work!</h3>
+	<h3>My limit switches don't work!</h3>
 
 	<p>Check that the ribbon connectors are fully pushed into the mating connectors.</p>
 </div>
