@@ -17,16 +17,18 @@ There are two options you can choose to take when putting this on your machine. 
     <li>Prepare Controller Board</li>
     <li>Wire Stepper Motor Cable</li>
   </ol>
+  	<img src="P1211529EDIT.jpg">
 
 	<p>This is the easiest and quickest way to get going with your X-Controller.  With this option you won't need to make any changes to your machine, but you will need to change the amount of current running to your y axis to get the most out of your two y motors.</p>
 
   <h3>Prepare Controller Board</h3>
 
-	<p>Something yadadayda</p>
+	<p>As mentioned in the "Install Controller Board":http://localhost:4000/x-controller/#install-controller-board step of the assembly instructions, you'll simply need to increase the potentiometer on your y-axis.</p>
 
   <h3>Wire Stepper Motor Cable</h3>
 
-	<p>yadadayadyad</p>
+	<p>Remove the stepper motor cable from your gShield. Wire the cable into the green terminal block plugs and plug them into the corresponding spots on the X-Controller.</p>
+
 </div>
 
 <div class="step-card">
@@ -39,29 +41,38 @@ There are two options you can choose to take when putting this on your machine. 
 
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/UT95_LCYoAQ" frameborder="0" allowfullscreen></iframe>
 
+  <p>This option takes a little bit of rewiring, but you end up with each motor getting its own dedicated stepper driver chip.</p>
+
 	<h3>Unwire</h3>
 
-	<p>remove drag chain end</p>
-	<p>unwire left terminal block</p>
+	<p>Start by removing the drag chain end on the left side of the machine to gain access to the terminal block below the stepper motor.  Remove the stepper motor cable from the top screws of the terminal block and separate the two stepper motors.</p>
 
 	<h3>Wire New Stepper Motor Cable</h3>
 
-	<p>wire left and right terminal blocks</p>
-	<p>run cable through drag chain</p>
-	<p>attach drag chain end</p>
-	<p>wire terminal blocks and plug in</p>
+	<p>Wire the left stepper motor to the left terminal block and completely remove the small length of stepper motor cable that was joining the two y motors.  Wire your new piece of stepper motor cable to the right terminal block.  Route the cable through the drag chain and reattach the drag chain end. Wire the cable into the green terminal block plugs and plug them into the corresponding spots on the X-Controller.</p>
+
+  <div class="note">
+    <i class="fa fa-hand-o-right"></i>
+    <span class="note-text">
+      *Note:* Use tape on your new lenght of stepper motor cable to make it easier to route through the drag chain.
+    </span>
+  </div>
 
 	<h3>Optional Upgrades</h3>
+	<img src="P1211535EDIT.jpg">
 
 	<p>Limit Switches</p>
+
 	<p>Coolant Controls</p>
+
 	<p>Spindle Control</p>
-	<div class="note">
-	    <i class="fa fa-hand-o-right"></i>
-	    	<span class="note-text">
-	      		*Note: NEVER hook a spindle directly up to the X-Controller.*  These are only control signals, *NOT* power.
-	    	</span>
-	</div>
+
+  <div class="note">
+    <i class="fa fa-hand-o-right"></i>
+    <span class="note-text">
+      *Note: NEVER hook a spindle directly up to the X-Controller.*  These are only control signals, *NOT* power.
+    </span>
+  </div>
 </div>
 
 <div class="step-card">
