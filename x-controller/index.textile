@@ -72,7 +72,6 @@ permalink: /x-controller/
       *Note:* Bear in mind that these instructions were completed with a pre-production X-Controller, so you may find a few inconsistencies between what is pictured and what's in front of you.
     </span>
   </div>
-<p></p>
 
 <div class="step-card">
   <h2 id="install-power-supply">*Install Power Supply*</h2>

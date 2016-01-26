@@ -173,3 +173,16 @@ x-controller:
       url: '#install-front-panel'
     - title: Install Back Panel
       url: '#install-back-panel'
+
+x-controller-usage:
+  - title: X-Controller Usage
+    url: /x-controller/usage/
+    subnav:
+    - title: Option 1 - No New Wires
+      url: '#option-1'
+    - title: Option 2 - New Wires
+      url: '#option-2'
+    - title: Usage
+      url: '#usage'
+    - title: Troubleshooting
+      url: '#troubleshooting'

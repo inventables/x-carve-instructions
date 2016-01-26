@@ -11,6 +11,28 @@ Congratulations on assemblying your new X-Controller, now let's put it to use!
 
 There are two options you can choose to take when putting this on your machine.  Option one keeps your same wiring setup, but requires you to make some changes to the main controller board.  Option two requires a new length of stepper motor cable and takes full advantage of the fourth stepper driver chip.
 
+<div class="step-card">
+  <h2 id="option-1">*Option 1 - No New Wires*</h2>
+  <ol class="step-contents">
+    <li>Prepare Controller Board</li>
+    <li>Wire Stepper Motor Cable</li>
+  </ol>
+
+<p>This is the easiest and quickest way to get going with your X-Controller.  With this option you won't need to make any changes to your machine, but you will need to change the amount of current running to your y axis to get the most out of your two y motors.</p>
+
+<h3>Prepare Controller Board</h3>
+
+<p>Something yadadayda</p>
+
+</div>
+
+<div class="step-card">
+  <h2 id="option-2">*Option 2 - New Wires*</h2>
+  <ol class="step-contents">
+  	<li>Unwire</li>
+  	<li>Wire New Stepper Motor Cable</li>
+  	<li>Optional Upgrades</li>
+  </ol>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UT95_LCYoAQ" frameborder="0" allowfullscreen></iframe>
 
 <h3>Unwire</h3>
@@ -36,14 +58,30 @@ There are two options you can choose to take when putting this on your machine. 
       		*Note: NEVER hook a spindle directly up to the X-Controller.*  These are only control signals, *NOT* power.
     	</span>
 </div>
+</div>
+
+<div class="step-card">
+  <h2 id="usage">*Usage*</h2>
+  <ol class="step-contents">
+  	<li>Buttons</li>
+  	<li>Easel Setup</li>
+  </ol>
 
 <h3>Usage</h3>
 
 <p>Buttons</p>
 <p>Easel Setup</p>
+</div>
 
-<h3 id="troubleshooting">Troubleshooting</h3>
+<div class="step-card">
+  <h2 id="troubleshooting">*Troubleshooting*</h2>
+  <ol class="step-contents">
+  	<li>Power</li>
+  	<li>Limit Switches</li>
+  </ol>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9P57CQ4Z0-0" frameborder="0" allowfullscreen></iframe>
+
+
 <p>X-Controller won't turn on.</p>
 
 <p>Check to make sure your e-stop button is pulled out and not engaged.</p>
@@ -51,3 +89,4 @@ There are two options you can choose to take when putting this on your machine. 
 <p>Limit switches don't work.</p>
 
 <p>Check that the ribbon connectors are fully pushed into the mating connectors.</p>
+</div>
