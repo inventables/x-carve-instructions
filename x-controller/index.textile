@@ -287,9 +287,6 @@ permalink: /x-controller/
     <div class="col-xs-6 col-md-3">
       <a href="#" class="thumbnail"><img src="PB231322BATCH111.jpg"></a>
     </div>
-    <div class="col-xs-6 col-md-3">
-      <a href="#" class="thumbnail"><img src="PB231330BATCH119.jpg"></a>
-    </div>
   </div>
   <div class="note">
     <i class="fa fa-hand-o-right"></i>
