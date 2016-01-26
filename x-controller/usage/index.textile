@@ -18,12 +18,15 @@ There are two options you can choose to take when putting this on your machine. 
     <li>Wire Stepper Motor Cable</li>
   </ol>
 
-<p>This is the easiest and quickest way to get going with your X-Controller.  With this option you won't need to make any changes to your machine, but you will need to change the amount of current running to your y axis to get the most out of your two y motors.</p>
+	<p>This is the easiest and quickest way to get going with your X-Controller.  With this option you won't need to make any changes to your machine, but you will need to change the amount of current running to your y axis to get the most out of your two y motors.</p>
 
-<h3>Prepare Controller Board</h3>
+  <h3>Prepare Controller Board</h3>
 
-<p>Something yadadayda</p>
+	<p>Something yadadayda</p>
 
+  <h3>Wire Stepper Motor Cable</h3>
+
+	<p>yadadayadyad</p>
 </div>
 
 <div class="step-card">
@@ -33,31 +36,32 @@ There are two options you can choose to take when putting this on your machine. 
   	<li>Wire New Stepper Motor Cable</li>
   	<li>Optional Upgrades</li>
   </ol>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UT95_LCYoAQ" frameborder="0" allowfullscreen></iframe>
 
-<h3>Unwire</h3>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/UT95_LCYoAQ" frameborder="0" allowfullscreen></iframe>
 
-<p>remove drag chain end</p>
-<p>unwire left terminal block</p>
+	<h3>Unwire</h3>
 
-<h3>Wire</h3>
+	<p>remove drag chain end</p>
+	<p>unwire left terminal block</p>
 
-<p>wire left and right terminal blocks</p>
-<p>run cable through drag chain</p>
-<p>attach drag chain end</p>
-<p>wire terminal blocks and plug in</p>
+	<h3>Wire New Stepper Motor Cable</h3>
 
-<h3>Optional Upgrades</h3>
+	<p>wire left and right terminal blocks</p>
+	<p>run cable through drag chain</p>
+	<p>attach drag chain end</p>
+	<p>wire terminal blocks and plug in</p>
 
-<p>Limit Switches</p>
-<p>Coolant Controls</p>
-<p>Spindle Control</p>
-<div class="note">
-    <i class="fa fa-hand-o-right"></i>
-    	<span class="note-text">
-      		*Note: NEVER hook a spindle directly up to the X-Controller.*  These are only control signals, *NOT* power.
-    	</span>
-</div>
+	<h3>Optional Upgrades</h3>
+
+	<p>Limit Switches</p>
+	<p>Coolant Controls</p>
+	<p>Spindle Control</p>
+	<div class="note">
+	    <i class="fa fa-hand-o-right"></i>
+	    	<span class="note-text">
+	      		*Note: NEVER hook a spindle directly up to the X-Controller.*  These are only control signals, *NOT* power.
+	    	</span>
+	</div>
 </div>
 
 <div class="step-card">
@@ -67,26 +71,29 @@ There are two options you can choose to take when putting this on your machine. 
   	<li>Easel Setup</li>
   </ol>
 
-<h3>Usage</h3>
+	<h3>Buttons</h3>
 
-<p>Buttons</p>
-<p>Easel Setup</p>
+	<p>yadadadyad</p>
+
+	<h3>Easel Setup</h3>
+
+	<p>yadaaydayd</p>
 </div>
 
 <div class="step-card">
   <h2 id="troubleshooting">*Troubleshooting*</h2>
   <ol class="step-contents">
-  	<li>Power</li>
+  	<li>Won't Turn On</li>
   	<li>Limit Switches</li>
   </ol>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9P57CQ4Z0-0" frameborder="0" allowfullscreen></iframe>
 
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/9P57CQ4Z0-0" frameborder="0" allowfullscreen></iframe>
 
-<p>X-Controller won't turn on.</p>
+	<h3>X-Controller won't turn on.</h3>
 
-<p>Check to make sure your e-stop button is pulled out and not engaged.</p>
+	<p>Check to make sure your e-stop button is pulled out and not engaged.</p>
 
-<p>Limit switches don't work.</p>
+	<h3>Limit switches don't work.</h3>
 
-<p>Check that the ribbon connectors are fully pushed into the mating connectors.</p>
+	<p>Check that the ribbon connectors are fully pushed into the mating connectors.</p>
 </div>
