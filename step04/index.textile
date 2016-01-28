@@ -34,6 +34,12 @@ Now it's time to combine the X Carriage, Y-Plates and X-Axis to form the Gantry.
   </span>
 </div>
 
+<div class="step-card">
+  <h2>_*X-CARVE UPDATE*_</h2>
+  <img src="P1281540copy.JPG">
+  <p>Kits are now shipping with pre-tapped Makerslide.  You'll still be using the thread forming screws,  it's just much easier to assemble.</p>
+</div>
+
 <h3 id="attach-makerslide">1. Attach the Makerslide to the Right Y Motor Plate</h3>
 
 If you’ve been following the order of the general instructions this will be your first time using thread forming screws. Go slowly (especially for the first few threads), keep constant pressure down the hole you’re tapping and use cutting fluid or lubricant of any kind.  If you're having difficulty with these thread forming screws, try first using the screws to cut a few threads without the plates attached.
@@ -51,7 +57,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
   </span>
 </div>
 
-Drive the thread forming screws into the Makerslide until the are flush with the plate:
+Drive the thread forming screws into the Makerslide until they are flush with the plate:
 
 <div class="row image-row">!(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/732/original/1337.jpg?1424543605! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/733/original/1338.jpg?1424543606! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/734/original/1342.jpg?1424543607! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/735/original/1344.jpg?1424543608!
 </div>
