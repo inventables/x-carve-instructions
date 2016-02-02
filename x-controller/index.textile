@@ -29,7 +29,7 @@ permalink: /x-controller/
 | 02 | Chassis | 1 |
 | 03 | Enclosed Power Supply | 1 |
 | 04 | Power Supply Interface PCB | 1 |
-| 05 | Button Head Cap Screw M4 x 10mm | 6 |
+| 05 | Button Head Cap Screw M4 x 8mm | 6 |
 | 06 | Main Controller PCB | 1 |
 | 07 | Power Cable | 1 |
 | 08 | Ribbon Cable | 2 |
@@ -89,7 +89,7 @@ permalink: /x-controller/
 | 02 | Chassis | 1 |
 | 03 | Enclosed Power Supply | 1 |
 | 04 | Power Supply Interface PCB | 1 |
-| 05 | Button Head Cap Screw M4 x 10mm | 4 |
+| 05 | Button Head Cap Screw M4 x 8mm | 4 |
 
   <h3>1. Attach Feet (OPTIONAL)</h3>
   <img src="PB231229BATCH019.jpg">
@@ -125,7 +125,7 @@ permalink: /x-controller/
 
   <h3>4. Attach Power Supply to Chassis</h3>
   <img src="PB231247BATCH037.jpg">
-  <p>Using the M4 x 10mm button head cap screws, attach the power supply through the mounting holes on the underside of the chassis.  The threaded holes on the base of the power supply are delicate, so try not to overtighten the screws when assembling.
+  <p>Using the M4 x 8mm button head cap screws, attach the power supply through the mounting holes on the underside of the chassis.  The threaded holes on the base of the power supply are delicate, so try not to overtighten the screws when assembling.
   </p>
 <div class="note">
   	<i class="fa fa-hand-o-right"></i>
@@ -146,7 +146,7 @@ permalink: /x-controller/
 
   <img src="PB231294BATCH083.jpg">
 {color:#fff;background: #383838}.| **SKU** | **Name** | **Quantity** |
-| 05 | Button Head Cap Screw M4 x 10mm | 2 |
+| 05 | Button Head Cap Screw M4 x 8mm | 2 |
 | 06 | Main Controller PCB | 1 |
 | 07 | Power Cable | 1 |
 | 08 | Ribbon Cable | 1 |
