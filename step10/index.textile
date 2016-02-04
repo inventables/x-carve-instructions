@@ -91,7 +91,7 @@ This diagram should help clarify this step, and will be referenced again when yo
 
 <h3 id="solder-limit-switches">5. Soldering Limit Switches</h3>
 
-<img src="P5210333.JPG">
+<img src="limitSwitchescopy.jpg">
 
 If you purchased a limit switch kit with your X-Carve, click below to solder your limit switches.
 

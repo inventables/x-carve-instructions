@@ -276,7 +276,7 @@ Attach terminal blocks to the Y-Plates of your X-Carve with two screws and nuts 
 
 <h3 id="mount-limit-switch">6. Mounting Y-Axis Limit Switch</h3>
 
-<img src="P5210333.JPG">
+<img src="limitSwitchescopy.jpg">
 
 If you purchased a limit switch kit with your X-Carve, click below to mount your x-axis limit switch.
 

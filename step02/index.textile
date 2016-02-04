@@ -312,7 +312,7 @@ Put the screws through the top holes of the terminal block and screw them into t
 
 <h3 id="x-axis-limit-switch">7. Mounting X-Axis Limit Switch</h3>
 
-<img src="P5210333.JPG">
+<img src="limitSwitchescopy.jpg">
 
 If you purchased a limit switch kit with your X-Carve, click below to mount your x-axis limit switch.
 
