@@ -50,6 +50,26 @@ Click below to select your chosen drag chain.
 | 30554-01 | Flat Head Socket Cap Screw M4 x 10mm | 4 |
 | 30265-03 | Nylon Insert Lock Nut M4 | 4 |
 
+<div class="step-card">
+  <h2>_*X-CARVE UPDATE*_</h2>
+  <p>500mm Drag Chain Kits now include the same brackets and hardware as the 1000mm Drag Chain Kit.  You'll still be using the same number of links, and the following is the updated bill of materials:</p>
+
+|\3{color:#fff;background: #8a52a1}. **500mm Drag Chain Kit** |
+| **SKU** | **Name** | **Quantity** |
+| 30331-09 | Drag Chain 27 Links | 2 |
+| 30331-09 | Drag Chain Female End Link (attached) | 2 |
+| 30587-01 | Drag Chain Gantry Bracket | 1 |
+| 30586-01 | Drag Chain Angle Bracket | 2 |
+| 30586-02 | Bracket  Drag Chain Extrusion Angle Bracket | 1 |
+| 25281-05 | T-Slot Nut M5 Pre-Assembly | 2 |
+| 25286-24 | Button Head Cap Screw M4 × 10mm | 4 |
+| 25286-17 | Button Head Cap Screw M5 × 8mm | 2 |
+| 30554-01 | Flat Head Socket Cap Screw M4 x 10mm | 8 |
+| 30265-03 | Nylon Insert Lock Nut M4 | 10 |
+
+  <p>This section will have a more comprehensive update, including images, in the near future.  For the time being, you can find helpful images in the 1000mm Drag Chain Kit section, as well as the "1000mm Work Area section.":http://x-carve-instructions.inventables.com/step13/</p>
+</div>
+
 You should have two lengths of drag chain, each with one of the male end links removed. Note that it flexes in one direction and is stiff in the other direction.
 
 Take one length of drag chain and snap it into the male end on your X Carriage. It should bend easily around to the left side of the machine. If it does not, unsnap it and flip it around. The 500mm drag chain will bend horizontally toward the back of your machine.
