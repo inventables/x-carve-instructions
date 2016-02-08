@@ -84,7 +84,7 @@ There are two options you can choose to take when putting this on your machine. 
 
 	<h3>Easel Setup</h3>
 
-	<p>Head over to the "Easel Setup Walkthrough":easel.inventables.com/setup to change any necessary grbl settings.</p>
+	<p>Head over to the "Easel Setup Walkthrough":http://easel.inventables.com/setup to change any necessary grbl settings.</p>
 </div>
 
 <div class="step-card">
