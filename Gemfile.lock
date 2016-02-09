@@ -24,10 +24,10 @@ GEM
       multipart-post (>= 1.2, < 3)
     ffi (1.9.10)
     gemoji (2.1.0)
-    github-pages (45)
+    github-pages (46)
       RedCloth (= 4.2.9)
       github-pages-health-check (= 0.6.0)
-      jekyll (= 3.0.2)
+      jekyll (= 3.0.3)
       jekyll-coffeescript (= 1.0.1)
       jekyll-feed (= 0.3.1)
       jekyll-gist (= 1.4.0)
@@ -55,7 +55,7 @@ GEM
       activesupport (>= 2, < 5)
       nokogiri (>= 1.4)
     i18n (0.7.0)
-    jekyll (3.0.2)
+    jekyll (3.0.3)
       colorator (~> 0.1)
       jekyll-sass-converter (~> 1.0)
       jekyll-watch (~> 1.1)
@@ -108,7 +108,7 @@ GEM
       jekyll (~> 3.0)
     public_suffix (1.5.3)
     rb-fsevent (0.9.7)
-    rb-inotify (0.9.5)
+    rb-inotify (0.9.7)
       ffi (>= 0.5.0)
     rdiscount (2.1.8)
     redcarpet (3.3.3)
@@ -129,7 +129,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  github-pages (= 45)
+  github-pages (= 46)
   jekyll-textile-converter
   json
   octopress-autoprefixer
