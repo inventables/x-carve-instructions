@@ -51,6 +51,10 @@ There are two options you can choose to take when putting this on your machine. 
 
 	<p>Wire the left stepper motor to the left terminal block and completely remove the small length of stepper motor cable that was joining the two y motors.  Wire your new piece of stepper motor cable to the right terminal block.  Route the cable through the drag chain and reattach the drag chain end. Wire the cable into the green terminal block plugs and plug them into the corresponding spots on the X-Controller.</p>
 
+  <img src="x-controllerWiringDiagramEDITcopy.jpg">
+
+  <p>With two motors on the y axis facing each other, you'll need to flip one of the y pairs for the motors to move in the same direction.  The diagram above shows the black and green wires flipped on Y2.</p>
+
   <div class="note">
     <i class="fa fa-hand-o-right"></i>
     <span class="note-text">
@@ -92,6 +96,7 @@ There are two options you can choose to take when putting this on your machine. 
   <ol class="step-contents">
   	<li>Won't Turn On</li>
   	<li>Limit Switches</li>
+    <li>Won't Connect</li>
   </ol>
 
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/9P57CQ4Z0-0" frameborder="0" allowfullscreen></iframe>
@@ -105,4 +110,10 @@ There are two options you can choose to take when putting this on your machine. 
 	<h3>My limit switches don't work!</h3>
 
 	<p>Check that the ribbon connectors are fully pushed into the mating connectors.</p>
+
+  <h3>My X-Controller won't connect to my computer!</h3>
+
+  <p>Just like the gShied/Arduino, for Windows users you'll need to download the Arduino IDE to get the necessary drivers.  For more information, check out the "Drivers":http://x-carve-instructions.inventables.com/step16/ section of the X-Carve instructions.</p>
+
+  <a href="http://www.arduino.cc/" target="_blank" class="btn btn-invent btn-animate-arrow">Get Arduino Software</a>
 </div>
