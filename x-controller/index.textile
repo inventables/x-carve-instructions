@@ -160,7 +160,7 @@ permalink: /x-controller/
 
   <p>The potentiometers on the controller board allow you to control the maximum current to the motors. Clockwise increases the current and counter-clockwise decreases the current.  Current ratings are different for NEMA 17 (1.6A) and NEMA 23 (2.8A) stepper motors and need to be set accordingly. The slot between the dots on the gray actuator is the pointer, and can be adjusted based on the diagram on the controller board.</p>
 
-  <p>For those nitpicky users out there, you can measure the amount of voltage on the reference and ground test points.  Use the formula (I = ref * 2.13) on the diagram to determine the current.  For example, if you measure 1V you get 2.13 amps.</p>
+  <p>For those users who would like to know the current more precisely, you can measure the amount of voltage on the reference and ground test points.  Use the formula (I = ref * 2.13) on the diagram to determine the current.  For example, if you measure 1V you get 2.13 amps.</p>
     <div class="row image-row">
       <div class="col-xs-6 col-md-3">
         <a href="#" class="thumbnail"><img src="PB231255BATCH044.jpg"></a>
