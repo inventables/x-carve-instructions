@@ -19,9 +19,13 @@ next-step-title: "Z-Axis"
   <span>Video contributed by <a href="https://discuss.inventables.com/users/peterjames">Peter James</a></span>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/g0HRqtWj0qM" frameborder="0" allowfullscreen></iframe>
 </div>
-|\3. **Rail Kit** |
+|\3. **500mm Rail Kit** |
 | **SKU** | **Name** | **Quantity** |
 | 26053-01 | GT2 Belting - Open Ended | 7 (feet) |
+
+|\3. **1000mm Rail Kit** |
+| **SKU** | **Name** | **Quantity** |
+| 26053-01 | GT2 Belting - Open Ended | 12 (feet) |
 
 |\3{color:#fff;background: #383838}. **Core Components Kit** |
 | **SKU** | **Name** | **Quantity** |
