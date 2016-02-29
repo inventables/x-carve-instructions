@@ -19,7 +19,7 @@ z-axis: true
 | 30534-01 | Z Axis Motor Plate | 1 |
 | 30169-01 | Flanged Bearing 8mm | 1 |
 | 25286-17 | Button Head Cap Screw M5 x 8mm | 2 |
-| 30544-01 | Pan Head Thread Forming Screw M5 x 12mm | 2 |
+| 25286-19 | Button Head Cap Screw M5 x 12mm | 2 |
 
 <div class="note note-shapeoko">
   <i class="fa fa-level-up"></i>
@@ -55,7 +55,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
   </span>
 </div>
 
-Use two thread forming screws to attach the Z-Plate to the Z-Axis Makerslide. The screws go through the Z-Plate and into the Makerslide. Be sure to keep constant pressure along the hole you're tapping.
+Use the two longer button head cap screws to attach the Z-Plate to the Z-Axis Makerslide. The screws go through the Z-Plate and into the Makerslide.
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/547/original/0963.jpg?1424378546!
 

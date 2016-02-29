@@ -19,13 +19,13 @@ grabcad-url1: https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYk
 |\3{color:#fff;background: #383838}. **Core Components Kit** |
 | **SKU** | **Name** | **Quantity** |
 | 30524-01 | MakerSlide End Plate | 4 |
-| 30544-01 | Pan Head Thread Forming Screw M5 x 12mm (Self Tapping Screw) | 8 |
+| 25286-19 | Button Head Cap Screw M5 x 12mm | 8 |
 | 25281-05 | T-Slot Nut M5 Pre-Assembly (Insertion Nut) | 4 |
 |   | Gantry Assembly | 1 |
 
 <h3 id="attach-end-plates">1. Attach End Plates to Makerslide</h3>
 
-You’re going to use self tapping screws again. This time you'll attach a piece of Makerslide to an end plate. Make sure you use the correct holes in the end plate and that you orient the two pieces correctly.
+Attach a piece of Makerslide to an end plate using a button head cap screw. Make sure you use the correct holes in the end plate and that you orient the two pieces correctly.
 
 **If you have limit switches, make sure the slot on the Makerslide is oriented in the upper position.**  This slot is used to attach the limit switch "actuator" and will not be aligned with the switch if the Makerslide is positioned incorrectly.
 
@@ -60,7 +60,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 <h3 id="attach-front-end-plates">4. Attach Front End Plates</h3>
 
-Now put the last two end plates on the y-axis Makerslide with self tapping screws. The flat sides of the end plates should face out:
+Now put the last two end plates on the y-axis Makerslide with button head cap screws. The flat sides of the end plates should face out:
 
 <div class="row image-row">
 !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/621/original/0365.jpg?1424385220! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/622/original/0366.jpg?1424385230! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/623/original/0371.jpg?1424385287! !(thumbnail col-md-3)https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/624/original/0375.jpg?1424385297!

@@ -48,13 +48,13 @@ Each step of the instructions begins with a bill of materials that details the c
 | 30534-01 | Z Axis Motor Plate | 1 |
 | 25281-05 | T-Slot Nut M5 Pre-Assembly (Insertion Nut) | 18 |
 | 30547-01 | GT2 Belt Closed Loop, 80T | 1 |
-| 30544-01 | Pan Head Thread Forming Screw M5 x 12mm (Self Tapping Screw) | 18 |
 | 25312-23 | Aluminum Spacer 5.1mm ID 9.5mm OD 9.5mm LG | 10 |
 | 30545-01 | X Carriage Extrusion | 1 |
 | 25142-09 | MakerSlide Black 200mm | 1 |
 | 30158-01 | Eccentric Nut M5 | 10 |
 | 25286-17 | Button Head Cap Screw M5 × 8mm | 16 |
 | 25286-18 | Button Head Cap Screw M5 × 10mm | 6 |
+| 25286-19 | Button Head Cap Screw M5 × 12mm | 18 |
 | 25286-21 | Button Head Cap Screw M5 × 25mm | 19 |
 | 25286-22 | Button Head Cap Screw M5 × 35mm | 8 |
 | 30169-01 | Flanged Bearing 8mm | 1 |
@@ -326,7 +326,6 @@ Each step of the instructions begins with a bill of materials that details the c
 |\3{color:#fff;background: #ffcc05}. **500mm Wiring Kit** |
 | **SKU** | **Name** | **Quantity** |
 | 25305-01 | Stepper Motor Cable (feet) | 19 |
-| 30461-02 | Zip Wire Blk/Red 18AWG (feet) | 7 |
 | 25306-01 | Terminal Block 4C | 2 |
 | 25306-06 | Terminal Block 10C | 1 |
 | 30265-03 | Nylon Insert Lock Nut M4 | 4 |
@@ -335,7 +334,6 @@ Each step of the instructions begins with a bill of materials that details the c
 |\3{color:#fff;background: #ffcc05}. **1000mm Wiring Kit** |
 | **SKU** | **Name** | **Quantity** |
 | 25305-01 | Stepper Motor Cable (feet) | 36 |
-| 30461-02 | Zip Wire Blk/Red 18AWG (feet) | 14 |
 | 25306-01 | Terminal Block 4C | 2 |
 | 25306-06 | Terminal Block 10C | 1 |
 | 30265-03 | Nylon Insert Lock Nut M4 | 4 |
