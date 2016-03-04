@@ -358,21 +358,26 @@ Each step of the instructions begins with a bill of materials that details the c
 |\3{color:#fff;background: #8a52a1}. **500mm Drag Chain Kit** |
 | **SKU** | **Name** | **Quantity** |
 | 30331-09 | Drag Chain 27 Links With End Links | 2 |
-| 30527-01 | Drag Chain Bracket | 2 |
+| 30587-01 | Drag Chain Gantry Bracket | 1 |
+| 30586-01 | Drag Chain Angle Bracket | 2 |
+| 30586-02 | Drag Chain Extrusion Angle Bracket | 1 |
+| 25281-05 | T-Slot Nut M5 Pre-Assembly | 2 |
+| 25286-24 | Button Head Cap Screw M4 × 10mm | 4 |
+| 25286-17 | Button Head Cap Screw M5 × 8mm | 2 |
 | 30554-01 | Flat Head Socket Cap Screw M4 x 10mm | 8 |
-| 30265-03 | Nylon Insert Lock Nut M4 | 6 |
+| 30265-03 | Nylon Insert Lock Nut M4 | 10 |
 
 |\3{color:#fff;background: #8a52a1}. **1000mm Drag Chain Kit** |
 | **SKU** | **Name** | **Quantity** |
 | 30331-10 | Drag Chain 54 Links With End Links | 2 |
 | 30587-01 | Drag Chain Gantry Bracket | 1 |
-| 30554-01 | Flat Head Socket Cap Screw M4 × 10mm | 8 |
-| 30265-03 | Nylon Insert Lock Nut M4 | 10 |
+| 30586-01 | Drag Chain Angle Bracket | 2 |
+| 30586-02 | Drag Chain Extrusion Angle Bracket | 1 |
 | 25281-05 | T-Slot Nut M5 Pre-Assembly | 2 |
 | 25286-24 | Button Head Cap Screw M4 × 10mm | 4 |
 | 25286-17 | Button Head Cap Screw M5 × 8mm | 2 |
-| 30586-01 | Drag Chain Angle Bracket | 2 |
-| 30586-02 | Drag Chain Extrusion Angle Bracket | 1 |
+| 30554-01 | Flat Head Socket Cap Screw M4 × 10mm | 8 |
+| 30265-03 | Nylon Insert Lock Nut M4 | 10 |
 </div>
 </div>
 </div>
