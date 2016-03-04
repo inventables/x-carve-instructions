@@ -29,11 +29,18 @@ Start by mounting the Power Supply Circuit Board to the Power Supply. You'll see
 <div class="note">
   <i class="fa fa-hand-o-right"></i>
   <span class="note-text">
-    *Note:* Your 24V Power Supply has a toggle switch for input voltage on the side. Use a small flat-blade screwdriver to switch it to the voltage that corresponds to your outlet voltage.
+    *Note:* Not pictured on the Power Supply Interface PCB are two green terminal blocks.  Make sure to *remove* these from the PCB before installing the Power Supply End Cap in future steps.
   </span>
 </div>
 
 p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/710/original/1053.jpg?1424472467!
+
+<div class="note">
+  <i class="fa fa-hand-o-right"></i>
+  <span class="note-text">
+    *Note:* Your 24V Power Supply has a toggle switch for input voltage on the side. Use a small flat-blade screwdriver to switch it to the voltage that corresponds to your outlet voltage.
+  </span>
+</div>
 
 <h3 id="mount-gshield-enclosure">2. Mount gShield Enclosure and P/S Interface</h3>
 
