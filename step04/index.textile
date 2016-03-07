@@ -21,7 +21,7 @@ Now it's time to combine the X Carriage, Y-Plates and X-Axis to form the Gantry.
 
 |\3{color:#fff;background: #383838}. **Core Components Kit** |
 | **SKU** | **Name** | **Quantity** |
-| 25286-19 | Button Head Cap Screw M5 x 12mm | 8 |
+| 25286-18 | Button Head Cap Screw M5 x 10mm | 8 |
 | 25287-08 | Flat Washer M5 | 4 |
 | 25281-05 | T-Slot Nut M5 Pre-Assembly (Insertion Nut) | 2 |
 |   | X Carriage Assembly | 1 |
@@ -33,6 +33,8 @@ Now it's time to combine the X Carriage, Y-Plates and X-Axis to form the Gantry.
   <p>Kits are now shipping with pre-tapped Makerslide.</p>
 
   <p>Thread forming/self tapping screws are no longer being used, and have been replaced with button head cap screws.  Images still show the thread forming screws and will be updated soon.</p>
+
+  <p>Some kits may include M5 × 12mm button head cap screws, qty 18.  These replace the self-tapping screws used to connect Makerslide to its respective plates, and are interchangeable with the M5 × 10mm button head cap screws.</p>
 </div>
 
 <h3 id="attach-makerslide">1. Attach the Makerslide to the Right Y Motor Plate</h3>

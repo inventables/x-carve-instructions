@@ -19,7 +19,7 @@ z-axis: true
 | 30534-01 | Z Axis Motor Plate | 1 |
 | 30169-01 | Flanged Bearing 8mm | 1 |
 | 25286-17 | Button Head Cap Screw M5 x 8mm | 2 |
-| 25286-19 | Button Head Cap Screw M5 x 12mm | 2 |
+| 25286-18 | Button Head Cap Screw M5 x 10mm | 2 |
 
 <div class="note note-shapeoko">
   <i class="fa fa-level-up"></i>

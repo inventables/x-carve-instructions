@@ -19,7 +19,7 @@ grabcad-url1: https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYk
 |\3{color:#fff;background: #383838}. **Core Components Kit** |
 | **SKU** | **Name** | **Quantity** |
 | 30524-01 | MakerSlide End Plate | 4 |
-| 25286-19 | Button Head Cap Screw M5 x 12mm | 8 |
+| 25286-18 | Button Head Cap Screw M5 x 10mm | 8 |
 | 25281-05 | T-Slot Nut M5 Pre-Assembly (Insertion Nut) | 4 |
 |   | Gantry Assembly | 1 |
 
