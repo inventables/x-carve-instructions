@@ -8,7 +8,8 @@ next-step: /step02/
 next-step-title: "X Carriage"
 ---
 
-<img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_image_uploaded_images/1721/carousel/1430604400_X_Carve_angle_Logo_0015.jpg?1430604400" style="margin-bottom: 20px" />
+<img src="XCarveHeader.jpg">
+
 Congratulations on purchasing an "X-Carve":https://www.inventables.com/technologies/x-carve DIY 3D Carver kit! These detailed instructions will guide you through the process of building your very own desktop 3D carver.
 
 We've divided assembly into steps corresponding to the modules of your kit. You can navigate between steps using the table of contents to the left.
@@ -53,8 +54,7 @@ Each step of the instructions begins with a bill of materials that details the c
 | 25142-09 | MakerSlide Black 200mm | 1 |
 | 30158-01 | Eccentric Nut M5 | 10 |
 | 25286-17 | Button Head Cap Screw M5 × 8mm | 16 |
-| 25286-18 | Button Head Cap Screw M5 × 10mm | 6 |
-| 25286-19 | Button Head Cap Screw M5 × 12mm | 18 |
+| 25286-18 | Button Head Cap Screw M5 × 10mm | 24 |
 | 25286-21 | Button Head Cap Screw M5 × 25mm | 19 |
 | 25286-22 | Button Head Cap Screw M5 × 35mm | 8 |
 | 30169-01 | Flanged Bearing 8mm | 1 |
@@ -64,6 +64,14 @@ Each step of the instructions begins with a bill of materials that details the c
 | 26054-04 | Aluminum GT2 Pulley 20T 8mm | 1 |
 | 25203-01 | Dual Bearing V-Wheel Kit | 20 |
 | 25197-01 | Smooth Idler Wheel Kit | 6 |
+
+<div class="note">
+  <i class="fa fa-hand-o-right"></i>
+  <span class="note-text">
+    *Note:* Some kits may include M5 × 12mm button head cap screws, qty 18.  These replace the self-tapping screws used to connect Makerslide to its respective plates, and are interchangeable with the M5 × 10mm button head cap screws.
+  </span>
+</div>
+
 </div>
 </div>
 </div>
