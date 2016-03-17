@@ -297,7 +297,7 @@ permalink: /x-controller/
 
   <h3>3. Attach Buttons And USB Cable</h3>
   <img src="PB231371BATCH151.jpg">
-  <p>Using the M3 phillips head screws, attach the USB cable to the front panel.  Attach the other end of the USB cable to the main controller board.  *Don't attach the front panel* to the chassis until the rest of the e-stop is installed in the next step.</p>
+  <p>Using the M3 button head cap screws, attach the USB cable to the front panel.  Attach the other end of the USB cable to the main controller board.  *Don't attach the front panel* to the chassis until the rest of the e-stop is installed in the next step.</p>
   <div class="row image-row">
     <div class="col-xs-6 col-md-3">
       <a href="#" class="thumbnail"><img src="PB231341BATCH130.jpg"></a>
@@ -321,7 +321,7 @@ permalink: /x-controller/
   <div class="note">
     <i class="fa fa-hand-o-right"></i>
     <span class="note-text">
-      *Note:* Make sure not to stress the connector on the main controller board.
+      *Note:* The USB cable comes with its own pre-installed M3 Phillips head screws.  Either type of screw will work, however if you use the Phillips head, you will be left with two additional button head cap screws.
     </span>
   </div>
 
