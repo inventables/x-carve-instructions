@@ -160,7 +160,7 @@ p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_up
 
 Take all of the wires that will travel with the X Carriage and thread them through the drag chain. It helps to tape the ends together with a piece of masking tape. It's also much easier to thread wires through drag chain when the chain is straight.
 
-p=. !https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/789/original/0737.jpg?1425059313!
+p=. !1000dragchainxcarriage.jpg!
 
 h3. X-Axis Bracket Assembly
 
