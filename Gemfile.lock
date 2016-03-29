@@ -9,7 +9,7 @@ GEM
       thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
     addressable (2.4.0)
-    autoprefixer-rails (6.3.3.1)
+    autoprefixer-rails (6.3.5)
       execjs
     coffee-script (2.4.1)
       coffee-script-source
@@ -117,7 +117,7 @@ GEM
     redcarpet (3.3.3)
     rouge (1.10.1)
     safe_yaml (1.0.4)
-    sass (3.4.21)
+    sass (3.4.22)
     sawyer (0.7.0)
       addressable (>= 2.3.5, < 2.5)
       faraday (~> 0.8, < 0.10)
@@ -138,4 +138,4 @@ DEPENDENCIES
   octopress-autoprefixer
 
 BUNDLED WITH
-   1.10.6
+   1.11.2
