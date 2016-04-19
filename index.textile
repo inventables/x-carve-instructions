@@ -26,7 +26,7 @@ We've provided a model of the entire machine and each sub-assembly on GrabCad. Y
 
 <h3>*Bill of Materials*</h3>
 
-Each step of the instructions begins with a bill of materials that details the components about to be used.  To avoid any frustration you might have from finding out that something's missing, we've laid out the bill of materials here so you can find out now before you even get going.  Click on the kits you purchased to reveal its BOM and make sure you received everything correctly.  If there's anything missing please contact us at help @ inventables.com for replacements.
+Each step of the instructions begins with a bill of materials that details the components about to be used.  To avoid any frustration you might have from finding out that something's missing, we've laid out the bill of materials here so you can find out now before you even get going.  Click on the kits you purchased to reveal its BOM and make sure you received everything correctly.  If there's anything missing please contact us <a href="https://inventables.desk.com/customer/portal/emails/new">here</a> for replacements.
 
 <div class="bom">
 	<div class="panel-group" id="model-accordion" role="tablist" aria-multiselectable="true">
