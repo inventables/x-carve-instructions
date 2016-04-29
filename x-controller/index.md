@@ -272,7 +272,8 @@ Attach the four rubber "feet" to the bottom of the chassis. Flip the chassis ove
  <img src="P1151511EDIT.jpg">
 
 <p>
-This is a universal power supply capable of running at 110V or 220V. Flip the toggle switch on the side of the power supplys to the voltage that correspondes to your [outlet voltage.](https://en.wikipedia.org/wiki/Mains_electricity_by_country#Table_of_mains_voltages_and_frequencies</p>)
+This is a universal power supply capable of running at 110V or 220V. Flip the toggle switch on the side of the power supplys to the voltage that correspondes to your <a href="https://en.wikipedia.org/wiki/Mains_electricity_by_country#Table_of_mains_voltages_and_frequencies">outlet voltage.</a>
+</p>
 
 <h3>
 3. Attach Power Supply Interface PCB</h3>
