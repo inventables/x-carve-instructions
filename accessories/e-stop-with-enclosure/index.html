@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>X-Carve Instructions: E-Stop with Enclosure</title>
+
+  <meta name="description" content="">
+
+  <link rel="icon" href="/favicon.ico" />
+
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" type="text/css" data-noprefix="">
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="http://x-carve-instructions.inventables.com/accessories/e-stop-with-enclosure/">
+  <link rel="alternate" type="application/rss+xml" title="" href="http://x-carve-instructions.inventables.com/feed.xml" />
+  <!-- Hotjar Tracking Code for x-carve-instructions.inventables.com -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:93027,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+</head>
+
+
+  <body data-spy="scroll" data-target="#subnav">
+
+    <div class="inventables-navbar-container" id="inventables-nav-outer">
+    <div class="container">
+    <nav class="navbar navbar-default">
+      <ul class="nav nav-pills pull-left top-nav">
+          <li>
+              <a href="https://www.inventables.com" data-auto-route="true">
+                  <img id="site-logo" class="logo-big" src="https://d2rhdy377k7eul.cloudfront.net/assets/homepage/logo-f997dddff77e178e630cf2834ea89aae.png" alt="Inventables">
+              </a>
+          </li>
+      </ul>
+      <ul id="inventables-navbar" class="nav navbar-nav navbar-right nav-pills pull-right">
+      </ul>
+      <ul class="nav navbar-nav nav-pills pull-left" id="flagship-nav">
+        <li><a href="https://www.inventables.com/technologies/x-carve">X-Carve</a></li>
+        <li><a href="https://www.inventables.com/technologies/carvey">Carvey</a></li>
+        <li><a href="https://www.inventables.com/technologies/easel">Easel</a></li>
+        <li><a href="https://www.inventables.com/projects">Projects</a></li>
+        <li><a href="https://www.inventables.com/forum">Forum</a></li>
+        <li><a href="https://inventables.desk.com">Support</a></li>
+        <li><a href="https://github.com/inventables/x-carve-instructions" class="github-link"><i class="fa fa-code-fork"></i>Contribute to these instructions!</a></li>
+      </ul>
+    </nav>
+    </div>
+</div>
+
+
+    <div class="instructions-wrapper container-fluid">
+      <div id="off-canvas-sidebar">
+        <ul class="nav">
+  
+  <li class="nav-item">
+    <a  href="/">Let's Get Started!</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step02/">X Carriage</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step03/">Y-Plates</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step04/">Gantry</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step05/">Y-Axis</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step06/">Belting</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step07/">Z-Axis</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step08/">Drive Rod</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step09/">Z-Axis Motor</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step10/">Wiring</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step11/">Drag Chain</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step12/">Spindle Mount</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step13/">Work Area</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step14/">Electronics</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step15/">Calibrate</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step16/">Drivers</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step17/">Machine Setup</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step18/">Get Carving!</a>
+  </li>
+  
+</ul>
+
+        <a id="close" href="#"><i class="fa fa-times"></i></a>
+      </div>
+      <div class="row">
+        <div class="col-sm-2">
+          <a id="hamburger" href="#"><i class="fa fa-bars"></i></a>
+          <div class="sidebar">
+            <ul class="nav">
+  
+  <li class="nav-item">
+    <a  href="/">Let's Get Started!</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step02/">X Carriage</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step03/">Y-Plates</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step04/">Gantry</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step05/">Y-Axis</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step06/">Belting</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step07/">Z-Axis</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step08/">Drive Rod</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step09/">Z-Axis Motor</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step10/">Wiring</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step11/">Drag Chain</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step12/">Spindle Mount</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step13/">Work Area</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step14/">Electronics</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step15/">Calibrate</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step16/">Drivers</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step17/">Machine Setup</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step18/">Get Carving!</a>
+  </li>
+  
+</ul>
+
+          </div>
+        </div>
+        <div class="page-content js-instruction-step col-sm-7">
+          <header class="post-header">
+            <div class="instruction-breadcrumbs">
+              <a href="">X-Carve Assembly Instructions</a>
+              &#47;
+              <span class="current-page">
+                
+                  E-Stop with Enclosure
+                
+              </span>
+            </div>
+            <h1 class="step-title">E-Stop with Enclosure</h1>
+
+            
+
+            
+            
+
+          </header>
+          <div class="step-text">
+            <p><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/technology_image_uploaded_images/25238/large/E%20Stop%203.JPG?1433537668" alt="" /></p>
+<div class="step-card">
+  <h2 id="disassemble-button">1. Disassemble Button</h2>
+<img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1425/original/P6290746EDIT.jpg?1435678925" alt="" />
+  <h3>Pull Tab to Left Position</h3>
+Remove the button from the screw terminals by gently pulling on the yellow tab.  If facing the button (as pictured) <b>pull the tab towards you</b> and then to the left to disengage the two parts.
+  <div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1423/original/P6290744EDIT.jpg?1435678922" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1424/original/P6290745EDIT.jpg?1435678924" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1426/original/P6290749EDIT.jpg?1435678928" class="thumbnail col-md-3" alt="" />  </div>
+</div>
+<div class="step-card">
+  <h2 id="attach-button">2. Attach Button</h2>
+<img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1451/original/P6300787EDIT.jpg?1435694885" alt="" />
+  <h3>Remove Nut</h3>
+Unscrew the nut attached to the base of the button.  This nut will be used to secure the button to the enclosure.
+  <div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1429/original/P6290753EDIT.jpg?1435678933" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1430/original/P6290755EDIT.jpg?1435678935" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1431/original/P6290756EDIT.jpg?1435678937" class="thumbnail col-md-3" alt="" />  </div>
+  <h3>Insert Button into Enclosure</h3>
+<b>Line up the notch in the enclosure with the break in the threads</b>, placing the Emergency Stop ring between the button and enclosure.  This break in the threads should be on the side of the button marked <b>&#8220;Top&#8221;</b>.  The &#8220;Top&#8221; side of the button will correspond with the &#8220;Top&#8221; side of the screw terminals when reassembling.
+  <div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1432/original/P6290757EDIT.jpg?1435678938" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1433/original/P6290758EDIT.jpg?1435678940" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1434/original/P6290760EDIT.jpg?1435678942" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1435/original/P6290761EDIT.jpg?1435678943" class="thumbnail col-md-3" alt="" />  </div>
+  <h3>Secure Button with Nut</h3>
+Screw on the nut to secure the button to the enclosure.  If you&#8217;re having problems tightening the nut try using the button itself, making sure to keep the break in the threads aligned.
+  <div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1436/original/P6290762EDIT.jpg?1435678944" class="thumbnail col-md-3" alt="" />  </div>
+<div class="note note-alert">
+<i class="fa fa-exclamation-triangle"></i>
+<span class="note-text">
+<b><span class="caps">IMPORTANT</span>:</b> Make sure you follow the direction of the arrow image-rows on the button when disengaging the e-stop. You can loosen the nut securing the button to the enclosure if turned the wrong direction. If this continues to be an issue, try removing the emergency stop ring, which allows direct contact between the gasket on the button and the enclosure.
+</span>
+<i class="fa fa-exclamation-triangle"></i>
+</div>
+</div>
+<div class="step-card">
+  <h2 id="attach-cable-strain-relief">3. Attach Cable Strain Relief</h2>
+<img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1447/original/P6290780EDIT.jpg?1435678960" alt="" />
+  <h3>Remove Nut and Attach to Enclosure</h3>
+Pop off the plastic cover from the enclosure and remove the bottom nut from the cable strain relief piece.  <b>Place the nut inside of the enclosure and hold it stationary</b> while you screw in the cable strain relief piece from the outside of the enclosure.
+  <div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1440/original/P6290770EDIT.jpg?1435678951" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1443/original/P6290774EDIT.jpg?1435678955" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1442/original/P6290772EDIT.jpg?1435678954" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1445/original/P6290778EDIT.jpg?1435678958" class="thumbnail col-md-3" alt="" />  </div>
+</div>
+<div class="step-card">
+  <h2 id="wire-it-up">4. Wire It Up</h2>
+<img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1454/original/P7010790EDITDiagram.jpg?1435769789" alt="" />
+  <h3>Wire Power Cable to Screw Terminals</h3>
+<div class="note note-alert">
+<i class="fa fa-exclamation-triangle"></i>
+<span class="note-text">
+Make sure everything is <b>unplugged</b> when wiring!
+</span>
+<i class="fa fa-exclamation-triangle"></i>
+</div>
+<p>
+Cut and strip the <b>power cable</b> to your setup.  Feed the two pieces of cable through the cable strain relief piece and attach the stripped ends of the power cable (pictured in red) to each side of the <b>NC</b> (purple) screw terminal.  Tighten the Phillips head screws on the screw terminals to hold the power cable in place.
+</p>
+<p>
+For a more solid connection, you can use <a href="https://www.inventables.com/technologies/insulated-ferrule-kit">insulated ferrules</a> and a <a href="https://www.inventables.com/technologies/ferrule-crimper">ferrule crimper tool.</a>  The remaining cut wire ends can be soldered back together and cleaned up with <a href="https://www.inventables.com/categories/electrical/wire-management?utf8=%E2%9C%93&amp;selected_filters%5BType%5D%5B%5D=Heat+Shrink+Tubing&amp;selected_filters%5BType%5D%5B%5D=Kit">heat shrink tubing.</a>  <a href="https://www.inventables.com/technologies/solder-sleeves">Solder sleeves</a> can also be used to clean up the remaining wire ends.
+</p>
+<img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1437/original/P6290765EDIT.jpg?1435678946" alt="" />
+  <h3>Attach Wired Screw Terminals to the Button</h3>
+  <p>Line up the <b>&#8220;Top&#8221; marking on the screw terminals with the &#8220;Top&#8221; marking</b> on the button.</p>
+  <p><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1438/original/P6290766EDIT.jpg?1435678947" alt="" /></p>
+  <p><b>Move the tab from the &#8220;left&#8221; position&#8230;</b></p>
+  <p><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1439/original/P6290767EDIT.jpg?1435678949" alt="" /></p>
+  <p><b>&#8230;to the &#8220;right&#8221; position to secure the screw terminals in place.</b></p>
+</div>
+<div class="step-card">
+  <h2 id="close-it-up">5. Close It Up</h2>
+<img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1450/original/P6290785EDIT.jpg?1435678965" alt="" />
+  <h3>Assemble the Enclosure</h3>
+  <p>Secure the two enclosure pieces together using the included screws.</p>
+  <div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1448/original/P6290783EDIT.jpg?1435678962" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1449/original/P6290784EDIT.jpg?1435678963" class="thumbnail col-md-3" alt="" />  </div>
+<div class="note note-alert">
+<i class="fa fa-exclamation-triangle"></i>
+<span class="note-text">
+<b><span class="caps">IMPORTANT</span>:</b> Make sure you follow the direction of the arrow image-rows on the button when disengaging the e-stop. You can loosen the nut securing the button to the enclosure if turned the wrong direction. If this continues to be an issue, try removing the emergency stop ring, which allows direct contact between the gasket on the button and the enclosure.
+</span>
+<i class="fa fa-exclamation-triangle"></i>
+</div>
+</div>
+            
+
+          </div>
+        </div>
+        <div class="subnav-container">
+          
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+  
+    
+      <div id="subnav">
+        <ol class="nav subnav">
+          <h4>Steps in this section:</h4>
+          
+            <li><a data-scroll href="#disassemble-button">Disassemble Button</a></li>
+          
+            <li><a data-scroll href="#attach-button">Attach Button</a></li>
+          
+            <li><a data-scroll href="#attach-cable-strain-relief">Attach Cable Strain Relief</a></li>
+          
+            <li><a data-scroll href="#wire-it-up">Wire It Up</a></li>
+          
+            <li><a data-scroll href="#close-it-up">Close It Up</a></li>
+          
+            <li class="return-top"><a data-scroll href="#"><i class="fa fa-arrow-up"></i>Return to top</a></li>
+        </ol>
+      </div>
+    
+  
+
+
+
+  
+
+
+
+  
+
+        </div>
+      </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script src="/js/sticky.js"></script>
+<script src="/js/jquery.colorbox-min.js"></script>
+<script src="/js/lightbox.js"></script>
+<script src="/js/smooth-scroll.min.js"></script>
+<script src="/js/sidebar.js"></script>
+<script src="/js/expand-icons.js"></script>
+<script>
+  // redirect to the canonical url if you happen upon the github project page url
+  var githubBaseUrl = 'inventables.github.io/x-carve-instructions'
+    , inventablesBaseUrl = 'x-carve-instructions.inventables.com'
+    , currentUrl = window.location.href;
+  
+  if (currentUrl.indexOf(githubBaseUrl) !== -1) {
+    window.location = currentUrl.replace(githubBaseUrl, inventablesBaseUrl).replace("https://", "http://");
+  }
+  
+  $(function() {
+    smoothScroll.init();
+  });
+</script>
+
+  </body>
+
+</html>
