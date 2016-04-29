@@ -5,7 +5,8 @@ category: step
 step-number: 18
 permalink: /step18/
 ---
-h3. Congratulations!!
+
+### Congratulations!!
 
 Check out these community projects, they are perfect for diving right into making with your X-Carve.
 
