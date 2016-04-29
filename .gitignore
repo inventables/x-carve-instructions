@@ -4,3 +4,6 @@ _site
 Gemfile.lock
 
 .ruby-version
+
+tomd
+tomd*

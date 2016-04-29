@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>X-Carve Instructions: Drivers</title>
+
+  <meta name="description" content="">
+
+  <link rel="icon" href="/favicon.ico" />
+
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" type="text/css" data-noprefix="">
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="http://x-carve-instructions.inventables.com/step16/">
+  <link rel="alternate" type="application/rss+xml" title="" href="http://x-carve-instructions.inventables.com/feed.xml" />
+  <!-- Hotjar Tracking Code for x-carve-instructions.inventables.com -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:93027,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+</head>
+
+
+  <body data-spy="scroll" data-target="#subnav">
+
+    <div class="inventables-navbar-container" id="inventables-nav-outer">
+    <div class="container">
+    <nav class="navbar navbar-default">
+      <ul class="nav nav-pills pull-left top-nav">
+          <li>
+              <a href="https://www.inventables.com" data-auto-route="true">
+                  <img id="site-logo" class="logo-big" src="https://d2rhdy377k7eul.cloudfront.net/assets/homepage/logo-f997dddff77e178e630cf2834ea89aae.png" alt="Inventables">
+              </a>
+          </li>
+      </ul>
+      <ul id="inventables-navbar" class="nav navbar-nav navbar-right nav-pills pull-right">
+      </ul>
+      <ul class="nav navbar-nav nav-pills pull-left" id="flagship-nav">
+        <li><a href="https://www.inventables.com/technologies/x-carve">X-Carve</a></li>
+        <li><a href="https://www.inventables.com/technologies/carvey">Carvey</a></li>
+        <li><a href="https://www.inventables.com/technologies/easel">Easel</a></li>
+        <li><a href="https://www.inventables.com/projects">Projects</a></li>
+        <li><a href="https://www.inventables.com/forum">Forum</a></li>
+        <li><a href="https://inventables.desk.com">Support</a></li>
+        <li><a href="https://github.com/inventables/x-carve-instructions" class="github-link"><i class="fa fa-code-fork"></i>Contribute to these instructions!</a></li>
+      </ul>
+    </nav>
+    </div>
+</div>
+
+
+    <div class="instructions-wrapper container-fluid">
+      <div id="off-canvas-sidebar">
+        <ul class="nav">
+  
+  <li class="nav-item">
+    <a  href="/">Let's Get Started!</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step02/">X Carriage</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step03/">Y-Plates</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step04/">Gantry</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step05/">Y-Axis</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step06/">Belting</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step07/">Z-Axis</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step08/">Drive Rod</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step09/">Z-Axis Motor</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step10/">Wiring</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step11/">Drag Chain</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step12/">Spindle Mount</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step13/">Work Area</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step14/">Electronics</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step15/">Calibrate</a>
+  </li>
+  
+  <li class="nav-item">
+    <a class="active" href="/step16/">Drivers</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step17/">Machine Setup</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step18/">Get Carving!</a>
+  </li>
+  
+</ul>
+
+        <a id="close" href="#"><i class="fa fa-times"></i></a>
+      </div>
+      <div class="row">
+        <div class="col-sm-2">
+          <a id="hamburger" href="#"><i class="fa fa-bars"></i></a>
+          <div class="sidebar">
+            <ul class="nav">
+  
+  <li class="nav-item">
+    <a  href="/">Let's Get Started!</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step02/">X Carriage</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step03/">Y-Plates</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step04/">Gantry</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step05/">Y-Axis</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step06/">Belting</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step07/">Z-Axis</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step08/">Drive Rod</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step09/">Z-Axis Motor</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step10/">Wiring</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step11/">Drag Chain</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step12/">Spindle Mount</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step13/">Work Area</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step14/">Electronics</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step15/">Calibrate</a>
+  </li>
+  
+  <li class="nav-item">
+    <a class="active" href="/step16/">Drivers</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step17/">Machine Setup</a>
+  </li>
+  
+  <li class="nav-item">
+    <a  href="/step18/">Get Carving!</a>
+  </li>
+  
+</ul>
+
+          </div>
+        </div>
+        <div class="page-content js-instruction-step col-sm-7">
+          <header class="post-header">
+            <div class="instruction-breadcrumbs">
+              <a href="">X-Carve Assembly Instructions</a>
+              &#47;
+              <span class="current-page">
+                
+                  Step 16
+                
+              </span>
+            </div>
+            <h1 class="step-title">Drivers</h1>
+
+            
+            <div class="time-estimate"><i class="fa fa-clock-o"></i>5 minutes</div>
+            
+
+            
+            
+
+          </header>
+          <div class="step-text">
+            <p><img src="arduinoLanding.jpg"></p>
+<p>
+Select your computer&#8217;s operating system.
+</p>
+<div class="panel-group" id="os-accordion" role="tablist" aria-multiselectable="true">
+<div class="panel panel-default">
+<a data-toggle="collapse" data-parent="#os-accordion" href="#windows" aria-expanded="false" aria-controls="windows" class="panel-heading" role="tab" id="windows-header">
+      <h4 class="panel-title">Windows</h4>
+</a>
+<div id="windows" class="panel-collapse collapse" role="tabpanel" aria-labelledby="windows-header">
+<div class="panel-body">
+<img src="arduinoDownload.jpg">
+<p>
+To control your newly assembled X-Carve, head on over to the Arduino homepage and click on the &#8220;Download&#8221; button.  Downloading these drivers are necessary to allow communication between your PC and Arduino.
+</p>
+<img src="arduinoOS.jpg">
+<p>
+Select your computer&#8217;s operating system by clicking on &#8220;Windows Installer.&#8221;
+</p>
+<img src="arduinoJustDownload.jpg">
+<p>
+We encourage you to contribute to the Arduino Software, however you can start your download immediately by clicking on &#8220;Just Download.&#8221;
+<img src="arduinoDrivers.jpg">
+<p>
+Certain versions of Windows require you to manually assign the drivers to the Arduino.  Follow the directions above if you are using Windows 7, Vista, or XP.
+</p>
+<p class="note">
+<i class="fa fa-hand-o-right"></i>
+<span class="note-text">
+<strong>DO <span class="caps">NOT</span></strong> load a sketch from the arduino <span class="caps">IDE</span> or else the pre-loaded machine firmware will be wiped from the Arduino.
+</span>
+</p>
+<a href="http://www.arduino.cc/" target="_blank" class="btn btn-invent btn-animate-arrow">Get Arduino Software</a>
+</div>
+</div>
+</div>
+<div class="panel panel-default">
+<a data-toggle="collapse" data-parent="#os-accordion" href="#mac" aria-expanded="false" aria-controls="mac" class="panel-heading" role="tab" id="mac-header">
+      <h4 class="panel-title">Mac</h4>
+</a>
+<div id="mac" class="panel-collapse collapse" role="tabpanel" aria-labelledby="mac-header">
+<div class="panel-body">
+You don&#8217;t need to install any drivers to connect to your machine. Hooray!
+</div>
+</div>
+</div>
+</div>
+            
+  <a href="/step17/" class="btn-invent btn-animate-arrow btn-next">Next Step: Machine setup</a>
+
+
+          </div>
+        </div>
+        <div class="subnav-container">
+          
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+    
+  
+
+  
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+        </div>
+      </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script src="/js/sticky.js"></script>
+<script src="/js/jquery.colorbox-min.js"></script>
+<script src="/js/lightbox.js"></script>
+<script src="/js/smooth-scroll.min.js"></script>
+<script src="/js/sidebar.js"></script>
+<script src="/js/expand-icons.js"></script>
+<script>
+  // redirect to the canonical url if you happen upon the github project page url
+  var githubBaseUrl = 'inventables.github.io/x-carve-instructions'
+    , inventablesBaseUrl = 'x-carve-instructions.inventables.com'
+    , currentUrl = window.location.href;
+  
+  if (currentUrl.indexOf(githubBaseUrl) !== -1) {
+    window.location = currentUrl.replace(githubBaseUrl, inventablesBaseUrl).replace("https://", "http://");
+  }
+  
+  $(function() {
+    smoothScroll.init();
+  });
+</script>
+
+  </body>
+
+</html>
