@@ -27,7 +27,7 @@ Check out this link for information on properly setting the amount of current fl
 <p class="note">
 <i class="fa fa-hand-o-right"></i>
  <span class="note-text">
- We are working on more written guides for this process. Check out the <a href="https://www.inventables.com/forum">community forum</a> for good experience logs and guides for tuning.
+ <strong>Note:</strong> We are working on more written guides for this process. Check out the <a href="https://www.inventables.com/forum">community forum</a> for good experience logs and guides for tuning.
  </span>
 
 </p>

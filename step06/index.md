@@ -85,7 +85,7 @@ Be careful cutting the belt when assembling the larger 1000mm sized X-Carve; <st
 <div class="note note-shapeoko">
 <i class="fa fa-level-up"></i>
  <span class="note-text">
- Note: <strong>Shapeoko 2 Upgraders,</strong> use the included Button Head Cap Screw M5 × 25mm and Nylon Insert Lock Nut M5 to complete this step.
+ <strong>Note: Shapeoko 2 Upgraders,</strong> use the included Button Head Cap Screw M5 × 25mm and Nylon Insert Lock Nut M5 to complete this step.
  </span>
 
 </div>
@@ -148,7 +148,7 @@ Put an M5 x 25mm button head cap screw through the top hole on the belt clip and
 <div class="note">
 <i class="fa fa-hand-o-right"></i>
  <span class="note-text">
- Note: It may a little difficult to get the 8mm screw into the belt clip as the head of the 25mm screw will be in the way. Use your wrench to push straight down on the head and it will snap into place.
+ <strong>Note:</strong> It may a little difficult to get the 8mm screw into the belt clip as the head of the 25mm screw will be in the way. Use your wrench to push straight down on the head and it will snap into place.
  </span>
 
 </div>
@@ -161,7 +161,7 @@ Tighten the 8mm screw into the insertion nut in the Makerslide all of the way do
 <div class="note">
 <i class="fa fa-hand-o-right"></i>
  <span class="note-text">
- Note: You’ll want to adjust the length of belt that goes through the clip until it takes a little bit of force to get the longer screw to the edge of the hole. Once you have the belt adjusted, you can use a zip tie or some electrical tape to keep the teeth of the doubled-over belt engaged. This will help keep the belt from slipping while you tighten the longer screw.
+ <strong>Note:</strong> You’ll want to adjust the length of belt that goes through the clip until it takes a little bit of force to get the longer screw to the edge of the hole. Once you have the belt adjusted, you can use a zip tie or some electrical tape to keep the teeth of the doubled-over belt engaged. This will help keep the belt from slipping while you tighten the longer screw.
  </span>
 
 </div>

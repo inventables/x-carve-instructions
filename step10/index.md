@@ -189,7 +189,7 @@ Strip one end of each pair of wires. Solder the white wire to the middle tab on 
 <div class="note">
 <i class="fa fa-hand-o-right"></i>
  <span class="note-text">
- Heating the switch for too long may damage it, try to work as quickly as possible when soldering the wires to the tabs.
+ <strong>Note:</strong> Heating the switch for too long may damage it, try to work as quickly as possible when soldering the wires to the tabs.
  </span>
 
 </div>

@@ -53,7 +53,7 @@ z-axis: true
 <div class="note note-shapeoko">
 <i class="fa fa-level-up"></i>
  <span class="note-text">
- Note: <strong>Shapeoko 2 Upgraders,</strong> use the included Button Head Cap Screw M5 × 8mm to complete this step.
+ <strong>Note: Shapeoko 2 Upgraders,</strong> use the included Button Head Cap Screw M5 × 8mm to complete this step.
  </span>
 
 </div>
@@ -82,7 +82,7 @@ Before you attach the Z-Axis Makerslide to the Z-Plate be sure that you have the
 <div class="note">
 <i class="fa fa-hand-o-right"></i>
  <span class="note-text">
- Note: The flange on the bearing is facing down and the rails of the Makerslide are facing forward. You can verify the correct orientation of the Makerslide by looking for the single slot facing foward.
+ <strong>Note:</strong> The flange on the bearing is facing down and the rails of the Makerslide are facing forward. You can verify the correct orientation of the Makerslide by looking for the single slot facing foward.
  </span>
 
 </div>
@@ -152,7 +152,7 @@ The Z-Axis should be captured by four insertion nuts and screws at this point, b
 <div class="note">
 <i class="fa fa-hand-o-right"></i>
  <span class="note-text">
- Note: The bottom of the Z-Axis will not be flush with the X Carriage, it will protrude slightly.
+ <strong>Note:</strong> The bottom of the Z-Axis will not be flush with the X Carriage, it will protrude slightly.
  </span>
 
 </div>
@@ -168,7 +168,7 @@ Rock the machine back on to its feet again to continue:
 <div class="note">
 <i class="fa fa-hand-o-right"></i>
  <span class="note-text">
- If you did not purchase limit switches, skip this step.
+ <strong>Note:</strong> If you did not purchase limit switches, skip this step.
  </span>
 
 </div>

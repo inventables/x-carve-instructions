@@ -98,7 +98,7 @@ You'll be using two pieces of Makerslide to create an X-Axis. Make sure to grab 
 <div class="note">
 <i class="fa fa-hand-o-right"></i>
  <span class="note-text">
- Note: The "rails" of the Makerslide are what the V-Wheels ride on. Make sure they are pointed towards the front of the plate.
+ <strong>Note:</strong> The "rails" of the Makerslide are what the V-Wheels ride on. Make sure they are pointed towards the front of the plate.
  </span>
 
 </div>
@@ -111,7 +111,7 @@ Use the button head cap screws to attach the Makerslide with the plate:
 
 Next you’ll attach another piece of Makerslide to the right Y-Plate with two more button head cap screws and two washers. Notice that these screws will be going through slots, not holes. All screws that are driven through slots on the X-Carve will use washers to distribute the load on the joint. Drive these screws until they are flush with the plate and then back them off a full turn to allow for adjustment in future steps.
 
-**If you have limit switches, make sure the slot on the Makerslide is oriented in the upper position.** This slot is used to attach the limit switch "actuator" and will not be aligned with the switch if the Makerslide is positioned incorrectly.
+<strong>If you have limit switches, make sure the slot on the Makerslide is oriented in the upper position.</strong> This slot is used to attach the limit switch "actuator" and will not be aligned with the switch if the Makerslide is positioned incorrectly.
 
 <div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/736/original/1346.jpg?1424543838" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/737/original/1348.jpg?1424543839" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/738/original/1356.jpg?1424543840" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/739/original/1358.jpg?1424543841" class="thumbnail col-md-3" alt="" /></div>
 Your X-Axis should look like this:
@@ -121,7 +121,7 @@ Your X-Axis should look like this:
 <div class="note">
 <i class="fa fa-hand-o-right"></i>
  <span class="note-text">
- Note: Check that the last two screws you inserted are loose enough to allow the back piece of X-Axis Makerslide to slide freely in the slot. This will make the next step much easier.
+ <strong>Note:</strong> Check that the last two screws you inserted are loose enough to allow the back piece of X-Axis Makerslide to slide freely in the slot. This will make the next step much easier.
  </span>
 
 </div>
