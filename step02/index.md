@@ -305,68 +305,14 @@ You may have received stepper motors with white connectors on them. Plug the pro
 
 <img src="0728.jpg">
 
-If you purchased a drag chain kit with your X-Carve, click on your chosen type below to mount your drag chain ends.
+If you purchased a drag chain kit with your X-Carve, click below to mount your drag chain ends.
 
 <div class="panel-group" id="drag-chain-accordion" role="tablist" aria-multiselectable="true">
-<div class="panel panel-default">
-<a data-toggle="collapse" data-parent="#drag-chain-accordion" href="#500mm-drag-chain" aria-expanded="false" aria-controls="500mm-drag-chain" class="panel-heading" role="tab" id="500mm-drag-chain-header">
-
-<h4 class="panel-title">
-500mm Drag Chain
-
-</h4>
-<div class="expand-icons">
-<i class="fa fa-plus"></i>
- <i class="fa fa-minus"></i>
-
-</div>
-</a>
-
-<div id="500mm-drag-chain" class="panel-collapse collapse" role="tabpanel" aria-labelledby="500mm-drag-chain-header">
-<div class="panel-body">
-<img src="0893.jpg">
-
-<table>
-	<tr>
-		<td style="color:#fff;background: #8a52a1;" colspan="3"><b>500mm Drag Chain Kit</b> </td>
-	</tr>
-	<tr>
-		<td> <b><span class="caps">SKU</span></b> </td>
-		<td> <b>Name</b> </td>
-		<td> <b>Quantity</b> </td>
-	</tr>
-	<tr>
-		<td> 30331-09 </td>
-		<td> Drag Chain Male End Link </td>
-		<td> 1 </td>
-	</tr>
-	<tr>
-		<td> 30554-01 </td>
-		<td> Flat Head Socket Cap Screw M4 x 10mm </td>
-		<td> 2 </td>
-	</tr>
-</table>
-
-There are two ends to each length of drag chain for your X-Carve. One of the ends is male and one is female.
-
-<p><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/613/original/0887.jpg?1424383861" alt="" /></p>
-
-Detach one of the male ends with a flat blade screw driver.
-
-<p><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/614/original/0897.jpg?1424383893" alt="" /></p>
-
-Mount it on the X Carriage by inserting the screws through the holes in the chain and screwing them into the tapped holes on the carriage.
-
-<p><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/658/original/1458.jpg?1424457841" alt="" /></p>
-
-</div>
-</div>
-</div>
 <div class="panel panel-default">
 <a data-toggle="collapse" data-parent="#drag-chain-accordion" href="#1000mm-drag-chain" aria-expanded="false" aria-controls="1000mm-drag-chain" class="panel-heading" role="tab" id="1000mm-drag-chain-header">
 
 <h4 class="panel-title">
-1000mm Drag Chain
+Drag Chain
 
 </h4>
 <div class="expand-icons">
@@ -382,7 +328,7 @@ Mount it on the X Carriage by inserting the screws through the holes in the chai
 
 <table>
 	<tr>
-		<td style="color:#fff;background: #8a52a1;" colspan="3"><b>1000mm Drag Chain Kit</b> </td>
+		<td style="color:#fff;background: #8a52a1;" colspan="3"><b>Drag Chain Kit</b> </td>
 	</tr>
 	<tr>
 		<td> <b><span class="caps">SKU</span></b> </td>
@@ -415,7 +361,7 @@ Mount it on the X Carriage by inserting the screws through the holes in the chai
 		<td> 1 </td>
 	</tr>
 </table>
-If you purchased a 1000mm X-Carve remove a male drag chain end from one of the longer drag chain lengths, and attach it to the angle bracket and then the X-Carriage like this:
+ Remove a male drag chain end from one of the longer drag chain lengths.  Attach it to the angle bracket and then the X-Carriage like this:
 
 <div class="row image-row">
 <img src="1616.jpg" class="thumbnail col-md-3">
@@ -427,7 +373,7 @@ If you purchased a 1000mm X-Carve remove a male drag chain end from one of the l
 </div>
 </div>
 </div>
-</div>
+
 <h3 id="terminal-block">
 6. Mounting Terminal Block</h3>
 
