@@ -1,5 +1,5 @@
 // Expand instruction images and embedded images from textile into colorbox, keeping gallery scoped to steps
-$("body").find("img").each(function() {
+$(".page-content img").each(function() {
   $(this).colorbox({
     title:  function() {
       var url = $(this).data('original') || $(this).attr('src');
