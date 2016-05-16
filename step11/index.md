@@ -87,7 +87,7 @@ Click below to select your chosen drag chain.
 <div class="step-card">
 <h2>
 <strong>X-CARVE UPDATE</strong></h2>
-
+<strong>January 28, 2016</strong>
 <p>
 500mm Drag Chain Kits now include the same brackets and hardware as the 1000mm Drag Chain Kit. You'll still be using the same number of drag chain links, and the following is the updated bill of materials:</p>
 
