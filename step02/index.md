@@ -144,6 +144,17 @@ The eccentric nuts on your X-Carve are a slick little example of good engineerin
 
 ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/666/original/0066.jpg?1424461342)
 
+This animation illustrates how the eccentric nuts change the position of the v-wheels.  Keep the eccentric nuts in the "open" position for the time being, so you can easily insert the Makerslide rail in next steps.  You will make the eccentric nut adjustments later on in the Calibrate section.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nX0J317l0mY" frameborder="0" allowfullscreen></iframe>
+
+<p class="note">
+<i class="fa fa-hand-o-right"></i>
+ <span class="note-text">
+ <strong>Note:</strong> The video shows an eccentric spacer instead of an eccentric nut, however it is the exact same concept.
+ </span>
+</p>
+
 <h3 id="motor-mounting">
 4. Motor Mounting</h3>
 

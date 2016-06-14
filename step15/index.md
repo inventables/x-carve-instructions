@@ -16,7 +16,16 @@ next-step-title: "Install Drivers"
 
 Check out this tuning video to make sure you've got everything assembled and working the way it should.
 
-The video will guide you through squaring your machine, adjusting the v-wheels and adjusting the eccentric nuts.
+The video will guide you through squaring your machine, adjusting the v-wheels and adjusting the eccentric nuts.  Check out this animation to help better understand the motion of the eccentric nuts and v-wheels.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nX0J317l0mY" frameborder="0" allowfullscreen></iframe>
+
+<p class="note">
+<i class="fa fa-hand-o-right"></i>
+ <span class="note-text">
+ <strong>Note:</strong> The video shows an eccentric spacer instead of an eccentric nut, however it is the exact same concept.
+ </span>
+</p>
 
 ### Setting Motor Current
 
