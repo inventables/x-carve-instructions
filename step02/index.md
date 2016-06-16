@@ -115,8 +115,6 @@ Start by attaching one of the top four V-Wheels with nylock nuts. You’ll inser
 
 Next slide a washer over the screw, followed by a V-Wheel and a nylock hex nut. Tighten the nut with moderate force.
 
-<p><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/652/original/0050.jpg?1424456639" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/654/original/0052.jpg?1424456640" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/656/original/0054.jpg?1424456642" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/657/original/0063.jpg?1424456688" class="thumbnail col-md-3" alt="" /></p>
-
 Repeat that three times and your X Carriage will look like this:
 
 ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/535/original/0868.jpg?1424362473)
