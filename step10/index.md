@@ -51,7 +51,7 @@ Next cut the stepper cable to length.
 		<td> <strong>Quantity</strong> </td>
 	</tr>
 	<tr>
-		<td> 5.5 feet </td>
+		<td> 6 feet </td>
 		<td> 2 </td>
 	</tr>
 	<tr>
