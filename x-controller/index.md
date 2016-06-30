@@ -225,7 +225,7 @@ Attach Power Supply Interface PCB</li>
 Attach Power Supply to Chassis</li>
 
 </ol>
-<img src="PB231265BATCH054.jpg">
+<img src="P6230086EDIT.jpg">
 
 <table>
 	<tr style="color:#fff;background: #383838;">
@@ -277,26 +277,26 @@ This is a universal power supply capable of running at 110V or 220V. Flip the to
 
 <h3>
 3. Attach Power Supply Interface PCB</h3>
- <img src="PB231244BATCH034.jpg">
+ <img src="P6230081EDIT.jpg">
 
 <p>
 Flip the orange cover back and remove the screws on the enclosed power supply that correspond to the "fingers" on the power supply interface PCB. Attach the power supply interface PCB and reinstall the screws to secure it in place.</p>
 
 <div class="row image-row">
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="PB231235BATCH025.jpg"></a>
+<a href="#" class="thumbnail"><img src="P6230069EDIT.jpg"></a>
 
 </div>
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="PB231240BATCH030.jpg"></a>
+<a href="#" class="thumbnail"><img src="P6230072EDIT.jpg"></a>
 
 </div>
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="PB231242BATCH032.jpg"></a>
+<a href="#" class="thumbnail"><img src="P6230075EDIT.jpg"></a>
 
 </div>
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="PB231243BATCH033.jpg"></a>
+<a href="#" class="thumbnail"><img src="P6230080EDIT.jpg"></a>
 
 </div>
 </div>
@@ -343,7 +343,7 @@ Wire Controller Board</li>
 Attach Controller Board</li>
 
 </ol>
-<img src="PB231294BATCH083.jpg">
+<img src="P6280112EDIT.jpg">
 <table>
 	<tr style="color:#fff;background: #383838;">
 		<td> <b><span class="caps">SKU</span></b> </td>
@@ -428,34 +428,26 @@ Install the M4 button head cap screws in the threaded holes on the side of the c
 
 <h3>
 3. Wire Controller Board</h3>
- <img src="PB231284BATCH073.jpg">
+ <img src="P6280107EDIT.jpg">
 
 <p>
 Attach the cables to the power supply interface PCB. The cables can only be connected in one orientation, so if they don't attach well double check them and try again. Try to orient them so that the wires can easily travel from board to board.</p>
 
 <div class="row image-row">
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="PB231268BATCH057.jpg"></a>
+<a href="#" class="thumbnail"><img src="wirePowerCableNEW.gif"></a>
 
 </div>
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="PB231270BATCH059.jpg"></a>
+<a href="#" class="thumbnail"><img src="wireRibbonCableNEW.gif"></a>
 
 </div>
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="PB231275BATCH064.jpg"></a>
+<a href="#" class="thumbnail"><img src="wireMainControllerBoardNEW.gif"></a>
 
 </div>
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="PB231276BATCH065.jpg"></a>
-
-</div>
-<div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="PB231278BATCH067.jpg"></a>
-
-</div>
-<div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="PB231280BATCH069.jpg"></a>
+<a href="#" class="thumbnail"><img src="wireMainControllerBoardNEW2.gif"></a>
 
 </div>
 </div>
@@ -468,18 +460,18 @@ Attach the cables to the power supply interface PCB. The cables can only be conn
 </div>
 <h3>
 4. Attach Controller Board</h3>
- <img src="PB231293BATCH082.jpg">
+ <img src="P6280109EDIT.jpg">
 
 <p>
 Slide the controller board into the channels of the chassis, making sure you route the wires through the cutout on the board to prevent snagging or pinching.</p>
 
 <div class="row image-row">
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="PB231286BATCH075.jpg"></a>
+<a href="#" class="thumbnail"><img src="P6280108EDIT.jpg"></a>
 
 </div>
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="PB231296BATCH085.jpg"></a>
+<a href="#" class="thumbnail"><img src="P6280110EDIT.jpg"></a>
 
 </div>
 </div>
@@ -714,7 +706,7 @@ Attach Fan</li>
 Wire Fan And Attach Back Panel</li>
 
 </ol>
-<img src="PB231447BATCH227.jpg">
+<img src="P6280133EDIT.jpg">
 
 <table>
 	<tr style="color:#fff;background: #383838;">
@@ -756,32 +748,24 @@ Wire Fan And Attach Back Panel</li>
 
 <h3>
 1. Attach Fan</h3>
- <img src="P8201107Editcopy.jpg">
+ <img src="P6280128EDIT.jpg">
 
 <p>
-Using the included M3 socket head cap screws, washers, and nuts, attach the fan to the front panel with the <strong>wires pointed down.</strong> Make sure to place the <strong>washers between the plate and fan,</strong> as seen in the diagram.</p>
+Using the included M3 socket head cap screws, nuts, and finger guard, attach the fan to the front panel with the <strong>wires pointed down.</strong></p>
 
 <div class="row image-row">
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="PB231426BATCH206.jpg"></a>
+<a href="#" class="thumbnail"><img src="P6280123EDIT.jpg"></a>
 
 </div>
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="fanDiagram.jpg"></a>
-
-</div>
-<div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="PB231429BATCH209.jpg"></a>
-
-</div>
-<div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="PB231430BATCH210.jpg"></a>
+<a href="#" class="thumbnail"><img src="P6280126EDIT.jpg"></a>
 
 </div>
 </div>
 <h3>
 2. Wire Fan And Attach Back Panel</h3>
- <img src="PB231443BATCH223.jpg">
+ <img src="P6280127EDIT.jpg">
 
 <p>
 Attach the fan cable to the power supply interface PCB. The cable can only be connected in one orientation, so if it doesn't attach well double check and try again. <strong>Check the ribbon cable connector at the power supply interface PCB</strong> and attach the back panel using the included M4 socket head cap screws. You may need to wiggle the lower PCB in place when installing to have the back panel flush with the chassis.</p>
@@ -796,7 +780,7 @@ Attach the fan cable to the power supply interface PCB. The cable can only be co
 
 </div>
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="PB231445BATCH225.jpg"></a>
+<a href="#" class="thumbnail"><img src="P6280129EDIT.jpg"></a>
 
 </div>
 </div>
