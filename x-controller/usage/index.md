@@ -71,7 +71,7 @@ Wire New Stepper Motor Cable</h3>
 <p>
 Wire the left stepper motor to the left terminal block and completely remove the small length of stepper motor cable that was joining the two y motors. Wire your new piece of stepper motor cable to the right terminal block. Route the cable through the drag chain and reattach the drag chain end. Wire the cable into the green terminal block plugs and plug them into the corresponding spots on the X-Controller.</p>
 
-<img src="x-controllerWiringDiagramEDITcopy.jpg">
+<img src="x-controllerWiringDiagramFIXED.jpg">
 
 <p>
 With two motors on the y axis facing each other, you'll need to flip one of the y pairs for the motors to move in the same direction. The diagram above shows the black and green wires flipped on Y2.</p>
