@@ -79,7 +79,7 @@ grabcad-url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvY
 <h3 id="smooth-idlers">
 1. Smooth Idlers</h3>
 
-The first thing you’ll do is attach the smooth idlers. Insert one of the flat head screws like this:
+The first thing you will do is attach the smooth idlers. Insert one of the flat head screws like this:
 
 ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/473/original/0009.jpg?1423589578)
 
