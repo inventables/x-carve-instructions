@@ -281,8 +281,6 @@ NEMA 23
 </table>
 <p>Start this step by putting a pulley on your <span class="caps">NEMA</span> 23 stepper motor. You will use two set screws to hold it in place. Slide it on so the edge is flush with the end of the motor shaft and tighten the screws just enough to hold it in place.</p>
 
-Start this step by putting a pulley on your NEMA 23 stepper motor. You will use two set screws to hold it in place. Slide it on so the edge is flush with the end of the motor shaft and tighten the screws just enough to hold it in place.
-
 <p><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/667/original/0139.jpg?1424462093" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/668/original/0141.jpg?1424462104" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/669/original/0143.jpg?1424462115" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/670/original/0148.jpg?1424462125" class="thumbnail col-md-3" alt="" /></p>
 
 The NEMA 23 mounting holes on the X Carriage are tapped. Simply insert the screws through the motor housing and screw them into the X Carriage. Get all of the screws finger tight and then tighten them in an x-pattern with moderate force . Be sure to orient the wires of your stepper motor towards the bottom of the X Carriage.
