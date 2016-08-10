@@ -239,10 +239,10 @@ This section will have a more comprehensive update in the near future. For the t
 	</tr>
 </table>
 <p>You should have two lengths of drag chain, each with one of the male end links removed. At this time you will be working with only one of the two lengths, and will use the second length during the Work Area section of the instructions.</p>
-<p>Note that the drag chain flexes in one direction and is stiff in the other direction. The drag chain will bend vertically around the x-axis motor of your machine. Take the length of drag chain and snap it into the male end on your X Carriage (500mm bracket pictured below). It should bend easily <strong>up and over to the left</strong> side of the machine (pictured at the end of this section). If it does not, unsnap it and flip it around.</p>
-<p style="text-align:center;"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/788/original/0735.jpg?1425059312" alt="" /></p>
-<p>Take all of the wires that will travel with the X Carriage and thread them through the drag chain. It helps to tape the ends together with a piece of masking tape. It&#8217;s also much easier to thread wires through drag chain when the chain is straight.</p>
+<p>Note that the drag chain flexes in one direction and is stiff in the other direction. The drag chain will bend vertically around the x-axis motor of your machine. Take the length of drag chain and snap it into the male end on your X Carriage. It should bend easily <strong>up and over to the left</strong> side of the machine (pictured at the end of this section). If it does not, unsnap it and flip it around.</p>
 <p style="text-align:center;"><img src="1000dragchainxcarriage.jpg" alt="" /></p>
+<p>Take all of the wires that will travel with the X Carriage and thread them through the drag chain. It helps to tape the ends together with a piece of masking tape. It&#8217;s also much easier to thread wires through drag chain when the chain is straight.</p>
+
 <h3>X-Axis Bracket Assembly</h3>
 <p>Attach a female drag chain end to a drag chain bracket with two M4 flat head screws and two M4 nylock nuts.</p>
 <div class="note">
