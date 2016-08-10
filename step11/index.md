@@ -20,13 +20,6 @@ Overview</h3>
 
 The drag chain assembly is very similar for the 500mm and 1000mm machines. The main difference is that the drag chain mounts and wraps horizontally on the 500mm machine and vertically on the 1000mm machine. As a result, the brackets that hold the drag chain are a little bit different and mount in slightly different ways.
 
-<div class="note">
-<i class="fa fa-hand-o-right"></i>
- <span class="note-text">
- <strong>If you have the 1000mm X-Carve, stop at the point where you've routed your wires through the x-axis drag chain.</strong> The y-axis mounting bracket is installed on the frame of the machine, and the remaining steps are completed in the Work Area section.
- </span>
-
-</div>
 Click below to select your chosen drag chain.
 
 <div class="panel-group" id="drag-chain-accordion" role="tablist" aria-multiselectable="true">
@@ -46,43 +39,6 @@ Click below to select your chosen drag chain.
 
 <div id="500mm-drag-chain" class="panel-collapse collapse" role="tabpanel" aria-labelledby="500mm-drag-chain-header">
 <div class="panel-body">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RVQDwC8H6U4" frameborder="0" allowfullscreen>
-</iframe>
-<table>
-	<tr>
-		<td style="color:#fff;background: #8a52a1;" colspan="3"><b>500mm Drag Chain Kit</b> </td>
-	</tr>
-	<tr>
-		<td> <b><span class="caps">SKU</span></b> </td>
-		<td> <b>Name</b> </td>
-		<td> <b>Quantity</b> </td>
-	</tr>
-	<tr>
-		<td> 30331-09 </td>
-		<td> Drag Chain 27 Links </td>
-		<td> 2 </td>
-	</tr>
-	<tr>
-		<td> 30331-09 </td>
-		<td> Drag Chain Female End Link (attached) </td>
-		<td> 2 </td>
-	</tr>
-	<tr>
-		<td> 30527-01 </td>
-		<td> Drag Chain Bracket </td>
-		<td> 2 </td>
-	</tr>
-	<tr>
-		<td> 30554-01 </td>
-		<td> Flat Head Socket Cap Screw M4 x 10mm </td>
-		<td> 4 </td>
-	</tr>
-	<tr>
-		<td> 30265-03 </td>
-		<td> Nylon Insert Lock Nut M4 </td>
-		<td> 4 </td>
-	</tr>
-</table>
 
 <div class="step-card">
 <h2>
@@ -153,9 +109,49 @@ Click below to select your chosen drag chain.
 </table>
 
 <p>
-This section will have a more comprehensive update, including images, in the near future. For the time being, you can find helpful images in the 1000mm Drag Chain Kit section, as well as the <a href="http://x-carve-instructions.inventables.com/step13/">1000mm Work Area section.</a></p>
+This section will have a more comprehensive update in the near future. For the time being, please refer to the 1000mm Drag Chain Kit section, as well as the <a href="http://x-carve-instructions.inventables.com/step13/">Work Area section.</a></p>
 
 </div>
+
+<iframe width="560" height="315" style="padding-top:20px;" src="https://www.youtube.com/embed/RVQDwC8H6U4" frameborder="0" allowfullscreen>
+</iframe>
+
+<table>
+	<tr>
+		<td style="color:#fff;background: #8a52a1;" colspan="3"><b>500mm Drag Chain Kit</b> </td>
+	</tr>
+	<tr>
+		<td> <b><span class="caps">SKU</span></b> </td>
+		<td> <b>Name</b> </td>
+		<td> <b>Quantity</b> </td>
+	</tr>
+	<tr>
+		<td> 30331-09 </td>
+		<td> Drag Chain 27 Links </td>
+		<td> 2 </td>
+	</tr>
+	<tr>
+		<td> 30331-09 </td>
+		<td> Drag Chain Female End Link (attached) </td>
+		<td> 2 </td>
+	</tr>
+	<tr>
+		<td> 30527-01 </td>
+		<td> Drag Chain Bracket </td>
+		<td> 2 </td>
+	</tr>
+	<tr>
+		<td> 30554-01 </td>
+		<td> Flat Head Socket Cap Screw M4 x 10mm </td>
+		<td> 4 </td>
+	</tr>
+	<tr>
+		<td> 30265-03 </td>
+		<td> Nylon Insert Lock Nut M4 </td>
+		<td> 4 </td>
+	</tr>
+</table>
+
 <p>You should have two lengths of drag chain, each with one of the male end links removed. Note that it flexes in one direction and is stiff in the other direction.</p>
 <p>Take one length of drag chain and snap it into the male end on your X Carriage. It should bend easily around to the left side of the machine. If it does not, unsnap it and flip it around. The 500mm drag chain will bend horizontally toward the back of your machine.</p>
 <p style="text-align:center;"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/788/original/0735.jpg?1425059312" alt="" /></p>
@@ -264,7 +260,7 @@ This section will have a more comprehensive update, including images, in the nea
 <div class="note">
 <i class="fa fa-hand-o-right"></i>
 <span class="note-text">
-<strong>Note:</strong> <strong>Stop your drag chain assembly here.</strong> The remaining steps to install the drag chain on your 1000mm X-Carve will be detailed in the Work Area section when mounting the waste board.
+<strong>Note:</strong> <strong>Stop your drag chain assembly here.</strong> The remaining steps to install the drag chain will be detailed in the Work Area section when mounting the waste board.
 </span>
 </div>
 </div>
