@@ -197,7 +197,7 @@ Label the stepper cable as you go.
 
 Place the pins into the gShield making sure that the black plastic touches the top of the board. Solder each pin individually making sure to not "bridge" the pins by soldering them together. You may find it easier to solder the pins if you support them with a small object.
 
-<div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/871/original/1004.jpg?1427990285" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/870/original/1006.jpg?1427990284" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/872/original/1008.jpg?1427990646" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/868/original/1014.jpg?1427990282" class="thumbnail col-md-3" alt="" /></p>
+<div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/871/original/1004.jpg?1427990285" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/870/original/1006.jpg?1427990284" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/872/original/1008.jpg?1427990646" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/868/original/1014.jpg?1427990282" class="thumbnail col-md-3" alt="" />
 </div>
 
 <h3 id="wire-stepper-cable">
@@ -355,7 +355,7 @@ Strip the other end of the zip wire and insert the ends into the large green ter
 </div>
 Strip the zip wire from your spindle and put the ends into the remaining spots on the large green terminal.
 
-<div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/876/original/1135.jpg?1427991353" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/875/original/1136.jpg?1427991352" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/874/original/1137.jpg?1427991351" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/873/original/1139.jpg?1427991350" class="thumbnail col-md-3" alt="" /></p>
+<div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/876/original/1135.jpg?1427991353" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/875/original/1136.jpg?1427991352" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/874/original/1137.jpg?1427991351" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/873/original/1139.jpg?1427991350" class="thumbnail col-md-3" alt="" />
 </div>
 
 <h3 id="install-enclosure-cover">
