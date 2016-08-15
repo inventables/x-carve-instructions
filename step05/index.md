@@ -116,7 +116,7 @@ Your X-Carve should look like this:
 <div class="note">
 <i class="fa fa-hand-o-right"></i>
  <span class="note-text">
- <strong>This step is for 500mm X-Carves ONLY; please skip this step if you ordered the 1000mm rail kit.</strong>
+  <strong style="font-size:20px;">This step is for 500mm X-Carves ONLY; please skip this step if you ordered the 1000mm rail kit.</strong>
  </span>
 
 </div>
@@ -162,7 +162,7 @@ You’ll connect the two y-axes with extrusions in the front and back of the mac
 
 Slide the insertion nuts into the extrusions and fasten the end plates to them with 8mm screws:
 
-<div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/625/original/0380.jpg?1424385401" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/626/original/0382.jpg?1424385402" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/627/original/0385.jpg?1424385403" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/628/original/0386.jpg?1424385404" class="thumbnail col-md-3" alt="" /></p>
+<div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/625/original/0380.jpg?1424385401" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/626/original/0382.jpg?1424385402" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/627/original/0385.jpg?1424385403" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/628/original/0386.jpg?1424385404" class="thumbnail col-md-3" alt="" />
 </div>
 
 <div class="note">
