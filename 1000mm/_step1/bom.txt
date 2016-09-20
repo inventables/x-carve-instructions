@@ -1,0 +1,14 @@
+*1000mm Waste Board Kit*	#0a91d1	#fff
+25281-05	14	T-Slot Nut M5 Pre-Assembly
+30537-01	1	Wasteboard 1000mm Machine
+30517-03	144	Threaded Insert M5 x 10
+25286-20	14	Button Head Cap Screw M5 x 20
+
+*1000mm Rail Kit*	#FFFFFF	#000
+25281-05	12	T-Slot Nut M5 Pre-Assembly
+26018-01	6	Cast Corner Bracket, Clear
+26049-02	2	Extrusion T-Slot 20x20 x 1000mm
+26049-04	3	Extrusion T-Slot 20x20 x 958mm
+25142-11	2	MakerSlide 1000mm Tapped Black
+25286-18	12	Button Head Cap Screw M5 x 10
+

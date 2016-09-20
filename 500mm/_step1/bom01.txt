@@ -1,0 +1,12 @@
+*500mm Waste Board Kit*	#0a91d1	#fff
+25281-05	6	T-Slot Nut M5 Pre-Assembly
+30517-03	25	Threaded Insert M5 x 10
+30535-02	1	Wasteboard 500mm Carvey 2016
+25286-19	6	Button Head Cap Screw M5 x 12
+
+*500mm Rail Kit*	#FFFFFF	#000
+26049-01	2	Extrusion T-Slot 20x20 x 500mm
+25281-05	4	M5 pre-assembly insertion nut
+26018-01	2	cast corner bracket, clear
+26049-11	1	Extrusion T-Slot 20x20 x 458mm
+25286-18	4	Button Head Cap Screw M5 x 10

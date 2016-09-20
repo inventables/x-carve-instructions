@@ -1,0 +1,5 @@
+*1000mm Home Switch Kit*	#F47B44	#fff
+25312-25	2	Spacer 5.1mm ID 9.5mm 10.5mm Lg Aluminum
+26016-03	2	T-Nut M5 Post Assembly
+25285-51	2	Socket Head Screw M5 x 16
+

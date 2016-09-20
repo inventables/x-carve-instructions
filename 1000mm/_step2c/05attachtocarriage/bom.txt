@@ -1,0 +1,5 @@
+*Core Components Kit*	#383838	#fff
+25286-18	4	Button Head Cap Screw M5 x 10
+25281-05	4	T-Slot Nut M5 Pre-Assembly
+
+

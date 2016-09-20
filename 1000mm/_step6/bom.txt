@@ -1,0 +1,28 @@
+*1000mm Motor and Wiring Kit*	#CC3440	#fff
+30679-09	1	Cable Assemble, Stepper Motor 97 in long (X-Axis)
+30679-10	1	Cable Assemble, Stepper Motor 42 in long (Y1-Axis)
+30679-11	1	Cable Assemble, Stepper Motor 89 in long (Y2-Axis)
+30679-12	1	Cable Assemble, Stepper Motor 97 in long (Z-Axis)
+
+*1000mm Drag Chain Kit*	#8A52A1	#fff
+30527-05	2	Drag Chain Bracket
+30527-06	1	Drag Chain Bracket
+30680-01	5	Zip Tie Mount
+26016-03	5	T-Nut M5 Post Assembly
+30681-01	2	Drag Chain Support Arm
+30331-13	2	Drag Chain 18x25 21 Links Custom Ends
+25986-03	1	Cable Tie 4" Black 18lb Test (100 Pack)
+26049-09	1	Extrusion T-Slot 20x20 x 1000mm Tapped
+25286-24	4	Button Head Cap Screw M4 x 10
+25286-31	1	Button Head Cap Screw M5 x 6
+25286-29	2	Button Head Cap Screw M5 x 14
+30554-04	4	Flat Head Cap Screw M5 x 10
+30554-05	6	Flat Head Cap Screw M5 x 12
+30265-03	2	Hex Nut M4 Nylon Locking
+30265-04	6	Hex Nut M5 Nylon Locking
+
+*1000mm Home Switch Kit*	#F47B44	#ff
+30682-07	1	Cable Assembly, 2C Lugs Ferrules 95"Lg X-Limit
+30682-08	1	Cable Assembly, 2C Lugs Ferrules 50"Lg Y-Limit
+30682-09	1	Cable Assembly, 2C Lugs Ferrules 95"Lg Z-Limit
+

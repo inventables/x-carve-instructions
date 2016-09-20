@@ -1,0 +1,3 @@
+*Core Components Kit*	#383838	#fff
+30525-01	2	Gantry Side Plate
+

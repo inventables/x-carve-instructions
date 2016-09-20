@@ -1,0 +1,27 @@
+#!/usr/bin/awk -f
+
+BEGIN {print "<table>"}
+{
+    FS="\t";
+    RS="\r\n";
+}
+{
+    if(FNR == 1){
+	print"<tr><td style=\"color:#fff;background: #383838;\" colspan=\"3\"><b>"$0"</b></td></tr>";
+    }
+    else if(FNR == 2){
+	print "\t<tr>";
+        print "\t\t<td><b>"$1"</b></td>";
+        print "\t\t<td><b>"$2"</b></td>";
+        print "\t\t<td><b>"$3"</b></td>";
+        print "\t</tr>";
+    }
+    else{
+	print "\t<tr>";
+	print "\t\t<td>"$1"</td>";
+	print "\t\t<td>"$2"</td>";
+	print "\t\t<td>"$3"</td>";
+	print "\t</tr>";
+    }
+}
+END {print "</table>"}

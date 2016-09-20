@@ -1,0 +1,7 @@
+*Core Components Kit*	#383838	#fff
+30396-02	1	ACME Lead Screw
+25280-03	1	Delrin Nut ACME 3/8-12
+25287-11	1	Flat Washer M8
+26054-04	1	Pulley GT2 8mm Bore 20 Tooth
+30265-05	1	Hex Nut M6 Nylon Locking
+

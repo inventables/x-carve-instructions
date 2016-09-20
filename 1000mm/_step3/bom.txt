@@ -1,0 +1,10 @@
+*Core Components Kit*	#383838	#fff
+30524-01	4	MakerSlide End Plate
+25281-05	12	T-Slot Nut M5 Pre-Assembly
+25286-19	8	Button Head Cap Screw M5 x 12
+25286-17	8	Button Head Cap Screw M5 x 8
+
+*1000mm Rail Kit*	#FFFFFF	#000
+25281-05	12	T-Slot Nut M5 Pre-Assembly
+25142-11	2	MakerSlide 1000mm Tapped Black
+
