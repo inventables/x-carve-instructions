@@ -2,8 +2,8 @@
 layout: default
 title: "Welcome!"
 step-number: 1
-permalink: /
-next-step: /step1/
+permalink: /1000mm/
+next-step: /1000mm/step1/
 next-step-title: "Work Area"
 ---
 
@@ -2047,7 +2047,7 @@ As with the machine itself, these instructions are open for modification, so fee
       25285-56
     </td>
     <td>
-      Socket Head Screw M2 x 10 
+      Socket Head Screw M2 x 10
     </td>
     <td>
       2
@@ -2058,7 +2058,7 @@ As with the machine itself, these instructions are open for modification, so fee
       25285-57
     </td>
     <td>
-      Socket Head Screw M2 x 14 
+      Socket Head Screw M2 x 14
     </td>
     <td>
       4
