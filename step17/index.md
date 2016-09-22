@@ -1,21 +1,13 @@
 ---
 layout: default
-title:  "Machine Setup"
-time-estimate: 5
+title:  "Get Carving!"
 category: step
 step-number: 17
 permalink: /step17/
-next-step: /step18/
-next-step-title: "Get Carving!"
 ---
 
-Easel, our super easy-to-use web app, will help you get your machine and electronics working.
+### Congratulations!!
 
-You will be guided through a few steps to make sure you are ready to carve:
+Check out these community projects, they are perfect for diving right into making with your X-Carve.
 
-1. Test the wiring and make sure the axes are going the correct direction
-2. Enable and test automatic spindle control
-3. Enable and test homing switches
-4. Run a calibration test carving
-
-<a href="http://app.easel.com/setup" target="_blank" class="btn btn-invent btn-animate-arrow">Setup your machine</a>
+<a href="http://inventables.com/projects" class="btn btn-invent btn-animate-arrow">Find projects</a>
