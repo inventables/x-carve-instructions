@@ -5,7 +5,7 @@ step-number: 2
 permalink: /500mm/step2c/4leadscrew/
 next-step: /500mm/step2c/5pulley/
 next-step-title: "Leadscrew Pulley"
-diagram: "/leadscrew.jpg"
+diagram: "leadscrew.jpg"
 ---
 
 <table>

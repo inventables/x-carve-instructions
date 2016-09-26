@@ -6,7 +6,7 @@ step-number: 2
 permalink: /1000mm/step2a/4idlers/
 next-step: /1000mm/step2a/5motors/
 next-step-title: "Stepper Motors"
-diagram: "/idlers1.jpg"
+diagram: "idlers1.jpg"
 ---
 <img src="../../step2/photo/jpfs_DSC2597.jpg">
 

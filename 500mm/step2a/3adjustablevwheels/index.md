@@ -6,7 +6,7 @@ step-number: 2
 permalink: /500mm/step2a/3adjustablevwheels/
 next-step: /500mm/step2a/4idlers/
 next-step-title: "Idler Wheels"
-diagram: "/adjustablevwheels.jpg"
+diagram: "adjustablevwheels.jpg"
 ---
 
 <table>

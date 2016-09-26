@@ -5,7 +5,7 @@ step-number: 2
 permalink: /750mm/step2b/7homeswitch/
 next-step: /step2c/1zaxis/
 next-step-title: "Z-Axis"
-diagram: "/homeswitch.jpg"
+diagram: "homeswitch.jpg"
 ---
 
 <table>

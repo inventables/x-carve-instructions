@@ -6,7 +6,7 @@ step-number: 2
 permalink: /750mm/step2a/5motors/
 next-step: /step2a/6dragchain/
 next-step-title: "Drag Chain"
-diagram: "/motors.jpg"
+diagram: "motors.jpg"
 ---
 
 <h3>Attach NEMA 23 Motor to Plate</h3>

@@ -6,7 +6,7 @@ step-number: 2
 permalink: /1000mm/step2b/6dragchain/
 next-step: /1000mm/step2b/7homeswitch/
 next-step-title: "Homing Switch"
-diagram: "/dragchain.jpg"
+diagram: "dragchain.jpg"
 ---
 <img src="../../step2/photo/jpfsP7150160.jpg">
 

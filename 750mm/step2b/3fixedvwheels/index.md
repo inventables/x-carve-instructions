@@ -6,7 +6,7 @@ step-number: 2
 permalink: /750mm/step2b/3fixedvwheels/
 next-step: /step2b/4adjustablevwheels/
 next-step-title: "Adjustable V-Wheels"
-diagram: "/fixedvwheels.jpg"
+diagram: "fixedvwheels.jpg"
 ---
 <table>
 <tr><td style="color:#fff;background: #000;" colspan="3"><b>Components</b></td></tr>

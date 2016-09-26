@@ -6,8 +6,8 @@ step-number: 2
 permalink: /1000mm/step2c/9attachmount/
 next-step: /1000mm/step2c/10homeswitch/
 next-step-title: "Z-Axis Homing Switch"
-diagram: "/attachmount1.jpg"
-diagram2: "/attachmount2.jpg"
+diagram: "../09attachmount/attachmount1.jpg"
+diagram2: "../09attachmount/attachmount2.jpg"
 ---
 <img src="../../step2/photo/jpfs_DSC2752.jpg">
 

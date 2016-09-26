@@ -6,7 +6,7 @@ step-number: 2
 permalink: /1000mm/step2a/7homeswitch/
 next-step: /1000mm/step2b/1xcarriage/
 next-step-title: "X-Carriage"
-diagram: "/homeswitch1.jpg"
+diagram: "homeswitch1.jpg"
 ---
 <img src="../../step2/photo/jpfs_DSC2616.jpg">
 

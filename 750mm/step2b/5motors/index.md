@@ -6,7 +6,7 @@ step-number: 2
 permalink: /750mm/step2b/5motors/
 next-step: /step2b/6dragchain/
 next-step-title: "Drag Chain Bracket"
-diagram: "/motors.jpg"
+diagram: "motors.jpg"
 ---
 
 <table>

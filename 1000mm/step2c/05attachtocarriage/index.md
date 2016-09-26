@@ -6,8 +6,8 @@ step-number: 2
 permalink: /1000mm/step2c/5attachtocarriage/
 next-step: /1000mm/step2c/6adjustablevwheels/
 next-step-title: "Adjustable V-Wheels"
-diagram: "/attachtocarriage1.jpg"
-diagram2: "/attachtocarriage2.jpg"
+diagram: "../05attachtocarriage/attachtocarriage1.jpg"
+diagram2: "../05attachtocarriage/attachtocarriage2.jpg"
 ---
 <img src="../../step2/photo/jpfs_DSC2723.jpg">
 

@@ -6,7 +6,7 @@ step-number: 2
 permalink: /750mm/step2a/7homeswitch/
 next-step: /step2b/1xcarriage/
 next-step-title: "X-Carriage"
-diagram: "/homeswitch.jpg"
+diagram: "homeswitch.jpg"
 ---
 
 <table>

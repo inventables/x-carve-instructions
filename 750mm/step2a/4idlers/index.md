@@ -6,7 +6,7 @@ step-number: 2
 permalink: /750mm/step2a/4idlers/
 next-step: /step2a/5motors/
 next-step-title: "Stepper Motors"
-diagram: "/idlers.jpg"
+diagram: "idlers.jpg"
 ---
 
 <h3>Attach Smooth Idler Wheels</h3>

@@ -6,7 +6,7 @@ step-number: 2
 permalink: /1000mm/step2c/8clampbolts/
 next-step: /1000mm/step2c/9attachmount/
 next-step-title: "Attach Spindle Mount"
-diagram: "/clampbolts.jpg"
+diagram: "../08clampbolts/clampbolts.jpg"
 ---
 <img src="../../step2/photo/jpfs_DSC2750.jpg">
 

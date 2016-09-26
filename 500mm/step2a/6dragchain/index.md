@@ -6,7 +6,7 @@ step-number: 2
 permalink: /500mm/step2a/6dragchain/
 next-step: /500mm/step2a/7homeswitch/
 next-step-title: "Homing Switches"
-diagram: "/dragchain.jpg"
+diagram: "dragchain.jpg"
 ---
 
 <h3>Attach Drag Chain Mount on Left Plate</h3>

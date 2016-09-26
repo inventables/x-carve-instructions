@@ -6,7 +6,7 @@ step-number: 2
 permalink: /1000mm/step2c/3attachrail/
 next-step: /1000mm/step2c/4leadscrew/
 next-step-title: "Leadscrew"
-diagram: "/attachrail.jpg"
+diagram: "../03attachrail/attachrail.jpg"
 ---
 <img src="../../step2/photo/jpfs_DSC2687.jpg">
 

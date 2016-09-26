@@ -6,9 +6,9 @@ step-number: 2
 permalink: /1000mm/step2a/6dragchain/
 next-step: /1000mm/step2a/7homeswitch/
 next-step-title: "Homing Switches"
-diagram: "/dragchain1.jpg"
+diagram: "dragchain1.jpg"
 ---
-<img src="../../jpfsimage4.jpg">
+<img src="jpfsimage4.jpg">
 
 <table>
   <tr>
@@ -66,8 +66,8 @@ diagram: "/dragchain1.jpg"
 
 To attach the drag chain mount to the left plate, take 2x M4x10mm bolts and put them through their respective holes on the drag chain bracket and plate. Take 2x M4 nylock nuts and secure the drag chain bracket with a 7mm wrench and a 2.5mm hex key.
 
-<img src="../../jpfsimage1.jpg">
+<img src="jpfsimage1.jpg">
 
-<img src="../../jpfsimage2.jpg">
+<img src="jpfsimage2.jpg">
 
-<img src="../../jpfsimage3.jpg">
+<img src="jpfsimage3.jpg">

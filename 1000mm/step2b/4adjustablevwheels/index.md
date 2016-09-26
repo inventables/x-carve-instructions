@@ -6,7 +6,7 @@ step-number: 2
 permalink: /1000mm/step2b/4adjustablevwheels/
 next-step: /1000mm/step2b/5motors/
 next-step-title: "Stepper Motors"
-diagram: "/adjustablevwheels.jpg"
+diagram: "adjustablevwheels.jpg"
 ---
 <img src="../../step2/photo/jpfs_DSC2648.jpg">
 

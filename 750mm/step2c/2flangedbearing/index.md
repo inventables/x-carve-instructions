@@ -5,7 +5,7 @@ step-number: 2
 permalink: /750mm/step2c/2flangedbearing/
 next-step: /step2c/3attachrail/
 next-step-title: "Z-Axis Rail"
-diagram: "/flangedbearing.jpg"
+diagram: "flangedbearing.jpg"
 ---
 
 <table>

@@ -6,7 +6,7 @@ step-number: 2
 permalink: /750mm/step2a/2fixedvwheels/
 next-step: /step2a/3adjustablevwheels/
 next-step-title: "Adjustable V-Wheels"
-diagram: "/fixedvwheels.jpg"
+diagram: "fixedvwheels.jpg"
 ---
 <h3>Attach Fixed V-Wheels</h3>
 <img src="../../step2/photo/jpfs_DSC2564.jpg">
