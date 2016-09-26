@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Attach Spindle Carriage to Z-Axis"
+parent: Z-Axis
 step-number: 2
 permalink: /1000mm/step2c/9attachmount/
 next-step: /1000mm/step2c/10homeswitch/

@@ -7,26 +7,27 @@
 
     {% include header.html %}
 
-    <div class="instructions-wrapper container">
+    <div class="instructions-wrapper container-fluid">
       <div id="off-canvas-sidebar">
         {% include stepnav.html %}
         <a id="close" href="#"><i class="fa fa-times"></i></a>
       </div>
-      <div class="row topic-nav">
-          {% include stepnav.html %}
-      </div>
       <div class="row">
+        <div class="col-sm-2">
+          <a id="hamburger" href="#"><i class="fa fa-bars"></i></a>
+          <div class="sidebar">
+            {% include stepnav2015.html %}
+          </div>
+        </div>
         <div class="page-content js-instruction-step col-sm-7">
           <header class="post-header">
             <div class="instruction-breadcrumbs">
-              <a href="{{site.baseurl}}">X-Carve Instructions</a>
-              {% if page.parent %}
-                &#47;
-                  {{ page.parent }}
-              {% endif %}
+              <a href="{{site.baseurl}}">X-Carve Assembly Instructions</a>
               &#47;
               <span class="current-page">
-                {% if page.title %}
+                {% if page.step-number %}
+                  Step {{ page.step-number }}
+                {% else %}
                   {{ page.title }}
                 {% endif %}
               </span>
@@ -53,15 +54,8 @@
             {% include next-step.html %}
           </div>
         </div>
-        <div class="col-sm-5">
-          <div class="page-diagram">
-          {% if page.diagram %}
-            <img src="{{ page.diagram | prepend: site.baseurl }}"/>
-          {% endif %}
-          {% if page.diagram2 %}
-            <img src="{{ page.diagram2 | prepend: site.baseurl }}"/>
-          {% endif %}
-          </div>
+        <div class="subnav-container">
+          {% include subnav.html %}
         </div>
       </div>
     </div>

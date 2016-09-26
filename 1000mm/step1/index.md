@@ -154,31 +154,31 @@ next-step-title: "Gantry"
 </table>
 
 
-<img src="../jpfs_DSC2547.jpg">
+<img src="./photo/jpfs_DSC2547.jpg">
 <p>In this section you'll be assembling the work area of your machine (completed image above).</p>
-<img src="../jpfs_DSC2501.jpg">
-<img src="../jpfs_DSC2502.jpg">
+<img src="./photo/jpfs_DSC2501.jpg">
+<img src="./photo/jpfs_DSC2502.jpg">
 <p>Start by flipping over your waste board and installing the threaded inserts.</p>
-<img src="../jpfs_DSC2508.jpg">
-<img src="../jpfs_DSC2511.jpg">
-<img src="../jpfs_DSC2513.jpg">
+<img src="./photo/jpfs_DSC2508.jpg">
+<img src="./photo/jpfs_DSC2511.jpg">
+<img src="./photo/jpfs_DSC2513.jpg">
 <p>To speed up this process, use a drill driver and 5mm hex bit (not included in tool kit.)</p>
-<img src="../jpfs_DSC2522.jpg">
-<img src="../jpfs_DSC2525.jpg">
-<img src="../jpfs_DSC2527.jpg">
+<img src="./photo/jpfs_DSC2522.jpg">
+<img src="./photo/jpfs_DSC2525.jpg">
+<img src="./photo/jpfs_DSC2527.jpg">
 <p>Use the button head cap screws, insertion nuts, gusset brackets, and aluminum extrusion to build the bottom frame of the machine.  The M5x10mm button head cap screws will be used to build the frame; attaching the gusset brackets to the aluminum extrusion.  The M5x12mm button head cap screws will be used to attach the waste board to the frame.</p>
-<img src="../jpfs_DSC2528.jpg">
+<img src="./photo/jpfs_DSC2528.jpg">
 <p>The bottom frame of the machine consists of 5 pieces of aluminum extrusion.  The two longer lengths of extrusion are used on the front and back, and the three smaller lengths are used to support the sides and the middle of the waste board.</p>
-<img src="../jpfs_DSC2533.jpg">
+<img src="./photo/jpfs_DSC2533.jpg">
 <p>Start by inserting an M5x12mm button head cap screw in the center of the wasteboard and attach the insertion nut on the backside. Make sure that the protrusion on the nut is facing away from the board.</p>
-<img src="../jpfs_DSC2538.jpg">
+<img src="./photo/jpfs_DSC2538.jpg">
 <p>Slide one of the shorter 958mm lengths of extrusion onto the insertion nut to start building the frame.</p>
-<img src="../jpfs_DSC2542.jpg">
-<img src="../jpfs_DSC2544.jpg">
+<img src="./photo/jpfs_DSC2542.jpg">
+<img src="./photo/jpfs_DSC2544.jpg">
 <p>Loosely attach the remaining M5x12mm button head cap screws to the aluminum extrusion with insertion nuts.  Insert two insertion nuts into each of the smaller extrusions (one on each side of the middle piece) and three insertion nuts into each of the longer pieces.  Insertion nuts will be used to attach the gusset brackets to the extrusion.</p>
-<img src="../jpfs_DSC2543.jpg">
+<img src="./photo/jpfs_DSC2543.jpg">
 <p>Instead of flipping over the waste board itself to access the head of the screws, flip the rail over and guide the screws into the outer mounting slots on the edge of the waste board.</p>
-<img src="../P4201711jpg19.jpg">
-<img src="../jpfs_DSC2529.jpg">
-<img src="../jpfs_DSC2546.jpg">
+<img src="./photo/P4201711jpg19.jpg">
+<img src="./photo/jpfs_DSC2529.jpg">
+<img src="./photo/jpfs_DSC2546.jpg">
 <p>Attach the gusset brackets to the frame using the M5x10mm button head cap screws and insertion nuts.  Flip over the waste board and tighten down all M5x12mm button head cap screws to secure the waste board in place.</p>

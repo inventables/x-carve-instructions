@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Attach Drag Chain Bracket To X-Carriage"
+parent: X-Carriage
 step-number: 2
 permalink: /1000mm/step2b/6dragchain/
 next-step: /1000mm/step2b/7homeswitch/

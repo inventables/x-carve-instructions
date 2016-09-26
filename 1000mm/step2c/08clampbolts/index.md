@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Insert Spindle Carriage Clamping Bolts"
+parent: Z-Axis
 step-number: 2
 permalink: /1000mm/step2c/8clampbolts/
 next-step: /1000mm/step2c/9attachmount/

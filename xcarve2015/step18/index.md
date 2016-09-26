@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: xcarve2015
 title:  "Get Carving!"
 category: step
 step-number: 18

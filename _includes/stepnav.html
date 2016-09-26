@@ -1,7 +1,20 @@
-<ul class="nav">
+<ul>
+  <li><a href="{{ site.baseurl }}/1000mm/">Welcome!</a></li>
   {% for item in site.data.navigation.stepnav %}
-  <li class="nav-item">
-    <a {% if page.url == item.url %}class="active"{% endif %} href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
+  <li class="nav-item {% if page.parent == item.title %}active{% endif %}">
+    {% if item.subnav %}
+      <a href="#" id="step-drop-btn" data-toggle="dropdown">{{ item.title }}
+        &nbsp;<i class="fa fa-caret-down"></i></a>
+      <ol class="nav step-nav dropdown-menu" aria-labelledby="step-drop-btn">
+        {% for subitem in item.subnav %}
+          <a href="/1000mm{{ subitem.url | prepend: item.url }}">
+            <li>{{ subitem.title }}</li>
+          </a>
+        {% endfor %}
+      </ol>
+    {% else %}
+      <a href="/1000mm{{ item.url }}">{{ item.title }}</a>
+    {% endif %}
   </li>
   {% endfor %}
 </ul>

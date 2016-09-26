@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: xcarve2015
 title:  "Y Plates"
 time-estimate: 30
 category: step

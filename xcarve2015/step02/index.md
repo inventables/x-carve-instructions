@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: xcarve2015
 title:  "X Carriage"
 time-estimate: 60
 category: step

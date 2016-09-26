@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Attach Drag Chain Rail"
+parent: "Assemble Gantry"
 step-number: 2
 permalink: /1000mm/step2d/5dragchainrail/
 next-step: /1000mm/step3/

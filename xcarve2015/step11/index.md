@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: xcarve2015
 title:  "Drag Chain"
 time-estimate: 20
 category: step

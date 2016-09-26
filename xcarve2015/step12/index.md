@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: xcarve2015
 title:  "Spindle Mount"
 time-estimate: 25
 category: step

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Gantry"
+parent: "Assemble Gantry"
 step-number: 2
 permalink: /1000mm/step2d/4attachsideplate/
 next-step: /1000mm/step2d/5dragchainrail/

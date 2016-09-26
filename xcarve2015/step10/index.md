@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: xcarve2015
 title:  "Wiring"
 time-estimate: 45
 category: step

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: xcarve2015
 title:  "Machine Setup"
 time-estimate: 5
 category: step

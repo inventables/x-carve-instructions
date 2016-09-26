@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Assemble X-Carriage"
-
+parent: X-Carriage
 step-number: 2
 permalink: /1000mm/step2b/1xcarriage/
 next-step: /1000mm/step2b/2idlers/

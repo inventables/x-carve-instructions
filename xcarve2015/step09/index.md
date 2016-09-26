@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: xcarve2015
 title:  "Z-Axis Motor"
 time-estimate: 15
 category: step

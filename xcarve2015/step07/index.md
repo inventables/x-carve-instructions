@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: xcarve2015
 title:  "Z-Axis"
 time-estimate: 30
 category: step

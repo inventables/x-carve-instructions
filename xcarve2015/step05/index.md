@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: xcarve2015
 title:  "Y-Axis"
 time-estimate: 45
 category: step

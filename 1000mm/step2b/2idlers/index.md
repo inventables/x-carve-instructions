@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Attach Smooth Idlers"
-
+parent: X-Carriage
 step-number: 2
 permalink: /1000mm/step2b/2idlers/
 next-step: /1000mm/step2b/3fixedvwheels/

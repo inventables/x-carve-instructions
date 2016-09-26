@@ -7,7 +7,7 @@ next-step: /1000mm/step1/
 next-step-title: "Work Area"
 ---
 
-<img src="x-carve-main.jpg">
+<img src="../x-carve-main.jpg">
 
 Congratulations!  You've just taken one of your first steps into the world of 3D Carving!  This guide will take you through the steps of building your very own X-Carve 3D Carver! We've tried to make it as easy as possible to get you from unpacking your parts to carving.  We've laid out the instructions starting from the bottom of the machine to the top, and we will cover everything from machine assembly to computer setup.
 
