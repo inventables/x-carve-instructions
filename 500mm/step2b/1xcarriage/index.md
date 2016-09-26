@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default500mm
 title: "Assemble X-Carriage"
 
 step-number: 2

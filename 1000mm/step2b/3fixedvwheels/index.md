@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default1000mm
 title: "Attach Fixed V-Wheels"
 parent: X-Carriage
 step-number: 2

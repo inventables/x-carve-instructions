@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: xcarve2015
 title:  "X-Controller Usage"
 category: step
 permalink: /x-controller/usage/

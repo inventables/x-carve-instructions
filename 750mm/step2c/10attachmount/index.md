@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default750mm
 title: "Attach Spindle Mount to Z-Axis"
 step-number: 2
 permalink: /750mm/step2c/10attachmount/

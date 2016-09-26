@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default750mm
 title: "Attach Side Plate"
 step-number: 2
 permalink: /750mm/step2d/2attachsideplate/

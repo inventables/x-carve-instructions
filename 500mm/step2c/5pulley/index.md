@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default500mm
 title: "Attach Leadscrew Pulley"
 step-number: 2
 permalink: /500mm/step2c/5pulley/

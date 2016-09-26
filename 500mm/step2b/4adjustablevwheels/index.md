@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default500mm
 title: "Attach Adjustable V-Wheels"
 
 step-number: 2

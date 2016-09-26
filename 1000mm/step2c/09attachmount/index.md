@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default1000mm
 title: "Attach Spindle Carriage to Z-Axis"
 parent: Z-Axis
 step-number: 2

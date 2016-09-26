@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default750mm
 title: "Welcome!"
 
 step-number: 1

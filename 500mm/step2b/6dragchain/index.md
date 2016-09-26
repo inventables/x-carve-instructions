@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default500mm
 title: "Attach Drag Chain Bracket To X-Axis"
 step-number: 2
 permalink: /500mm/step2b/6dragchain/

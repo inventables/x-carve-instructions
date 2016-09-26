@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default1000mm
 title: "Install Leadscrew"
 parent: Z-Axis
 step-number: 2

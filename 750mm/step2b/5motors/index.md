@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default750mm
 title: "Attach Motor to Carriage"
 
 step-number: 2

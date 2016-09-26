@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default1000mm
 title: "Attach Adjustable V-Wheels"
 parent: Z-Axis
 step-number: 2

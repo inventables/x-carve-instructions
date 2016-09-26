@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default500mm
 title: "Wiring"
 step-number: 6
 permalink: /500mm/step6/

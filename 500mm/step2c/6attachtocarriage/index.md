@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default500mm
 title: "Attach Z-Axis Assembly to X-Carriage"
 step-number: 2
 permalink: /500mm/step2c/6attachtocarriage/

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default750mm
 title: "Attach Drag Chain Bracket"
 parent: "Side Plates"
 step-number: 2

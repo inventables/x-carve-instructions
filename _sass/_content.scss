@@ -7,10 +7,18 @@
   }
 }
 
-.page-content {
+.page-content2015 {
   @media (min-width: 768px) {
     padding: 30px 50px;
   }
+
+  @media (max-width: 768px) {
+    padding-bottom: 30px;
+  }
+}
+
+.page-content {
+  padding: 30px 0;
 
   @media (max-width: 768px) {
     padding-bottom: 30px;

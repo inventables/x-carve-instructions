@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default750mm
 title: "Spindle"
 step-number: 1
 permalink: /750mm/step5/

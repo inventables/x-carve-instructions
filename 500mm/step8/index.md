@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default500mm
 title: "Computer Setup"
 step-number: 1
 permalink: /500mm/step8/

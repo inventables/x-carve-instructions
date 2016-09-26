@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default1000mm
 title: "Attach Z-Axis Home Switch"
 parent: Z-Axis
 step-number: 2

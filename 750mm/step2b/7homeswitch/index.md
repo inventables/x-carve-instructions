@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default750mm
 title: "Attach Home Switch to X-Carriage"
 step-number: 2
 permalink: /750mm/step2b/7homeswitch/

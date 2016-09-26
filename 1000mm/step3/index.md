@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default1000mm
 title: "Rails"
 step-number: 1
 permalink: /1000mm/step3/

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default1000mm
 title: "Attach Idler Wheels"
 parent: "Side Plates"
 step-number: 2

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default750mm
 title: "Attach Z-Axis Home Switch"
 step-number: 2
 permalink: /750mm/step2c/11homeswitch/

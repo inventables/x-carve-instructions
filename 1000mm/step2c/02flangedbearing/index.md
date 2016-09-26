@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default1000mm
 title: "Attach Flanged Bearing to Z-Axis Plate"
 parent: Z-Axis
 step-number: 2

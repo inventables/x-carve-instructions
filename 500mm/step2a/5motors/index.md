@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default500mm
 title: "Attach Stepper Motors"
 parent: "Side Plates"
 step-number: 2

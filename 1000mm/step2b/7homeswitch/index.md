@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default1000mm
 title: "Attach Home Switch to X-Carriage"
 parent: X-Carriage
 step-number: 2

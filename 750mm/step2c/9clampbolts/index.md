@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default750mm
 title: "Insert Spindle Clamping Bolts"
 step-number: 2
 permalink: /750mm/step2c/9clampbolts/

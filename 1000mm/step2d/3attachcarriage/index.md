@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default1000mm
 title: "Attach X-Carriage Assembly"
 parent: "Assemble Gantry"
 step-number: 2
