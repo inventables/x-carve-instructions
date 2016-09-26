@@ -4,8 +4,8 @@ title:  "X Carriage"
 time-estimate: 60
 category: step
 step-number: 2
-permalink: /step02/
-next-step: /step03/
+permalink: /xcarve2015/step02/
+next-step: /xcarve2015/step03/
 next-step-title: "Y-Plates"
 grabcad-name1: "X Carriage"
 grabcad-url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/156177"

@@ -4,8 +4,8 @@ title:  "Spindle Mount"
 time-estimate: 25
 category: step
 step-number: 12
-permalink: /step12/
-next-step: /step13/
+permalink: /xcarve2015/step12/
+next-step: /xcarve2015/step13/
 next-step-title: "Work Area"
 grabcad-name1: "Spindle Carriage"
 grabcad-url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/217354"

@@ -4,8 +4,8 @@ title:  "Calibrate"
 time-estimate: 15
 category: step
 step-number: 15
-permalink: /step15/
-next-step: /step16/
+permalink: /xcarve2015/step15/
+next-step: /xcarve2015/step16/
 next-step-title: "Install Drivers"
 ---
 

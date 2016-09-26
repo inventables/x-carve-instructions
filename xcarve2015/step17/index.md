@@ -4,8 +4,8 @@ title:  "Machine Setup"
 time-estimate: 5
 category: step
 step-number: 17
-permalink: /step17/
-next-step: /step18/
+permalink: /xcarve2015/step17/
+next-step: /xcarve2015/step18/
 next-step-title: "Get Carving!"
 ---
 

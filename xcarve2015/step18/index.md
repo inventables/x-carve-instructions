@@ -3,7 +3,7 @@ layout: default
 title:  "Get Carving!"
 category: step
 step-number: 18
-permalink: /step18/
+permalink: /xcarve2015/step18/
 ---
 
 ### Congratulations!!

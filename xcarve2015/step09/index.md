@@ -4,8 +4,8 @@ title:  "Z-Axis Motor"
 time-estimate: 15
 category: step
 step-number: 9
-permalink: /step09/
-next-step: /step10/
+permalink: /xcarve2015/step09/
+next-step: /xcarve2015/step10/
 next-step-title: "Wiring"
 ---
 

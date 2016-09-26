@@ -4,8 +4,8 @@ title:  "Belting"
 time-estimate: 15
 category: step
 step-number: 6
-permalink: /step06/
-next-step: /step07/
+permalink: /xcarve2015/step06/
+next-step: /xcarve2015/step07/
 next-step-title: "Z-Axis"
 ---
 

@@ -4,8 +4,8 @@ title:  "Wiring"
 time-estimate: 45
 category: step
 step-number: 10
-permalink: /step10/
-next-step: /step11/
+permalink: /xcarve2015/step10/
+next-step: /xcarve2015/step11/
 next-step-title: "Drag Chain"
 ---
 
