@@ -25,7 +25,7 @@ If you run into any issues with your test carving, make sure to check out the tu
 <p class="note">
 <i class="fa fa-hand-o-right"></i>
  <span class="note-text">
- <strong>Note: Most of the mechanical problems you'll face in the future can be fixed using this information.</strong>
+ <strong>Note: Most of the mechanical problems you'll face in the future can be fixed using the following information.</strong>
  </span>
 
 </p>
