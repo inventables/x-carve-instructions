@@ -13,7 +13,7 @@ diagram: "homeswitch.jpg"
 <table>
   <tr>
     <td style="color:#fff;background: #F47B44" colspan="3">
-      <b>1000mm Homing Switch Kit</b>
+      <b>750mm Homing Switch Kit</b>
     </td>
   </tr>
   <tr>

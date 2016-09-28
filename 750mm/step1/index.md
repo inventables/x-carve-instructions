@@ -9,68 +9,6 @@ next-step-title: "Gantry"
 
 <table>
   <tr>
-    <td style="color:#fff;background: #0a91d1" colspan="3">
-      <b>750mm Waste Board Kit</b>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>SKU</b>
-    </td>
-    <td>
-      <b>Name</b>
-    </td>
-    <td>
-      <b>Quantity</b>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      25281-05
-    </td>
-    <td>
-      T-Slot Nut M5 Pre-Assembly
-    </td>
-    <td>
-      12
-    </td>
-  </tr>
-  <tr>
-    <td>
-      30517-03
-    </td>
-    <td>
-      Threaded Insert M5 x 10
-    </td>
-    <td>
-      64
-    </td>
-  </tr>
-  <tr>
-    <td>
-      30683-01
-    </td>
-    <td>
-      Wasteboard 750mm Carvey 2016
-    </td>
-    <td>
-      1
-    </td>
-  </tr>
-  <tr>
-    <td>
-      25286-19
-    </td>
-    <td>
-      Button Head Cap Screw M5 x 12
-    </td>
-    <td>
-      12
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
     <td style="color:#000;background: #FFFFFF" colspan="3">
       <b>750mm Rail Kit</b>
     </td>
@@ -88,7 +26,7 @@ next-step-title: "Gantry"
   </tr>
   <tr>
     <td>
-      25281-05
+      25281-10
     </td>
     <td>
       T-Slot Nut M5 Pre-Assembly
@@ -102,7 +40,7 @@ next-step-title: "Gantry"
       26018-01
     </td>
     <td>
-      Cast Corner Bracket, Clear
+      Extrusion Bracket (Gusset)
     </td>
     <td>
       6
@@ -113,7 +51,7 @@ next-step-title: "Gantry"
       26049-05
     </td>
     <td>
-      Extrusion T-Slot 20x20 x 708mm
+      Aluminum Extrusion 20mm × 20mm Black 708mm Lg
     </td>
     <td>
       3
@@ -124,7 +62,7 @@ next-step-title: "Gantry"
       26049-06
     </td>
     <td>
-      Extrusion T-Slot 20x20 x 750mm
+      Aluminum Extrusion 20mm × 20mm Black 750mm Lg
     </td>
     <td>
       2
@@ -132,10 +70,72 @@ next-step-title: "Gantry"
   </tr>
   <tr>
     <td>
-      25286-18
+      25286-36
     </td>
     <td>
       Button Head Cap Screw M5 x 10
+    </td>
+    <td>
+      12
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td style="color:#fff;background: #0a91d1" colspan="3">
+      <b>750mm Waste Board Kit</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>SKU</b>
+    </td>
+    <td>
+      <b>Name</b>
+    </td>
+    <td>
+      <b>Quantity</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      25281-10
+    </td>
+    <td>
+      T-Slot Nut M5 Pre-Assembly
+    </td>
+    <td>
+      12
+    </td>
+  </tr>
+  <tr>
+    <td>
+      30517-08
+    </td>
+    <td>
+      Threaded Insert M5 x 10
+    </td>
+    <td>
+      64
+    </td>
+  </tr>
+  <tr>
+    <td>
+      30683-01
+    </td>
+    <td>
+      750mm Waste Board
+    </td>
+    <td>
+      1
+    </td>
+  </tr>
+  <tr>
+    <td>
+      25286-40
+    </td>
+    <td>
+      Button Head Cap Screw M5 x 12
     </td>
     <td>
       12

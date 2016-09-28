@@ -1,10 +1,10 @@
 ---
-layout: default1000mm
+layout: default500mm
 title: "Install Leadscrew"
 parent: Z-Axis
 step-number: 2
-permalink: /1000mm/step2c/4leadscrew/
-next-step: /1000mm/step2c/5attachtocarriage/
+permalink: /500mm/step2c/4leadscrew/
+next-step: /500mm/step2c/5attachtocarriage/
 next-step-title: "Attach Z-Axis"
 diagram: "../04leadscrew/leadscrew.jpg"
 ---

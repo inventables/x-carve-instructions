@@ -1,10 +1,10 @@
 ---
-layout: default1000mm
+layout: default500mm
 title: "Attach Z-Axis Rail"
 parent: Z-Axis
 step-number: 2
-permalink: /1000mm/step2c/3attachrail/
-next-step: /1000mm/step2c/4leadscrew/
+permalink: /500mm/step2c/3attachrail/
+next-step: /500mm/step2c/4leadscrew/
 next-step-title: "Leadscrew"
 diagram: "../03attachrail/attachrail.jpg"
 ---

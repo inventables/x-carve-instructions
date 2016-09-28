@@ -1,10 +1,10 @@
 ---
-layout: default1000mm
+layout: default500mm
 title: "Attach Drag Chain Rail"
 parent: "Assemble Gantry"
 step-number: 2
-permalink: /1000mm/step2d/5dragchainrail/
-next-step: /1000mm/step3/
+permalink: /500mm/step2d/5dragchainrail/
+next-step: /500mm/step3/
 next-step-title: "Rails"
 ---
 

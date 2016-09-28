@@ -1,10 +1,10 @@
 ---
-layout: default1000mm
+layout: default500mm
 title: "Attach Home Switch to X-Carriage"
 parent: X-Carriage
 step-number: 2
-permalink: /1000mm/step2b/7homeswitch/
-next-step: /1000mm/step2c/1zaxis/
+permalink: /500mm/step2b/7homeswitch/
+next-step: /500mm/step2c/1zaxis/
 next-step-title: "Z-Axis"
 diagram: "homeswitch.jpg"
 ---

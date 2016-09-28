@@ -1,10 +1,10 @@
 ---
-layout: default1000mm
+layout: default500mm
 title: "Attach Stepper Motor to X-Carriage"
 parent: X-Carriage
 step-number: 2
-permalink: /1000mm/step2b/5motors/
-next-step: /1000mm/step2b/6dragchain/
+permalink: /500mm/step2b/5motors/
+next-step: /500mm/step2b/6dragchain/
 next-step-title: "Drag Chain Bracket"
 diagram: "motors.jpg"
 ---

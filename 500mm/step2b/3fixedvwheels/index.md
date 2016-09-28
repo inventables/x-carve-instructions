@@ -1,10 +1,10 @@
 ---
-layout: default1000mm
+layout: default500mm
 title: "Attach Fixed V-Wheels"
 parent: X-Carriage
 step-number: 2
-permalink: /1000mm/step2b/3fixedvwheels/
-next-step: /1000mm/step2b/4adjustablevwheels/
+permalink: /500mm/step2b/3fixedvwheels/
+next-step: /500mm/step2b/4adjustablevwheels/
 next-step-title: "Adjustable V-Wheels"
 diagram: "fixedvwheels.jpg"
 ---

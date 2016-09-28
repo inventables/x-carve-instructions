@@ -1,10 +1,10 @@
 ---
-layout: default1000mm
+layout: default500mm
 title: "Attach Homing Switches"
 parent: "Side Plates"
 step-number: 2
-permalink: /1000mm/step2a/7homeswitch/
-next-step: /1000mm/step2b/1xcarriage/
+permalink: /500mm/step2a/7homeswitch/
+next-step: /500mm/step2b/1xcarriage/
 next-step-title: "X-Carriage"
 diagram: "homeswitch1.jpg"
 ---

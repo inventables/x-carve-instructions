@@ -62,7 +62,7 @@ next-step-title: "Drag Chain Rail"
 <table>
   <tr>
     <td style="color:#fff;background: #8A52A1" colspan="3">
-      <b>1000mm Drag Chain Kit</b>
+      <b>750mm Drag Chain Kit</b>
     </td>
   </tr>
   <tr>
