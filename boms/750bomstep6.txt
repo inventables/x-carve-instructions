@@ -1,0 +1,22 @@
+*750mm Motor and Wiring Kit*	#CC3440	#fff
+30679-05	1	Cable Assembly, Stepper Motor 73 in long (X-Axis)
+30679-06	1	Cable Assembly, Stepper Motor 34 in long (Y1-Axis)
+30679-07	1	Cable Assembly, Stepper Motor 71 in long (Y2-Axis)
+30679-08	1	Cable Assembly, Stepper Motor 73 in long (Z-Axis)
+
+*750mm Drag Chain Kit*	#8A52A1	#fff
+30527-06	1	Drag Chain Bracket
+30680-01	5	Zip Tie Mount
+26016-03	5	T-Nut M5 Post Assembly
+30331-12	2	Drag Chain 18x25 16 Links w/ Custom Ends
+25986-03	1	Cable Tie 4" (100 Pack)25286-44	4	Button Head Cap Screw M4 x 10
+25286-31	1	Button Head Cap Screw M5 x 6
+30554-06	4	Flat Head Cap Screw M5 x 10
+30554-07	6	Flat Head Cap Screw M5 x 12
+30265-10	6	Nylon Insert Lock Nut M5
+
+*750mm Homing Switch Kit*	#F47B44	#fff
+30682-04	1	Cable Assembly, 2C Lugs Ferrules 76"Lg X-Limit
+30682-05	1	Cable Assembly, 2C Lugs Ferrules 39"Lg Y-Limit
+30682-06	1	Cable Assembly, 2C Lugs Ferrules 76"Lg Z-Limit
+

@@ -1,0 +1,13 @@
+*1000mm Rail Kit*	#FFFFFF	#000
+25281-10	12	T-Slot Nut M5 Pre-Assembly
+26018-01	6	Extrusion Bracket (Gusset)
+26049-02	2	Aluminum Extrusion 20mm × 20mm Black 1000mm Lg
+26049-04	3	Aluminum Extrusion 20mm × 20mm Black 958mm Lg
+25286-36	12	Button Head Cap Screw M5 x 10
+
+*1000mm Waste Board Kit*	#0a91d1	#fff
+25281-11	14	T-Slot Nut M5 Pre-Assembly
+30537-01	1	1000mm Waste Board
+30517-09	144	Threaded Insert M5 x 10
+25286-42	14	Button Head Cap Screw M5 x 20
+

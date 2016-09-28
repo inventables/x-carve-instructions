@@ -1,0 +1,13 @@
+*500mm Rail Kit*	#FFFFFF	#000
+26049-01	2	Aluminum Extrusion 20 × 20 × 500mm
+25281-14	4	M5 pre-assembly insertion nut
+26018-01	2	Extrusion Bracket (Gusset)
+26049-11	1	Aluminum Extrusion 20mm × 20mm Black 458mm Lg
+25286-35	4	Button Head Cap Screw M5 x 10
+
+*500mm Waste Board Kit*	#0a91d1	#fff
+25281-09	6	T-Slot Nut M5 Pre-Assembly
+30517-07	25	Threaded Insert M5 x 10
+30535-02	1	500mm Waste Board
+25286-39	6	Button Head Cap Screw M5 x 12
+

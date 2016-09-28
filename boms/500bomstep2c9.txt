@@ -1,0 +1,3 @@
+*DeWalt 611 Spindle and Mount*	#42a44e	#fff
+25286-45	2	Button Head Cap Screw M5 × 16mm
+

@@ -1,0 +1,6 @@
+*Core Components Kit*	#383838	#fff
+25203-01	2	V Wheel Assembly
+25286-48	2	Button Head Cap Screw M5 x 40
+25312-23	2	Aluminum Spacer 5.1mm ID 9.5mm OD 9.5mm LG
+30265-09	2	Nylon Insert Lock Nut M5
+

@@ -1,0 +1,10 @@
+*Core Components Kit*	#383838	#fff
+25286-38	4	Button Head Cap Screw M5 x 12
+25287-12	1	M5 Flat Washer
+
+*500mm Rail Kit*	#FFFFFF	#000
+30678-01	1	MakerSlide Extra Wide 500mm Tapped Black
+
+*500mm Drag Chain Kit*	#8A52A1	#fff
+30681-01	1	Drag Chain Support Arm
+

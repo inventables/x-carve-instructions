@@ -1,0 +1,6 @@
+*Core Components Kit*	#383838	#fff
+25286-43	4	Button Head Cap Screw M5 x 25
+25287-12	4	M5 Flat Washer
+25203-01	4	V Wheel Assembly
+30265-09	4	Nylon Insert Lock Nut M5
+

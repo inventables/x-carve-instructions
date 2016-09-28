@@ -1,0 +1,3 @@
+*DeWalt 611 Spindle and Mount*	#42a44e	#fff
+25285-55	3	Socket Head Cap Screw M4 x 16mm Low Profile
+

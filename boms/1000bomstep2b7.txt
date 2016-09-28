@@ -1,0 +1,6 @@
+*1000mm Homing Switch Kit*	#F47B44	#fff
+30557-02	1	Microswitch
+25285-57	2	Socket Head Screw M2 x 14
+30555-03	2	Washer, Split Lock M2 Stainless
+25284-12	2	Hex Nut M2x0.4
+

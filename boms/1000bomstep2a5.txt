@@ -1,0 +1,7 @@
+*Core Components Kit*	#383838	#fff
+25285-52	8	Socket Head Screw M5 x 16
+30265-09	8	Nylon Insert Lock Nut M5
+
+*1000mm Motor and Wiring Kit*	#CC3440	#fff
+25311-06	2	Stepper Motor - NEMA 23
+

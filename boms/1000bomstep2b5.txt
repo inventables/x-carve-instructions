@@ -1,0 +1,6 @@
+*Core Components Kit*	#383838	#fff
+25285-54	4	Socket Head Screw M5 x 10
+
+*1000mm Motor and Wiring Kit*	#CC3440	#fff
+25311-06	1	Stepper Motor - NEMA 23
+

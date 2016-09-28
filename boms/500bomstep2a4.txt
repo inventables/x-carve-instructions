@@ -1,0 +1,6 @@
+*Core Components Kit*	#383838	#fff
+25286-49	4	Button Head Cap Screw M5 x 30
+25197-01	4	Smooth Idler Pulley Assembly
+25312-23	4	Aluminum Spacer 5.1mm ID 9.5mm OD 9.5mm LG
+30265-09	4	Nylon Insert Lock Nut M5
+

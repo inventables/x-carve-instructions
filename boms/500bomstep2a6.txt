@@ -1,0 +1,5 @@
+*500mm Drag Chain Kit*	#8A52A1	#fff
+30527-05	1	Drag Chain Bracket
+25286-44	2	Button Head Cap Screw M4 x 10
+30265-08	2	Nylon Insert Lock Nut M4
+

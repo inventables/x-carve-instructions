@@ -1,0 +1,10 @@
+*Core Components Kit*	#383838	#fff
+25286-48	2	Button Head Cap Screw M5 x 40
+25195-08	2	Eccentric Spacer 0.375" Long
+30265-09	2	Nylon Insert Lock Nut M5
+25203-01	2	V Wheel Assembly
+
+
+*DeWalt 611 Spindle and Mount*	#42a44e	#fff
+30610-01	1	X-Carve DeWalt 611 Spindle Mount
+

@@ -1,0 +1,4 @@
+*1000mm Drag Chain Kit*	#8A52A1	#fff
+26049-09	1	Extrusion T-Slot 20x20 x 1000mm Tapped
+25286-46	2	Button Head Cap Screw M5 x 14
+

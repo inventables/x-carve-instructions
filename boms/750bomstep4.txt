@@ -1,0 +1,16 @@
+*Core Components Kit*	#383838	#fff
+30526-01	6	Belt Clip
+30677-01	6	Belt Sleeve Clip
+25286-33	16	Button Head Cap Screw M5 x 8
+25286-43	3	Button Head Cap Screw M5 x 25
+30547-01	1	GT2 Belt Closed Loop, 80T
+25287-12	4	M5 Flat Washer
+30265-09	4	Nylon Insert Lock Nut M5
+25285-53	4	Socket Head Screw M5 x 20
+
+*750mm Rail Kit*	#FFFFFF	#000
+26053-01	9	GT2 Belting - Open Ended (feet)
+
+*750mm Motor and Wiring Kit*	#CC3440	#fff
+25311-06	1	Stepper Motor - NEMA 23
+
