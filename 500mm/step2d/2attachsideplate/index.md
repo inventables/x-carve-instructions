@@ -51,7 +51,7 @@ next-step-title: "Attach Carriage"
 <table>
   <tr>
     <td style="color:#000;background: #FFFFFF" colspan="3">
-      <b>1000mm Rail Kit</b>
+      <b>500mm Rail Kit</b>
     </td>
   </tr>
   <tr>
@@ -67,10 +67,10 @@ next-step-title: "Attach Carriage"
   </tr>
   <tr>
     <td>
-      30678-03
+      30678-01
     </td>
     <td>
-      MakerSlide Extra Wide 1000mm Tapped Black
+      MakerSlide Extra Wide 500mm Tapped Black
     </td>
     <td>
       1
@@ -80,7 +80,7 @@ next-step-title: "Attach Carriage"
 <table>
   <tr>
     <td style="color:#fff;background: #8A52A1" colspan="3">
-      <b>1000mm Drag Chain Kit</b>
+      <b>500mm Drag Chain Kit</b>
     </td>
   </tr>
   <tr>

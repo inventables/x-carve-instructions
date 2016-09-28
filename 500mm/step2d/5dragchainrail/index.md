@@ -11,7 +11,7 @@ next-step-title: "Rails"
 <table>
   <tr>
     <td style="color:#fff;background: #8A52A1" colspan="3">
-      <b>1000mm Drag Chain Kit</b>
+      <b>500mm Drag Chain Kit</b>
     </td>
   </tr>
   <tr>
@@ -27,10 +27,10 @@ next-step-title: "Rails"
   </tr>
   <tr>
     <td>
-      26049-09
+      26049-07
     </td>
     <td>
-      Extrusion T-Slot 20x20 x 1000mm Tapped
+      Extrusion T-Slot 20x20 x 500mm Tapped
     </td>
     <td>
       1

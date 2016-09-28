@@ -53,7 +53,7 @@ diagram: "motors1.jpg"
 <table>
   <tr>
     <td style="color:#fff;background: #CC3440" colspan="3">
-      <b>1000mm Motor and Wiring Kit</b>
+      <b>500mm Motor and Wiring Kit</b>
     </td>
   </tr>
   <tr>

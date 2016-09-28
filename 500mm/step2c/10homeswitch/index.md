@@ -11,7 +11,7 @@ next-step-title: "Assemble Gantry"
 <table>
   <tr>
     <td style="color:#fff;background: #F47B44" colspan="3">
-      <b>1000mm Homing Switch Kit</b>
+      <b>500mm Homing Switch Kit</b>
     </td>
   </tr>
   <tr>
