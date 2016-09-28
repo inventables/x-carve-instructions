@@ -1,10 +1,22 @@
 ---
 layout: welcome
 ---
-
-<h1>Welcome to the X-Carve Instructions</h1>
-
-  <a href="/500mm/">500mm</a>
-  <a href="/750mm/">750mm</a>
-  <a href="/1000mm/">1000mm</a>
-  <a href="/xcarve2015/">2015 X-Carve</a>
+<div class="container container--welcome">
+  <h1>Welcome to the X-Carve Instructions!</h1>
+  <h3>Choose your machine size:</h3>
+  <div class="row row--machinesize">
+    <a class="col-md-4" href="/500mm/">
+      <img src= "xc-500.png">
+      <span>500mm</span>
+    </a>
+    <a class="col-md-4" href="/750mm/">
+      <img src= "xc-750.png">
+      <span>750mm</span>
+    </a>
+    <a class="col-md-4" href="/1000mm/">
+      <img src= "xc-1000.png">
+      <span>1000mm</span>
+    </a>
+  </div>
+  <p class="link-2015">Instructions for the 2015 X-Carve model can be found <a href="/xcarve2015/">here</a>.</p>
+</div>

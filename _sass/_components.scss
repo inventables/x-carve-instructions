@@ -282,3 +282,27 @@
     margin-right: 0;
   }
 }
+
+.container--welcome {
+  padding-top: 30px;
+
+  h1, h3 {
+    text-align: center;
+  }
+
+  h1 {
+    margin-bottom: 1em;
+  }
+
+  .row--machinesize {
+    a {
+      border-bottom: none;
+      text-align: center;
+    }
+  }
+
+  .link-2015 {
+    text-align: center;
+    margin-top: 2em;
+  }
+}
