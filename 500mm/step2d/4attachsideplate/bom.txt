@@ -1,7 +1,0 @@
-*Core Components Kit*	#383838	#fff
-25286-19	4	Button Head Cap Screw M5 x 12
-25287-08	1	M5 Flat Washer
-
-*1000mm Drag Chain Kit*	#8A52A1	#fff
-30681-01	1	Drag Chain Support Arm
-

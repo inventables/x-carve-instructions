@@ -1,6 +1,0 @@
-*Core Components Kit*	#383838	#fff
-30552-01	2	Flat Head Screw M5 x 35
-25312-23	2	Spacer 5.1mm ID 0.375" OD 9.5mm Lg Aluminum
-25197-01	2	Smooth Idler Pulley Assembly
-30265-04	2	Hex Nut M5 Nylon Locking
-

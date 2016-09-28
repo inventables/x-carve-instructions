@@ -1,5 +1,0 @@
-*Core Components Kit*	#383838	#fff
-30534-01	1	Motor Plate
-30169-01	1	Flanged Bearing, 8mm
-25286-17	2	Button Head Cap Screw M5 x 8
-
