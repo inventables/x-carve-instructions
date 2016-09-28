@@ -92,4 +92,5 @@ Insert the socket-head cap screws and thread on an M5 nylon locking nut to each.
 Loosely tighten each bolt with a 4mm hex wrench, holding the nut with an 8mm wrench. Go back and secure each bolt until snug.
 <img src="../../step2/photo/jpfs_DSC2605.jpg">
 
+Repeat this step for the other plate.
 
