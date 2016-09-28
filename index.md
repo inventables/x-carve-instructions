@@ -18,5 +18,5 @@ layout: welcome
       <span>1000mm</span>
     </a>
   </div>
-  <p class="link-2015">Instructions for the 2015 X-Carve model can be found <a href="/xcarve2015/">here</a>.</p>
+  <p class="link-2015">Instructions for X-Carve orders placed before August 31st can be found <a href="/xcarve2015/">here</a>.</p>
 </div>

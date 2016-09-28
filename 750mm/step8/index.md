@@ -3,7 +3,7 @@ layout: default750mm
 title: "Computer Setup"
 step-number: 1
 permalink: /750mm/step8/
-next-step: /step9/
+next-step: /750mm/step9/
 next-step-title: "Computer Setup"
 ---
 

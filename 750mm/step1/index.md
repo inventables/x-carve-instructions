@@ -3,7 +3,7 @@ layout: default750mm
 title: "Work Area"
 step-number: 1
 permalink: /750mm/step1/
-next-step: /750mm/step2a/1sideplates/
+next-step: /750mm/750mm/step2a/1sideplates/
 next-step-title: "Gantry"
 ---
 

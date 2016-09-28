@@ -3,7 +3,7 @@ layout: default750mm
 title: "Belting"
 step-number: 1
 permalink: /750mm/step4/
-next-step: /step5/
+next-step: /750mm/step5/
 next-step-title: "Spindle"
 ---
 <p>This section covers installing the belting.</p>

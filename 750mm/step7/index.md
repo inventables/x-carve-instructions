@@ -3,7 +3,7 @@ layout: default750mm
 title: "Side Board"
 step-number: 1
 permalink: /750mm/step7/
-next-step: /step8/
+next-step: /750mm/step8/
 next-step-title: "Computer Setup"
 ---
 <table>
