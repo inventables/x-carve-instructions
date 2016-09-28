@@ -7,67 +7,234 @@ next-step: /750mm/step7/
 next-step-title: "Side Board"
 ---
 <table>
-<tr><td style="color:#fff;background: #383838;" colspan="3"><b>Wiring
-</b></td></tr>
-	<tr>
-		<td><b>SKU</b></td>
-		<td><b>Name</b></td>
-		<td><b>Quantity</b></td>
-	</tr>
-	<tr>
-		<td>
-30679-05</td>
-		<td>Cable Assemble, Stepper Motor 73 in long X-Axis</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>
-30679-06</td>
-		<td>Cable Assemble, Stepper Motor 34 in long Y1-Axis</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>
-30679-07</td>
-		<td>Cable Assemble, Stepper Motor 71 in long Y2-Axis</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>
-30679-08</td>
-		<td>Cable Assemble, Stepper Motor 73 in long Z-Axis</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>
-30682-04</td>
-		<td>Cable Assembly, 2C Lugs Ferrules 76"Lg X-Limit</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>
-30682-05</td>
-		<td>Cable Assembly, 2C Lugs Ferrules 33"Lg Y-Limit</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>
-30682-06</td>
-		<td>Cable Assembly, 2C Lugs Ferrules 76"Lg Z-Limit</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>
-30331-12</td>
-		<td>Drag Chain Lengths</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>
-30712-01</td>
-		<td>X-Controller, 110V</td>
-		<td>1</td>
-	</tr>
+  <tr>
+    <td style="color:#fff;background: #CC3440" colspan="3">
+      <b>750mm Motor and Wiring Kit</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>SKU</b>
+    </td>
+    <td>
+      <b>Name</b>
+    </td>
+    <td>
+      <b>Quantity</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      30679-05
+    </td>
+    <td>
+      Cable Assembly, Stepper Motor 73 in long (X-Axis)
+    </td>
+    <td>
+      1
+    </td>
+  </tr>
+  <tr>
+    <td>
+      30679-06
+    </td>
+    <td>
+      Cable Assembly, Stepper Motor 34 in long (Y1-Axis)
+    </td>
+    <td>
+      1
+    </td>
+  </tr>
+  <tr>
+    <td>
+      30679-07
+    </td>
+    <td>
+      Cable Assembly, Stepper Motor 71 in long (Y2-Axis)
+    </td>
+    <td>
+      1
+    </td>
+  </tr>
+  <tr>
+    <td>
+      30679-08
+    </td>
+    <td>
+      Cable Assembly, Stepper Motor 73 in long (Z-Axis)
+    </td>
+    <td>
+      1
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td style="color:#fff;background: #8A52A1" colspan="3">
+      <b>750mm Drag Chain Kit</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>SKU</b>
+    </td>
+    <td>
+      <b>Name</b>
+    </td>
+    <td>
+      <b>Quantity</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      30527-06
+    </td>
+    <td>
+      Drag Chain Bracket
+    </td>
+    <td>
+      1
+    </td>
+  </tr>
+  <tr>
+    <td>
+      30680-01
+    </td>
+    <td>
+      Zip Tie Mount
+    </td>
+    <td>
+      5
+    </td>
+  </tr>
+  <tr>
+    <td>
+      26016-03
+    </td>
+    <td>
+      T-Nut M5 Post Assembly
+    </td>
+    <td>
+      5
+    </td>
+  </tr>
+  <tr>
+    <td>
+      30331-12
+    </td>
+    <td>
+      Drag Chain 18x25 16 Links w/ Custom Ends
+    </td>
+    <td>
+      2
+    </td>
+  </tr>
+  <tr>
+    <td>
+      25986-03
+    </td>
+    <td>
+      Cable Tie 4" (100 Pack)25286-44
+    </td>
+    <td>
+      1
+    </td>
+  </tr>
+  <tr>
+    <td>
+      25286-31
+    </td>
+    <td>
+      Button Head Cap Screw M5 x 6
+    </td>
+    <td>
+      1
+    </td>
+  </tr>
+  <tr>
+    <td>
+      30554-06
+    </td>
+    <td>
+      Flat Head Cap Screw M5 x 10
+    </td>
+    <td>
+      4
+    </td>
+  </tr>
+  <tr>
+    <td>
+      30554-07
+    </td>
+    <td>
+      Flat Head Cap Screw M5 x 12
+    </td>
+    <td>
+      6
+    </td>
+  </tr>
+  <tr>
+    <td>
+      30265-10
+    </td>
+    <td>
+      Nylon Insert Lock Nut M5
+    </td>
+    <td>
+      6
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td style="color:#fff;background: #F47B44" colspan="3">
+      <b>750mm Homing Switch Kit</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>SKU</b>
+    </td>
+    <td>
+      <b>Name</b>
+    </td>
+    <td>
+      <b>Quantity</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      30682-04
+    </td>
+    <td>
+      Cable Assembly, 2C Lugs Ferrules 76"Lg X-Limit
+    </td>
+    <td>
+      1
+    </td>
+  </tr>
+  <tr>
+    <td>
+      30682-05
+    </td>
+    <td>
+      Cable Assembly, 2C Lugs Ferrules 39"Lg Y-Limit
+    </td>
+    <td>
+      1
+    </td>
+  </tr>
+  <tr>
+    <td>
+      30682-06
+    </td>
+    <td>
+      Cable Assembly, 2C Lugs Ferrules 76"Lg Z-Limit
+    </td>
+    <td>
+      1
+    </td>
+  </tr>
 </table>
 
 <img src="photo/jpfs_DSC2806.jpg">

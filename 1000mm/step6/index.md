@@ -29,7 +29,7 @@ diagram: "/wiringDiagram.jpg"
       30679-09
     </td>
     <td>
-      Cable Assemble, Stepper Motor 97 in long (X-Axis)
+      Cable Assembly, Stepper Motor 97 in long (X-Axis)
     </td>
     <td>
       1
@@ -40,7 +40,7 @@ diagram: "/wiringDiagram.jpg"
       30679-10
     </td>
     <td>
-      Cable Assemble, Stepper Motor 42 in long (Y1-Axis)
+      Cable Assembly, Stepper Motor 42 in long (Y1-Axis)
     </td>
     <td>
       1
@@ -51,7 +51,7 @@ diagram: "/wiringDiagram.jpg"
       30679-11
     </td>
     <td>
-      Cable Assemble, Stepper Motor 89 in long (Y2-Axis)
+      Cable Assembly, Stepper Motor 89 in long (Y2-Axis)
     </td>
     <td>
       1
@@ -62,7 +62,7 @@ diagram: "/wiringDiagram.jpg"
       30679-12
     </td>
     <td>
-      Cable Assemble, Stepper Motor 97 in long (Z-Axis)
+      Cable Assembly, Stepper Motor 97 in long (Z-Axis)
     </td>
     <td>
       1
@@ -84,17 +84,6 @@ diagram: "/wiringDiagram.jpg"
     </td>
     <td>
       <b>Quantity</b>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      30527-05
-    </td>
-    <td>
-      Drag Chain Bracket
-    </td>
-    <td>
-      2
     </td>
   </tr>
   <tr>
@@ -132,21 +121,10 @@ diagram: "/wiringDiagram.jpg"
   </tr>
   <tr>
     <td>
-      30681-01
-    </td>
-    <td>
-      Drag Chain Support Arm
-    </td>
-    <td>
-      2
-    </td>
-  </tr>
-  <tr>
-    <td>
       30331-13
     </td>
     <td>
-      Drag Chain 18x25 21 Links Custom Ends
+      Drag Chain 18x25 21 Links w/ Custom Ends
     </td>
     <td>
       2
@@ -157,32 +135,10 @@ diagram: "/wiringDiagram.jpg"
       25986-03
     </td>
     <td>
-      Cable Tie 4" Black 18lb Test (100 Pack)
+      Cable Tie 4" (100 Pack)25286-44
     </td>
     <td>
       1
-    </td>
-  </tr>
-  <tr>
-    <td>
-      26049-09
-    </td>
-    <td>
-      Extrusion T-Slot 20x20 x 1000mm Tapped
-    </td>
-    <td>
-      1
-    </td>
-  </tr>
-  <tr>
-    <td>
-      25286-24
-    </td>
-    <td>
-      Button Head Cap Screw M4 x 10
-    </td>
-    <td>
-      4
     </td>
   </tr>
   <tr>
@@ -198,18 +154,7 @@ diagram: "/wiringDiagram.jpg"
   </tr>
   <tr>
     <td>
-      25286-29
-    </td>
-    <td>
-      Button Head Cap Screw M5 x 14
-    </td>
-    <td>
-      2
-    </td>
-  </tr>
-  <tr>
-    <td>
-      30554-04
+      30554-06
     </td>
     <td>
       Flat Head Cap Screw M5 x 10
@@ -220,7 +165,7 @@ diagram: "/wiringDiagram.jpg"
   </tr>
   <tr>
     <td>
-      30554-05
+      30554-07
     </td>
     <td>
       Flat Head Cap Screw M5 x 12
@@ -231,21 +176,10 @@ diagram: "/wiringDiagram.jpg"
   </tr>
   <tr>
     <td>
-      30265-03
+      30265-10
     </td>
     <td>
-      Hex Nut M4 Nylon Locking
-    </td>
-    <td>
-      2
-    </td>
-  </tr>
-  <tr>
-    <td>
-      30265-04
-    </td>
-    <td>
-      Hex Nut M5 Nylon Locking
+      Nylon Insert Lock Nut M5
     </td>
     <td>
       6
@@ -254,8 +188,8 @@ diagram: "/wiringDiagram.jpg"
 </table>
 <table>
   <tr>
-    <td style="color:#ff;background: #F47B44" colspan="3">
-      <b>1000mm Home Switch Kit</b>
+    <td style="color:#fff;background: #F47B44" colspan="3">
+      <b>1000mm Homing Switch Kit</b>
     </td>
   </tr>
   <tr>
@@ -303,7 +237,6 @@ diagram: "/wiringDiagram.jpg"
     </td>
   </tr>
 </table>
-
 
 <img src="./photo/jpfs_DSC2806.jpg">
 <p>Prepare the drag chain lengths by popping open the hinges using a flat head screw driver.</p>

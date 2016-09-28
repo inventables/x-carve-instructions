@@ -9,7 +9,7 @@ next-step-title: "Computer Setup"
 <table>
   <tr>
     <td style="color:#fff;background: #9D9FA2" colspan="3">
-      <b>1000mm Side Board Assembly</b>
+      <b>1000mm Side Board Kit</b>
     </td>
   </tr>
   <tr>
@@ -36,7 +36,7 @@ next-step-title: "Computer Setup"
   </tr>
   <tr>
     <td>
-      25281-05
+      25281-13
     </td>
     <td>
       T-Slot Nut M5 Pre-Assembly
@@ -58,10 +58,10 @@ next-step-title: "Computer Setup"
   </tr>
   <tr>
     <td>
-      30517-03
+      30517-11
     </td>
     <td>
-      Threaded Insert M5 x 10
+      Threaded Insert M5
     </td>
     <td>
       12
@@ -102,7 +102,7 @@ next-step-title: "Computer Setup"
   </tr>
   <tr>
     <td>
-      25286-17
+      25286-34
     </td>
     <td>
       Button Head Cap Screw M5 x 8
@@ -113,7 +113,7 @@ next-step-title: "Computer Setup"
   </tr>
   <tr>
     <td>
-      25286-18
+      25286-37
     </td>
     <td>
       Button Head Cap Screw M5 x 10
@@ -124,7 +124,7 @@ next-step-title: "Computer Setup"
   </tr>
   <tr>
     <td>
-      25286-19
+      25286-41
     </td>
     <td>
       Button Head Cap Screw M5 x 12
@@ -135,7 +135,7 @@ next-step-title: "Computer Setup"
   </tr>
   <tr>
     <td>
-      25286-29
+      25286-47
     </td>
     <td>
       Button Head Cap Screw M5 x 14

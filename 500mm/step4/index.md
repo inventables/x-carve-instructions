@@ -8,79 +8,168 @@ next-step-title: "Spindle"
 ---
 <p>This section covers installing the belting.</p>
 <table>
-<tr><td style="color:#fff;background: #383838;" colspan="3"><b>Belting
-</b></td></tr>
-	<tr>
-		<td><b>SKU</b></td>
-		<td><b>Name</b></td>
-		<td><b>Quantity</b></td>
-	</tr>
-	<tr>
-		<td>
-26053-01</td>
-		<td>Belting (3 Equal Lengths)</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>
-30526-01</td>
-		<td>Belt Clips</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>
-30677-01</td>
-		<td>Belt Stays</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>
-25286-17</td>
-		<td>Button Head Cap Screws M5x8mm</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>
-25286-21</td>
-		<td>Button Head Cap Screws M5x25mm</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>
-25281-05</td>
-		<td>T-Slot Nut M5 Pre-Assembly (Insertion Nut)</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>
-30547-01</td>
-		<td>Closed Loop Belt</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>
-25311-06</td>
-		<td>NEMA 23 Stepper Motor</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>
-25285-37</td>
-		<td>Socket Head Cap Screws M5x20mm</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>
-25287-08</td>
-		<td>M5 Washer</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>
-30265-04</td>
-		<td>M5 Nylon Locking Nuts</td>
-		<td>4</td>
-	</tr>
+  <tr>
+    <td style="color:#fff;background: #383838" colspan="3">
+      <b>Core Components Kit</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>SKU</b>
+    </td>
+    <td>
+      <b>Name</b>
+    </td>
+    <td>
+      <b>Quantity</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      30526-01
+    </td>
+    <td>
+      Belt Clip
+    </td>
+    <td>
+      6
+    </td>
+  </tr>
+  <tr>
+    <td>
+      30677-01
+    </td>
+    <td>
+      Belt Sleeve Clip
+    </td>
+    <td>
+      6
+    </td>
+  </tr>
+  <tr>
+    <td>
+      25286-33
+    </td>
+    <td>
+      Button Head Cap Screw M5 x 8
+    </td>
+    <td>
+      16
+    </td>
+  </tr>
+  <tr>
+    <td>
+      25286-43
+    </td>
+    <td>
+      Button Head Cap Screw M5 x 25
+    </td>
+    <td>
+      3
+    </td>
+  </tr>
+  <tr>
+    <td>
+      30547-01
+    </td>
+    <td>
+      GT2 Belt Closed Loop, 80T
+    </td>
+    <td>
+      1
+    </td>
+  </tr>
+  <tr>
+    <td>
+      25287-12
+    </td>
+    <td>
+      M5 Flat Washer
+    </td>
+    <td>
+      4
+    </td>
+  </tr>
+  <tr>
+    <td>
+      30265-09
+    </td>
+    <td>
+      Nylon Insert Lock Nut M5
+    </td>
+    <td>
+      4
+    </td>
+  </tr>
+  <tr>
+    <td>
+      25285-53
+    </td>
+    <td>
+      Socket Head Screw M5 x 20
+    </td>
+    <td>
+      4
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td style="color:#000;background: #FFFFFF" colspan="3">
+      <b>500mm Rail Kit</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>SKU</b>
+    </td>
+    <td>
+      <b>Name</b>
+    </td>
+    <td>
+      <b>Quantity</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      26053-01
+    </td>
+    <td>
+      GT2 Belting - Open Ended (feet)
+    </td>
+    <td>
+      7
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td style="color:#fff;background: #CC3440" colspan="3">
+      <b>500mm Motor and Wiring Kit</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>SKU</b>
+    </td>
+    <td>
+      <b>Name</b>
+    </td>
+    <td>
+      <b>Quantity</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      25311-06
+    </td>
+    <td>
+      Stepper Motor - NEMA 23
+    </td>
+    <td>
+      1
+    </td>
+  </tr>
 </table>
 
 <img src="photo/jpfs_DSC2791.jpg">

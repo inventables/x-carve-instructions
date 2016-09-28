@@ -7,79 +7,143 @@ next-step: /750mm/step8/
 next-step-title: "Computer Setup"
 ---
 <table>
-<tr><td style="color:#fff;background: #383838;" colspan="3"><b>Side Board
-</b></td></tr>
-	<tr>
-		<td><b>SKU</b></td>
-		<td><b>Name</b></td>
-		<td><b>Quantity</b></td>
-	</tr>
-	<tr>
-		<td>
-30684-01</td>
-		<td>Extrusion Connection Bracket</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>
-25281-05</td>
-		<td>T-Slot Nut M5 Pre-Assembly</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>
-26018-01</td>
-		<td>Cast Corner Bracket, Clear</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>
-30517-03</td>
-		<td>Threaded Insert M5 x 10</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>
-30685-02</td>
-		<td>Side Board, X-Carve 750mm Size</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>
-26049-10</td>
-		<td>Extrusion T-Slot 20x20 x 250mm Long Black</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>
-26049-05</td>
-		<td>Extrusion T-Slot 20x20 x 708mm Long Black</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>
-25286-17</td>
-		<td>Button Head Screw M5 x 8 Steel/Black</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>
-25286-18</td>
-		<td>Button Head Screw M5 x 10</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>
-25286-19</td>
-		<td>Button Head Screw M5 x 12 Steel/Zinc</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>
-25286-29</td>
-		<td>Button Head Screw M5 x 14 Steel/Black</td>
-		<td>12</td>
-	</tr>
+  <tr>
+    <td style="color:#fff;background: #9D9FA2" colspan="3">
+      <b>750mm Side Board Kit</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>SKU</b>
+    </td>
+    <td>
+      <b>Name</b>
+    </td>
+    <td>
+      <b>Quantity</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      30684-01
+    </td>
+    <td>
+      Extrusion Connection Bracket
+    </td>
+    <td>
+      2
+    </td>
+  </tr>
+  <tr>
+    <td>
+      25281-13
+    </td>
+    <td>
+      T-Slot Nut M5 Pre-Assembly
+    </td>
+    <td>
+      21
+    </td>
+  </tr>
+  <tr>
+    <td>
+      26018-01
+    </td>
+    <td>
+      Cast Corner Bracket, Clear
+    </td>
+    <td>
+      4
+    </td>
+  </tr>
+  <tr>
+    <td>
+      30517-11
+    </td>
+    <td>
+      Threaded Insert M5
+    </td>
+    <td>
+      12
+    </td>
+  </tr>
+  <tr>
+    <td>
+      30685-02
+    </td>
+    <td>
+      Side Board, X-Carve 750mm Size
+    </td>
+    <td>
+      1
+    </td>
+  </tr>
+  <tr>
+    <td>
+      26049-10
+    </td>
+    <td>
+      Extrusion T-Slot 20x20 x 250mm
+    </td>
+    <td>
+      2
+    </td>
+  </tr>
+  <tr>
+    <td>
+      26049-05
+    </td>
+    <td>
+      Extrusion T-Slot 20x20 x 708mm
+    </td>
+    <td>
+      2
+    </td>
+  </tr>
+  <tr>
+    <td>
+      25286-34
+    </td>
+    <td>
+      Button Head Cap Screw M5 x 8
+    </td>
+    <td>
+      8
+    </td>
+  </tr>
+  <tr>
+    <td>
+      25286-37
+    </td>
+    <td>
+      Button Head Cap Screw M5 x 10
+    </td>
+    <td>
+      8
+    </td>
+  </tr>
+  <tr>
+    <td>
+      25286-41
+    </td>
+    <td>
+      Button Head Cap Screw M5 x 12
+    </td>
+    <td>
+      5
+    </td>
+  </tr>
+  <tr>
+    <td>
+      25286-47
+    </td>
+    <td>
+      Button Head Cap Screw M5 x 14
+    </td>
+    <td>
+      12
+    </td>
+  </tr>
 </table>
 
 <img src="photo/jpfs_DSC2932.jpg">
