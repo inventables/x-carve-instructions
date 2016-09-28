@@ -12,6 +12,35 @@ diagram: "motors.jpg"
 
 <table>
   <tr>
+    <td style="color:#fff;background: #383838" colspan="3">
+      <b>Core Components Kit</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>SKU</b>
+    </td>
+    <td>
+      <b>Name</b>
+    </td>
+    <td>
+      <b>Quantity</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      25285-54
+    </td>
+    <td>
+      Socket Head Screw M5 x 10
+    </td>
+    <td>
+      4
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
     <td style="color:#fff;background: #CC3440" colspan="3">
       <b>1000mm Motor and Wiring Kit</b>
     </td>
@@ -32,39 +61,10 @@ diagram: "motors.jpg"
       25311-06
     </td>
     <td>
-      Stepper Motor, NEMA 23 140 oz/in conn/pulley
+      Stepper Motor - NEMA 23
     </td>
     <td>
       1
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td style="color:#fff;background: #383838" colspan="3">
-      <b>Core Components Kit</b>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>SKU</b>
-    </td>
-    <td>
-      <b>Name</b>
-    </td>
-    <td>
-      <b>Quantity</b>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      25285-41
-    </td>
-    <td>
-      Socket Head Screw M5 x 10
-    </td>
-    <td>
-      4
     </td>
   </tr>
 </table>

@@ -27,7 +27,7 @@ next-step-title: "Attach Carriage"
   </tr>
   <tr>
     <td>
-      25286-19
+      25286-38
     </td>
     <td>
       Button Head Cap Screw M5 x 12
@@ -38,39 +38,10 @@ next-step-title: "Attach Carriage"
   </tr>
   <tr>
     <td>
-      25287-08
+      25287-12
     </td>
     <td>
       M5 Flat Washer
-    </td>
-    <td>
-      1
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td style="color:#fff;background: #8A52A1" colspan="3">
-      <b>1000mm Drag Chain Kit</b>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>SKU</b>
-    </td>
-    <td>
-      <b>Name</b>
-    </td>
-    <td>
-      <b>Quantity</b>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      30681-01
-    </td>
-    <td>
-      Drag Chain Support Arm
     </td>
     <td>
       1
@@ -106,9 +77,35 @@ next-step-title: "Attach Carriage"
     </td>
   </tr>
 </table>
-
-
-
+<table>
+  <tr>
+    <td style="color:#fff;background: #8A52A1" colspan="3">
+      <b>1000mm Drag Chain Kit</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>SKU</b>
+    </td>
+    <td>
+      <b>Name</b>
+    </td>
+    <td>
+      <b>Quantity</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      30681-01
+    </td>
+    <td>
+      Drag Chain Support Arm
+    </td>
+    <td>
+      1
+    </td>
+  </tr>
+</table>
 
 In this step you will attach one of the Y Plates to The X axis makerslide rail. You'll put one plate on, then slide the assembled X Carriage on before inserting some pre-assembly insertion nuts for the belting and attaching the other plate.
 <img src="../../step2/photo/jpfs_DSC2764.jpg">

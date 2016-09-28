@@ -32,7 +32,7 @@ diagram: "../02flangedbearing/flangedbearing.jpg"
       30534-01
     </td>
     <td>
-      Motor Plate
+      Z Axis Motor Plate
     </td>
     <td>
       1
@@ -51,7 +51,7 @@ diagram: "../02flangedbearing/flangedbearing.jpg"
   </tr>
   <tr>
     <td>
-      25286-17
+      25286-33
     </td>
     <td>
       Button Head Cap Screw M5 x 8

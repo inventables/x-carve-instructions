@@ -13,8 +13,8 @@ diagram2: "../09attachmount/attachmount2.jpg"
 
 <table>
   <tr>
-    <td style="color:#fff;background: #383838" colspan="3">
-      <b>Core Components Kit</b>
+    <td style="color:#fff;background: #42a44e" colspan="3">
+      <b>DeWalt 611 Spindle and Mount</b>
     </td>
   </tr>
   <tr>
@@ -30,17 +30,16 @@ diagram2: "../09attachmount/attachmount2.jpg"
   </tr>
   <tr>
     <td>
-      25285-52
+      25286-45
     </td>
     <td>
-      Socket Head Screw M5 x 16
+      Button Head Cap Screw M5 × 16mm
     </td>
     <td>
       2
     </td>
   </tr>
 </table>
-
 
 <h3>Attach Spindle Carriage to Z-Axis</h3>
 

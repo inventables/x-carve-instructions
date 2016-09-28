@@ -40,7 +40,7 @@ diagram: "dragchain.jpg"
   </tr>
   <tr>
     <td>
-      25286-24
+      25286-44
     </td>
     <td>
       Button Head Cap Screw M4 x 10

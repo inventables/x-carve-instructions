@@ -13,7 +13,7 @@ diagram: "../08clampbolts/clampbolts.jpg"
 <table>
   <tr>
     <td style="color:#fff;background: #42a44e" colspan="3">
-      <b>DeWalt Spindle Kit</b>
+      <b>DeWalt 611 Spindle and Mount</b>
     </td>
   </tr>
   <tr>
@@ -29,10 +29,10 @@ diagram: "../08clampbolts/clampbolts.jpg"
   </tr>
   <tr>
     <td>
-      25285-46
+      25285-55
     </td>
     <td>
-      Socket Head Screw M4 x16 Low Profile Head
+      Socket Head Cap Screw M4 x 16mm Low Profile
     </td>
     <td>
       3

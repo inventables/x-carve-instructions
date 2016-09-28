@@ -12,35 +12,6 @@ diagram: "../06adjustablevwheels/adjustablevwheels3.jpg"
 
 <table>
   <tr>
-    <td style="color:#fff;background: #42a44e" colspan="3">
-      <b>DeWalt Spindle Kit</b>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>SKU</b>
-    </td>
-    <td>
-      <b>Name</b>
-    </td>
-    <td>
-      <b>Quantity</b>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      30610-01
-    </td>
-    <td>
-      Spindle Carriage, DeWalt 611
-    </td>
-    <td>
-      1
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
     <td style="color:#fff;background: #383838" colspan="3">
       <b>Core Components Kit</b>
     </td>
@@ -58,7 +29,7 @@ diagram: "../06adjustablevwheels/adjustablevwheels3.jpg"
   </tr>
   <tr>
     <td>
-      25286-30
+      25286-48
     </td>
     <td>
       Button Head Cap Screw M5 x 40
@@ -80,13 +51,54 @@ diagram: "../06adjustablevwheels/adjustablevwheels3.jpg"
   </tr>
   <tr>
     <td>
-      30265-04
+      30265-09
     </td>
     <td>
-      Hex Nut M5 Nylon Locking
+      Nylon Insert Lock Nut M5
     </td>
     <td>
       2
+    </td>
+  </tr>
+  <tr>
+    <td>
+      25203-01
+    </td>
+    <td>
+      V Wheel Assembly
+    </td>
+    <td>
+      2
+    </td>
+  </tr>
+</table>
+</table>
+<table>
+  <tr>
+    <td style="color:#fff;background: #42a44e" colspan="3">
+      <b>DeWalt 611 Spindle and Mount</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>SKU</b>
+    </td>
+    <td>
+      <b>Name</b>
+    </td>
+    <td>
+      <b>Quantity</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      30610-01
+    </td>
+    <td>
+      X-Carve DeWalt 611 Spindle Mount
+    </td>
+    <td>
+      1
     </td>
   </tr>
 </table>

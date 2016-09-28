@@ -40,7 +40,7 @@ diagram: "../03attachrail/attachrail.jpg"
   </tr>
   <tr>
     <td>
-      25286-29
+      25286-46
     </td>
     <td>
       Button Head Cap Screw M5 x 14

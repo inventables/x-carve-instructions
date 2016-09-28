@@ -38,7 +38,7 @@ next-step-title: "Rails"
   </tr>
   <tr>
     <td>
-      25286-29
+      25286-46
     </td>
     <td>
       Button Head Cap Screw M5 x 14
@@ -48,8 +48,6 @@ next-step-title: "Rails"
     </td>
   </tr>
 </table>
-
-
 
 Attach a piece of 1000mm 20mmx20mm extrusion to the plastic brackets of the gantry. Secure the ends with 2x M5x14mm button head cap screws. We'll attach the drag chain hardware on this in a later step.
 <img src="../../step2/photo/jpfs_DSC2768.jpg">

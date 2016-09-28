@@ -40,7 +40,7 @@ diagram: "../07fixedvwheels/fixedvwheels3.jpg"
   </tr>
   <tr>
     <td>
-      25286-30
+      25286-48
     </td>
     <td>
       Button Head Cap Screw M5 x 40
@@ -54,7 +54,7 @@ diagram: "../07fixedvwheels/fixedvwheels3.jpg"
       25312-23
     </td>
     <td>
-      Spacer 5.1mm ID 0.375" OD 9.5mm Lg Aluminum
+      Aluminum Spacer 5.1mm ID 9.5mm OD 9.5mm LG
     </td>
     <td>
       2
@@ -62,10 +62,10 @@ diagram: "../07fixedvwheels/fixedvwheels3.jpg"
   </tr>
   <tr>
     <td>
-      30265-04
+      30265-09
     </td>
     <td>
-      Hex Nut M5 Nylon Locking
+      Nylon Insert Lock Nut M5
     </td>
     <td>
       2

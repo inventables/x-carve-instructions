@@ -30,7 +30,7 @@ diagram2: "../05attachtocarriage/attachtocarriage2.jpg"
   </tr>
   <tr>
     <td>
-      25286-18
+      25286-35
     </td>
     <td>
       Button Head Cap Screw M5 x 10
@@ -41,7 +41,7 @@ diagram2: "../05attachtocarriage/attachtocarriage2.jpg"
   </tr>
   <tr>
     <td>
-      25281-05
+      25281-12
     </td>
     <td>
       T-Slot Nut M5 Pre-Assembly
@@ -51,6 +51,7 @@ diagram2: "../05attachtocarriage/attachtocarriage2.jpg"
     </td>
   </tr>
 </table>
+
 
 <h3>Attach Z-Axis Assembly to X-Carriage</h3>
 

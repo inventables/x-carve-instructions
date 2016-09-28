@@ -27,7 +27,7 @@ next-step-title: "Drag Chain Rail"
   </tr>
   <tr>
     <td>
-      25286-19
+      25286-38
     </td>
     <td>
       Button Head Cap Screw M5 x 12
@@ -38,13 +38,24 @@ next-step-title: "Drag Chain Rail"
   </tr>
   <tr>
     <td>
-      25287-08
+      25287-12
     </td>
     <td>
       M5 Flat Washer
     </td>
     <td>
       1
+    </td>
+  </tr>
+  <tr>
+    <td>
+      25281-12
+    </td>
+    <td>
+      T-Slot Nut M5 Pre-Assembly
+    </td>
+    <td>
+      2
     </td>
   </tr>
 </table>
@@ -77,7 +88,6 @@ next-step-title: "Drag Chain Rail"
     </td>
   </tr>
 </table>
-
 
 Before attaching the other gantry side plate, insert two pre-assembly insertion nuts into the top rail of the main rail so that the belting can be attached later
 

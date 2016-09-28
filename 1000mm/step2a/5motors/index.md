@@ -12,6 +12,46 @@ diagram: "motors1.jpg"
 
 <table>
   <tr>
+    <td style="color:#fff;background: #383838" colspan="3">
+      <b>Core Components Kit</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>SKU</b>
+    </td>
+    <td>
+      <b>Name</b>
+    </td>
+    <td>
+      <b>Quantity</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      25285-52
+    </td>
+    <td>
+      Socket Head Screw M5 x 16
+    </td>
+    <td>
+      8
+    </td>
+  </tr>
+  <tr>
+    <td>
+      30265-09
+    </td>
+    <td>
+      Nylon Insert Lock Nut M5
+    </td>
+    <td>
+      8
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
     <td style="color:#fff;background: #CC3440" colspan="3">
       <b>1000mm Motor and Wiring Kit</b>
     </td>
@@ -32,53 +72,14 @@ diagram: "motors1.jpg"
       25311-06
     </td>
     <td>
-      Stepper Motor, NEMA 23 140 oz/in conn/pulley
+      Stepper Motor - NEMA 23
     </td>
     <td>
       2
     </td>
   </tr>
 </table>
-<table>
-  <tr>
-    <td style="color:#fff;background: #383838" colspan="3">
-      <b>Core Components Kit</b>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>SKU</b>
-    </td>
-    <td>
-      <b>Name</b>
-    </td>
-    <td>
-      <b>Quantity</b>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      25285-36
-    </td>
-    <td>
-      Socket Head Screw M5 x 16
-    </td>
-    <td>
-      8
-    </td>
-  </tr>
-  <tr>
-    <td>
-      30265-04
-    </td>
-    <td>
-      Hex Nut M5 Nylon Locking
-    </td>
-    <td>
-      8
-    </td>
-  </tr>
-</table>
+
 
 <h3>Attach NEMA 23 Motor to Plate</h3>
 

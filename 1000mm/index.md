@@ -13,9 +13,6 @@ Congratulations!  You've just taken one of your first steps into the world of 3D
 
 This is a do-it-yourself 3D carving kit: the more time and attention you put into assembling your machine, the better it will perform.  If you run into any trouble during assembly or carving you can find further help from the wonderful community on the forum, our support center which is continuously growing with articles and tutorials, and as always you can reach our customer success team through our [support center](https://inventables.desk.com/) or by phone at 312 775 7009.
 
-As with the machine itself, these instructions are open for modification, so feel free to contribute if you see anything that needs to be clarified or errors that need to be fixed.  There's a link at the top of each page that will take you to our GitHub site with more information on how to contribute. If you don't feel comfortable contributing directly through GitHub, just drop us a line and we'll take care of it for you.  We hope that through the help of the community these instructions will continuously improve for future 3D Carvers.
-
-
 <h2>Bill of Materials</h2>
 <div class="bom">
 <div class="panel-group" id="core-components-accordion" role="tablist" aria-multiselectable="true">

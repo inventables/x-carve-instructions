@@ -13,7 +13,7 @@ diagram: "homeswitch.jpg"
 <table>
   <tr>
     <td style="color:#fff;background: #F47B44" colspan="3">
-      <b>1000mm Home Switch Kit</b>
+      <b>1000mm Homing Switch Kit</b>
     </td>
   </tr>
   <tr>
@@ -29,7 +29,18 @@ diagram: "homeswitch.jpg"
   </tr>
   <tr>
     <td>
-      25285-50
+      30557-02
+    </td>
+    <td>
+      Microswitch
+    </td>
+    <td>
+      1
+    </td>
+  </tr>
+  <tr>
+    <td>
+      25285-57
     </td>
     <td>
       Socket Head Screw M2 x 14
@@ -40,7 +51,7 @@ diagram: "homeswitch.jpg"
   </tr>
   <tr>
     <td>
-      30555-02
+      30555-03
     </td>
     <td>
       Washer, Split Lock M2 Stainless
@@ -51,18 +62,7 @@ diagram: "homeswitch.jpg"
   </tr>
   <tr>
     <td>
-      30557-02
-    </td>
-    <td>
-      Switch Lever SPDT 125VAC 5A Roller Actuator Tab Terminal
-    </td>
-    <td>
-      1
-    </td>
-  </tr>
-  <tr>
-    <td>
-      25284-09
+      25284-12
     </td>
     <td>
       Hex Nut M2x0.4

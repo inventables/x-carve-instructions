@@ -65,7 +65,7 @@ diagram: "../04leadscrew/leadscrew.jpg"
       26054-04
     </td>
     <td>
-      Pulley GT2 8mm Bore 20 Tooth
+      Aluminum GT2 Pulley 20T 8mm
     </td>
     <td>
       1
@@ -76,13 +76,14 @@ diagram: "../04leadscrew/leadscrew.jpg"
       30265-05
     </td>
     <td>
-      Hex Nut M6 Nylon Locking
+      Nylon Insert Lock Nut M6
     </td>
     <td>
       1
     </td>
   </tr>
 </table>
+
 
 <h3>Install Leadscrew</h3>
 

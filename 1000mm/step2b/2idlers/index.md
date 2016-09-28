@@ -29,7 +29,18 @@ diagram: "idlers.jpg"
   </tr>
   <tr>
     <td>
-      30552-01
+      30545-01
+    </td>
+    <td>
+      X Carriage Extrusion
+    </td>
+    <td>
+      1
+    </td>
+  </tr>
+  <tr>
+    <td>
+      30552-05
     </td>
     <td>
       Flat Head Screw M5 x 35
@@ -43,7 +54,7 @@ diagram: "idlers.jpg"
       25312-23
     </td>
     <td>
-      Spacer 5.1mm ID 0.375" OD 9.5mm Lg Aluminum
+      Aluminum Spacer 5.1mm ID 9.5mm OD 9.5mm LG
     </td>
     <td>
       2
@@ -62,16 +73,17 @@ diagram: "idlers.jpg"
   </tr>
   <tr>
     <td>
-      30265-04
+      30265-09
     </td>
     <td>
-      Hex Nut M5 Nylon Locking
+      Nylon Insert Lock Nut M5
     </td>
     <td>
       2
     </td>
   </tr>
 </table>
+
 
 <h3>Attach Smooth Idlers</h3>
 

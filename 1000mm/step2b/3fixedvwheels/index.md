@@ -29,7 +29,7 @@ diagram: "fixedvwheels.jpg"
   </tr>
   <tr>
     <td>
-      25286-21
+      25286-43
     </td>
     <td>
       Button Head Cap Screw M5 x 25
@@ -40,7 +40,7 @@ diagram: "fixedvwheels.jpg"
   </tr>
   <tr>
     <td>
-      25287-08
+      25287-12
     </td>
     <td>
       M5 Flat Washer
@@ -62,10 +62,10 @@ diagram: "fixedvwheels.jpg"
   </tr>
   <tr>
     <td>
-      30265-04
+      30265-09
     </td>
     <td>
-      Hex Nut M5 Nylon Locking
+      Nylon Insert Lock Nut M5
     </td>
     <td>
       4

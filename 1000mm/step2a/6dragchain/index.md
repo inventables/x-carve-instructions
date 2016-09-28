@@ -40,7 +40,7 @@ diagram: "dragchain1.jpg"
   </tr>
   <tr>
     <td>
-      25286-24
+      25286-44
     </td>
     <td>
       Button Head Cap Screw M4 x 10
@@ -51,16 +51,17 @@ diagram: "dragchain1.jpg"
   </tr>
   <tr>
     <td>
-      30265-03
+      30265-08
     </td>
     <td>
-      Hex Nut M4 Nylon Locking
+      Nylon Insert Lock Nut M4
     </td>
     <td>
       2
     </td>
   </tr>
 </table>
+
 
 <h3>Attach Drag Chain Mount on Left Plate</h3>
 

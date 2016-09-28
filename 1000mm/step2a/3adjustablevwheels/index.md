@@ -29,7 +29,7 @@ diagram: "adjustablevwheels1.jpg"
   </tr>
   <tr>
     <td>
-      25286-32
+      25286-49
     </td>
     <td>
       Button Head Cap Screw M5 x 30
@@ -51,7 +51,7 @@ diagram: "adjustablevwheels1.jpg"
   </tr>
   <tr>
     <td>
-      25287-08
+      25287-12
     </td>
     <td>
       M5 Flat Washer
@@ -73,16 +73,17 @@ diagram: "adjustablevwheels1.jpg"
   </tr>
   <tr>
     <td>
-      30265-04
+      30265-09
     </td>
     <td>
-      Hex Nut M5 Nylon Locking
+      Nylon Insert Lock Nut M5
     </td>
     <td>
       4
     </td>
   </tr>
 </table>
+
 
 <h3>Attach Adjustable V-Wheels</h3>
 Attaching the adjustable v-wheels is a bit more complicated, though you won't have to adjust them until later in the assembly. These v-wheels are adjusted by means of an eccentric spacer that rests inside a larger hole on the plate. by turning the spacer, the distance between the v-wheels can be adjusted just enough to make sure that they are snug on the makerslide rail. For the moment you'll want to install the spacers in the 'open' position, that is, rotated so that the adjustable v-wheel is as far from the corresponding fixed v-wheel as possible.
