@@ -72,7 +72,6 @@ diagram: "../06adjustablevwheels/adjustablevwheels3.jpg"
     </td>
   </tr>
 </table>
-</table>
 <table>
   <tr>
     <td style="color:#fff;background: #42a44e" colspan="3">
