@@ -82,23 +82,23 @@ next-step-title: "Computer Setup"
 	</tr>
 </table>
 
-<img src="../jpfs_DSC2932.jpg">
-<img src="../P4220538jpg01.jpg">
+<img src="photo/jpfs_DSC2932.jpg">
+<img src="photo/P4220538jpg01.jpg">
 <p>Install all threaded inserts into side board.</p>
-<img src="../P4220539jpg02.jpg">
-<img src="../P4220540jpg03.jpg">
+<img src="photo/P4220539jpg02.jpg">
+<img src="photo/P4220540jpg03.jpg">
 <p>Assemble frame using the 20mm x 20mm aluminum extrusion, gusset brackets, pre-assembly insertion nuts and M5x8mm button head cap screws.</p>
-<img src="../P4220545jpg08.jpg">
-<img src="../P4220548jpg11.jpg">
+<img src="photo/P4220545jpg08.jpg">
+<img src="photo/P4220548jpg11.jpg">
 <p>Install the side board to the frame using the M5x10mm button head cap screws.</p>
-<img src="../jpfs_DSC2935.jpg">
+<img src="photo/jpfs_DSC2935.jpg">
 <p>Insert pre-assembly insertion nuts into the ends of the frame.  These will be used to attach the side board to the rest of the machine using the side board plates.</p>
-<img src="../P4220549jpg12.jpg">
-<img src="../P4220559jpg22.jpg">
+<img src="photo/P4220549jpg12.jpg">
+<img src="photo/P4220559jpg22.jpg">
 <p>Lift the machine onto the side board and tighten down remaining button head cap screws.</p>
-<img src="../P4220560jpg23.jpg">
-<img src="../P4220563jpg26.jpg">
-<img src="../P4220566jpg29.jpg">
+<img src="photo/P4220560jpg23.jpg">
+<img src="photo/P4220563jpg26.jpg">
+<img src="photo/P4220566jpg29.jpg">
 <p>Slide the post-assembly pre-insertion nuts into place, lining them up with the holes in the bracket, and secure the drag chain end in place.</p>
-<img src="../P4220567jpg30.jpg">
-<img src="../P4220569jpg32.jpg">
+<img src="photo/P4220567jpg30.jpg">
+<img src="photo/P4220569jpg32.jpg">
