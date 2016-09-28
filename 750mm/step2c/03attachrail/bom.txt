@@ -1,0 +1,4 @@
+*Core Components Kit*	#383838	#fff
+25142-09	1	MakerSlide 200mm Tapped Black
+25286-29	2	Button Head Cap Screw M5 x 14
+

@@ -1,0 +1,5 @@
+*1000mm Drag Chain Kit*	#8A52A1	#fff
+30527-05	1	Drag Chain Bracket
+25286-24	2	Button Head Cap Screw M4 x 10
+30265-03	2	Hex Nut M4 Nylon Locking
+

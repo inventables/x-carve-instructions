@@ -1,0 +1,5 @@
+*Core Components Kit*	#383838	#fff
+25286-30	2	Button Head Cap Screw M5 x 40
+25195-08	2	Eccentric Spacer 0.375" Long
+30265-04	2	Hex Nut M5 Nylon Locking
+

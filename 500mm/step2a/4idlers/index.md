@@ -1,45 +1,80 @@
 ---
-layout: default500mm
+layout: default1000mm
 title: "Attach Idler Wheels"
 parent: "Side Plates"
 step-number: 2
-permalink: /500mm/step2a/4idlers/
-next-step: /500mm/step2a/5motors/
+permalink: /1000mm/step2a/4idlers/
+next-step: /1000mm/step2a/5motors/
 next-step-title: "Stepper Motors"
-diagram: "idlers.jpg"
+diagram: "idlers1.jpg"
 ---
-
-<h3>Attach Smooth Idler Wheels</h3>
 <img src="../../step2/photo/jpfs_DSC2597.jpg">
 
 <table>
-<tr><td style="color:#fff;background: #000;" colspan="3"><b>Components</b></td></tr>
-	<tr>
-		<td><b>SKU</b></td>
-		<td><b>Name</b></td>
-		<td><b>Quantity</b></td>
-	</tr>
-<tr>
-<td>25286-32</td>
-<td>M5 x 30mm Button Head Cap Screw</td>
-<td>4</td>
-</tr>
-<tr>
-<td>25197-01</td>
-<td>Smooth Idler Pulley Assembly</td>
-<td>4</td>
-</tr>
-<tr>
-<td>25312-23</td>
-<td>Spacer 5.1mm ID 0.375in OD 9.5mm Lg Aluminum</td>
-<td>4</td>
-</tr>
-<tr>
-<td>30265-04</td>
-<td>Hex Nut M5 Nylon Locking Steel/Zinc</td>
-<td>4</td>
-</tr>
+  <tr>
+    <td style="color:#fff;background: #383838" colspan="3">
+      <b>Core Components Kit</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>SKU</b>
+    </td>
+    <td>
+      <b>Name</b>
+    </td>
+    <td>
+      <b>Quantity</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      25286-49
+    </td>
+    <td>
+      Button Head Cap Screw M5 x 30
+    </td>
+    <td>
+      4
+    </td>
+  </tr>
+  <tr>
+    <td>
+      25197-01
+    </td>
+    <td>
+      Smooth Idler Pulley Assembly
+    </td>
+    <td>
+      4
+    </td>
+  </tr>
+  <tr>
+    <td>
+      25312-23
+    </td>
+    <td>
+      Aluminum Spacer 5.1mm ID 9.5mm OD 9.5mm LG
+    </td>
+    <td>
+      4
+    </td>
+  </tr>
+  <tr>
+    <td>
+      30265-09
+    </td>
+    <td>
+      Nylon Insert Lock Nut M5
+    </td>
+    <td>
+      4
+    </td>
+  </tr>
 </table>
+
+
+<h3>Attach Smooth Idler Wheels</h3>
 
 These wheels ensure that the belt is held tightly against the motor pulley one they are installed. They are installed with aluminum spacers as they need to be aligned with the center of the makerslide rails. We show both wheels being attached at once for illustrative purposes, though as long as they're in the right places, assemble them in whichever order you want.
 

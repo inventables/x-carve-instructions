@@ -1,43 +1,92 @@
 ---
-layout: default500mm
-title: "Attach Idler Wheels"
-
+layout: default1000mm
+title: "Attach Smooth Idlers"
+parent: X-Carriage
 step-number: 2
-permalink: /500mm/step2b/2idlers/
-next-step: /500mm/step2b/3fixedvwheels/
+permalink: /1000mm/step2b/2idlers/
+next-step: /1000mm/step2b/3fixedvwheels/
 next-step-title: "Fixed V-Wheels"
 diagram: "idlers.jpg"
 ---
+<img src="../../step2/photo/jpfsP7150151.jpg">
 
 <table>
-<tr><td style="color:#fff;background: #000;" colspan="3"><b>Components</b></td></tr>
-	<tr>
-		<td><b>SKU</b></td>
-		<td><b>Name</b></td>
-		<td><b>Quantity</b></td>
-	</tr>
-<tr>
-<td>30552-01</td>
-<td>Flat Head Screw M5 x 35 Steel/Black</td>
-<td>2</td>
-</tr>
-<tr>
-<td>25312-23</td>
-<td>Spacer 5.1mm ID 0.375in OD 9.5mm Lg Aluminum</td>
-<td>2</td>
-</tr>
-<tr>
-<td>25197-01</td>
-<td>Smooth Idler Pulley Assembly</td>
-<td>2</td>
-</tr>
-<tr>
-<td>30265-04</td>
-<td>Hex Nut M5 Nylon Locking Steel/Zinc</td>
-<td>4</td>
-</tr>
-
+  <tr>
+    <td style="color:#fff;background: #383838" colspan="3">
+      <b>Core Components Kit</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>SKU</b>
+    </td>
+    <td>
+      <b>Name</b>
+    </td>
+    <td>
+      <b>Quantity</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      30545-01
+    </td>
+    <td>
+      X Carriage Extrusion
+    </td>
+    <td>
+      1
+    </td>
+  </tr>
+  <tr>
+    <td>
+      30552-05
+    </td>
+    <td>
+      Flat Head Screw M5 x 35
+    </td>
+    <td>
+      2
+    </td>
+  </tr>
+  <tr>
+    <td>
+      25312-23
+    </td>
+    <td>
+      Aluminum Spacer 5.1mm ID 9.5mm OD 9.5mm LG
+    </td>
+    <td>
+      2
+    </td>
+  </tr>
+  <tr>
+    <td>
+      25197-01
+    </td>
+    <td>
+      Smooth Idler Pulley Assembly
+    </td>
+    <td>
+      2
+    </td>
+  </tr>
+  <tr>
+    <td>
+      30265-09
+    </td>
+    <td>
+      Nylon Insert Lock Nut M5
+    </td>
+    <td>
+      2
+    </td>
+  </tr>
 </table>
+
+
+<h3>Attach Smooth Idlers</h3>
+
 Insert an M5x35 flat head screw into one of the countersunk holes in the X-Carriage.
 <img src="../../step2/photo/jpfs_DSC2628.jpg">
 <img src="../../step2/photo/jpfs_DSC2631.jpg">
@@ -46,4 +95,5 @@ Put an aluminum spacer on the bolt followed by an idler wheel and Nylon locking 
 
 <img src="../../step2/photo/jpfs_DSC2632.jpg">
 <img src="../../step2/photo/jpfs_DSC2633.jpg">
-<img src="../../step2/photo/jpfsP7150151.jpg">
+
+Repeat this process for the other countersunk hole.

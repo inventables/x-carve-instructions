@@ -1,0 +1,147 @@
+{
+    "step2a": {
+	"1sideplates":[
+	    {"name": "Gantry Side Plate", "qty": "2", "sku": "30525-01"}
+	],
+	"2fixedvwheels":[
+	    {"name": "M5 x 25mm Button Head Cap Screw", "qty": "4", "sku": "25286-21"},
+	    {"name": "M5 Flat Washer", "qty": "4", "sku": "25287-08"},
+	    {"name": "V Wheel Assembly", "qty": "4", "sku": "25203-01"},
+	    {"name": "Hex Nut M5 Nylon Locking", "qty": "4", "sku": "30265-04"}
+	],
+	"3adjustablevwheels":[
+	    {"name": "M5 x 30mm Button Head Cap Screw", "qty": "4", "sku": "25286-32"},
+	    {"name": "Eccentric Spacer 0.200\" Long", "qty": "4", "sku": "25195-07"},
+	    {"name": "M5 Flat Washer", "qty": "4", "sku": "25287-08"},
+	    {"name": "V Wheel Assembly", "qty": "4", "sku": "25203-01"},
+	    {"name": "Hex Nut M5 Nylon Locking", "qty": "4", "sku": "30265-04"}
+	],
+	"4idlers": [
+	    {"name": "M5 x 30mm Button Head Cap Screw", "qty": "4", "sku": "25286-32"},
+	    {"name": "Smooth Idler Pulley Assembly", "qty": "4", "sku": "25197-01"},
+	    {"name": "Spacer 5.1mm ID 0.375in OD 9.5mm Lg Aluminum", "qty": "4", "sku": "25312-23"},
+	    {"name": "Hex Nut M5 Nylon Locking", "qty": "4", "sku": "30265-04"}
+	],
+	"5motors":[
+	    {"name": "Stepper Motor, NEMA 23 with Connected Pulley", "qty": "2", "sku": "25311-06"},
+	    {"name": "Socket Head Screw M5 x 16 Steel/Black", "qty": "8", "sku": "25285-36"},
+	    {"name": "Hex Nut M5 Nylon Locking", "qty": "8", "sku": "30265-04"}
+	],
+	"6dragchain":[
+	    {"name": "Button Head Screw M4 x 10 Steel/Black", "qty": "2", "sku": "25286-24"},
+	    {"name": "Hex Nut M5 Nylon Locking", "qty": "2", "sku": "30265-04"},
+	    {"name": "Drag Chain Bracket", "qty": "1", "sku": "30527-05"}
+	],
+	"7homeswitch":[
+	    {"name": "Socket Head Screw M2 x 14 Stainless Steel", "qty": "2", "sku": "25285-50"},
+	    {"name": "Washer, Split Lock M2 Stainless", "qty": "2", "sku": "30555-02"},
+	    {"name": "Switch Lever SPDT 125VAC 5A Roller Actuator Tab Terminal", "qty": "1", "sku": "30557-02"}
+	]
+    },
+    "step2b":{
+	"1xcarriage":[],
+	"2idlers":[
+    	    {"name": "Flat Head Screw M5 x 35", "qty": "2", "sku": "30552-01"},
+    	    {"name": "Spacer 5.1mm ID 0.375in OD 9.5mm Lg Aluminum", "qty": "2", "sku": "25312-23"},
+	    {"name": "Smooth Idler Pulley Assembly", "qty": "2", "sku": "25197-01"},
+	    {"name": "Hex Nut M5 Nylon Locking", "qty": "4", "sku": "30265-04"}
+	],
+	"3fixedvwheels":[
+	    {"name": "M5 x 25mm Button Head Cap Screw", "qty": "4", "sku": "25286-21"},
+	    {"name": "M5 Flat Washer", "qty": "4", "sku": "25287-08"},
+	    {"name": "V Wheel Assembly", "qty": "4", "sku": "25203-01"},
+	    {"name": "Hex Nut M5 Nylon Locking", "qty": "4", "sku": "30265-04"}
+	],
+	"4adjustablevwheels":[
+	    {"name": "M5 x 30mm Button Head Cap Screw", "qty": "4", "sku": "25286-32"},
+	    {"name": "Eccentric Spacer 0.200in Long", "qty": "4", "sku": "25195-07"},
+	    {"name": "M5 Flat Washer", "qty": "4", "sku": "25287-08"},
+	    {"name": "V Wheel Assembly", "qty": "4", "sku": "25203-01"},
+	    {"name": "Hex Nut M5 Nylon Locking", "qty": "4", "sku": "30265-04"}
+	],
+	"5motors":[
+	    {"name": "Stepper Motor, NEMA 23 with Connected Pulley", "qty": "1", "sku": "25311-06"},
+	    {"name": "Socket Head Screw M5 x 10 Steel/Black", "qty": "4", "sku": "25285-41"}
+	],
+	"6dragchain":[
+	    {"name": "Button Head Screw M4 x 10 Steel/Black", "qty": "2", "sku": "25286-24"},
+	    {"name": "Drag Chain Bracket", "qty": "1", "sku": "30527-05"}
+	],
+	"7homeswitch":[
+	    {"name": "Socket Head Screw M2 x 14 Stainless Steel", "qty": "2", "sku": "25285-50"},
+	    {"name": "Washer, Split Lock M2 Stainless", "qty": "2", "sku": "30555-02"},
+	    {"name": "Switch Lever SPDT 125VAC 5A Roller Actuator Tab Terminal", "qty": "1", "sku": "30557-02"},
+	    {"name": "Hex Nut M2x0.4 Steel/Zinc", "qty": "2", "sku":"25284-09"}
+	]	
+    },
+	"step2c":{
+	"1zaxis":[],
+	"2flangedbearing":[
+	    {"name": "Z Axis Motor Plate", "qty": "1", "sku": "30534-01"},
+	    {"name": "Flanged Bearing, 8mm", "qty": "1", "sku": "30169-01"},
+	    {"name": "Button Head Screw M5 x 8 Steel/Black", "qty": "1", "sku": "25286-17"}
+	],
+	"3attachrail":[
+	    {"name": "MakerSlide 200mm Tapped Black", "qty": "1", "sku": "25142-09"},
+	    {"name": "Button Head Screw M5 x 14 Steel/Black", "qty": "2", "sku": "25286-29"}
+	],
+	"4leadscrew":[
+	    {"name": "ACME Lead Screw", "qty": "1", "sku": "30396-02"},
+	    {"name": "Delrin Nut ACME 3/8-12", "qty": "1", "sku": "25280-03"},
+	    {"name": "Flat Washer M8, DIN125", "qty": "1", "sku": "25287-11"}	
+	],
+	"5pulley":[
+	    {"name": "Pulley GT2 8mm Bore 20 Tooth", "qty": "1", "sku": "26054-04"},
+	    {"name": "Hex Nut M6 Nylon Locking", "qty": "1", "sku": "30265-05"}
+	],
+	"6attachtocarriage":[
+	    {"name": "Button Head Screw M5 x 10", "qty": "4", "sku": "25286-18"},
+	    {"name": "T-Slot Nut M5 Pre-Assembly", "qty": "4", "sku": "25281-05"}
+	],
+	"7fixedvwheels":[
+	    {"name": "Spindle Carriage, Dewalt 611", "qty": "1", "sku": "30610-01"},
+	    {"name": "Button Head Screw M5 x 40 Steel/Black", "qty": "2", "sku": "25286-30"},
+    	    {"name": "Spacer 5.1mm ID 0.375in OD 9.5mm Lg Aluminum", "qty": "2", "sku": "25312-23"},
+	    {"name": "Hex Nut M5 Nylon Locking", "qty": "2", "sku": "30265-04"}
+	],
+	"8adjustablevwheels":[
+	    {"name": "Button Head Screw M5 x 40 Steel/Black", "qty": "2", "sku": "25286-30"},
+    	    {"name": "Eccentric Spacer 0.375in Long", "qty": "2", "sku": "25195-08"},
+	    {"name": "Hex Nut M5 Nylon Locking", "qty": "2", "sku": "30265-04"}
+	],
+	"9clampbolts":[
+	    {"name": "Socket Head Screw M4 x16 Low Head Steel/Black", "qty": "1", "sku": "25285-46"}
+	],
+	"10attachmount":[
+	    {"name": "Button Head Screw M5 x 14 Steel/Black", "qty": "2", "sku": "25286-29"}
+	],
+	"11homeswitch":[
+	    {"name": "Socket Head Screw M2 x 14 Stainless Steel", "qty": "2", "sku": "25285-50"},
+	    {"name": "Washer, Split Lock M2 Stainless", "qty": "2", "sku": "30555-02"},
+	    {"name": "Switch Lever SPDT 125VAC 5A Roller Actuator Tab Terminal", "qty": "1", "sku": "30557-02"},
+	    {"name": "Hex Nut M2x0.4 Steel/Zinc", "qty": "2", "sku": "25284-09"}
+	]	
+    },
+    "step2d":{
+    	"1gantryrail":[],
+    	"2attachsideplate":[
+    		{"name": "Button Head Screw M5 x 12 Steel/Zinc", "qty": "4", "sku": "25286-19"},
+	    	{"name": "M5 Flat Washer", "qty": "1", "sku": "25286-19"},
+	    	{"name": "Drag Chain Support Arm", "qty": "1", "sku": "30681-01"},
+	    	{"name": "Hex Nut M2x0.4 Steel/Zinc", "qty": "2", "sku": "25284-09"}
+	    ],
+	    "3attachcarriage":[],
+	    "4attachsideplate":[
+    		{"name": "Button Head Screw M5 x 12 Steel/Zinc", "qty": "4", "sku": "25286-19"},
+	    	{"name": "M5 Flat Washer", "qty": "1", "sku": "25286-19"},
+	    	{"name": "Drag Chain Support Arm", "qty": "1", "sku": "30681-01"},
+	    	{"name": "Hex Nut M2x0.4 Steel/Zinc", "qty": "2", "sku": "25284-09"},
+	    	{"name": "T-Slot Nut M5 Pre-Assembly", "qty": "3", "sku": "25281-05"}
+	    ],
+	    "5dragchainrail":[
+    		{"name": "Extrusion T-Slot 20x20 x 1000mm Long Black Tapped", "qty": "1", "sku": "26049-09"},
+	    	{"name": "Button Head Screw M5 x 14 Steel/Black", "qty": "2", "sku": "25286-29"}
+	    ]
+    }
+}
+

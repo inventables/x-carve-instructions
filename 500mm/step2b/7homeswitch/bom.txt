@@ -1,0 +1,6 @@
+*1000mm Home Switch Kit*	#F47B44	#fff
+25285-50	2	Socket Head Screw M2 x 14
+30555-02	2	Washer, Split Lock M2 Stainless
+30557-02	1	Switch Lever SPDT 125VAC 5A Roller Actuator Tab Terminal
+25284-09	2	Hex Nut M2x0.4
+

@@ -1,7 +1,0 @@
-xcarriage
-idlers
-fixedvwheels
-adjustablevwheels
-motors
-dragchain
-homeswitch
