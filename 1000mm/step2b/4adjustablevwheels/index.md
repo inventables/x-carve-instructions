@@ -92,3 +92,6 @@ Begin by placing an eccentric spacer on an M5x30mm bolt, then put the bolt and s
 <img src="../../step2/photo/jpfs_DSC2644.jpg">
 <img src="../../step2/photo/jpfs_DSC2645.jpg">
 
+Now you can repeat this process for the other three holes. Your carriage should look like this when you're done:
+
+<img src="../../step2/photo/jpfs_DSC3466.jpg">

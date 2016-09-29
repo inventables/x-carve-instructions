@@ -82,5 +82,8 @@ First, we'll attach the fixed v-wheels to the carriage. Insert the M5x25 bolt in
 <img src="../../step2/photo/jpfs_DSC2561.jpg">
 <img src="../../step2/photo/jpfs_DSC2562.jpg">
 <img src="../../step2/photo/jpfs_DSC2563.jpg">
-Repeat this for the other side.
+
+Repeat this for the other side. You should now have two mirrored plates that look like this:
+
+<img src="../../step2/photo/jpfs_DSC3480.jpg">
 

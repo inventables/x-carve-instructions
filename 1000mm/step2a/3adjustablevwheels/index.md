@@ -97,4 +97,6 @@ Put the bolt and spacer into one of the holes for the adjustable v-wheel. Make s
 Secure the assembly with an M5 nylock washer. Make sure not to over-tighten the assembly.
 <img src="../../step2/photo/jpfs_DSC2590.jpg">
 
-Now you can repeat this for the other side of the plate.
+Now you can repeat this for the other side of the plate. You should have two mirrored plates that look like this:
+
+<img src="../../step2/photo/jpfs_DSC3481.jpg">

@@ -86,3 +86,8 @@ Place an idler wheel onto each bolt. Make sure that the side of the wheel with t
 Thread an M5 nylock nut onto the bolt and secure with a 3mm hex key and 8mm wrench. The nut isn't the most accessible with the flange of the idler wheel in the way, so you may have to angle the wrench.
 <img src="../../step2/photo/jpfs_DSC2596.jpg">
 <img src="../../step2/photo/jpfs_DSC2598.jpg">
+
+Repeat this for the other plate. You should now have two mirrored plates that look like this:
+
+<img src="../../step2/photo/jpfs_DSC3482.jpg">
+

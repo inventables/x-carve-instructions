@@ -96,4 +96,7 @@ Put an aluminum spacer on the bolt followed by an idler wheel and Nylon locking 
 <img src="../../step2/photo/jpfs_DSC2632.jpg">
 <img src="../../step2/photo/jpfs_DSC2633.jpg">
 
-Repeat this process for the other countersunk hole.
+Repeat this process for the other countersunk hole. Your carriage should now look like this:
+
+<img src="../../step2/photo/jpfs_DSC3459.jpg">
+

@@ -79,3 +79,7 @@ This process is similar to attaching the fixed V-Wheels on the gantry side plate
 <img src="../../step2/photo/jpfs_DSC2637.jpg">
 <img src="../../step2/photo/jpfs_DSC2638.jpg">
 <img src="../../step2/photo/jpfs_DSC2640.jpg">
+
+Now you can repeat this process for the other three holes. Your carriage should look like this when you're done:
+
+<img src="../../step2/photo/jpfs_DSC3464.jpg">
