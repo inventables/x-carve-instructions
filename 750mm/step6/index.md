@@ -241,11 +241,12 @@ next-step-title: "Side Board"
 <p>Prepare the drag chain lengths by popping open the hinges using a flat head screw driver.</p>
 <img src="photo/jpfs_DSC2812.jpg">
 <img src="photo/jpfs_DSC2834.jpg">
+<p>Locate the end of the drag chain, two flat head cap screws, and two post-assembly insertion nuts. Add the post-assembly insertion nuts into the extrusion located behind the wide MakerSlide.</p>
 <img src="photo/P4220499jpg04.jpg">
 <img src="photo/jpfs_DSC2837.jpg">
-<p>Install the drag chain end using flat head cap screws and post-assembly insertion nuts.</p>
+<p>Mount the drag chain end to the extrusion by installing the flat head cap screws into the post-assembly insertion nuts.</p>
 <img src="photo/jpfs_DSC2873.jpg">
-<p>Place all wires including spindle and close up the drag chain hinges.</p>
+<p>Place the spindle cord, z-axis stepper motor wire, x-axis stepper motor wire, z-axis limit switch wire, and x-axis limit switch wire into the drag chain. Close up the drag chain hinges.</p>
 <img src="photo/jpfs_DSC2883.jpg">
 <p>Wire up z-axis and x-axis stepper motors and limit switches.  Make sure you attach the red wire to the middle pin and the black wire to the hing side of the switch.  The stepper motors can only be wired in one way, so if it doesn't fit, flip it over and try again.</p>
 <img src="photo/P4220500jpg05.jpg">
@@ -265,10 +266,10 @@ next-step-title: "Side Board"
 <img src="photo/P4220510jpg15.jpg">
 <img src="photo/P4220511jpg16.jpg">
 <img src="photo/P4220514jpg19.jpg">
-<p>Gather up the wires and zip tie them to the wire management stays.</p>
+<p>Gather up all the wires from the end of the top drag chain and the Y2 stepper motor. Zip tie them to the wire management stays.</p>
 <img src="photo/P4220519jpg24.jpg">
 <img src="photo/P4220521jpg26.jpg">
-<p>clip the ends off of the zip ties to clean everything up.</p>
+<p>Clip the ends off of the zip ties to clean everything up.</p>
 <img src="photo/jpfs_DSC2822.jpg">
 <p>Attach the drag chain bracket to the aluminum extrusion frame using the small button head cap screw and post-assembly insertion nut.</p>
 <img src="photo/jpfs_DSC2924.jpg">
