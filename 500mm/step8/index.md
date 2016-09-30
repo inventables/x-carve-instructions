@@ -4,7 +4,7 @@ title:  "X-Controller"
 step-number: 1
 permalink: /500mm/step8/
 next-step: /500mm/step9/
-next-step-title: "Computer Setup"
+next-step-title: "Calibrate"
 ---
 
 <img src="PB231421BATCH201.jpg">

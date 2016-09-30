@@ -95,5 +95,8 @@ stepnav:
     title: X-Controller
     url: /step8/
   - step: step9
-    title: Computer Setup
+    title: Calibrate
     url: /step9/
+  - step: step10
+    title: Computer Setup
+    url: /step10/
