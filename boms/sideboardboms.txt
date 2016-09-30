@@ -1,0 +1,41 @@
+$Side Board$	#9D9FA2	#fff
+*1000mm Side Board Kit*	#9D9FA2	#fff
+30684-01	2	Extrusion Connection Bracket
+25281-13	21	T-Slot Nut M5 Pre-Assembly
+26018-01	4	Cast Corner Bracket, Clear
+30517-11	12	Threaded Insert M5
+30685-03	1	Side Board, X-Carve 1000mm
+26049-10	2	Extrusion T-Slot 20x20 x 250mm
+26049-04	2	Extrusion T-Slot 20x20 x 958mm
+25286-34	8	Button Head Cap Screw M5 x 8
+25286-37	8	Button Head Cap Screw M5 x 10
+25286-41	5	Button Head Cap Screw M5 x 12
+25286-47	12	Button Head Cap Screw M5 x 14
+
+*750mm Side Board Kit*	#9D9FA2	#fff
+30684-01	2	Extrusion Connection Bracket
+25281-13	21	T-Slot Nut M5 Pre-Assembly
+26018-01	4	Cast Corner Bracket, Clear
+30517-11	12	Threaded Insert M5
+30685-02	1	Side Board, X-Carve 750mm Size
+26049-10	2	Extrusion T-Slot 20x20 x 250mm
+26049-05	2	Extrusion T-Slot 20x20 x 708mm
+25286-34	8	Button Head Cap Screw M5 x 8
+25286-37	8	Button Head Cap Screw M5 x 10
+25286-41	5	Button Head Cap Screw M5 x 12
+25286-47	12	Button Head Cap Screw M5 x 14
+
+*500mm Side Board Kit*	#9D9FA2	#fff
+30684-01	2	Extrusion Connection Bracket
+25281-13	21	T-Slot Nut M5 Pre-Assembly
+26018-01	4	Cast Corner Bracket, Clear
+30517-10	4	Threaded Insert M5
+30685-01	1	Side Board, X-Carve 500mm Size
+26049-10	2	Extrusion T-Slot 20x20 x 250mm
+26049-11	2	Extrusion T-Slot 20x20 x 458mm
+25286-34	8	Button Head Cap Screw M5 x 8
+25286-37	8	Button Head Cap Screw M5 x 10
+25286-41	5	Button Head Cap Screw M5 x 12
+25286-50	4	Button Head Cap Screw M5 x 14
+
+<<END>>

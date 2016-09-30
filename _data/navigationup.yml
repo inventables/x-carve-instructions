@@ -1,0 +1,18 @@
+stepnav:
+  - step: step1
+    title: Side Board
+    url: /step1/
+  - step: step2
+    title: Wide Makerslide
+    url: /step2/
+  - step: step3
+    title: X-Controller
+    url: /step3
+    subnav:
+    - title: Assembly
+      url: /1assembly/
+    - title: Usage
+      url: /2usage/
+  - step: step4
+    title: Z-Probe
+    url: /step4/
