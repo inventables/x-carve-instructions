@@ -7,6 +7,7 @@ next-step: /750mm/step9/
 next-step-title: "Calibrate"
 ---
 
+
 <img src="PB231421BATCH201.jpg">
 
 <p>
@@ -178,14 +179,7 @@ Gather up the following tools to get started.</p>
 	</tr>
 </table>
 
-<div class="note">
-<i class="fa fa-hand-o-right"></i>
- <span class="note-text">
- <strong>Note:</strong> These instructions were completed with a pre-production X-Controller, so you may find a few inconsistencies between what is pictured and what's in front of you.
- </span>
- <br><br>
 
-</div>
 <div class="step-card">
 <h2 id="install-power-supply">
 <strong>Install Power Supply</strong></h2>
@@ -720,23 +714,12 @@ Attach the fan cable to the power supply interface PCB. The cable can only be co
 <h2>
 <strong>Wire X-Controller</strong></h2>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UT95_LCYoAQ" frameborder="0"></iframe>
-
-<p>
-Wire the left stepper motor to the left terminal block and completely remove the small length of stepper motor cable that was joining the two y motors. Wire your new piece of stepper motor cable to the right terminal block. Route the cable through the drag chain and reattach the drag chain end. Wire the cable into the green terminal block plugs and plug them into the corresponding spots on the X-Controller.</p>
+<p>Wire the cables into the green terminal block plugs and plug them into the corresponding spots on the X-Controller. Make sure the colors on the wires match the colors in the diagrams</p>
 
 <img src="x-controllerWiringDiagramFIXED.jpg">
 
-<p>
-With two motors on the y axis facing each other, you'll need to flip one of the y pairs for the motors to move in the same direction. The diagram above shows the black and green wires flipped on Y2.</p>
+<p>With two motors on the y axis facing each other, you'll need to flip one of the y pairs for the motors to move in the same direction. The diagram above shows the black and green wires flipped on Y2.</p>
 
-<div class="note">
-<i class="fa fa-hand-o-right"></i>
- <span class="note-text">
- <strong>Note:</strong> Use tape on your new length of stepper motor cable to make it easier to route through the drag chain.
- </span>
-
-</div>
 <h3>
 Wire Limit Switches</h3>
 <img src="jpfs_DSC3486.jpg">
@@ -752,40 +735,7 @@ Wire the limit switches to their respective terminals on the X-Controller. Make 
 </div>
 </div>
 </div>
-<div class="step-card">
-<h2 id="usage">
-<strong>Usage</strong></h2>
 
-<ol class="step-contents">
-<li>
-Buttons</li>
-
-<li>
-Easel Setup</li>
-
-</ol>
-<h3>
-Buttons</h3>
-
-<p>
-Use the three buttons on the front of the X-Controller for Feedhold, Cycle Start and Reset (Motion Cancel).</p>
-
-<h3>
-Easel Setup</h3>
-
-<p>
-Head over to the <a href="http://easel.inventables.com/setup">Easel Setup Walkthrough</a> to change any necessary grbl settings.</p>
-
-<h3>
-Spindle Control</h3>
-
-<p>
-For all AC spindles, you can use the PWM signal from the X-Controller to activate a relay to turn the spindle on and off. When going through the machine setup, select the Dewalt 611 and the max RPM will be set to 1. The PWM signal will now act like a simple enable on/off output.</p>
-
-<p>
-For DC spindles such as the 300W Quiet Cut spindle, you'll need to wire the PWM signal and GND to the spindle speed controller PWM screw terminals. Make sure you move the jumper on the speed controller to the right position, closest to the PWM screw terminals. Go through the Easel machine setup, clicking on "Other" and set your Max RPM to 12000 (this may be different for other DC Spindles). Wiring diagrams will be added shortly to help with clarification.</p>
-
-</div>
 <div class="step-card">
 <h2 id="troubleshooting">
 <strong>Troubleshooting</strong></h2>
@@ -818,12 +768,4 @@ My limit switches don't work!</h3>
 <p>
 Check that the ribbon connectors are fully pushed into the mating connectors.</p>
 
-<h3>
-My X-Controller won't connect to my computer!</h3>
-
-<p>
-For Windows users you'll need to download the Arduino IDE to get the necessary drivers.</p>
-<a href="http://www.arduino.cc/" target="_blank" class="btn btn-invent btn-animate-arrow">Get Arduino Software</a>
-
-<p>If this doesn't solve the issue, you can try downloading the FTDI driver linked <a href="http://www.ftdichip.com/Drivers/CDM/CDM%20v2.12.12%20WHQL%20Certified.exe">here</a>:</p>
 </div>

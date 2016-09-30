@@ -5,7 +5,7 @@ step-number: 1
 permalink: /500mm/step10/
 ---
 
-If you purchased a new kit from us, you'll be setting up your machine with the X-Controller. You've already wired the X-Controller to your machine in the wiring step. Now it's time to connect the controller to your computer and complete your first carve. For simplicity's sake, this guide will show you how to connect your X-Controller using Easel. It is possible to use programs like Universal GCode Sender and grbl Controller to control your machine. Easel is the easiest tool for the initial setup of your machine.
+If you purchased a new kit from us, you'll be setting up your machine with the X-Controller. You've already wired the X-Controller to your machine in the X-Controller step. Now it's time to connect the controller to your computer and complete your first carve. For simplicity's sake, this guide will show you how to connect your X-Controller using Easel. It is possible to use programs like Universal GCode Sender and grbl Controller to control your machine. Easel is the easiest tool for the initial setup of your machine.
 
 <h3 id="easel_account">Log Into Easel</h3>
 We'll begin by opening Easel. Go to <a href="http://easel.inventables.com/setup">http://easel.inventables.com/setup</a>. You will be prompted to log into Easel. If you already have an account with us, you can log into your account. Otherwise you can enter your email address and create a password for a new account.
