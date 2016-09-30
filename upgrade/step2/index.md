@@ -100,8 +100,8 @@ Make sure the spindle is facing the front of the machine.
 
 <img src="../photo/P9210385.JPG">
 <img src="../photo/P9210386.JPG">
-<img src="../photo/jpfs_DSC3444.jpg"
-<img src="../photo/jpfs_DSC3453.jpg"
+<img src="../photo/jpfs_DSC3444.jpg">
+<img src="../photo/jpfs_DSC3453.jpg">
 
 Slide the x-carriage onto the rail and move it far enough onto the rail so you can position the box underneath the rail on the right side of the machine, where the gantry is not secured to the plate yet. 
 
