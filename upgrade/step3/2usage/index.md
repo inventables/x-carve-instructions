@@ -26,7 +26,7 @@ Prepare Controller Board</li>
 Wire Stepper Motor Cable</li>
 
 </ol>
-<img src="P1211529EDIT.jpg">
+<img src="../../../../1000mm/step8/P1211529EDIT.jpg">
 
 <p>
 This is the easiest and quickest way to get going with your X-Controller. With this option you won't need to make any changes to your machine, but you will need to change the amount of current running to your y axis to get the most out of your two y motors.</p>
@@ -76,7 +76,7 @@ Wire New Stepper Motor Cable</h3>
 <p>
 Wire the left stepper motor to the left terminal block and completely remove the small length of stepper motor cable that was joining the two y motors. Wire your new piece of stepper motor cable to the right terminal block. Route the cable through the drag chain and reattach the drag chain end. Wire the cable into the green terminal block plugs and plug them into the corresponding spots on the X-Controller.</p>
 
-<img src="x-controllerWiringDiagramFIXED.jpg">
+<img src="../../../../1000mm/step8/x-controllerWiringDiagramFIXED.jpg">
 
 <p>
 With two motors on the y axis facing each other, you'll need to flip one of the y pairs for the motors to move in the same direction. The diagram above shows the black and green wires flipped on Y2.</p>
@@ -90,7 +90,7 @@ With two motors on the y axis facing each other, you'll need to flip one of the 
 </div>
 <h3>
 Optional Upgrades</h3>
- <img src="P1211535EDIT.jpg">
+ <img src="../../../../1000mm/step8/P1211535EDIT.jpg">
 
 <p>
 There are quite a few inputs and outputs on the x-controller that make adding upgrades easy. The limit switches, pictured above, now have their own dedicated signal and ground inputs. All conections are labeled clearly and we hope to offer additional upgrades to be used with the X-Controller sometime in the future.</p>

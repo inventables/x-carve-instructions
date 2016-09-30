@@ -8,7 +8,7 @@ next-step: /upgrade/step3/2usage/
 next-step-title: "Usage"
 ---
 
-<img src="PB231421BATCH201.jpg">
+<img src="../../../../1000mm/step8/PB231421BATCH201.jpg">
 
 <p>
 Welcome to the X-Controller assembly instructions! The images shown at the beginning of each step show the finished results of that step. This is to provide context for what you're about to start working on, and offer those eager and willing to figure things out on their own a way to skim through more quickly. Make sure to click on the thumbnails to see more details.</p>
@@ -228,7 +228,7 @@ Attach Power Supply Interface PCB</li>
 Attach Power Supply to Chassis</li>
 
 </ol>
-<img src="P6230086EDIT.jpg">
+<img src="../../../../1000mm/step8/P6230086EDIT.jpg">
 
 <table>
 	<tr style="color:#fff;background: #383838;">
@@ -265,14 +265,14 @@ Attach Power Supply to Chassis</li>
 
 <h3>
 1. Attach Feet (OPTIONAL)</h3>
- <img src="PB231229BATCH019.jpg">
+ <img src="../../../../1000mm/step8/PB231229BATCH019.jpg">
 
 <p>
 Attach the four rubber "feet" to the bottom of the chassis. Flip the chassis over and twist the foot through the hole. Once the foot is partially in, try using your fingernail to bring it the rest of the way through. This is an optional step and the holes can also be used to mount the chassis to a work table.</p>
 
 <h3>
 2. Prepare Enclosed Power Supply</h3>
- <img src="P1151511EDIT.jpg">
+ <img src="../../../../1000mm/step8/P1151511EDIT.jpg">
 
 <p>
 This is a universal power supply capable of running at 110V or 220V. Flip the toggle switch on the side of the power supplys to the voltage that correspondes to your <a href="https://en.wikipedia.org/wiki/Mains_electricity_by_country#Table_of_mains_voltages_and_frequencies">outlet voltage.</a>
@@ -280,26 +280,26 @@ This is a universal power supply capable of running at 110V or 220V. Flip the to
 
 <h3>
 3. Attach Power Supply Interface PCB</h3>
- <img src="P6230081EDIT.jpg">
+ <img src="../../../../1000mm/step8/P6230081EDIT.jpg">
 
 <p>
 Flip the orange cover back and remove the screws on the enclosed power supply that correspond to the "fingers" on the power supply interface PCB. Attach the power supply interface PCB and reinstall the screws to secure it in place.</p>
 
 <div class="row image-row">
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="P6230069EDIT.jpg"></a>
+<a href="#" class="thumbnail"><img src="../../../../1000mm/step8/P6230069EDIT.jpg"></a>
 
 </div>
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="P6230072EDIT.jpg"></a>
+<a href="#" class="thumbnail"><img src="../../../../1000mm/step8/P6230072EDIT.jpg"></a>
 
 </div>
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="P6230075EDIT.jpg"></a>
+<a href="#" class="thumbnail"><img src="../../../../1000mm/step8/P6230075EDIT.jpg"></a>
 
 </div>
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="P6230080EDIT.jpg"></a>
+<a href="#" class="thumbnail"><img src="../../../../1000mm/step8/P6230080EDIT.jpg"></a>
 
 </div>
 </div>
@@ -314,7 +314,7 @@ Flip the orange cover back and remove the screws on the enclosed power supply th
 </div>
 <h3>
 4. Attach Power Supply to Chassis</h3>
- <img src="PB231247BATCH037.jpg">
+ <img src="../../../../1000mm/step8/PB231247BATCH037.jpg">
 
 <p>
 Using the M4 x 8mm button head cap screws, attach the power supply through the mounting holes on the underside of the chassis. The threaded holes on the base of the power supply are delicate, so try not to overtighten the screws when assembling.
@@ -346,7 +346,7 @@ Wire Controller Board</li>
 Attach Controller Board</li>
 
 </ol>
-<img src="P6280112EDIT.jpg">
+<img src="../../../../1000mm/step8/P6280112EDIT.jpg">
 <table>
 	<tr style="color:#fff;background: #383838;">
 		<td> <b><span class="caps">SKU</span></b> </td>
@@ -382,7 +382,7 @@ Attach Controller Board</li>
 
 <h3>
 1. Prepare Controller Board</h3>
- <img src="PB231254EDIT.jpg">
+ <img src="../../../../1000mm/step8/PB231254EDIT.jpg">
 
 <p>
 Unless you're an advanced user looking to make some tweaks or want an easy way to use your X-Controller without re-wiring your machine, you won't need to make any adjustments. That being said, in order for the Grbl firmware to know how far the machine will move in reality, a few things need to be set on the controller board. Microstepping is one of these settings and allows the motors to move to positions between normal steps; increasing accuracy and smoothing the motion of the motor. Depending on the capabilites of the motors, there does come a point where the microstepping will no longer increase accuracy. Using high microstep values (e.g 16) can reduce stepper motor torque, so it's best to use the lowest value that can still give you the axes resolution you're looking for. Dip switches on the main controller board allow you to set the microstepping. Make sure to check out the diagram on the board for propper placement of the switches.</p>
@@ -403,15 +403,15 @@ on the diagram to determine the current. For example, if you measure 1V you get 
 
 <div class="row image-row">
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="PB231255BATCH044.jpg"></a>
+<a href="#" class="thumbnail"><img src="../../../../1000mm/step8/PB231255BATCH044.jpg"></a>
 
 </div>
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="PB231261BATCH050.jpg"></a>
+<a href="#" class="thumbnail"><img src="../../../../1000mm/step8/PB231261BATCH050.jpg"></a>
 
 </div>
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="PB231263BATCH052.jpg"></a>
+<a href="#" class="thumbnail"><img src="../../../../1000mm/step8/PB231263BATCH052.jpg"></a>
 
 </div>
 </div>
@@ -424,33 +424,33 @@ on the diagram to determine the current. For example, if you measure 1V you get 
 </div>
 <h3>
 2. Attach Stops</h3>
- <img src="PB231250BATCH040.jpg">
+ <img src="../../../../1000mm/step8/PB231250BATCH040.jpg">
 
 <p>
 Install the M4 button head cap screws in the threaded holes on the side of the chassis. These screws locate the back of the controller board and make the face of the board flush with the chassis.</p>
 
 <h3>
 3. Wire Controller Board</h3>
- <img src="P6280107EDIT.jpg">
+ <img src="../../../../1000mm/step8/P6280107EDIT.jpg">
 
 <p>
 Attach the cables to the power supply interface PCB. The cables can only be connected in one orientation, so if they don't attach well double check them and try again. Try to orient them so that the wires can easily travel from board to board.</p>
 
 <div class="row image-row">
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="wirePowerCableNEW.gif"></a>
+<a href="#" class="thumbnail"><img src="../../../../1000mm/step8/wirePowerCableNEW.gif"></a>
 
 </div>
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="wireRibbonCableNEW.gif"></a>
+<a href="#" class="thumbnail"><img src="../../../../1000mm/step8/wireRibbonCableNEW.gif"></a>
 
 </div>
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="wireMainControllerBoardNEW.gif"></a>
+<a href="#" class="thumbnail"><img src="../../../../1000mm/step8/wireMainControllerBoardNEW.gif"></a>
 
 </div>
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="wireMainControllerBoardNEW2.gif"></a>
+<a href="#" class="thumbnail"><img src="../../../../1000mm/step8/wireMainControllerBoardNEW2.gif"></a>
 
 </div>
 </div>
@@ -463,18 +463,18 @@ Attach the cables to the power supply interface PCB. The cables can only be conn
 </div>
 <h3>
 4. Attach Controller Board</h3>
- <img src="P6280109EDIT.jpg">
+ <img src="../../../../1000mm/step8/P6280109EDIT.jpg">
 
 <p>
 Slide the controller board into the channels of the chassis, making sure you route the wires through the cutout on the board to prevent snagging or pinching.</p>
 
 <div class="row image-row">
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="P6280108EDIT.jpg"></a>
+<a href="#" class="thumbnail"><img src="../../../../1000mm/step8/P6280108EDIT.jpg"></a>
 
 </div>
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="P6280110EDIT.jpg"></a>
+<a href="#" class="thumbnail"><img src="../../../../1000mm/step8/P6280110EDIT.jpg"></a>
 
 </div>
 </div>
@@ -504,7 +504,7 @@ Attach USB Cable</li>
 Wire E-Stop And Attach Front Panel</li>
 
 </ol>
-<img src="PB231420BATCH200.jpg">
+<img src="../../../../1000mm/step8/PB231420BATCH200.jpg">
 
 <table>
 	<tr style="color:#fff;background: #383838;">
@@ -561,47 +561,47 @@ Wire E-Stop And Attach Front Panel</li>
 
 <h3>
 1. Dissasemble E-Stop Button</h3>
- <img src="PB231310BATCH099.jpg">
+ <img src="../../../../1000mm/step8/PB231310BATCH099.jpg">
 
 <p>
 Remove the button from the screw terminals by gently pulling on the yellow tab. With the button upside down (as pictured) pull the tab towards you and then to the right to disengage the two parts. Unscrew the nut attached to the base of the button. This nut will be used to secure the button to the enclosure.</p>
 
 <div class="row image-row">
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="PB231305BATCH094.jpg"></a>
+<a href="#" class="thumbnail"><img src="../../../../1000mm/step8/PB231305BATCH094.jpg"></a>
 
 </div>
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="PB231306BATCH095.jpg"></a>
+<a href="#" class="thumbnail"><img src="../../../../1000mm/step8/PB231306BATCH095.jpg"></a>
 
 </div>
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="PB231307BATCH096.jpg"></a>
+<a href="#" class="thumbnail"><img src="../../../../1000mm/step8/PB231307BATCH096.jpg"></a>
 
 </div>
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="PB231308BATCH097.jpg"></a>
+<a href="#" class="thumbnail"><img src="../../../../1000mm/step8/PB231308BATCH097.jpg"></a>
 
 </div>
 </div>
 <h3>
 2. Attach E-Stop Button</h3>
- <img src="PB231332BATCH121.jpg">
+ <img src="../../../../1000mm/step8/PB231332BATCH121.jpg">
 
 <p>
 Insert the button through the hole on the top panel and secure using the nut. Make sure the side of the button marked "TOP" is facing the center of the top panel. Slide the top panel into the channels of the chassis, far enough back so you can access the Mini USB port on the main controller board.</p>
 
 <div class="row image-row">
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="PB231313BATCH102.jpg"></a>
+<a href="#" class="thumbnail"><img src="../../../../1000mm/step8/PB231313BATCH102.jpg"></a>
 
 </div>
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="PB231317BATCH106.jpg"></a>
+<a href="#" class="thumbnail"><img src="../../../../1000mm/step8/PB231317BATCH106.jpg"></a>
 
 </div>
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="PB231322BATCH111.jpg"></a>
+<a href="#" class="thumbnail"><img src="../../../../1000mm/step8/PB231322BATCH111.jpg"></a>
 
 </div>
 </div>
@@ -614,34 +614,34 @@ Insert the button through the hole on the top panel and secure using the nut. Ma
 </div>
 <h3>
 3. Attach Buttons And USB Cable</h3>
- <img src="PB231371BATCH151.jpg">
+ <img src="../../../../1000mm/step8/PB231371BATCH151.jpg">
 
 <p>
 Using the M3 button head cap screws, attach the USB cable to the front panel. Attach the other end of the USB cable to the main controller board. <strong>Don't attach the front panel</strong> to the chassis until the rest of the e-stop is installed in the next step.</p>
 
 <div class="row image-row">
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="PB231341BATCH130.jpg"></a>
+<a href="#" class="thumbnail"><img src="../../../../1000mm/step8/PB231341BATCH130.jpg"></a>
 
 </div>
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="PB231353BATCH133.jpg"></a>
+<a href="#" class="thumbnail"><img src="../../../../1000mm/step8/PB231353BATCH133.jpg"></a>
 
 </div>
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="PB231361BATCH141.jpg"></a>
+<a href="#" class="thumbnail"><img src="../../../../1000mm/step8/PB231361BATCH141.jpg"></a>
 
 </div>
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="PB231365BATCH145.jpg"></a>
+<a href="#" class="thumbnail"><img src="../../../../1000mm/step8/PB231365BATCH145.jpg"></a>
 
 </div>
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="PB231368BATCH148.jpg"></a>
+<a href="#" class="thumbnail"><img src="../../../../1000mm/step8/PB231368BATCH148.jpg"></a>
 
 </div>
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="PB231373BATCH153.jpg"></a>
+<a href="#" class="thumbnail"><img src="../../../../1000mm/step8/PB231373BATCH153.jpg"></a>
 
 </div>
 </div>
@@ -654,38 +654,38 @@ Using the M3 button head cap screws, attach the USB cable to the front panel. At
 </div>
 <h3>
 4. Wire And Attach Front Panel</h3>
- <img src="PB231418BATCH198.jpg">
+ <img src="../../../../1000mm/step8/PB231418BATCH198.jpg">
 
 <p>
 Loosen the phillips head screws on the screw terminals and attach the ends of the e-stop cable to each side of the NC screw terminal as pictured. Tighten the screws on the screw terminals to hold the cable in place. To attach the wired screw terminal to the button, <strong>line up the "TOP" marking on the button with the "TOP" marking on the screw terminal.</strong> Once in postion, move the yellow tab towards the back of the assembly to lock in place. Attach the front panel using the included M4 socket head cap screws.</p>
 
 <div class="row image-row">
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="installUSB.gif"></a>
+<a href="#" class="thumbnail"><img src="../../../../1000mm/step8/installUSB.gif"></a>
 
 </div>
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="installButtons.gif"></a>
+<a href="#" class="thumbnail"><img src="../../../../1000mm/step8/installButtons.gif"></a>
 
 </div>
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="PB231390BATCH170.jpg"></a>
+<a href="#" class="thumbnail"><img src="../../../../1000mm/step8/PB231390BATCH170.jpg"></a>
 
 </div>
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="wireEStop.gif"></a>
+<a href="#" class="thumbnail"><img src="../../../../1000mm/step8/wireEStop.gif"></a>
 
 </div>
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="installEStop.gif"></a>
+<a href="#" class="thumbnail"><img src="../../../../1000mm/step8/installEStop.gif"></a>
 
 </div>
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="wireButtons.gif"></a>
+<a href="#" class="thumbnail"><img src="../../../../1000mm/step8/wireButtons.gif"></a>
 
 </div>
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="PB231419BATCH199.jpg"></a>
+<a href="#" class="thumbnail"><img src="../../../../1000mm/step8/PB231419BATCH199.jpg"></a>
 
 </div>
 </div>
@@ -709,7 +709,7 @@ Attach Fan</li>
 Wire Fan And Attach Back Panel</li>
 
 </ol>
-<img src="P6280133EDIT.jpg">
+<img src="../../../../1000mm/step8/P6280133EDIT.jpg">
 
 <table>
 	<tr style="color:#fff;background: #383838;">
@@ -751,39 +751,39 @@ Wire Fan And Attach Back Panel</li>
 
 <h3>
 1. Attach Fan</h3>
- <img src="P6280128EDIT.jpg">
+ <img src="../../../../1000mm/step8/P6280128EDIT.jpg">
 
 <p>
 Using the included M3 socket head cap screws, nuts, and finger guard, attach the fan to the front panel with the <strong>wires pointed down.</strong></p>
 
 <div class="row image-row">
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="P6280123EDIT.jpg"></a>
+<a href="#" class="thumbnail"><img src="../../../../1000mm/step8/P6280123EDIT.jpg"></a>
 
 </div>
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="P6280126EDIT.jpg"></a>
+<a href="#" class="thumbnail"><img src="../../../../1000mm/step8/P6280126EDIT.jpg"></a>
 
 </div>
 </div>
 <h3>
 2. Wire Fan And Attach Back Panel</h3>
- <img src="P6280127EDIT.jpg">
+ <img src="../../../../1000mm/step8/P6280127EDIT.jpg">
 
 <p>
 Attach the fan cable to the power supply interface PCB. The cable can only be connected in one orientation, so if it doesn't attach well double check and try again. <strong>Check the ribbon cable connector at the power supply interface PCB</strong> and attach the back panel using the included M4 socket head cap screws. You may need to wiggle the lower PCB in place when installing to have the back panel flush with the chassis.</p>
 
 <div class="row image-row">
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="PB231433BATCH213.jpg"></a>
+<a href="#" class="thumbnail"><img src="../../../../1000mm/step8/PB231433BATCH213.jpg"></a>
 
 </div>
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="wireFan.gif"></a>
+<a href="#" class="thumbnail"><img src="../../../../1000mm/step8/wireFan.gif"></a>
 
 </div>
 <div class="col-xs-6 col-md-3">
-<a href="#" class="thumbnail"><img src="P6280129EDIT.jpg"></a>
+<a href="#" class="thumbnail"><img src="../../../../1000mm/step8/P6280129EDIT.jpg"></a>
 
 </div>
 </div>

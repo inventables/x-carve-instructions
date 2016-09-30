@@ -146,12 +146,12 @@ Your belting should still properly installed on the pulley. Take the time to mak
 Working on the right side of the machine, install the smaller screw on the bottom part of the belt clip partially into the pre-assembly t-slot nut on the rail. The screw should be secured in the t-slot nut but you should still be able to slide the belt clip. Next, insert the longer screw into the hole on the right y-plate. Tighten the nylon locking nut on the long screw from the other side of the y-plate. Once the screw is tightened flush to the y-axis plate, finish tightening the smaller screw into the t-slot nut so the clip is fully secured.
 
 <img src="../photo/P9210402.JPG">
-<img src="../photo/P9210404.JPG">
+<img src="../photo/P9230404.JPG">
 
 The final step is reattaching the drag chain bracket to the x-carriage. Use the original screws to reattach the drag chain bracket to the x-carriage. 
 
-<img src="../photo/P9210405.JPG">
-<img src="../photo/P9210406.JPG">
+<img src="../photo/P9230405.JPG">
+<img src="../photo/P9230406.JPG">
 
 Before operating your machine again, make sure you <a href="https://www.youtube.com/watch?v=g0HRqtWj0qM&feature=youtu.be">check your belt tensioning using this video</a>. You should be able to use the screw and nylock nut on the left side of the machine to properly set the belt tension.
 

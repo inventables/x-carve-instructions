@@ -154,7 +154,7 @@ This is the reverse side of the board. The 64 holes are countersunk to accept th
 
 <img src="photo/jpfsP8030241.jpg">
 
-Find the 64 threaded inserts in your wasteboard kit and use a 5mm hex driver to insert one into each hole from the back. This process is made infinitely easier by a drill driver with the appropriate bit.
+Find the 64 threaded inserts in your wasteboard kit and use a 5mm hex driver to insert one into each hole from the back. This process is made infinitely easier by a drill driver with a 5mm hex bit.
 
 <img src="photo/jpfsP8030244.jpg">
 <img src="photo/jpfsP8030250.jpg">
