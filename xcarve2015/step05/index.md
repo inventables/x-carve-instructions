@@ -6,6 +6,7 @@ category: step
 step-number: 5
 permalink: /xcarve2015/step05/
 next-step: /xcarve2015/step06/
+redirect_from: "/step05/"
 next-step-title: "Belting"
 grabcad-name1: "Y-Axis"
 grabcad-url1: https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/125936

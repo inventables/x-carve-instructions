@@ -6,6 +6,7 @@ category: step
 step-number: 10
 permalink: /xcarve2015/step10/
 next-step: /xcarve2015/step11/
+redirect_from: "/step10/"
 next-step-title: "Drag Chain"
 ---
 

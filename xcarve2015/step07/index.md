@@ -6,6 +6,7 @@ category: step
 step-number: 7
 permalink: /xcarve2015/step07/
 next-step: /xcarve2015/step08/
+redirect_from: "/step07/"
 next-step-title: "Drive Rod"
 grabcad-name1: "Z-Axis Assembly"
 grabcad-url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/125928"

@@ -6,6 +6,7 @@ category: step
 step-number: 15
 permalink: /xcarve2015/step15/
 next-step: /xcarve2015/step16/
+redirect_from: "/step15/"
 next-step-title: "Install Drivers"
 ---
 

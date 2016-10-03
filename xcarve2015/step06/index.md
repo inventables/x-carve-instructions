@@ -6,6 +6,7 @@ category: step
 step-number: 6
 permalink: /xcarve2015/step06/
 next-step: /xcarve2015/step07/
+redirect_from: "/step06/"
 next-step-title: "Z-Axis"
 ---
 

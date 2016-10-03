@@ -6,6 +6,7 @@ category: step
 step-number: 9
 permalink: /xcarve2015/step09/
 next-step: /xcarve2015/step10/
+redirect_from: "/step09/"
 next-step-title: "Wiring"
 ---
 
