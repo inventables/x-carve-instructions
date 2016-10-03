@@ -35,7 +35,7 @@ This is the easiest and quickest way to get going with your X-Controller. With t
 Prepare Controller Board</h3>
 
 <p>
-As mentioned in the <a href="/x-controller/#install-controller-board">Install Controller Board</a> step of the assembly instructions, you'll simply need to increase the potentiometer on your y-axis.</p>
+As mentioned in the <a href="http://x-carve-instructions.inventables.com/upgrade/step3/1assembly/#install-controller-board">Install Controller Board</a> step of the assembly instructions, you'll simply need to increase the potentiometer on your y-axis.</p>
 
 <h3>
 Wire Stepper Motor Cable</h3>
@@ -173,7 +173,7 @@ Check that the ribbon connectors are fully pushed into the mating connectors.</p
 My X-Controller won't connect to my computer!</h3>
 
 <p>
-Just like the gShied/Arduino, for Windows users you'll need to download the Arduino IDE to get the necessary drivers. For more information, check out the <a href="http://x-carve-instructions.inventables.com/step16/">Drivers</a> section of the X-Carve instructions.</p>
+Just like the gShied/Arduino, for Windows users you'll need to download the Arduino IDE to get the necessary drivers. For more information, check out the <a href="http://x-carve-instructions.inventables.com/xcarve2015/step16/">Drivers</a> section of the X-Carve instructions.</p>
 
 <a href="http://www.arduino.cc/" target="_blank" class="btn btn-invent btn-animate-arrow">Get Arduino Software</a>
 
