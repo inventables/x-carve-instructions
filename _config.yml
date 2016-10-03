@@ -6,6 +6,7 @@ url: "http://x-carve-instructions.inventables.com" # the base hostname & protoco
 markdown: kramdown
 
 gems:
+- jekyll-redirect-from
 - jekyll-textile-converter
 - github-pages
 - octopress-autoprefixer

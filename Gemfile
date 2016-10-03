@@ -8,4 +8,6 @@ gem 'github-pages', versions['github-pages']
 
 gem 'jekyll-textile-converter'
 
+gem 'jekyll-redirect-from'
+
 gem 'octopress-autoprefixer'
