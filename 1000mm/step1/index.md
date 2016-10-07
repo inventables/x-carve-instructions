@@ -180,7 +180,7 @@ The extrusions are held to one another using these 6x aluminum angle brackets, 1
 <p>You'll then want to slide in 12x M5 pre-assembly insertion nuts into the ends of all of the rails before you attach them. This will allow your angle brackets to be mounted on the bottom.</p>
 <img src="photo/jpfs_DSC2544.jpg">
 <img src="photo/pan_positions-01.png">
-<p>Once you have the nuts inserted, you can install the 1000mm rails on the front and back. You'll want to use M5x20mm button head cap screws and M5 pre-assembly insertion nuts as before. Make sure that the other pre-assembly insertion nuts you installed in the last step are facing inwards so they can be attached to the angle brackets</p>
+<p>Once you have the nuts inserted, you can install the 1000mm rails on the front and back. You'll want to use M5x20mm button head cap screws and M5 pre-assembly insertion nuts as before. Make sure that the other pre-assembly insertion nuts you installed in the last step are facing inwards so they can be attached to the angle brackets. The front and back rails should hang over the edge of the board by 30mm (1.18") on either side when installed.</p>
 <img src="photo/fb_rails-01.png">
 <img src="photo/jpfs_DSC2544.jpg">
 <p>Loosely attach the remaining M5x20mm button head cap screws to the aluminum extrusion with insertion nuts.  Insert two insertion nuts into each of the smaller extrusions (one on each side of the middle piece) and three insertion nuts into each of the longer pieces.  Insertion nuts will be used to attach the gusset brackets to the extrusion.</p>
