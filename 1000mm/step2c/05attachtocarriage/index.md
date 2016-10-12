@@ -8,7 +8,7 @@ next-step: /1000mm/step2c/6adjustablevwheels/
 next-step-title: "Adjustable V-Wheels"
 diagram: "../05attachtocarriage/attachtocarriage1.jpg"
 ---
-<img src="../../../photo/jpfsPA120448.jpg">
+<img src="../../../photo/jpfsPA120456.jpg">
 
 <table>
   <tr>
@@ -55,7 +55,8 @@ diagram: "../05attachtocarriage/attachtocarriage1.jpg"
 <h3>Attach Z-Axis Assembly to X-Carriage</h3>
 
 Insert an M5x10mm button head cap screw into one of the four holes on the X-Carriage's front flanges. Loosely thread a pre-assembly insertion nut onto the screw. Repeat this for the remaining three holes in the X-Carriage.
-<img src="../../step2/photo/jpfs_DSC2709.jpg">
+<img src="../../../photo/jpfsPA120448.jpg">
+<img src="../../../photo/jpfsPA120451.jpg">
 <img src="../../step2/photo/jpfs_DSC2714.jpg">
 
 Take the X-Carriage assembly and slide it onto the pre-assembly nuts, just until the makerslide covers the bottom pair.
