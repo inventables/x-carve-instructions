@@ -8,7 +8,7 @@ next-step: /1000mm/step2c/6adjustablevwheels/
 next-step-title: "Adjustable V-Wheels"
 diagram: "../05attachtocarriage/attachtocarriage1.jpg"
 ---
-<img src="../../step2/photo/jpfs_DSC2723.jpg">
+<img src="../../../photo/jpfsPA120448.jpg">
 
 <table>
   <tr>
