@@ -82,6 +82,28 @@ next-step-title: "Assemble Gantry"
   </tr>
 </table>
 
+If you ordered your kit with homing switches, we will bnow install the z axis limit switch and Z axis stop which prevents it from being crushed.
 
-Use 2x M2x10mm socket head cap screws and 2x split ring washers to fasten a switch to the side of the z-axis motor mount plate as pictured. You can also use the M3x20mm socket head cap screw and M3 nylock nut to prevent the X axis from destroying the switch should it crash into the top.
-<img src="../../step2/photo/jpfsimage5.jpg">
+<img src="../../../photo/jpfsPA120473.jpg">
+
+First, locate one of the microswitches from your homing switch kit as well as two M2x10mm socket head screws and two M2 split washers.
+
+<img src="../../../photo/jpfsPA120461.jpg">
+
+Orient the switch so that the roller actuator is facing down and toward the front of the z axis motor plate. The mounting holes on the switch should line up with the two threaded holes on the side of the motor plate. Place a split washer on each of the M2x10mm screws and use them to secure the switch to the motor plate. You'll want to use a 1.5mm hex key to drive the screws.
+
+<img src="../../../photo/jpfsPA120463.jpg">
+
+To prevent the switch from being broken by the Z axis, we'll install a mechanical stop in the form of an M3 socket head screw. Begin by locating the M3x20mm socket head screw as well as the M3 nylock nut in your kit.
+
+<img src="../../../photo/jpfsPA120466.jpg">
+
+Use a 2.5mm hex key or your hand to thread the screw into its corresponding hole from the bottom of the Z-axis plate. Line up the head of the screw so that it is approximately 10mm (0.4in) from the bottom of the motor plate. This will allow the switch to be pressed, but will prevent the spindle mount plate from crushing the switch. You can always go back and adjust the position of the stop later so it's not vital to get exact positioning at the moment.
+
+<img src="../../../photo/jpfsPA120469.jpg">
+
+On the other side of the motor plate, thread on an M3 nylock nut and tighten it against the plate with either a 5.5mm socket as pictured here, or with the appropriate wrench/pliers. This will secure the position of the stop.
+
+<img src="../../../photo/jpfsPA120470.jpg">
+<img src="../../../photo/jpfsPA120471.jpg">
+<img src="../../../photo/jpfsPA120473.jpg">
