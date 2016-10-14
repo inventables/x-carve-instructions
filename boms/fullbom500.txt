@@ -151,6 +151,8 @@ $Spindle$	#42a44e	#fff
 25285-38	1	Socket Head Screw M5 x 25
 30555-01	1	Split Lockwashers M5
 
+<<END>>
+$Z-Probe$	#000	#fff
 *Z-Probe*	#000	#fff
 30611-02	1	Z-Probe Kit
 

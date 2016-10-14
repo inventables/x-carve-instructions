@@ -1631,6 +1631,24 @@ The X-Carve is open source hardware. We have 3D models and drawings available in
     </td>
   </tr>
 </table>
+</div>
+</div>
+</div>
+</div>
+<div class="panel-group" id="z-probe-accordion" role="tablist" aria-multiselectable="true">
+<div class="panel panel-default">
+<a data-toggle="collapse" data-parent="#z-probe-accordion" href="#z-probe" aria-expanded="false" aria-controls="z-probe" style="color:#fff;background:#000" class="panel-heading" role="tab" id="z-probe-header">
+<h4 class="panel-title">
+<strong>Z-Probe</strong>
+</h4>
+<div class="expand-icons">
+<i class="fa fa-plus"></i>
+<i class="fa fa-minus"></i>
+</div>
+</a>
+<div id="z-probe" class="panel-collapse collapse" role="tabpanel" aria-labelledby="z-probe-header">
+<div class="panel-body">
+
 <table>
   <tr>
     <td style="color:#fff;background: #000" colspan="3">
