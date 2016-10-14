@@ -1631,6 +1631,35 @@ The X-Carve is open source hardware. We have 3D models and drawings available in
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td style="color:#fff;background: #000" colspan="3">
+      <b>Z-Probe</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>SKU</b>
+    </td>
+    <td>
+      <b>Name</b>
+    </td>
+    <td>
+      <b>Quantity</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      30611-02
+    </td>
+    <td>
+      Z-Probe Kit
+    </td>
+    <td>
+      1
+    </td>
+  </tr>
+</table>
 </div>
 </div>
 </div>
