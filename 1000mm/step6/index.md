@@ -246,8 +246,19 @@ diagram: "wiringDiagram.jpg"
 <img src="./photo/P4220499jpg04.jpg">
 <img src="./photo/jpfs_DSC2837.jpg">
 <p>Mount the drag chain end to the extrusion by installing the flat head cap screws into the post-assembly insertion nuts.</p>
+
+<!-- begin z-probe -->
+<p>If you ordered your machine with a Z-Probe. You can now fasten the Z-Probe barrel connector port and its wire to the x-carriage</p>
+<p>First, open your z-probe kit. Set aside the puck and alligator clip wiring harness for the moment. Locate the long wire with the barrel connector port as well as the slim hex nut and lock washer that accompany it.</p>
+<img src="../../photo/jpfsPA140487.jpg">
+<p>Insert the barrel connector port into the corresponding hole on the top right side of the x-carriage.</p>
+<img src="../../photo/jpfsPA140482.jpg">
+<p>Use a 10mm wrench to secure the port in place</p>
+<img src="../../photo/jpfsPA140485.jpg">
+<!-- end z-probe -->
+
 <img src="./photo/jpfs_DSC2873.jpg">
-<p>Place the spindle cord, z-axis stepper motor wire, x-axis stepper motor wire, z-axis limit switch wire, and x-axis limit switch wire into the drag chain. Close up the drag chain hinges.</p>
+<p>Place the spindle cord, z-axis stepper motor wire, x-axis stepper motor wire, z-axis limit switch wire, x-axis limit switch wire, and z-probe wire into the drag chain. Close up the drag chain hinges.</p>
 <img src="./photo/jpfs_DSC2883.jpg">
 <p>Wire up z-axis and x-axis stepper motors and limit switches.  Make sure you attach the red wire to the middle pin and the black wire to the hinged side of the switch.  The stepper motors can only be wired in one way, so if it doesn't fit, flip it over and try again.</p>
 <img src="./photo/P4220500jpg05.jpg">

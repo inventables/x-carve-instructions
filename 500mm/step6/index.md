@@ -384,6 +384,7 @@ next-step-title: "Side Board"
 <img src="../../photo/jpfsPA140485.jpg">
 <!-- end z-probe -->
 
+
 <img src="photo/jpfs_DSC2873.jpg">
 
 <p>Place the spindle cord, z-axis stepper motor wire, x-axis stepper motor wire, z-axis limit switch wire, x-axis limit switch wire, and z-probe wire into the drag chain. Close up the drag chain hinges.</p>
