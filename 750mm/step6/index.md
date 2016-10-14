@@ -236,6 +236,36 @@ next-step-title: "Side Board"
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td style="color:#fff;background: #000" colspan="3">
+      <b>Z-Probe</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>SKU</b>
+    </td>
+    <td>
+      <b>Name</b>
+    </td>
+    <td>
+      <b>Quantity</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      30611-02
+    </td>
+    <td>
+      Z-Probe Kit
+    </td>
+    <td>
+      1
+    </td>
+  </tr>
+</table>
+
 
 <img src="photo/jpfs_DSC2806.jpg">
 <p>Prepare the drag chain lengths by popping open the hinges using a flat head screw driver.</p>

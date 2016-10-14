@@ -20,3 +20,6 @@
 30682-05	1	Cable Assembly, 2C Lugs Ferrules 39"Lg Y-Limit
 30682-06	1	Cable Assembly, 2C Lugs Ferrules 76"Lg Z-Limit
 
+*Z-Probe*	#000	#fff
+30611-02	1	Z-Probe Kit
+

@@ -187,134 +187,6 @@ next-step-title: "Side Board"
 </table>
 <table>
   <tr>
-    <td style="color:#fff;background: #8A52A1" colspan="3">
-      <b>500mm Drag Chain Kit</b>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>SKU</b>
-    </td>
-    <td>
-      <b>Name</b>
-    </td>
-    <td>
-      <b>Quantity</b>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      30527-06
-    </td>
-    <td>
-      Drag Chain Bracket
-    </td>
-    <td>
-      1
-    </td>
-  </tr>
-  <tr>
-    <td>
-      30680-01
-    </td>
-    <td>
-      Zip Tie Mount
-    </td>
-    <td>
-      3
-    </td>
-  </tr>
-  <tr>
-    <td>
-      26016-03
-    </td>
-    <td>
-      T-Nut M5 Post Assembly
-    </td>
-    <td>
-      5
-    </td>
-  </tr>
-  <tr>
-    <td>
-      30331-11
-    </td>
-    <td>
-      Drag Chain 18x25 12 Links w/ Custom Ends
-    </td>
-    <td>
-      2
-    </td>
-  </tr>
-  <tr>
-    <td>
-      25986-03
-    </td>
-    <td>
-      Cable Tie 4" (100 Pack)
-    </td>
-    <td>
-      1
-    </td>
-  </tr>
-  <tr>
-    <td>
-      26049-07
-    </td>
-    <td>
-      Extrusion T-Slot 20x20 x 500mm Tapped
-    </td>
-    <td>
-      1
-    </td>
-  </tr>
-  <tr>
-    <td>
-      25286-31
-    </td>
-    <td>
-      Button Head Cap Screw M5 x 6
-    </td>
-    <td>
-      1
-    </td>
-  </tr>
-  <tr>
-    <td>
-      30554-06
-    </td>
-    <td>
-      Flat Head Cap Screw M5 x 10
-    </td>
-    <td>
-      4
-    </td>
-  </tr>
-  <tr>
-    <td>
-      30554-07
-    </td>
-    <td>
-      Flat Head Cap Screw M5 x 12
-    </td>
-    <td>
-      6
-    </td>
-  </tr>
-  <tr>
-    <td>
-      30265-10
-    </td>
-    <td>
-      Hex Nut M5 Nylon Locking
-    </td>
-    <td>
-      6
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
     <td style="color:#fff;background: #F47B44" colspan="3">
       <b>500mm Homing Switch Kit</b>
     </td>
@@ -364,6 +236,36 @@ next-step-title: "Side Board"
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td style="color:#fff;background: #000" colspan="3">
+      <b>Z-Probe</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>SKU</b>
+    </td>
+    <td>
+      <b>Name</b>
+    </td>
+    <td>
+      <b>Quantity</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      30611-02
+    </td>
+    <td>
+      Z-Probe Kit
+    </td>
+    <td>
+      1
+    </td>
+  </tr>
+</table>
+
 
 <img src="photo/jpfs_DSC2806.jpg">
 <p>Prepare the drag chain lengths by popping open the hinges using a flat head screw driver.</p>
