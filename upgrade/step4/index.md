@@ -52,7 +52,7 @@ If you find it too difficult to thread the wire through the drag chain, you can 
 
 Here is an example of what we’ve done with the DeWalt power cord:
 
-<img src="18.jpg">
+<img src="../photo/18.jpg">
 
 Now it is time to wire the z-probe to the X-Controller. If you taped the end of the z-probe wire to thread it through the drag chain, remove the tape and make sure the wire ends are free of any residue. 
 
