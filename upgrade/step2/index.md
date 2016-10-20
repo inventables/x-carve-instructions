@@ -94,7 +94,7 @@ Make sure you install the drag chain bracket to the left y-axis plate using the 
 
 <img src="../photo/P9210383.jpg">
 
-Now it’s time to add the x-carriage back onto the gantry. Align the V-wheels on the new rail. If possible, align the belting underneath the smooth idlers as you slide the carriage back onto the rail. This way the belting is in place and ready to do when the carriage is all the way on the rail. 
+Now it’s time to add the x-carriage back onto the gantry. Align the V-wheels on the new rail. If possible, align the belting underneath the smooth idlers as you slide the carriage back onto the rail. This way the belting is in place and ready to go when the carriage is all the way on the rail. 
 
 Make sure the spindle is facing the front of the machine. 
 
@@ -111,7 +111,7 @@ Before we forget, let’s add in the pre-assembly t-slot nuts to the top of the 
 
 <img src="../photo/P9210400.jpg">
 
-Next, thread the right y-axis stepper motor wire back through the gantry. Be careful not to damage the ends of the wire when inserting in through the MakerSlide. <strong>Do not pull the wire all the way through the MakerSlide.</strong> Position the end of the wire so it is flush with the end of MakerSlide rail. To make this next part easier, we suggest taping the ends of the wiring so you can thread it through the plate easier.
+Next, thread the right y-axis stepper motor wire back through the gantry. Be careful not to damage the ends of the wire when inserting it through the MakerSlide. <strong>Do not pull the wire all the way through the MakerSlide.</strong> Position the end of the wire so it is flush with the end of MakerSlide rail. To make this next part easier, we suggest taping the ends of the wiring so you can thread it through the plate easier.
 
 Slide the right side y-axis plate into place near the wide MakerSlide. Try aligning the wire with the oblong shape on the y-axis plate.
 
@@ -125,9 +125,7 @@ Position the right y-axis plate so the holes line up with the holes on the plate
 <img src="../photo/P9210396.jpg">
 <img src="../photo/P9210397.jpg">
 
-When the wire is fully through, check the insulation for any damage. Wrap any exposed wires with electrical tape so you don’t have a faulty connection. Rewire your stepper motor with the same configuration as before: match red to red, white to blue, green to green and black to black.
-
-<img src="../photo/P9210398.jpg">
+When the wire is fully through, check the insulation for any damage. Wrap any exposed wires with electrical tape so you don’t have a faulty connection. Rewire your stepper motor with the same configuration as before.
 
 When the wiring is complete, secure the new wide MakerSlide rail in place using the four button head caps screws from the original rails. 
 
