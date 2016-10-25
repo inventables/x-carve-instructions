@@ -195,17 +195,17 @@ Repeat this procedure with the other two lengths of 708mm rail, using the single
 <img src="photo/jpfsP8030286.jpg">
 <img src="photo/jpfsP8030290.jpg">
 
-We will now attach the 750mm rails. to the board and to the corner brackets. The general layout looks similar to this:
+We will now attach the 750mm rails to the board and to the corner brackets. The general layout looks similar to this:
 <img src="photo/jpfsP8030298.jpg">
 
-insert a M5 insertion nut into the end of each 708mm rail. The nuts on the center and left rails should go on the righthand slots. The nut on the right rail should go in the lefthand slot.
+Insert a M5 insertion nut into the end of each 708mm rail. The nuts on the center and left rails should go on the righthand slots. The nut on the right rail should go in the lefthand slot.
 
 <img src="photo/jpfsP8030291.jpg">
 
-insert three M5 insertion nuts into a 750mm rail and align it with the three holes on the end of the waste board. Use three M5 x 12mm button head cap screws to secure the rail to the board. Make sure there is even overhang of the rail on either side. This should be about 1.16".
+Insert three M5 insertion nuts into a 750mm rail and align it with the three holes on the end of the waste board. Use three M5 x 12mm button head cap screws to secure the rail to the board. Make sure there is even overhang of the rail on either side. This should be about 1.16".
 <img src="photo/jpfsP8040299.jpg">
 
-Insert three M5 insertion nuts into the 750mm rail, Line up the nuts, the three corner brackets and six M5 x 10mm screws. You can use a hex key to align the nuts. tighten all six screws, making sure the assembly is square and that all of the outside rails are close to flush with the board.
+Insert three M5 insertion nuts into the 750mm rail. Line up the nuts, the three corner brackets and six M5 x 10mm screws. You can use a hex key to align the nuts. Tighten all six screws, making sure the assembly is square and that all of the outside rails are close to flush with the board.
 
 <img src="photo/jpfsP8030295.jpg">
 
