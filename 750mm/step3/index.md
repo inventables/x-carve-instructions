@@ -103,7 +103,7 @@ In this step, you'll be assembling the main y axis rails and attaching them to t
 
 
 <img src="./photo/jpfs_DSC2774.jpg">
-Begin by attaching a makerslide end plate to each 750mm makerslide rail. make sure that the side of the makerslide with the v-rails is on the same side as the flat side of the end plate. Use 2x M5x12mm button head cap screws on each plate.
+Begin by attaching a makerslide end plate to each 750mm makerslide rail. Make sure that the side of the makerslide with the v-rails is on the same side as the flat side of the end plate. Use 2x M5x12mm button head cap screws on each plate.
 <img src="./photo/jpfs_DSC2777.jpg">
 Insert 2x M5 pre-assembly insertion nuts into the top slot of each makerslide rail. These will be used to hold the belts.
 <img src="./photo/jpfsP8260344.jpg">

@@ -86,7 +86,7 @@ diagram: "adjustablevwheels1.jpg"
 
 
 <h3>Attach Adjustable V-Wheels</h3>
-Attaching the adjustable v-wheels is a bit more complicated, though you won't have to adjust them until later in the assembly. These v-wheels are adjusted by means of an eccentric spacer that rests inside a larger hole on the plate. by turning the spacer, the distance between the v-wheels can be adjusted just enough to make sure that they are snug on the makerslide rail. For the moment you'll want to install the spacers in the 'open' position, that is, rotated so that the adjustable v-wheel is as far from the corresponding fixed v-wheel as possible.
+Attaching the adjustable v-wheels is a bit more complicated, though you won't have to adjust them until later in the assembly. These v-wheels are adjusted by means of an eccentric spacer that rests inside a larger hole on the plate. By turning the spacer, the distance between the v-wheels can be adjusted just enough to make sure that they are snug on the makerslide rail. For the moment you'll want to install the spacers in the 'open' position, that is, rotated so that the adjustable v-wheel is as far from the corresponding fixed v-wheel as possible.
 
 <img src="../../step2/photo/jpfs_DSC2586.jpg">
 Begin by placing an eccentric spacer on an M5x30mm bolt.
