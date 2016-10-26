@@ -7,6 +7,7 @@ next-step: /500mm/step7/
 next-step-title: "Side Board"
 diagram: "wiringDiagram500.jpg"
 ---
+
 <table>
   <tr>
     <td style="color:#fff;background: #CC3440" colspan="3">
@@ -105,7 +106,7 @@ diagram: "wiringDiagram500.jpg"
       Zip Tie Mount
     </td>
     <td>
-      5
+      3
     </td>
   </tr>
   <tr>
@@ -266,6 +267,7 @@ diagram: "wiringDiagram500.jpg"
     </td>
   </tr>
 </table>
+
 
 
 <img src="photo/jpfs_DSC2806.jpg">

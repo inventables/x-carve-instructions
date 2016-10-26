@@ -105,7 +105,7 @@ diagram: "wiringDiagram750.jpg"
       Zip Tie Mount
     </td>
     <td>
-      5
+      4
     </td>
   </tr>
   <tr>

@@ -6,7 +6,7 @@
 
 *500mm Drag Chain Kit*	#8A52A1	#fff
 30527-06	1	Drag Chain Bracket
-30680-01	5	Zip Tie Mount
+30680-01	3	Zip Tie Mount
 26016-03	5	T-Nut M5 Post Assembly
 30331-11	2	Drag Chain 18x25 12 Links w/ Custom Ends
 25986-03	1	Cable Tie 4" (100 Pack)25286-44	4	Button Head Cap Screw M4 x 10
