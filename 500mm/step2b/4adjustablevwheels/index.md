@@ -86,7 +86,7 @@ diagram: "adjustablevwheels.jpg"
 
 <h3>Attach Adjustable V-Wheels</h3>
 
-Begin by placing an eccentric spacer on an M5x30mm bolt, then put the bolt and spacer into one of the holes for the adjustable v-wheel. Make sure that the 'shoulder' of the spacer is facing the carriage and fits into the hole on the plate. Place an M5 washer and v-wheel onto the bolt, then tighten the assembly with a nylock washer.
+Begin by placing an eccentric spacer on an M5x30mm bolt, then put the bolt and spacer into one of the holes for the adjustable v-wheel. Make sure that the 'shoulder' of the spacer is facing the carriage and fits into the hole on the plate. Place an M5 washer and v-wheel onto the bolt, then tighten the assembly with a nylock nut.
 
 <img src="../../step2/photo/jpfs_DSC2643.jpg">
 <img src="../../step2/photo/jpfs_DSC2644.jpg">

@@ -94,7 +94,7 @@ Begin by placing an eccentric spacer on an M5x30mm bolt.
 Put the bolt and spacer into one of the holes for the adjustable v-wheel. Make sure that the 'shoulder' of the spacer is facing the plate and fits into the hole on the plate. Place an M5 washer and v-wheel onto the bolt.
 <img src="../../step2/photo/jpfs_DSC2588.jpg">
 <img src="../../step2/photo/jpfs_DSC2589.jpg">
-Secure the assembly with an M5 nylock washer. Make sure not to over-tighten the assembly.
+Secure the assembly with an M5 nylock nut. Make sure not to over-tighten the assembly.
 <img src="../../step2/photo/jpfs_DSC2590.jpg">
 
 Now you can repeat this for the other side of the plate. You should have two mirrored plates that look like this:
