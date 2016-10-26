@@ -76,7 +76,7 @@ diagram: "idlers1.jpg"
 
 <h3>Attach Smooth Idler Wheels</h3>
 
-These wheels ensure that the belt is held tightly against the motor pulley one they are installed. They are installed with aluminum spacers as they need to be aligned with the center of the makerslide rails. We show both wheels being attached at once for illustrative purposes, though as long as they're in the right places, assemble them in whichever order you want.
+These wheels ensure that the belt is held tightly against the motor pulley once they are installed. They are installed with aluminum spacers as they need to be aligned with the center of the makerslide rails. We show both wheels being attached at once for illustrative purposes, though as long as they're in the right places, assemble them in whichever order you want.
 
 <img src="../../step2/photo/jpfs_DSC2592.jpg">
 To attach the smooth idler wheels, begin by putting an M5x30 bolt through the appropriate hole on the plate. Slide an aluminum spacer onto the bolt.
