@@ -5,6 +5,7 @@ step-number: 6
 permalink: /750mm/step6/
 next-step: /750mm/step7/
 next-step-title: "Side Board"
+diagram: "wiringDiagram750.jpg"
 ---
 <table>
   <tr>
