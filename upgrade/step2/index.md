@@ -84,7 +84,7 @@ When you are finished with this step, your two gantry MakerSlide rails should be
 <span class="note-text">
 
 <p>
-<strong>Note:</strong> If your x-carve has homing switches you will need to flip over the homing switch on the x-carriage so that the lever is pointing down</p>
+<strong>Note:</strong> If your X-Carve has homing switches you will need to flip over the homing switch on the x-carriage so that the lever is pointing down</p>
 </span>
 
 </div>
