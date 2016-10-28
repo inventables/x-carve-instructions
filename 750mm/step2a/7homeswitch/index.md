@@ -64,5 +64,5 @@ diagram: "homeswitch1.jpg"
 
 
 <h3>Attach Home Switch to Left Plate</h3>
-If you ordered your machine with a home switch kit, you can now attach your switch to the outside of the left plate. To do this you'll need 2x M2x14mm socket head cap screws, 2x M2 split ring washers, and one of the microswitches from your kit. with the roller actuator pointing down and outside, secure the switch to the plate using the two screws and washers. The holes in the gantry side plate are already threaded to accept the screws.
+If you ordered your machine with a home switch kit, you can now attach your switch to the outside of the left plate. To do this you'll need 2x M2x14mm socket head cap screws, 2x M2 split ring washers, and one of the microswitches from your kit. With the roller actuator pointing down and outside, secure the switch to the plate using the two screws and washers. The holes in the gantry side plate are already threaded to accept the screws.
 

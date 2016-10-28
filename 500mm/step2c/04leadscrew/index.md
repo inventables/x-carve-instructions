@@ -101,6 +101,6 @@ Prepare the 20 tooth pulley by making sure that the small set screw that hold th
 <img src="../../step2/photo/jpfs_DSC2701.jpg">
 <img src="../../step2/photo/jpfs_DSC2704.jpg">
 
-Thread the M6 nylock nut onto the top of the leadscrew and tighten with a 10mm wrench. you can hold the leadscrew by its pulley or by applying a clamping force to the leadscrew itself. Make sure you don't mar the threads.
+Thread the M6 nylock nut onto the top of the leadscrew and tighten with a 10mm wrench. You can hold the leadscrew by its pulley or by applying a clamping force to the leadscrew itself. Make sure you don't mar the threads.
 
 <img src="../../step2/photo/jpfs_DSC2705.jpg">

@@ -104,7 +104,7 @@ diagram: "../06adjustablevwheels/adjustablevwheels3.jpg"
 
 <h3>Attach Adjustable V-Wheels</h3>
 
-Take an M5x40mm button head cap screw and thread on a v-wheel and eccentric spacer. Insert this assembly into one of the large holes on the spindle mount. These are both on the right side of the mount when looking at it from the front. Secure the assembly with an M5 nylock nut. repeat this procedure for the other wheel.
+Take an M5x40mm button head cap screw and thread on a v-wheel and eccentric spacer. Insert this assembly into one of the large holes on the spindle mount. These are both on the right side of the mount when looking at it from the front. Secure the assembly with an M5 nylock nut. Repeat this procedure for the other wheel.
 <img src="../../step2/photo/jpfs_DSC2736.jpg">
 <img src="../../step2/photo/jpfs_DSC2737.jpg">
 
