@@ -3,6 +3,7 @@
 25195-08	2	Eccentric Spacer 0.375" Long
 30265-09	2	Nylon Insert Lock Nut M5
 25203-01	2	V Wheel Assembly
+25287-12	2	M5 Flat Washer
 
 *DeWalt 611 Spindle and Mount*	#42a44e	#fff
 30610-01	1	X-Carve DeWalt 611 Spindle Mount

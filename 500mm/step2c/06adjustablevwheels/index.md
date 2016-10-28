@@ -8,7 +8,8 @@ next-step: /500mm/step2c/7fixedvwheels/
 next-step-title: "Fixed V-Wheels"
 diagram: "../06adjustablevwheels/adjustablevwheels3.jpg"
 ---
-<img src="../../step2/photo/jpfs_DSC2739.jpg">
+
+<img src="../../../photo/jpfs_DSC2746.jpg">
 
 <table>
   <tr>
@@ -71,6 +72,17 @@ diagram: "../06adjustablevwheels/adjustablevwheels3.jpg"
       2
     </td>
   </tr>
+  <tr>
+    <td>
+      25287-12
+    </td>
+    <td>
+      M5 Flat Washer
+    </td>
+    <td>
+      2
+    </td>
+  </tr>
 </table>
 <table>
   <tr>
@@ -104,7 +116,20 @@ diagram: "../06adjustablevwheels/adjustablevwheels3.jpg"
 
 <h3>Attach Adjustable V-Wheels</h3>
 
-Take an M5x40mm button head cap screw and thread on a v-wheel and eccentric spacer. Insert this assembly into one of the large holes on the spindle mount. These are both on the right side of the mount when looking at it from the front. Secure the assembly with an M5 nylock nut. Repeat this procedure for the other wheel.
+Take an M5x40mm button head cap screw and thread on a v-wheel and eccentric spacer.
+
 <img src="../../step2/photo/jpfs_DSC2736.jpg">
+
+Insert this assembly into one of the large holes on the spindle mount. These are both on the right side of the mount when looking at it from the front. 
+
 <img src="../../step2/photo/jpfs_DSC2737.jpg">
 
+Put an M5 washer on the screw and tighten the assembly with an M5 nylon locking nut.
+
+<img src="../../../photo/jpfs_DSC2744.jpg">
+
+<img src="../../../photo/jpfs_DSC2745.jpg">
+
+Repeat this procedure for the other wheel.
+
+<img src="../../../photo/jpfs_DSC2746.jpg">
