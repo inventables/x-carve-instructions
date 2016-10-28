@@ -79,6 +79,16 @@ Next, remove the four screws holding the rails in place on the left side of the 
 
 When you are finished with this step, your two gantry MakerSlide rails should be completely removed from the machine. The top drag chain will also be removed from the machine.
 
+<div class="note">
+<i class="fa fa-hand-o-right"></i>
+<span class="note-text">
+
+<p>
+<strong>Note:</strong> If your x-carve has homing switches you will need to flip over the homing switch on the x-carriage so that the lever is pointing down</p>
+</span>
+
+</div>
+
 <img src="../photo/P9210379.jpg">
 
 Ok, we’re halfway through! Now, it’s time to get your new wide MakerSlide rail. Make sure to position it so the X-Carve logo is on the right side of your machine, facing the front of the machine. The two grooves on the MakerSlide should be on the top and back of the rail if you are viewing the machine from the front.
