@@ -114,10 +114,10 @@ diagram: "wiringDiagram500.jpg"
       26016-03
     </td>
     <td>
-      T-Nut M5 Post Assembly
+      T-Slot Nut M5 Post-Assembly
     </td>
     <td>
-      5
+      3
     </td>
   </tr>
   <tr>

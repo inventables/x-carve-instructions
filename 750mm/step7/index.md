@@ -145,6 +145,35 @@ next-step-title: "X-Controller"
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td style="color:#fff;background: #8A52A1" colspan="3">
+      <b>750mm Drag Chain Kit</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>SKU</b>
+    </td>
+    <td>
+      <b>Name</b>
+    </td>
+    <td>
+      <b>Quantity</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      26016-03
+    </td>
+    <td>
+      T-Slot Nut M5 Post-Assembly
+    </td>
+    <td>
+      2
+    </td>
+  </tr>
+</table>
 
 <img src="photo/jpfs_DSC2932.jpg">
 <img src="photo/P4220538jpg01.jpg">
@@ -156,13 +185,13 @@ next-step-title: "X-Controller"
 <img src="photo/P4220548jpg11.jpg">
 <p>Install the side board to the frame using the M5x8mm button head cap screws.</p>
 <img src="photo/jpfs_DSC2935.jpg">
-<p>Insert pre-assembly insertion nuts into the ends of the frame.  These will be used to attach the side board to the rest of the machine using the side board plates.</p>
+<p>Insert pre-assembly t-slot nuts into the ends of the frame.  These will be used to attach the side board to the rest of the machine using the side board plates.</p>
 <img src="photo/P4220549jpg12.jpg">
 <img src="photo/P4220559jpg22.jpg">
 <p>Lift the machine onto the side board and tighten down remaining button head cap screws.</p>
 <img src="photo/P4220560jpg23.jpg">
 <img src="photo/P4220563jpg26.jpg">
 <img src="photo/P4220566jpg29.jpg">
-<p>Slide the post-assembly pre-insertion nuts into place, lining them up with the holes in the bracket, and secure the drag chain end in place.</p>
+<p>Insert the two post-assembly t-slot nuts and slide into place, lining them up with the holes in the bracket, and secure the drag chain end in place.</p>
 <img src="photo/P4220567jpg30.jpg">
 <img src="photo/P4220569jpg32.jpg">
