@@ -260,6 +260,20 @@ On the enclosed power supply, flip back the transparent cover that corresponds t
 
 </div>
 
+<h3>
+3. Attach Power Supply to Chassis</h3>
+ <img src="../../../../1000mm/step8/PB231247BATCH037.jpg">
+
+<p>
+Using the M4 x 8mm button head cap screws, attach the power supply through the mounting holes on the underside of the chassis. The threaded holes on the base of the power supply are delicate, so try not to overtighten the screws when assembling.
+
+</p>
+<div class="note">
+<i class="fa fa-hand-o-right"></i>
+ <span class="note-text">
+ <strong>Note: The chassis is not symmetrical.</strong> The power supply interface PCB will be flush with the end of the chassis when installed correctly.
+ </span>
+</div>
 </div>
 <br>
 <div class="step-card">
