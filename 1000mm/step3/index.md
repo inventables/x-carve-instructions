@@ -38,7 +38,7 @@ In this step, you'll be assembling the main y axis rails and attaching them to t
   </tr>
   <tr>
     <td>
-      25281-05
+      25281-12
     </td>
     <td>
       T-Slot Nut M5 Pre-Assembly
@@ -89,7 +89,7 @@ In this step, you'll be assembling the main y axis rails and attaching them to t
   </tr>
   <tr>
     <td>
-      25281-05
+      25281-10
     </td>
     <td>
       T-Slot Nut M5 Pre-Assembly
