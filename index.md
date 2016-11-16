@@ -19,5 +19,5 @@ layout: welcome
     </a>
   </div>
   <p class="link-2015">Upgrade Instructions can be found <a href="/upgrade/step1/">here</a>.</p>
-  <p class="link-2015">Instructions for X-Carve orders placed before August 31st can be found <a href="/xcarve2015/">here</a>.</p>
+  <p class="link-2015">Instructions for X-Carve orders placed before August 31st, 2016 can be found <a href="/xcarve2015/">here</a>.</p>
 </div>
