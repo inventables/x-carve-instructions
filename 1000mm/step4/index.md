@@ -10,35 +10,6 @@ next-step-title: "Spindle"
 
 <table>
   <tr>
-    <td style="color:#000;background: #FFFFFF" colspan="3">
-      <b>1000mm Rail Kit</b>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>SKU</b>
-    </td>
-    <td>
-      <b>Name</b>
-    </td>
-    <td>
-      <b>Quantity</b>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      26053-01
-    </td>
-    <td>
-      GT2 6.35mm Wide Open Belt (foot)
-    </td>
-    <td>
-      12
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
     <td style="color:#fff;background: #383838" colspan="3">
       <b>Core Components Kit</b>
     </td>
@@ -78,18 +49,18 @@ next-step-title: "Spindle"
   </tr>
   <tr>
     <td>
-      25286-17
+      25286-33
     </td>
     <td>
       Button Head Cap Screw M5 x 8
     </td>
     <td>
-      6
+      16
     </td>
   </tr>
   <tr>
     <td>
-      25286-21
+      25286-43
     </td>
     <td>
       Button Head Cap Screw M5 x 25
@@ -103,7 +74,7 @@ next-step-title: "Spindle"
       30547-01
     </td>
     <td>
-      Timing Belt, GT2 80T 6mm
+      GT2 Belt Closed Loop, 80T
     </td>
     <td>
       1
@@ -111,7 +82,7 @@ next-step-title: "Spindle"
   </tr>
   <tr>
     <td>
-      25287-08
+      25287-12
     </td>
     <td>
       M5 Flat Washer
@@ -122,10 +93,10 @@ next-step-title: "Spindle"
   </tr>
   <tr>
     <td>
-      30265-04
+      30265-09
     </td>
     <td>
-      Hex Nut M5 Nylon Locking
+      Nylon Insert Lock Nut M5
     </td>
     <td>
       4
@@ -133,13 +104,42 @@ next-step-title: "Spindle"
   </tr>
   <tr>
     <td>
-      25285-37
+      25285-53
     </td>
     <td>
       Socket Head Screw M5 x 20
     </td>
     <td>
       4
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td style="color:#000;background: #FFFFFF" colspan="3">
+      <b>1000mm Rail Kit</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>SKU</b>
+    </td>
+    <td>
+      <b>Name</b>
+    </td>
+    <td>
+      <b>Quantity</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      26053-01
+    </td>
+    <td>
+      GT2 Belting - Open Ended (feet)
+    </td>
+    <td>
+      12
     </td>
   </tr>
 </table>
@@ -165,13 +165,14 @@ next-step-title: "Spindle"
       25311-06
     </td>
     <td>
-      Stepper Motor, NEMA 23 140 oz/in conn/pulley
+      Stepper Motor - NEMA 23
     </td>
     <td>
       1
     </td>
   </tr>
 </table>
+
 
 <img src="./photo/jpfs_DSC2791.jpg">
 <p>Start by cutting the belt into 3 equal lengths.</p>
