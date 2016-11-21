@@ -49,7 +49,7 @@ In this step, you'll be assembling the main y axis rails and attaching them to t
   </tr>
   <tr>
     <td>
-      25286-19
+      25286-38
     </td>
     <td>
       Button Head Cap Screw M5 x 12
@@ -60,7 +60,7 @@ In this step, you'll be assembling the main y axis rails and attaching them to t
   </tr>
   <tr>
     <td>
-      25286-17
+      25286-33
     </td>
     <td>
       Button Head Cap Screw M5 x 8
@@ -85,17 +85,6 @@ In this step, you'll be assembling the main y axis rails and attaching them to t
     </td>
     <td>
       <b>Quantity</b>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      25281-10
-    </td>
-    <td>
-      T-Slot Nut M5 Pre-Assembly
-    </td>
-    <td>
-      12
     </td>
   </tr>
   <tr>
