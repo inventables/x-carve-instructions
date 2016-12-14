@@ -13,7 +13,7 @@ Congratulations!  You've just taken one of your first steps into the world of 3D
 
 This is a do-it-yourself 3D carving kit: the more time and attention you put into assembling your machine, the better it will perform.  If you run into any trouble during assembly or carving you can find further help from the wonderful community on the forum, our support center which is continuously growing with articles and tutorials, and as always you can reach our customer success team through our [support center](https://inventables.desk.com/) or by phone at 312 775 7009.
 
-The X-Carve is open source hardware. We have 3D models and drawings available in a GrabCAD repository [here](https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcojYwyy_VqboQQ-9hKBJrjS3zGaGuue8sfnqRNxGI9WQS0)
+The X-Carve is open source hardware. We have 3D models and drawings available in a GrabCAD repository [here](https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcojYwyy_VqboQQ-9hKBJrjS3zGaGuue8sfnqRNxGI9WQS/folder/2078599)
 
 <h2>Bill of Materials</h2>
 <div class="bom">
