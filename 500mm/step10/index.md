@@ -23,7 +23,8 @@ Before you run your first carve, you will have to go to <a href="http://easel.in
 
 <img src="photo/machinedetail.png">
 
-<div class="note"><strong>NOTE:</strong> If you're having trouble connecting your X-Controller on a computer running Windows, you may need to update the FTDI driver you have installed then re-start your computer. <a href="http://www.ftdichip.com/Drivers/CDM/CDM%20v2.12.12%20WHQL%20Certified.exe">Click here</a> for a direct download. The linked file is an .exe file for installation on Windows only.</div>
+<div class="note"><strong>NOTE:</strong> If you're having trouble connecting your X-Controller on a computer running Windows, you may need to update the FTDI driver then re-start your computer. <a href="http://www.ftdichip.com/Drivers/CDM/CDM21224_Setup.zip">Click here</a> for a direct download. The linked file is a .zip file for installation on Windows 7 and newer only. If possible we recommend installing the driver using administrative privileges, with a right click.</div>
+
 Once you've configured your machine using the dropdown menus click 'Confirm Settings'.
 
 <img src="photo/connecting.png">
