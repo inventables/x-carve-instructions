@@ -442,7 +442,7 @@ Wire E-Stop And Attach Front Panel</li>
 	</tr>
 		<tr>
 		<td> 13 </td>
-		<td> Nylong Hex Nuts M3 </td>
+		<td> Nylon Hex Nuts M3 </td>
 		<td> 4 </td>
 	</tr>
 	<tr>
