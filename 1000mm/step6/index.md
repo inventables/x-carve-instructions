@@ -284,7 +284,7 @@ diagram: "wiringDiagram750placeholder.jpg"
 <img src="../../photo/jpfsPA140487.jpg">
 <p>Insert the barrel connector port into the corresponding hole on the top right side of the x-carriage.</p>
 <img src="../../photo/jpfsPA140482.jpg">
-<p>Use a 10mm wrench to secure the port in place</p>
+<p>Use a 10mm wrench to secure the port in place, placing first the lock washer and then the hex nut over the port.</p>
 <img src="../../photo/jpfsPA140485.jpg">
 <!-- end z-probe -->
 
