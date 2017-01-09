@@ -14,7 +14,7 @@ next-step-title: "Computer Setup"
 
 The first step is to locate the V-Wheels on your fully assembled X-Carve. The V-Wheels are categorized as either fixed or adjustable. The fixed V-Wheels are attached by a regular nylock nut while the adjustable V-Wheels are attached by an eccentric nut. Note that every fixed V-Wheel has an adjustable V-Wheel associated with it. There are 8 V-Wheels on the X Carriage, 4 on each Y-Plate, and 4 on the Spindle Carriage.
 
-After you’ve located the V-Wheels, tighten the fixed V-Wheels on the Machine then adjust the corresponding adjustable V-Wheel. Here you are tightening the adjustabe V-Wheel to the point where it takes a little bit of effort for it to spin. (Note: do this slowly to ensure you do not over-tighten the V-Wheel. This can cause the wheels to crack.)
+After you’ve located the V-Wheels, tighten the fixed V-Wheels on the Machine then adjust the corresponding adjustable V-Wheel. Here you are tightening the adjustable V-Wheel to the point where it takes a little bit of effort for it to spin. (Note: do this slowly to ensure you do not over-tighten the V-Wheel. This can cause the wheels to crack.)
 
 Now repeat this step for every pair of V-Wheels. Finally, test the wheels by moving the carriage. If the wheels moves along with the carriage without much effort, then they are properly tightened. 
 This video demonstrates the concept
