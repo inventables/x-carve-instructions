@@ -188,7 +188,7 @@ next-step-title: "Spindle"
 <img src="photo/P4210487jpg17.jpg">
 <p>Place the closed loop belt around the drive rod pulley.  Angle the stepper motor through the z-axis motor mount plate and grab the closed loop belt with the pulley on the stepper motor.</p>
 <img src="photo/P4210490jpg20.jpg">
-<p>Use the M5x20mm socket head cap screws and M5 nylon locking nuts to secure the motor onto the z-axis motor mount plate.</p>
+<p>Use the M5x20mm socket head cap screws, M5 flat washers, and M5 nylon locking nuts to secure the motor onto the z-axis motor mount plate.</p>
 <img src="photo/P4210493jpg23.jpg">
 <p>Pull the motor away from the drive rod to tension the closed loop belt and tighten down all of the M5 nylon locking nuts in place.</p>
 <img src="photo/jpfs_DSC2800.jpg">
