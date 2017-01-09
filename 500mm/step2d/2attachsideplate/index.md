@@ -114,6 +114,6 @@ Make sure the beveled side of the plates and the X-Carve logo on the gantry rail
 
 <img src="../../step2/photo/jpfs_DSC2759.jpg">
 
-Secure the plate to the end of the makerslide rail with four M5x12mm button head cap screws. Position the plastic bracket for the drag chain support with the extrusion mount facing down. You will have to install one washer between the plate and the screw on the top slotted hole in the plate. The bottom slotted hole is covered by the plastic bracket and doesn't need a washer.
+Secure the plate and drag chain support arm to the end of the makerslide rail with four M5x12mm button head cap screws. Position the drag chain support arm with the extrusion mount facing down. You will have to install one washer between the plate and the screw on the top slotted hole in the plate. The bottom slotted hole is covered by the plastic bracket and doesn't need a washer.
 
 <img src="../../step2/photo/P4211743jpg34.jpg">
