@@ -686,14 +686,12 @@ Attach the fan cable to the power supply interface PCB. The cable can only be co
 
 </div>
 </div>
-
-<p>Lastly, attach the green terminal blocks to the corresponding PCB ports on the back panel. The screws on the terminal blocks will face upward, and you should feel the blocks click into place. </p>
 </div>
 <div class="step-card">
 <h2>
 <strong>Wire X-Controller</strong></h2>
 
-<p>Wire the cables into the green terminal block plugs and plug them into the corresponding spots on the X-Controller. Make sure the colors on the wires match the colors in the diagrams</p>
+<p>Wire the cables into the green terminal block plugs by inserting the exposed metal ends of each wire and tightening the screws until the wire is held firmly in place. Plug the block plugs into the corresponding spots on the X-Controller. The screws on the terminal blocks will face upward, and you should feel the blocks click into place.  Make sure the colors on the wires match the colors in the diagrams.</p>
 
 <img src="x-controllerWiringDiagramFIXED.jpg">
 
