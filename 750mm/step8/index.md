@@ -569,7 +569,7 @@ The last item we need to wire to the front panel is the second ribbon cable. Ins
 </p>
 
 <p>
-Loosen the phillips head screws on the e-stop screw terminals and attach one end of the e-stop cable to each side of the NC screw terminal. Both cables are red; it does not matter which cable goes into which side. Tighten the screws on the screw terminals to hold the cable in place. </p>
+Loosen the Phillips head screws on the e-stop screw terminals and attach one end of the e-stop cable to each side of the NC screw terminal. Both cables are red; it does not matter which cable goes into which side. Tighten the screws on the screw terminals to hold the cable in place. </p>
 
 <p>To attach the wired screw terminal to the button, <strong>line up the "TOP" marking on the button with the "TOP" marking on the screw terminal.</strong> Slide the top panel into the channels of the chassis, from the front of the X-Controller to the back, far enough back so you can access the Mini USB port on the main controller board. Once in position, move the yellow tab towards the back of the assembly to lock in place. Attach the front panel using the included M4 socket head cap screws.</p>
 
