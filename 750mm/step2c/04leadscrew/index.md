@@ -95,7 +95,7 @@ Place an M8 washer onto the head of the leadscrew.
 
 <img src="../../step2/photo/jpfs_DSC2691.jpg">
 
-Prepare the 20 tooth pulley by making sure that the small set screw that hold the pulley to the head of the leadscrew are inserted in the two holes and are loose. Slide the pulley on top of the leadscrew and tighten the set screws to secure.
+Prepare the 20 tooth pulley by making sure that the small set screws that hold the pulley to the head of the leadscrew are inserted in the two holes and are loose. Slide the pulley on top of the leadscrew and tighten the set screws to secure.
 
 <img src="../../step2/photo/jpfs_DSC2696.jpg">
 <img src="../../step2/photo/jpfs_DSC2701.jpg">
