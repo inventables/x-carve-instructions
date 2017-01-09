@@ -82,7 +82,7 @@ next-step-title: "Assemble Gantry"
   </tr>
 </table>
 
-If you ordered your kit with homing switches, we will bnow install the z axis limit switch and Z axis stop which prevents it from being crushed.
+If you ordered your kit with homing switches, we will now install the Z-axis limit switch and Z-axis stop which prevents it from being crushed.
 
 <img src="../../../photo/jpfsPA120473.jpg">
 
