@@ -565,7 +565,7 @@ Lastly, attach the other end of the USB cable to the main controller board. <str
  <img src="PB231418BATCH198.jpg">
 
 <p>
-The last item we need to wire to the front panel is the second ribbon cable. Insert one end of the cable to the black receiver on the main controller board, and the other end on the back of the buttons PCB board on the front panel. 
+The last item we need to wire to the front panel is the second ribbon cable. Insert one end of the cable to the remaining receiver on the main controller board, and the other end on the back of the buttons PCB board on the front panel. 
 </p>
 
 <p>
