@@ -301,17 +301,17 @@ diagram: "wiringDiagram750.jpg"
 <img src="photo/jpfs_DSC2902.jpg">
 <p>Try using a screw driver to pry open the length of drag chain.  The drag chain end might feel like it's going to break, but it's very hard plastic and should hold up just fine.  This might be the most difficult part of the entire build.</p>
 <img src="photo/jpfs_DSC2916.jpg">
-<p>Place the wire management stays in the aluminum extrusion slot and rotate them to secure in place.</p>
+<p>Place the zip tie mounts in the aluminum extrusion slot and rotate them to secure in place.</p>
 <img src="photo/jpfs_DSC2918.jpg">
 <img src="photo/P4220504jpg09.jpg">
-<p>Use three wire management stays on the top of the aluminum extrusion.</p>
+<p>Use three zip tie mounts on the top of the aluminum extrusion.</p>
 <img src="photo/P4220505jpg10.jpg">
-<p>Use two wire management stays on the side of the aluminum extrusion for the lone Y2 stepper motor.</p>
+<p>Use two zip tie mounts on the side of the aluminum extrusion for the lone Y2 stepper motor.</p>
 <img src="photo/P4220509jpg14.jpg">
 <img src="photo/P4220510jpg15.jpg">
 <img src="photo/P4220511jpg16.jpg">
 <img src="photo/P4220514jpg19.jpg">
-<p>Gather up all the wires from the end of the top drag chain and the Y2 stepper motor. Zip tie them to the wire management stays.</p>
+<p>Gather up all the wires from the end of the top drag chain and the Y2 stepper motor. Zip tie them to the zip tie mounts.</p>
 <img src="photo/P4220519jpg24.jpg">
 <img src="photo/P4220521jpg26.jpg">
 <p>Clip the ends off of the zip ties to clean everything up.</p>
