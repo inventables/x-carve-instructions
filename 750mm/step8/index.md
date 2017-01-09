@@ -525,7 +525,7 @@ Insert the button through the hole on the top panel and secure using the nut. Ma
  <img src="PB231371BATCH151.jpg">
 
 <p>
-Remove the silver Phillips head screws from the USB cable terminal. Attach the USB cable teminal to the front panel from the backside of the panel. Secure it in place using the Phillips head screws. </p>
+Remove the silver Phillips head screws from the USB cable terminal. Attach the USB cable terminal to the front panel from the backside of the panel. Secure it in place using the Phillips head screws. </p>
 
 <p>
 Next, install the nylon threaded standoffs to the buttons PCB board. Insert the male end of the standoff through the buttons PCB from the front, securing each standoff in the back using a nylon hex nut. Secure one standoff to each corner of the board. Next, align the buttons PCB with the button holes in the front panel and attach the PCB with the M3 6mm button head screws. </p>
