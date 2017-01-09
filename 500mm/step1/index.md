@@ -175,11 +175,11 @@ Each extrusion is attached with 3x M5x12mm button head cap screws and 3x M5 pre-
 insert three of the pre-assembly insertion nuts into the rail. Make sure that the protrusion on the nut is facing inwards toward the center of the extrusion. Visually align the nuts with the corresponding holes on the board.
 <img src="photo/jpfsP8030204.jpg">
 
-Slide the extrusion under the board and align the three countersunk holes with the nuts in the extrusion. You can use an allen key to line them up.
+Slide the extrusion under the board and align the three countersunk holes with the nuts in the extrusion. You can use a hex key to line them up.
 
 <img src="photo/jpfsP8030206.jpg">
 
-Use a 3mm allen key to start the three M5 x 12mm screws. Before tightening, make sure the two sides of the extrusion extend off the board in roughly equal measure. This should be around 1.16" on either side.
+Use a 3mm hex key to start the three M5 x 12mm screws. Before tightening, make sure the two sides of the extrusion extend off the board in roughly equal measure. This should be around 1.16" on either side.
 
 <img src="photo/jpfsP8030208.jpg">
 

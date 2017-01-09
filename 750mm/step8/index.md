@@ -442,7 +442,7 @@ Wire E-Stop And Attach Front Panel</li>
 	</tr>
 		<tr>
 		<td> 13 </td>
-		<td> Nylong Hex Nuts M3 </td>
+		<td> Nylon Hex Nuts M3 </td>
 		<td> 4 </td>
 	</tr>
 	<tr>
@@ -525,10 +525,10 @@ Insert the button through the hole on the top panel and secure using the nut. Ma
  <img src="PB231371BATCH151.jpg">
 
 <p>
-Remove the silver Phillips head screws from the USB cable terminal. Attach the USB cable teminal to the front panel from the backside of the panel. Secure it in place using the Phillips head screws. </p>
+Remove the silver Phillips head screws from the USB cable terminal. Attach the USB cable terminal to the front panel from the backside of the panel. Secure it in place using the Phillips head screws. </p>
 
 <p>
-Next, install the nylon threaded standoffs to the buttons PCB board. Insert the male end of the standoff through the buttons PCB from the front, securing each standoff in the back using a nylon hex nut. Secure one standoff to each corner of the board. Next, align the buttons PCB with the button holes in the front panel and attach the PCB with the button head screws. </p>
+Next, install the nylon threaded standoffs to the buttons PCB board. Insert the male end of the standoff through the buttons PCB from the front, securing each standoff in the back using a nylon hex nut. Secure one standoff to each corner of the board. Next, align the buttons PCB with the button holes in the front panel and attach the PCB with the M3 6mm button head screws. </p>
 
 <p>
 Lastly, attach the other end of the USB cable to the main controller board. <strong>Don't attach the front panel</strong> to the chassis until the rest of the e-stop is installed in the next step.</p>
@@ -565,11 +565,11 @@ Lastly, attach the other end of the USB cable to the main controller board. <str
  <img src="PB231418BATCH198.jpg">
 
 <p>
-The last item we need to wire to the front panel is the second ribbon cable. Insert one end of the cable to the black receiver on the main controller board, and the other end on the back of the buttons PCB board on the front panel. 
+The last item we need to wire to the front panel is the second ribbon cable. Insert one end of the cable to the remaining receiver on the main controller board, and the other end on the back of the buttons PCB board on the front panel. 
 </p>
 
 <p>
-Loosen the phillips head screws on the e-stop screw terminals and attach one end of the e-stop cable to each side of the NC screw terminal. Both cables are red; it does not matter which cable goes into which side. Tighten the screws on the screw terminals to hold the cable in place. </p>
+Loosen the Phillips head screws on the e-stop screw terminals and attach one end of the e-stop cable to each side of the NC screw terminal. Both cables are red; it does not matter which cable goes into which side. Tighten the screws on the screw terminals to hold the cable in place. </p>
 
 <p>To attach the wired screw terminal to the button, <strong>line up the "TOP" marking on the button with the "TOP" marking on the screw terminal.</strong> Slide the top panel into the channels of the chassis, from the front of the X-Controller to the back, far enough back so you can access the Mini USB port on the main controller board. Once in position, move the yellow tab towards the back of the assembly to lock in place. Attach the front panel using the included M4 socket head cap screws.</p>
 
@@ -686,14 +686,12 @@ Attach the fan cable to the power supply interface PCB. The cable can only be co
 
 </div>
 </div>
-
-<p>Lastly, attach the green terminal blocks to the corresponding PCB ports on the back panel. The screws on the terminal blocks will face upward, and you should feel the blocks click into place. </p>
 </div>
 <div class="step-card">
 <h2>
 <strong>Wire X-Controller</strong></h2>
 
-<p>Wire the cables into the green terminal block plugs and plug them into the corresponding spots on the X-Controller. Make sure the colors on the wires match the colors in the diagrams</p>
+<p>Wire the cables into the green terminal block plugs by inserting the exposed metal ends of each wire and tightening the screws until the wire is held firmly in place. Plug the block plugs into the corresponding spots on the X-Controller. The screws on the terminal blocks will face upward, and you should feel the blocks click into place.  Make sure the colors on the wires match the colors in the diagrams.</p>
 
 <img src="x-controllerWiringDiagramFIXED.jpg">
 
