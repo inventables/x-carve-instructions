@@ -280,7 +280,8 @@ diagram: "wiringDiagram750.jpg"
 <!-- begin z-probe -->
 <h3>Attach Z-Probe (Optional)</h3>
 <p>If you ordered your machine with a Z-Probe, you can now fasten the Z-Probe barrel connector port and its wire to the x-carriage.</p>
-<p>First, open your z-probe kit. Set aside the puck and alligator clip wiring harness for the moment. Locate the long wire with the barrel connector port as well as the slim hex nut and lock washer that accompany it.</p>
+<p>First, open your z-probe kit. Set aside the puck and alligator clip wiring harness for the moment; you'll use these to calibrate your machine after it's set up.</p>
+<p>Locate the long wire with the barrel connector port as well as the slim hex nut and lock washer that accompany it.</p>
 <img src="../../photo/jpfsPA140487.jpg">
 <p>Insert the barrel connector port into the corresponding hole on the top right side of the x-carriage.</p>
 <img src="../../photo/jpfsPA140482.jpg">
