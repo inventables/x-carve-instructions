@@ -272,7 +272,7 @@ diagram: "wiringDiagram750placeholder.jpg"
 <p>Prepare the drag chain lengths by popping open the hinges using a flat head screw driver.</p>
 <img src="./photo/jpfs_DSC2812.jpg">
 <img src="./photo/jpfs_DSC2834.jpg">
-<p>Locate the end of the drag chain, two flat head cap screws, and two post-assembly insertion nuts. Add the post-assembly insertion nuts into the extrusion located behind the wide MakerSlide.</p>
+<p>Locate the end of the drag chain, two M5 10mm flat head cap screws, and two post-assembly insertion nuts. Add the post-assembly insertion nuts into the extrusion located behind the wide MakerSlide.</p>
 <img src="./photo/P4220499jpg04.jpg">
 <img src="./photo/jpfs_DSC2837.jpg">
 <p>Mount the drag chain end to the extrusion by installing the flat head cap screws into the post-assembly insertion nuts.</p>
