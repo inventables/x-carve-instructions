@@ -55,7 +55,7 @@ next-step-title: "Spindle"
       Button Head Cap Screw M5 x 8
     </td>
     <td>
-      16
+      6
     </td>
   </tr>
   <tr>
