@@ -1,0 +1,44 @@
+---
+layout: defaultupgrade
+title: "Dust Shoe Kit"
+step-number: 1
+permalink: /upgrade/step5/
+---
+<img src="jpfs_DSC3546.jpg">
+<img src="jpfs_DSC3556.jpg">
+<img src="jpfs_DSC3558.jpg">
+<img src="jpfs_DSC3559.jpg">
+<img src="jpfs_DSC3563.jpg">
+<img src="jpfs_DSC3566.jpg">
+<img src="jpfs_DSC3567.jpg">
+<img src="jpfs_DSC3572.jpg">
+<img src="jpfs_DSC3574.jpg">
+<img src="jpfs_DSC3577.jpg">
+<img src="jpfs_DSC3582.jpg">
+<img src="jpfs_DSC3587.jpg">
+<img src="jpfs_DSC3589.jpg">
+<img src="jpfs_DSC3592.jpg">
+<img src="jpfs_DSC3595.jpg">
+<img src="jpfs_DSC3597.jpg">
+<img src="jpfs_DSC3598.jpg">
+<img src="jpfs_DSC3602.jpg">
+<img src="jpfs_DSC3612.jpg">
+<img src="jpfs_DSC3614.jpg">
+<img src="jpfs_DSC3617.jpg">
+<img src="jpfs_DSC3619.jpg">
+<img src="jpfs_DSC3620.jpg">
+<img src="jpfs_DSC3622.jpg">
+<img src="jpfs_DSC3626.jpg">
+<img src="jpfs_DSC3627.jpg">
+<img src="jpfs_DSC3628.jpg">
+<img src="jpfs_DSC3629.jpg">
+<img src="jpfs_DSC3632.jpg">
+<img src="jpfs_DSC3636.jpg">
+<img src="jpfs_DSC3639.jpg">
+<img src="jpfs_DSC3643.jpg">
+<img src="jpfs_DSC3644.jpg">
+<img src="jpfs_DSC3652.jpg">
+<img src="jpfs_DSC3654.jpg">
+<img src="jpfs_DSC3656.jpg">
+<img src="jpfs_DSC3658.jpg">
+<img src="jpfs_DSC3659.jpg">
