@@ -10,7 +10,7 @@ These instructions will take you through the installation and setup of the Inven
 
 <h3>Z-Probe Relocation Bracket <em>(Optional)</em></h3>
 
-If you have a Z-Probe connector attached to your X-Axis carriage, You must install a relocation bracket for the connector so that it doesn't interfere with the installation of the rails on either side of the Z-axis makerslide. Start by gathering the relocation bracket, an M5x10mm flat head cap screw, an M5 washer, and an M5 nylon locking nut.
+If you have a Z-Probe connector attached to your X-Axis carriage, You must install a relocation bracket for the connector so that it doesn't interfere with the installation of the arm brackets on either side of the Z-axis makerslide. Start by gathering the relocation bracket, an M5x10mm flat head cap screw, an M5 washer, and an M5 nylon locking nut.
 
 <img src="jpfs_DSC3546.jpg">
 
@@ -39,7 +39,7 @@ To assist in aligning the two arms that hold the dust shoe itself, we have inclu
 
 <img src="jpfs_DSC3567.jpg">
 
-Peel the decals off of their paper backing and apply to the outside edge of each bracket nearest the slotted channel. Try to get consistent alignment with each sticker. They should match with the bracket area more or less exactly.
+Peel the decals off of their paper backing and apply to the outside edge of each bracket nearest the slotted channel. Try to get consistent alignment with each sticker. They should match with the bracket exactly.
 
 <img src="jpfs_DSC3572.jpg">
 
@@ -49,7 +49,7 @@ When complete, your brackets should look like this:
 
 <h3>Install Arm Brackets</h3>
 
-Begin by locating the four t-slot insertion nuts in your kit. These have a small ball bearing to hold them in place while you align them with the brackets. There are two for each side of your z-axis makerslide.
+Begin by locating the four t-slot insertion nuts in your kit. These have a small, spring-loaded ball bearing to hold them in place while you align them with the brackets. There are two for each side of your z-axis makerslide.
 
 <img src="jpfs_DSC3574.jpg">
 
@@ -89,7 +89,7 @@ Align the top of each arm with the '0' mark on the legend and secure with the cl
 
 <h3>Install Dust Shoe</h3>
 
-For your dust shoe to operate correctly, you will need to install a small plastic insert on the underside to maintain the proper suction during cutting. This is designed to be replacable so that damage from the bit, collisions, etc. is relatively inconsequential. Begin by peeling the protective backing off of each side of the insert.
+For your dust shoe to operate properly, you will need to install a small plastic insert on the underside to maintain the proper suction during cutting. This is designed to be replacable so that damage from the bit, collisions, etc. is relatively limited. Begin by peeling the protective backing off of each side of the insert.
 
 <img src="jpfs_DSC3612.jpg">
 
@@ -129,13 +129,34 @@ Secure the top part of the bracket with the M5x16mm button head cap screw, follo
 
 <img src="jpfs_DSC3636.jpg">
 
-
+Insert the straight section of the pole into the bracket so that the tapered section is pointing up. The pole should free to turn in the bracket so that it can swing back and forth during use. Place a hook around the middle of the pole and secure it with the attached screw.
 
 <img src="jpfs_DSC3639.jpg">
+
+Locate the angled pole and the four remaining hooks. Arrange the hooks as shown.
 <img src="jpfs_DSC3643.jpg">
+
+Attach the angled pole onto the straight pole, sliding it into place. clip your vacuum hose onto the hooks, leaving enough slack so that the axes can move freely.
 <img src="jpfs_DSC3644.jpg">
+
 <img src="jpfs_DSC3652.jpg">
+
+<h3>Install Static Dissipating Band</h3>
+
+The plastic hose indluded with your kit is made of a conductive plastic designed to dissipate static charge built up from material moving through the hose. We recommend grounding the hose to reduce the risk of electrostatic discharge, which can start fires and damage electronics. We include a grounding wire with an aluminum band which can be connected to an electrical ground connection, outlet cover screw, or cold water pipe. First, locate the grounding wire, band, bolt with washer, and nut.
+
 <img src="jpfs_DSC3654.jpg">
+
+Bend the aluminum strap around the hose. Insert the bolt through the round connector on the grounding wire, then insert it through both holes on the aluminum band. Use the washer and nut to secure the band in place. The fit of the band can be fairly tight, so it may be necessary to make sharp bends around the holes in the band. Once the band is installed, you can attach the other end of the wire to a ground connection.
+
+
 <img src="jpfs_DSC3656.jpg">
+
+<h3>Install Vacuum Hose Adapter</h3>
+Your Kit includes a 2.25" tapered hose adapter for a standard vacuum connection. simply insert the narrow end of the adapter into the and of the hose. The adapter will be held in place by friction alone.
+
 <img src="jpfs_DSC3658.jpg">
+
 <img src="jpfs_DSC3659.jpg">
+
+
