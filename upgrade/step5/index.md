@@ -33,13 +33,15 @@ Finally, use the thin retaining nut and thin split lock washer to re-install the
 
 <h3>Install Legends On Arm Brackets</h3>
 
+<img src="jpfs_DSC3587.jpg">
+
 To assist in aligning the two arms that hold the dust shoe itself, we have included two decals to be mounted on the side of each arm bracket. Start by locating both brackets in your kit. They are identical, but will be mounted in a mirrored arrangement upon installation.
 
 <img src="jpfs_DSC3566.jpg">
 
 <img src="jpfs_DSC3567.jpg">
 
-Peel the decals off of their paper backing and apply to the outside edge of each bracket nearest the slotted channel. Try to get consistent alignment with each sticker. They should match with the bracket exactly.
+Peel the decals off of their paper backing and apply to the outside edge of each bracket nearest the slotted channel. Try to get consistent alignment with each sticker. Align the top of the decal with the top of the bracket on each side.
 
 <img src="jpfs_DSC3572.jpg">
 
@@ -53,11 +55,11 @@ Begin by locating the four t-slot insertion nuts in your kit. These have a small
 
 <img src="jpfs_DSC3574.jpg">
 
-Insert two t-slot insertion nuts into either side of your z-axis makerslide
+Insert two t-slot insertion nuts into either side of your z-axis makerslide.
 
 <img src="jpfs_DSC3577.jpg">
 
-Roughly space the two t-slot nuts, and use the holes in the sides of the arm brackets to align them accurately. The bottom of the arm brackets should be flush with the bottom of the x-axis carriage.
+Roughly space the two t-slot nuts, and use the holes in the sides of the arm brackets to align them accurately. You can use the long end of a hex key to move them around. The bottom of the arm brackets should be flush with the bottom of the x-axis carriage. You may have to pivot the brackets around the v-wheels to get them to fit.
 
 <img src="jpfs_DSC3582.jpg">
 
@@ -75,11 +77,11 @@ Locate the two dust shoe arms as well as the clamp screws that go with them. Not
 
 <img src="jpfs_DSC3595.jpg">
 
-Thread in the clamp screws into each arm. Just a few turns will be fine for now as you don't want to thread them all the way through just yet.
+Thread in the clamp screws into each arm. Thread them far enough in that the end of the screw almost comes through the other side of the threaded hole. This will make them easier to install.
 
 <img src="jpfs_DSC3597.jpg">
 
-Slide both arms into the slots on the brackets.
+Slide both arms into the slots on the brackets. Make sure that the channels in each arm are facing each other.
 
 <img src="jpfs_DSC3598.jpg">
 
@@ -95,7 +97,7 @@ For your dust shoe to operate properly, you will need to install a small plastic
 
 <img src="jpfs_DSC3614.jpg">
 
-Using four M3x8mm button head cap screws secure the insert to the shoe. The holes for the screws are already drilled and tapped.
+Using four M3x8mm button head cap screws secure the insert to the shoe. The holes for the screws are already drilled and tapped. Take care to avoid cross-threading or stripping the holes.
 
 <img src="jpfs_DSC3617.jpg">
 
