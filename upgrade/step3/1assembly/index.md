@@ -419,7 +419,7 @@ on the diagram to determine the current. For example, if you measure 1V you get 
 <div class="note">
 <i class="fa fa-hand-o-right"></i>
  <span class="note-text">
- <strong>Note:</strong> For those of you wanting a quick an easy way to start using your X-Carve without re-wiring your machine, simply turn the Y axis potentiometer all the way up (4A). For other usage options, check out our <a href="http://x-carve-instructions.inventables.com/upgrade/step3/2usage/">usage instructions</a>. You can always change this in the future, but with access to the main controller board now, it's a good time to decide which route to take.
+ <strong>Note:</strong> For those of you wanting a quick and easy way to start using your X-Carve without re-wiring your machine, simply turn the Y axis potentiometer all the way up (4A). For other usage options, check out our <a href="http://x-carve-instructions.inventables.com/upgrade/step3/2usage/">usage instructions</a>. You can always change this in the future, but with access to the main controller board now, it's a good time to decide which route to take.
  </span>
 
 </div>
