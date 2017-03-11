@@ -284,7 +284,7 @@ This is a universal power supply capable of running at 110V or 220V. Flip the to
  <img src="../../../../1000mm/step8/P6230081EDIT.jpg">
 
 <p>
-Flip the orange cover back and remove the screws on the enclosed power supply that correspond to the "fingers" on the power supply interface PCB. Attach the power supply interface PCB and reinstall the screws to secure it in place.</p>
+Flip the plastic cover back and remove the screws on the enclosed power supply that correspond to the "fingers" on the power supply interface PCB. Attach the power supply interface PCB and reinstall the screws to secure it in place.</p>
 
 <div class="row image-row">
 <div class="col-xs-6 col-md-3">
