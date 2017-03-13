@@ -276,7 +276,7 @@ Attach the four rubber "feet" to the bottom of the chassis. Flip the chassis ove
  <img src="../../../../1000mm/step8/P1151511EDIT.jpg">
 
 <p>
-This is a universal power supply capable of running at 110V or 220V. Flip the toggle switch on the side of the power supplys to the voltage that correspondes to your <a href="https://en.wikipedia.org/wiki/Mains_electricity_by_country#Table_of_mains_voltages_and_frequencies">outlet voltage.</a>
+This is a universal power supply capable of running at 110V or 220V. Flip the toggle switch on the side of the power supplies to the voltage that correspondes to your <a href="https://en.wikipedia.org/wiki/Mains_electricity_by_country#Table_of_mains_voltages_and_frequencies">outlet voltage.</a>
 </p>
 
 <h3>
@@ -284,7 +284,7 @@ This is a universal power supply capable of running at 110V or 220V. Flip the to
  <img src="../../../../1000mm/step8/P6230081EDIT.jpg">
 
 <p>
-Flip the orange cover back and remove the screws on the enclosed power supply that correspond to the "fingers" on the power supply interface PCB. Attach the power supply interface PCB and reinstall the screws to secure it in place.</p>
+Flip the plastic cover back and remove the screws on the enclosed power supply that correspond to the "fingers" on the power supply interface PCB. Attach the power supply interface PCB and reinstall the screws to secure it in place.</p>
 
 <div class="row image-row">
 <div class="col-xs-6 col-md-3">
@@ -386,7 +386,7 @@ Attach Controller Board</li>
  <img src="../../../../1000mm/step8/PB231254EDIT.jpg">
 
 <p>
-Unless you're an advanced user looking to make some tweaks or want an easy way to use your X-Controller without re-wiring your machine, you won't need to make any adjustments. That being said, in order for the Grbl firmware to know how far the machine will move in reality, a few things need to be set on the controller board. Microstepping is one of these settings and allows the motors to move to positions between normal steps; increasing accuracy and smoothing the motion of the motor. Depending on the capabilites of the motors, there does come a point where the microstepping will no longer increase accuracy. Using high microstep values (e.g 16) can reduce stepper motor torque, so it's best to use the lowest value that can still give you the axes resolution you're looking for. Dip switches on the main controller board allow you to set the microstepping. Make sure to check out the diagram on the board for propper placement of the switches.</p>
+Unless you're an advanced user looking to make some tweaks or want an easy way to use your X-Controller without re-wiring your machine, you won't need to make any adjustments. That being said, in order for the Grbl firmware to know how far the machine will move in reality, a few things need to be set on the controller board. Microstepping is one of these settings and allows the motors to move to positions between normal steps; increasing accuracy and smoothing the motion of the motor. Depending on the capabilites of the motors, there does come a point where the microstepping will no longer increase accuracy. Using high microstep values (e.g 16) can reduce stepper motor torque, so it's best to use the lowest value that can still give you the axes resolution you're looking for. Dip switches on the main controller board allow you to set the microstepping. Make sure to check out the diagram on the board for proper placement of the switches.</p>
 
 <p>
 Idle current reduction is another feature that can be set on the controller board. This setting automatically reduces the amount of current shortly after the motor stops moving, reducing heat from the driver and the motor. This feature is especially great for the Z axis which spends a lot of its time idle. You can set this using the dip switches, just make sure to again check out the diagram for proper placement.</p>
@@ -419,7 +419,7 @@ on the diagram to determine the current. For example, if you measure 1V you get 
 <div class="note">
 <i class="fa fa-hand-o-right"></i>
  <span class="note-text">
- <strong>Note:</strong> For those of you wanting a quick an easy way to start using your X-Carve without re-wiring your machine, simply turn the Y axis potentiometer all the way up (4A). For other usage options, check out our <a href="http://x-carve-instructions.inventables.com/upgrade/step3/2usage/">usage instructions</a>. You can always change this in the future, but with access to the main controller board now, it's a good time to decide which route to take.
+ <strong>Note:</strong> For those of you wanting a quick and easy way to start using your X-Carve without re-wiring your machine, simply turn the Y axis potentiometer all the way up (4A). For other usage options, check out our <a href="http://x-carve-instructions.inventables.com/upgrade/step3/2usage/">usage instructions</a>. You can always change this in the future, but with access to the main controller board now, it's a good time to decide which route to take.
  </span>
 
 </div>
