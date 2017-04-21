@@ -16,3 +16,6 @@ stepnav:
   - step: step4
     title: Z-Probe
     url: /step4/
+  - step: step5
+    title: Dust Control System
+    url: /step5/
