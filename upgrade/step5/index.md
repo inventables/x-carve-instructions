@@ -348,11 +348,11 @@ Bend the aluminum strap around the hose. Insert the bolt through the round conne
 
 <h2>Setup and Usage</h2>
 
-Now that you have the dust shoe and hose installed, it's time to set up your workspace and run a job. Make sure that your
+Now that you have the dust shoe and hose installed, it's time to set up your workspace and run a job.
 
 <h3>Attach Hose to Vacuum</h3>
 
-With the adapter installed, attach the end of dust collection hose to your vacuum. This is a standard connection so most any standard Shop-Vac-style connection. If you haven't done so already, make sure that the wire from the aluminum grounding strap has been attached to a outlet cover screw, cold water pipe, or other electrical earth.
+With the adapter installed, attach the end of the dust collection hose to your vacuum. This is a standard connection so most any standard Shop-Vac-style connection. If you haven't done so already, make sure that the wire from the aluminum grounding strap has been attached to a outlet cover screw, cold water pipe, or other electrical earth.
 
 <h3>Easel Setup</h3>
 
