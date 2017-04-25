@@ -98,7 +98,7 @@ next-step-title: "Spindle"
       Nylon Insert Lock Nut M5
     </td>
     <td>
-      4
+      7
     </td>
   </tr>
   <tr>
