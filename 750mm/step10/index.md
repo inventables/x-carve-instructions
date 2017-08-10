@@ -15,11 +15,11 @@ We'll begin by opening Easel. Go to <a href="http://easel.inventables.com/setup"
 
 <img src="photo/firstlogin.png">
 
-<h3 id="local-sender">Download Easel Local Sender</h3>
-Easel is a web application and needs a small piece of software to allow it to talk to the USB port on your computer. Whether you're on a Mac or a Windows Machine, you will be automatically prompted to download and install this software. The local sender behaves more like a driver in that you never have to open it to use Easel. You may have to update the local sender from time to time, but you can generally install it and forget that it's there.
+<h3 id="local-sender">Download Easel Driver</h3>
+Easel is a web application and needs a small piece of software to allow it to talk to the USB port on your computer. Whether you're on a Mac or a Windows Machine, you will be automatically prompted to download and install this software. The Easel Driver behaves like a printer driver in that you never have to open it to use Easel. You may have to update the Easel Driver from time to time, but you can generally install it and forget that it's there.  If it doesn't open you can access all the <a href="http://easel.inventables.com/sender_versions">drivers here.</a>
 
 <h3>Run Machine Setup through Easel</h3>
-Before you run your first carve, you will have to go to <a href="http://easel.inventables.com/setup">http://easel.inventables.com/setup</a> to make sure you have the correct firmware settings for your machine. Choose the correct settings for your Machine here. You'll want to make sure that you have the ACME screw selected for the leadscrew unless you're upgrading from a machine with an M8 threaded rod. If you bought your machine you will have an 3/8" x 12TPI leadscrew by default.
+Before running the machine setup make sure to release the e-stop button if it is pushed down.  The X-Controller will not connect if the e-stop is pushed in. Before you run your first carve, you will have to go to <a href="http://easel.inventables.com/setup">http://easel.inventables.com/setup</a> to make sure you have the correct firmware settings for your machine. Choose the correct settings for your Machine here. You'll want to make sure that you have the ACME screw selected for the leadscrew unless you're upgrading from a machine with an M8 threaded rod. If you bought your machine you will have an 3/8" x 12TPI leadscrew by default.
 
 <img src="photo/machinedetail.png">
 
