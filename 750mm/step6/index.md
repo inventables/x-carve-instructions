@@ -279,7 +279,7 @@ diagram: "wiringDiagram750.jpg"
 
 <!-- begin z-probe -->
 <h3>Attach Z-Probe (Optional)</h3>
-<p>If you ordered your machine with a Z-Probe, you can now fasten the Z-Probe barrel connector port and its wire to the x-carriage.</p>
+<p>If you ordered your machine with a Z-Probe, you can now fasten the Z-Probe barrel connector port and its wire to the x-carriage. However, if you have the dust collector kit, don't attach the barrel connector just yet.  You will use an extension bracket that is included with the dust collection kit to attach it in a later step.</p>
 <p>First, open your z-probe kit. Set aside the puck and alligator clip wiring harness for the moment; you'll use these to calibrate your machine after it's set up.</p>
 <p>Locate the long wire with the barrel connector port as well as the slim hex nut and lock washer that accompany it.</p>
 <img src="../../photo/jpfsPA140487.jpg">
@@ -319,8 +319,9 @@ diagram: "wiringDiagram750.jpg"
 <p>Attach the drag chain bracket to the aluminum extrusion frame using the small button head cap screw and post-assembly insertion nut.</p>
 <img src="photo/jpfs_DSC2927.jpg">
 <img src="photo/P4220523jpg28.jpg">
-<p>Wire up the Y2 motor and y-axis limit switch.</p>
+<p>Wire up the Y1 motor and y-axis limit switch.</p>
 <img src="photo/P4220527jpg32.jpg">
 <img src="photo/P4220530jpg35.jpg">
 <p>Gather up all wires into the drag chain and snap the hinges in place.</p>
 <img src="photo/P4220536jpg41.jpg">
+Do not attach the drag chain yet since it's done in the next step.
