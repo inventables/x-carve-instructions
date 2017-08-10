@@ -111,7 +111,7 @@ In this step you will attach one of the Y Plates to The X axis makerslide rail. 
 <img src="../../step2/photo/jpfs_DSC2764.jpg">
 <i>Left side plate</i>
 
-Make sure the beveled side of the plates and the X-Carve logo on the gantry rail are facing in the same direction
+Make sure the beveled side of the plates and the X-Carve logo on the gantry rail are facing in the same direction.
 
 <img src="../../step2/photo/jpfs_DSC2759.jpg">
 <i>Left side plate</i>
