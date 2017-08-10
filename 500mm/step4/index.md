@@ -185,6 +185,7 @@ next-step-title: "Spindle"
 <img src="photo/jpfs_DSC2795.jpg">
 <p>So you don't waste any threads on your tensioning screw, you need to start with some tension in your belt. To do so, place your hex key in the head of the M5x8mm button head cap screw on the front (without the tensioning screw) and pull towards the front of the machine making the belt tight.  While pulling, tighten the button head cap screw in place.  Go back to your tensioning screws and start tightening down the M5 nylon locking nut until you hear an audible tone when plucking the belt.  Once you have that tone (similar to a bass string on a guitar), tighten down the M5x8mm button head cap screw to secure the belt clip in place.  This might seem like a very complicated step, but if you start with tension already in your belt, you won't have to deal with undoing the tensioning screw and feeding more belt through the belt clip; essentially redoing all of the work you just did.</p>
 <img src="photo/jpfs_DSC2798.jpg">
+Mount the Z-Axis motor with the white socket facing toward the back of the machine so it's easy to plug the wires in.
 <img src="photo/P4210487jpg17.jpg">
 <p>Place the closed loop belt around the drive rod pulley.  Angle the stepper motor through the z-axis motor mount plate and grab the closed loop belt with the pulley on the stepper motor.</p>
 <img src="photo/P4210490jpg20.jpg">
