@@ -149,7 +149,7 @@ Align the relocation bracket with the x-axis carriage so that the small hole on 
 <img src="jpfs_DSC3558.jpg">
 <img src="jpfs_DSC3698.jpg">
 
-Insert the M5x10mm flat head screw into the front of the hole in the carriage. Put a washer on the screw, then secure the assembly with the M5 nylon locking nut.
+Insert the M5x12mm flat head screw into the front of the hole in the carriage. Put a washer on the screw, then secure the assembly with the M5 nylon locking nut.
 
 <img src="jpfs_DSC3559.jpg">
 <img src="jpfs_DSC3700.jpg">
