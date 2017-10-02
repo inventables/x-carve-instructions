@@ -315,7 +315,7 @@ diagram: "wiringDiagram750placeholder.jpg"
 <img src="./photo/P4220521jpg26.jpg">
 <p>Clip the ends off of the zip ties to clean everything up.</p>
 <img src="./photo/jpfs_DSC2822.jpg">
-<p>Attach the drag chain bracket to the aluminum extrusion frame using the small button head cap screw and post-assembly insertion nut.</p>
+<p>Attach the drag chain bracket to the aluminum extrusion frame using the M5x6mm button head cap screw and post-assembly insertion nut.</p>
 <img src="./photo/jpfs_DSC2927.jpg">
 <img src="./photo/P4220523jpg28.jpg">
 <p>Wire up the Y1 motor and y-axis limit switch.</p>
