@@ -746,3 +746,11 @@ My limit switches don't work!</h3>
 Check that the ribbon connectors are fully pushed into the mating connectors.</p>
 
 </div>
+
+<div class="note">
+<i class="fa fa-hand-o-right"></i>
+ <span class="note-text">
+ <strong>Note:</strong> If any repairs need to be made to your X-Controller, <strong>make sure everything is unplugged and powered down before you do anything at all.</strong>  Failure to do so may cause damage to your X-Controller internals.
+ </span>
+
+</div>
