@@ -787,6 +787,15 @@ Attach the fan cable to the power supply interface PCB. The cable can only be co
 <a href="#" class="thumbnail"><img src="../../../../1000mm/step8/P6280129EDIT.jpg"></a>
 
 </div>
+
+<div class="note">
+<i class="fa fa-hand-o-right"></i>
+ <span class="note-text">
+ <strong>Note:</strong> If any repairs need to be made to your X-Controller, <strong>make sure everything is unplugged and powered down before you do anything at all.</strong>  Failure to do so may cause damage to your X-Controller internals.
+ </span>
+
+</div>
+
 </div>
 </div>
 <p style="margin-top:15px;">
