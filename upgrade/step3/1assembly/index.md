@@ -273,11 +273,14 @@ Attach the four rubber "feet" to the bottom of the chassis. Flip the chassis ove
 
 <h3>
 2. Prepare Enclosed Power Supply</h3>
- <img src="../../../../1000mm/step8/P1151511EDIT.jpg">
+
+<img src ="../../../photo/jpfs_DSC3845_1.jpg">
 
 <p>
-This is a universal power supply capable of running at 110V or 220V. Flip the toggle switch on the side of the power supplies to the voltage that correspondes to your <a href="https://en.wikipedia.org/wiki/Mains_electricity_by_country#Table_of_mains_voltages_and_frequencies">outlet voltage.</a>
+Since approximately October 2017, we are shipping X-Controllers with a new style of power supply that will automatically work with any mains AC voltage between 100V and 240V. The new power supply is also thinner and has a slightly lower nominal wattage, but it is otherwise functionally identical to the old power supply. <b>If you have the old style,</b> flip the toggle switch on the side of the power supply to the voltage that corresponds to your <a href="https://en.wikipedia.org/wiki/Mains_electricity_by_country#Table_of_mains_voltages_and_frequencies">outlet voltage.</a>
 </p>
+
+<img src="../../../../1000mm/step8/P1151511EDIT.jpg">
 
 <h3>
 3. Attach Power Supply Interface PCB</h3>
