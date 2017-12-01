@@ -17,3 +17,5 @@ Use a screwdriver or other prying tool to gently pry the spindle mount open and 
 Tighten the three M4x16mm screws to hold the router in place.
 
 <img src="photo/jpfs_DSC2858.jpg">
+
+The router power cable will be put in the drag chains alongside the stepper motor cables in the next step. The router is powered with a simple AC wall outlet.
