@@ -50,7 +50,7 @@ next-step-title: "Gantry"
       30535-02
     </td>
     <td>
-      Wasteboard 500mm Carvey 2016
+      Wasteboard 500mm
     </td>
     <td>
       1
