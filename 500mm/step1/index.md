@@ -98,10 +98,10 @@ next-step-title: "Gantry"
   </tr>
   <tr>
     <td>
-      25281-05
+      25281-14
     </td>
     <td>
-      M5 pre-assembly insertion nut
+      T-Slot Nut M5 Pre-Assembly
     </td>
     <td>
       4
@@ -112,7 +112,7 @@ next-step-title: "Gantry"
       26018-01
     </td>
     <td>
-      cast corner bracket, clear
+      Extrusion Bracket (Gusset)
     </td>
     <td>
       2
@@ -131,7 +131,7 @@ next-step-title: "Gantry"
   </tr>
   <tr>
     <td>
-      25286-18
+      25286-35
     </td>
     <td>
       Button Head Cap Screw M5 x 10
@@ -147,6 +147,14 @@ In this section you'll be assembling the work area of your machine. You'll then 
 <img src="photo/jpfsP8030233.jpg">
 
 First locate the 500mm waste board that came with your kit. This board has 25 clamping holes and six holes for mounting extrusion on the bottom of the board. Note that the six holes are counter-sunk from the top of the board.
+
+<div class="note">
+<i class="fa fa-hand-o-right"></i>
+ <span class="note-text">
+ <strong>Note:</strong> Some kits have a version of the wasteboard with 36 pre-drilled holes and will include 36 threaded inserts.
+ </span>
+</div>
+
 
 <img src="photo/jpfsP8030183.jpg">
 
