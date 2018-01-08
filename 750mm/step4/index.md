@@ -113,33 +113,15 @@ next-step-title: "Spindle"
       4
     </td>
   </tr>
-</table>
-<table>
-  <tr>
-    <td style="color:#000;background: #FFFFFF" colspan="3">
-      <b>750mm Rail Kit</b>
-    </td>
-  </tr>
   <tr>
     <td>
-      <b>SKU</b>
+      26053-03
     </td>
     <td>
-      <b>Name</b>
+      GT2 Belting - Open Ended (meters)
     </td>
     <td>
-      <b>Quantity</b>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      26053-01
-    </td>
-    <td>
-      GT2 Belting - Open Ended (feet)
-    </td>
-    <td>
-      9
+      4
     </td>
   </tr>
 </table>
@@ -176,6 +158,14 @@ next-step-title: "Spindle"
 
 <img src="./photo/jpfs_DSC2791.jpg">
 <p>Start by cutting the belt into 3 equal lengths.</p>
+
+<div class="note">
+<i class="fa fa-hand-o-right"></i>
+ <span class="note-text">
+ <strong>Note:</strong> Current X-Carves are shipping with the belt included in the Core Components Kit.  <strong>Previous versions</strong> included 9ft of belting in the 750mm Rail Kit, part number 26053-01.
+ </span>
+</div>
+
 <img src="./photo/P4210474jpg04.jpg">
 <p>Route the belt (teeth side down) under the smooth idler, over the pulley, and under the smooth idler across all three lengths of Makerslide.</p>
 <img src="./photo/P4210483jpg13.jpg">
