@@ -15,6 +15,22 @@ This is a do-it-yourself 3D carving kit: the more time and attention you put int
 
 The X-Carve is open source hardware. We have 3D models and drawings available in a GrabCAD repository <a href="https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcojYwyy_VqboQQ-9hKBJrjS3zGaGuue8sfnqRNxGI9WQS">here</a>.
 
+<h2>Recommended Tools</h2>
+
+If you purchased a tool kit with your machine, most of these should be included with the exception of power tools 
+
+- 7mm wrench or socket
+- 8mm wrench or socket
+- 10mm wrench or socket
+- 13mm wrench
+- 5.5mm or 7/32" wrench or socket
+- 1.5mm hex key
+- 2mm hex key
+- 2.5mm hex key
+- 3mm hex key
+- 4mm hex key
+- Drill driver with 5mm hex bit
+
 <h2>Bill of Materials</h2>
 <div class="bom">
 <div class="panel-group" id="core-components-accordion" role="tablist" aria-multiselectable="true">

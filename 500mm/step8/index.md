@@ -713,6 +713,12 @@ Wire the limit switches to their respective terminals on the X-Controller. Make 
  </span>
 
 </div>
+
+<h3>Wire Z-Probe</h3>
+<img src="../../upgrade/photo/P9230426.jpg">
+<p>
+If you have a Z-Probe on your machine, wire the red wire into the 'Probe' Port on the same terminal block as the limit switches and the black wire to the adjacent 'GND' connection.</p>
+
 </div>
 </div>
 
