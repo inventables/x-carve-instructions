@@ -747,6 +747,8 @@ My X-Controller won't turn on!</h3>
 <p>
 Check to make sure your e-stop button is pulled out and not engaged.</p>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_ZfAWHrgDno" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 <h3>
 My limit switches don't work!</h3>
 
