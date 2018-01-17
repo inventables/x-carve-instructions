@@ -1,4 +1,4 @@
----
+ ---
 layout: defaultupgrade
 title: "Z-Probe"
 step-number: 4
@@ -88,25 +88,19 @@ Great! Now we’re ready to update your computer settings so you can use the z-p
 
 <strong>Z-Probe Computer Set-up</strong>
 
-In order to use the z-probe with Easel, you will need to make sure you are running the correct grbl firmware (1.0c) and that you have the proper Easel driver (0.2.7) installed. 
+In order to use the z-probe with Easel, you will need to make sure you are running grbl firmware 1.0c or later, and that you have Easel Driver 0.2.7 or later installed. 
 
 If you’re using an X-Controller, you’ll will already have the correct grbl firmware installed on your controller board. There is nothing you need to do for this step. 
 
-If you are using a gShield/Arudino motion controller, you will need to <a href="https://inventables.desk.com/customer/portal/articles/2058884?b_id=9562&t=0">re-flash your Arduino board with the latest version of the Inventables grbl fork.</a> 
+If you are using a gShield/Arudino motion controller, you will need to go to 'Machine->Advanced->Upload Firmware' in Easel to flash the latest firmware version to your board.</a> 
 
-Once you have the grbl firmware installed, it’s time to download and install the correct Easel local driver. <a href="http://easel.inventables.com/">Go to Easel,</a> and go to the Help > Downloads section. 
+Once you have the grbl firmware installed, it’s time to download and install the correct Easel local driver. <a href="http://easel.inventables.com/">Go to Easel,</a> and go to the Help -> Downloads section to get the latest available driver. 
  
 <img src="../photo/Easel_screenshot_1_-_downloads.png">
 
-Download Easel local 0.2.7 for your operating system.
+You'll then want to go to <a href="http://easel.inventables.com/setup">setup</a> in Easel to make sure that the Z-Probe is recognized by Easel.
 
-<img src="../photo/Easel_screenshot_2_-_0.2.7_version.png">
-
-Make sure you complete the installation on your computer once you’ve downloaded the file. 
-
-<img src="../photo/Easel_screenshot_3_-_open_file.png">
-
-Using Your Z-Probe
+<h3>Using Your Z-Probe<h3>
 
 To use the z-probe wiring harness, plug in the twisted red and black wire into the connector located on your x-carriage. 
 

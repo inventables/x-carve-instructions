@@ -356,7 +356,7 @@ With the adapter installed, attach the end of the dust collection hose to your v
 
 <h3>Easel Setup</h3>
 
-If you'll be using Easel for carving, you'll want to take your machine through the setup process again to add the dust collection system to the carve dialog. First, connect your machine and open up Easel. Go to 'Machine->Set up your machine'
+If you'll be using Easel for carving, you'll want to take your machine through the <a href="http://easel.inventables.com/setup">setup</a> process again to add the dust collection system to the carve dialog. First, connect your machine and open up Easel. Go to 'Machine->Set up your machine'
 
 <img src="machine_setup.png">
 
