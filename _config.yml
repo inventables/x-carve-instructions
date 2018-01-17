@@ -5,7 +5,7 @@ url: "http://x-carve-instructions.inventables.com" # the base hostname & protoco
 # Build settings
 markdown: kramdown
 
-gems:
+plugins:
 - jekyll-redirect-from
 - jekyll-textile-converter
 - github-pages
