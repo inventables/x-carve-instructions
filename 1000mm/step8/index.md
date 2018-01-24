@@ -700,6 +700,14 @@ Attach the fan cable to the power supply interface PCB. The cable can only be co
 
 <p>With two motors on the y axis facing each other, you'll need to flip one of the y pairs for the motors to move in the same direction. The diagram above shows the black and green wires flipped on Y2.</p>
 
+<div class="note">
+<i class="fa fa-hand-o-right"></i>
+ <span class="note-text">
+ <strong>Note:</strong> The stepper motors will act as generators when moved manually and will feed current back into the X-Controller, potentially damaging the stepper drivers and other components. Generally it will be okay to move the X and Y axes slowly if necessary, but it should be avoided whenever possible.
+ </span>
+
+</div>
+
 <h3>
 Wire Limit Switches</h3>
 <img src="jpfs_DSC3486.jpg">
@@ -760,7 +768,7 @@ Check that the ribbon connectors are fully pushed into the mating connectors.</p
 <div class="note">
 <i class="fa fa-hand-o-right"></i>
  <span class="note-text">
- <strong>Note:</strong> If any repairs need to be made to your X-Controller, <strong>make sure everything is unplugged and powered down before you do anything at all.</strong>  Failure to do so may cause damage to your X-Controller internals.
+ <strong>Note:</strong> If any repairs need to be made to your X-Controller, <strong>make sure everything is unplugged and powered down before you do anything at all.</strong>  Failure to do so may cause damage to your X-Controller internals (or your own.)
  </span>
 
 </div>
