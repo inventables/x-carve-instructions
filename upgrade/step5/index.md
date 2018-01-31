@@ -354,6 +354,10 @@ Now that you have the dust shoe and hose installed, it's time to set up your wor
 
 With the adapter installed, attach the end of the dust collection hose to your vacuum. This is a standard connection so most any standard Shop-Vac-style connection. If you haven't done so already, make sure that the wire from the aluminum grounding strap has been attached to a outlet cover screw, cold water pipe, or other electrical earth.
 
+<h3>Check Homing Switch Positions</h3>
+
+If you have homing switches on your machine, check to ensure that the dust shoe/dust shoe arms don't run into the Y axis end plates of the machine before the X/Y axes hit their respective actuators. If there seems to be interference, move the actuator bolts until there's no interference. You'll want to power off your machine and disconnect it from the controller before moving your axes by hand.
+
 <h3>Easel Setup</h3>
 
 If you'll be using Easel for carving, you'll want to take your machine through the <a href="http://easel.inventables.com/setup">setup</a> process again to add the dust collection system to the carve dialog. First, connect your machine and open up Easel. Go to 'Machine->Set up your machine'
