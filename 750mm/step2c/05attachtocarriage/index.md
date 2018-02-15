@@ -67,3 +67,6 @@ Use a 3mm hex key to tighten the four bolts.
 
 <img src="../../step2/photo/jpfs_DSC2721.jpg">
 
+At this point you can lubricate the leascrew with the included packet of synthetic grease (SKU: 30711-01) by applying a sparing amount directly to the threads. While the delrin is self-lubricating to a certain extent, this grease will keep the Z axis from binding from static friction. 
+
+<img src ="../../../photo/lubepacket.jpeg">
