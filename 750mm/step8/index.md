@@ -700,6 +700,8 @@ Each step also begins with a bill of materials (BOM) that details the necessary 
 	<img src="../../upgrade/photo/P9230426.jpg">
 	<p>
 	If you have a Z-Probe on your machine, wire the red wire into the 'Probe' Port on the same terminal block as the limit switches and the black wire to the adjacent 'GND' connection.</p>
+
+	<p>The remaining terminal block plug is used for more advanced spindle options, such as a relay or VFD controlled spindle, and will not be used in a stock X-Carve configuration.</p>
 </div>
 
 <div class="step-card">
