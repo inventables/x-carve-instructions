@@ -15,7 +15,7 @@ Welcome to the X-Controller assembly instructions! The images shown at the begin
 <p>
 Each step also begins with a bill of materials (BOM) that details the necessary components to complete the step. Please review the full bill of materials, listed below, before getting started. Few things are more frustrating than being partway through a build and suddenly discovering something is missing.</p> 
 
-<p>Click the black bar below to reveal the BOM and make sure you received everything. If any parts are missing, please contact us at help @ inventables.com for replacements.</p>
+<p>Click the black bar below to reveal the BOM and make sure you received everything. Note that the <strong>FRONT AND BACK PANELS</strong> are located in the styrofoam inserts. If any parts are missing, please contact us at help @ inventables.com for replacements.</p>
 
 <div class="bom">
 	<div class="panel-group" id="model-accordion" role="tablist" aria-multiselectable="true">
@@ -352,7 +352,7 @@ Each step also begins with a bill of materials (BOM) that details the necessary 
 	 <img src="P6280109EDIT.jpg">
 
 	<p>
-	Slide the controller board into the channels of the chassis, making sure you route the wires through the cutout on the board to prevent snagging or pinching.</p>
+	Slide the controller board into the channels of the chassis, making sure you route the wires through the cutout on the board to prevent snagging or pinching. The two remaining M4 x 8mm button head cap screws can be installed in the threaded holes on the sides of the chassis. The screws act as stoppers, preventing the controller board from moving around within the chassis.</p>
 
 	<div class="row image-row">
 		<div class="col-xs-6 col-md-3">
