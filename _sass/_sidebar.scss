@@ -1,36 +1,3 @@
-.sidebar {
-  padding-top: 30px;
-  border-right: 1px solid #ddd;
-
-  @media (max-width: 768px) {
-    display: none;
-  }
-
-  .nav {
-    margin-left: 0;
-
-    .nav-item a.active {
-      color: #4990e2;
-    }
-
-    & > li > a {
-      color: #383838;
-      border-bottom: 1px solid transparent;
-      font-size: 16px;
-      padding: 5px 5px 5px 0;
-
-      &:first-of-type {
-        padding-top: 0;
-      }
-
-      &:hover, &:focus {
-        background: none;
-        border-bottom: 1px solid #eee;
-      }
-    }
-  }
-}
-
 #hamburger {
   display: none;
   text-decoration: none !important;
@@ -53,46 +20,53 @@
 }
 
 #off-canvas-sidebar {
-  display: block;
-  visibility: hidden;
-  -webkit-transform: translate3d(-100%, 0, 0);
-  transform: translateX(-100%, 0, 0);
-  position: absolute;
-  border-right: none;
-  left: 0;
-  z-index: 100;
-  width: 100%;
-  height: auto;
-  -webkit-transition: all 0.5s;
-  transition: all 0.5s;
-  background: #4990e2;
-  box-shadow: 4px 2px 4px rgba(0,0,0,.4);
+  font-size: 16px;
+  padding: 0;
 
-  a { 
-    color: #fff;
+  @media (min-width: 767px) {
+    border-right: 1px solid rgba(0, 0, 0, 0.1);
+  }
 
-    &:hover, &:focus, &:active {
-      background: transparent;
+  .sidebar {
+    @supports (position: sticky) {
+      position: sticky;
+      top: 1em;
+      margin-top: 1em;
+    }
+
+    @supports not (position: sticky) {
+      position: fixed;
     }
   }
 
-  #close {
-    position: absolute;
-    top: 10px;
-    right: 10px;
-    font-size: 40px;
+  .nav-item .active {
+    color: #222;
   }
-}
 
-#off-canvas-sidebar.open {
-  visibility: visible;
-  -webkit-transform: translateX(0);
-  transform: translateX(0);
+  ul {
+    font-weight: 600;
+    list-style: none;
+  }
 
-  @media (min-width: 768px) {
-    visibility: hidden;
-    -webkit-transform: translate3d(-100%, 0, 0);
-    transform: translateX(-100%, 0, 0);
+  ol {
+    list-style-position: inside;
+    font-size: 14px;
+    font-weight: 400;
+
+    a {
+      color: #999;
+    }
+  }
+
+  a {
+    color: #555;
+    border-bottom: none;
+
+    &:hover,
+    &:focus,
+    &:active {
+      background: transparent;
+    }
   }
 }
 
@@ -132,7 +106,7 @@
   border-bottom: 1px solid #eee;
 
   h4 {
-    margin-bottom: 0px;
+    margin-bottom: 0;
     color: #222;
     font-size: 16px;
     border-bottom: 1px solid #eee;

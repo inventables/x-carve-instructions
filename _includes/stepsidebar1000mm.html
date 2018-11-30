@@ -1,0 +1,41 @@
+<nav class="navbar navbar-expand-lg navbar-light">
+  <button
+    class="navbar-toggler"
+    type="button"
+    data-toggle="collapse"
+    data-target="#navbarTogglerDemo02"
+    aria-controls="navbarTogglerDemo02"
+    aria-expanded="false"
+    aria-label="Toggle navigation"
+  >
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+    <ul class="sidebar">
+      <li><a href="{{ site.baseurl }}/1000mm/">Welcome!</a></li>
+      {% for item in site.data.navigation.stepnav %}
+      <li class="nav-item">
+        {% if item.subnav %}
+        <a href="#{{item.step}}" id="step-drop-btn" {% if page.parent == item.title %}class="active"{% endif %} data-toggle="collapse"
+          >{{ item.title }} &nbsp;<i class="fa fa-caret-down"></i
+        ></a>
+        <ol
+          class="collapse {% if page.parent == item.title %}show{% endif %}"
+          id="{{item.step}}"
+        >
+          {% for subitem in item.subnav %}
+            {% assign url = subitem.url | prepend: item.url | prepend: "/1000mm" %}
+          <a
+            {% if page.url == url %}class="active"{% endif %}
+            href={{url}}
+          >
+            <li>{{ subitem.title }}</li>
+          </a>
+          {% endfor %}
+        </ol>
+        {% else %} <a href="/1000mm{{ item.url }}">{{ item.title }}</a> {% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</nav>

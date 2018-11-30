@@ -28,7 +28,7 @@
 
 #drive-rod-accordion {
   .panel-heading {
-    color:#fff;
+    color: #fff;
     background: #6b4e40;
   }
 }
@@ -111,42 +111,42 @@
   letter-spacing: 2px;
   position: relative;
   display: inline-block;
-  background: #4990E2;
+  background: #4990e2;
   color: #fff;
-  border: 2px solid #4990E2;
+  border: 2px solid #4990e2;
   text-shadow: none;
   box-shadow: none;
   padding: 12px 16px;
   font-weight: 400;
-  transition: border 0.3s ease,
-              color 0.3s ease,
-              background 0.3s ease;
-  &:hover, &:focus {
+  transition: border 0.3s ease, color 0.3s ease, background 0.3s ease;
+
+  &:hover,
+  &:focus {
     text-decoration: none;
-    color: #4990E2;
-    border-color: #4990E2;
-    background: #FFF;
+    color: #4990e2;
+    border-color: #4990e2;
+    background: #fff;
     opacity: 1;
   }
 }
 
 .btn-animate-arrow {
   &:after {
-    content: "\279E";
+    content: '\279E';
     opacity: 0;
-    transition: opacity 0.3s,
-                margin 0.3s;
+    transition: opacity 0.3s, margin 0.3s;
     padding: 0;
     margin-left: -1em;
   }
+
   &:hover:after {
     opacity: 1;
     margin-left: 0.3em;
-    content: "\279E";
+    content: '\279E';
   }
 }
 
-@media (max-width:1220px) {
+@media (max-width: 1220px) {
   iframe {
     width: 100%;
   }
@@ -161,8 +161,9 @@
   right: 20px;
   top: 5px;
 
-  .fa-plus, .fa-minus {
-    transition: display .5s ease;
+  .fa-plus,
+  .fa-minus {
+    transition: display 0.5s ease;
   }
 
   .fa-minus {
@@ -191,10 +192,10 @@
 
 .step-card {
   border: 1px solid #c8c8c8;
-  box-shadow: 2px 2px 2px rgba(0,0,0,.1);
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.1);
   padding: 20px;
 
-  &~& {
+  & ~ & {
     margin-top: 20px;
   }
 
@@ -236,20 +237,20 @@
     height: 50px;
 
     &.active {
-        border-bottom: 4px solid #383838;
+      border-bottom: 4px solid #383838;
 
-        a {
-          color: #383838;
-        }
-
-        &:hover {
-          border-color: #4990e2;
-        }
-
-        .dropdown-menu {
-          margin-top: 4px;
-        }
+      a {
+        color: #383838;
       }
+
+      &:hover {
+        border-color: #4990e2;
+      }
+
+      .dropdown-menu {
+        margin-top: 4px;
+      }
+    }
 
     a {
       border-bottom: 0;
@@ -286,7 +287,8 @@
 .container--welcome {
   padding-top: 30px;
 
-  h1, h3 {
+  h1,
+  h3 {
     text-align: center;
   }
 
@@ -306,13 +308,12 @@
     margin-top: 2em;
   }
 }
+
 .page-diagram {
   position: fixed;
-  margin-left: 10px;
-  
-  img {
-    width: 400px;
-    height: 400px;
+  margin-top: 10px;
+
+  .img-fluid {
     margin-bottom: 20px;
   }
 }
