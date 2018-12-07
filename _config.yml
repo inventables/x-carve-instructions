@@ -1,12 +1,8 @@
-# Site settings
-baseurl: ""
-url: "http://x-carve-instructions.inventables.com" # the base hostname & protocol for your site
-
 # Build settings
 markdown: kramdown
 
 plugins:
-- jekyll-redirect-from
-- jekyll-textile-converter
-- github-pages
-- octopress-autoprefixer
+  - jekyll-redirect-from
+  - jekyll-textile-converter
+  - github-pages
+  - octopress-autoprefixer

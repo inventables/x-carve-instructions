@@ -12,7 +12,7 @@
   </button>
   <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
     <ul class="sidebar">
-      <li class="nav-item"><a href="{{ site.baseurl }}/1000mm/" {% if page.url == '/1000mm/' %}class="active"{% endif %}>Welcome!</a></li>
+      <li class="nav-item"><a href="{{ site.baseurl }}/500mm/" {% if page.url == '/500mm/' %}class="active"{% endif %}>Welcome!</a></li>
       {% for item in site.data.navigation.stepnav %}
       <li class="nav-item">
         {% if item.subnav %}
@@ -21,15 +21,15 @@
         </a>
         <ol class="collapse {% if page.parent == item.title %}show{% endif %}" id="{{item.step}}">
           {% for subitem in item.subnav %}
-            {% assign url = subitem.url | prepend: item.url | prepend: "/1000mm" %}
+            {% assign url = subitem.url | prepend: item.url | prepend: "/500mm" %}
           <a href={{url}} {% if page.url == url %}class="active"{% endif %}>
             <li>{{ subitem.title }}</li>
           </a>
           {% endfor %}
         </ol>
         {% else %}
-          {% assign url = item.url | prepend: "/1000mm" %}
-          <a {% if page.url == url %}class="active"{% endif %} href="/1000mm{{ item.url }}">{{ item.title }}</a> 
+          {% assign url = item.url | prepend: "/500mm" %}
+          <a {% if page.url == url %}class="active"{% endif %} href="/500mm{{ item.url }}">{{ item.title }}</a>
         {% endif %}
       </li>
       {% endfor %}
