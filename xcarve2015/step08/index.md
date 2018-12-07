@@ -1,14 +1,14 @@
 ---
 layout: xcarve2015
-title:  "Drive Rod"
-time-estimate: 15
+title: "Drive Rod"
+time_estimate: 15
 category: step
-step-number: 8
+step_number: 8
 permalink: /xcarve2015/step08/
 next-step: /xcarve2015/step09/
 redirect_from: "/step08/"
 next-step-title: "Z-Axis Motor"
-grabcad-name1: "Z-Axis Assembly"
+grabcad_name1: "Z-Axis Assembly"
 grabcad-url1: https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/125928
 z-axis: true
 ---

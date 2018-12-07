@@ -2,7 +2,7 @@
 layout: default750mm
 title: "Attach Flanged Bearing to Z-Axis Plate"
 parent: Z-Axis
-step-number: 2
+step_number: 2
 permalink: /750mm/step2c/2flangedbearing/
 next-step: /750mm/step2c/3attachrail/
 next-step-title: "Z-Axis Rail"

@@ -2,7 +2,7 @@
 layout: xcarve2015
 title:  "Get Carving!"
 category: step
-step-number: 18
+step_number: 18
 permalink: /xcarve2015/step18/
 ---
 

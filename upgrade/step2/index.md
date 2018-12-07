@@ -1,7 +1,7 @@
 ---
 layout: defaultupgrade
 title: "Wide Makerslide"
-step-number: 1
+step_number: 1
 permalink: /upgrade/step2/
 next-step: /upgrade/step3/1assembly/
 next-step-title: "X-Controller"

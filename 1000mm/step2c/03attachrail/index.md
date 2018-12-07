@@ -2,7 +2,7 @@
 layout: default1000mm
 title: "Attach Z-Axis Rail"
 parent: Z-Axis
-step-number: 2
+step_number: 2
 permalink: /1000mm/step2c/3attachrail/
 next-step: /1000mm/step2c/4leadscrew/
 next-step-title: "Leadscrew"

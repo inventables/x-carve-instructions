@@ -2,7 +2,7 @@
 layout: default500mm
 title: "Attach Stepper Motor to X-Carriage"
 parent: X-Carriage
-step-number: 2
+step_number: 2
 permalink: /500mm/step2b/5motors/
 next-step: /500mm/step2b/6dragchain/
 next-step-title: "Drag Chain Bracket"

@@ -1,7 +1,7 @@
 ---
 layout: default500mm
 title:  "Calibrate"
-step-number: 1
+step_number: 1
 permalink: /500mm/step9/
 next-step: /500mm/step10/
 next-step-title: "Computer Setup"

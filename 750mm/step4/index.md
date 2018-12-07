@@ -1,7 +1,7 @@
 ---
 layout: default750mm
 title: "Belting"
-step-number: 1
+step_number: 1
 permalink: /750mm/step4/
 next-step: /750mm/step5/
 next-step-title: "Spindle"

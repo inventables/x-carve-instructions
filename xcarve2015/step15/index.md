@@ -1,9 +1,9 @@
 ---
 layout: xcarve2015
-title:  "Calibrate"
-time-estimate: 15
+title: "Calibrate"
+time_estimate: 15
 category: step
-step-number: 15
+step_number: 15
 permalink: /xcarve2015/step15/
 next-step: /xcarve2015/step16/
 redirect_from: "/step15/"
@@ -17,7 +17,7 @@ next-step-title: "Install Drivers"
 
 Check out this tuning video to make sure you've got everything assembled and working the way it should.
 
-The video will guide you through squaring your machine, adjusting the v-wheels and adjusting the eccentric nuts.  Check out this animation to help better understand the motion of the eccentric nuts and v-wheels.
+The video will guide you through squaring your machine, adjusting the v-wheels and adjusting the eccentric nuts. Check out this animation to help better understand the motion of the eccentric nuts and v-wheels.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nX0J317l0mY" frameborder="0" allowfullscreen></iframe>
 

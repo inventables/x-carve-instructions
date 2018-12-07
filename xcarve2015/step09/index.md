@@ -1,9 +1,9 @@
 ---
 layout: xcarve2015
-title:  "Z-Axis Motor"
-time-estimate: 15
+title: "Z-Axis Motor"
+time_estimate: 15
 category: step
-step-number: 9
+step_number: 9
 permalink: /xcarve2015/step09/
 next-step: /xcarve2015/step10/
 redirect_from: "/step09/"

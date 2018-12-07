@@ -2,7 +2,7 @@
 layout: default750mm
 title: "Attach Drag Chain Rail"
 parent: "Assemble Gantry"
-step-number: 2
+step_number: 2
 permalink: /750mm/step2d/5dragchainrail/
 next-step: /750mm/step3/
 next-step-title: "Rails"

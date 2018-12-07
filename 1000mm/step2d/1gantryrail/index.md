@@ -2,7 +2,7 @@
 layout: default1000mm
 title: "Gantry"
 parent: "Assemble Gantry"
-step-number: 2
+step_number: 2
 permalink: /1000mm/step2d/1gantryrail/
 next-step: /1000mm/step2d/2attachsideplate/
 next-step-title: "Attach First Plate"

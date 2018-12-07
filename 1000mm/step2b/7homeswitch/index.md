@@ -2,7 +2,7 @@
 layout: default1000mm
 title: "Attach Home Switch to X-Carriage"
 parent: X-Carriage
-step-number: 2
+step_number: 2
 permalink: /1000mm/step2b/7homeswitch/
 next-step: /1000mm/step2c/1zaxis/
 next-step-title: "Z-Axis"

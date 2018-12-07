@@ -2,7 +2,7 @@
 layout: default1000mm
 title: "Attach Drag Chain Bracket"
 parent: "Side Plates"
-step-number: 2
+step_number: 2
 permalink: /1000mm/step2a/6dragchain/
 next-step: /1000mm/step2a/7homeswitch/
 next-step-title: "Homing Switches"

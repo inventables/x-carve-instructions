@@ -1,7 +1,7 @@
 ---
 layout: default1000mm
 title: "Spindle"
-step-number: 1
+step_number: 1
 permalink: /1000mm/step5/
 next-step: /1000mm/step6/
 next-step-title: "Wiring"

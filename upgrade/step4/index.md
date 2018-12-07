@@ -1,7 +1,7 @@
 ---
 layout: defaultupgrade
 title: "Z-Probe"
-step-number: 4
+step_number: 4
 permalink: /upgrade/step4/
 next-step: /upgrade/step5/
 next-step-title: "Dust Control System"

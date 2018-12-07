@@ -2,7 +2,7 @@
 layout: default1000mm
 title: "Attach X-Carriage Assembly"
 parent: "Assemble Gantry"
-step-number: 2
+step_number: 2
 permalink: /1000mm/step2d/3attachcarriage/
 next-step: /1000mm/step2d/4attachsideplate/
 next-step-title: "Side Plate"

@@ -2,7 +2,7 @@
 layout: default500mm
 title: "Attach Fixed V-Wheels"
 parent: Z-Axis
-step-number: 2
+step_number: 2
 permalink: /500mm/step2c/7fixedvwheels/
 next-step: /500mm/step2c/8clampbolts/
 next-step-title: "Clamp Bolts"

@@ -2,7 +2,7 @@
 layout: default1000mm
 title: "Attach Z-Axis Assembly to X-Carriage"
 parent: Z-Axis
-step-number: 2
+step_number: 2
 permalink: /1000mm/step2c/5attachtocarriage/
 next-step: /1000mm/step2c/6adjustablevwheels/
 next-step-title: "Adjustable V-Wheels"

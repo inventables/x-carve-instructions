@@ -2,7 +2,7 @@
 layout: default750mm
 title: "Attach Fixed V-Wheels"
 parent: Side Plates
-step-number: 2
+step_number: 2
 permalink: /750mm/step2a/2fixedvwheels/
 next-step: /750mm/step2a/3adjustablevwheels/
 next-step-title: "Adjustable V-Wheels"

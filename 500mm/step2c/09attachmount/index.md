@@ -2,7 +2,7 @@
 layout: default500mm
 title: "Attach Spindle Carriage to Z-Axis"
 parent: Z-Axis
-step-number: 2
+step_number: 2
 permalink: /500mm/step2c/9attachmount/
 next-step: /500mm/step2c/10homeswitch/
 next-step-title: "Z-Axis Homing Switch"

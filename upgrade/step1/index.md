@@ -1,7 +1,7 @@
 ---
 layout: defaultupgrade
 title: "Side Board"
-step-number: 1
+step_number: 1
 redirect_from: "/upgrade/"
 permalink: /upgrade/step1/
 next-step: /upgrade/step2/

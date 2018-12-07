@@ -1,7 +1,7 @@
 ---
 layout: default750mm
 title: "Side Board"
-step-number: 1
+step_number: 1
 permalink: /750mm/step7/
 next-step: /750mm/step8/
 next-step-title: "X-Controller"

@@ -2,7 +2,7 @@
 layout: default500mm
 title: "Assemble X-Carriage"
 parent: X-Carriage
-step-number: 2
+step_number: 2
 permalink: /500mm/step2b/1xcarriage/
 next-step: /500mm/step2b/2idlers/
 next-step-title: "Idler Wheels"

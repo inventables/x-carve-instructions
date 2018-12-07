@@ -1,14 +1,14 @@
 ---
 layout: xcarve2015
-title:  "Electronics"
-time-estimate: 45
+title: "Electronics"
+time_estimate: 45
 category: step
-step-number: 14
+step_number: 14
 permalink: /xcarve2015/step14/
 next-step: /xcarve2015/step15/
 redirect_from: "/step14/"
 next-step-title: "Calibrate"
-grabcad-name1: "X-Carve Electronics"
+grabcad_name1: "X-Carve Electronics"
 grabcad-url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/153599"
 ---
 
@@ -140,28 +140,28 @@ Now for some wiring. Strip about two inches from the end of one piece of stepper
 
 Strip the ends of the four wires about one quarter of an inch.
 
- ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/707/original/1066.jpg?1424471887)
+![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/707/original/1066.jpg?1424471887)
 
 <h3 id="determine-axes">
 4. Determine the Axes</h3>
 
 Now twist the copper from the black and green wires together. This will make the stepper motor that the cable is attached to resist movement.
 
- ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/712/original/1069.jpg?1424475157)
+![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/712/original/1069.jpg?1424475157)
 
 Gently push the X-Axis of your machine in one direction, if the motor feels like it's resisting your efforts you've identified that piece of stepper cable as "X."
 
- ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/713/original/1072.jpg?1424475158)
+![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/713/original/1072.jpg?1424475158)
 
 If you don't feel resistance try moving the Y and Z axes until you find the motor that is resisting movement. If you're unsure whether or not you're encountering resistance try untwisting the green and black wires and comparing resistance.
 
- ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/714/original/1074.jpg?1424475160)
+![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/714/original/1074.jpg?1424475160)
 
- ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/715/original/1075.jpg?1424475161)
+![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/715/original/1075.jpg?1424475161)
 
 Label the stepper cable as you go.
 
- ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/716/original/1079.jpg?1424475162)
+![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/716/original/1079.jpg?1424475162)
 
 <h3 id="solder-pins">
 5. Solder Pins to gShield</h3>
@@ -206,11 +206,11 @@ Place the pins into the gShield making sure that the black plastic touches the t
 
 Once you've determined which stepper cable belongs to which axis you can wire them into the gShield. First loosen all of the screws on the gShield (they will jump a thread when they are fully loose, but they won't come out of the terminal blocks.)
 
- ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/717/original/1082.jpg?1424475163)
+![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/717/original/1082.jpg?1424475163)
 
 The gShield is marked "X," "Y," and "Z." Wire the stepper cable according to the markings on the shield and order your wires (from left to right) <span style="color:black">**black**</span>, <span style="color:green">**green**</span>, **white**, <span style="color:red">**red**</span>.
 
- ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/718/original/1096.jpg?1424475165)
+![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/718/original/1096.jpg?1424475165)
 
 Check out this diagram for clarification.
 
@@ -247,11 +247,11 @@ Check out this diagram for clarification.
 
 Now grab your Arduino and mount it in the gShield Enclosure. You'll use three of its four mounting holes to do so.
 
- ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/729/original/Electronics%20Arduino%20Mounting%20Holes.png?1424475991)
+![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/729/original/Electronics%20Arduino%20Mounting%20Holes.png?1424475991)
 
 Push the USB port through the square hole on the gShield enclosure and line up the screws with the threaded inserts on the gShield Enclosure. Screw the Arduino down to the enclosure remembering to alternate screws as you tighten to keep the board even. There's no reason to go past finger tight with these.
 
- ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/721/original/1107.jpg?1424475530)
+![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/721/original/1107.jpg?1424475530)
 
 <div class="note">
 <i class="fa fa-hand-o-right"></i>
@@ -286,7 +286,7 @@ Push the USB port through the square hole on the gShield enclosure and line up t
 
 Now push the gShield onto the Arduino. There are pins on the gShield that go into the headers of the Arduino. Route the stepper cables out of the three square holes as you do this.
 
- ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/722/original/1117.jpg?1424475531)
+![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/722/original/1117.jpg?1424475531)
 
 <h3 id="power-gshield">
 9. Power the gShield and 24V Fan</h3>
@@ -338,11 +338,11 @@ Now strip the zip wire on one end and strip the 24V fan's wires. Twist the <span
 
 Loosen the screws in the power terminal of the gShield and insert the <span style="color:red">red</span> twisted pair into Vmot and the <span style="color:black">black</span> twisted pair into Gnd.
 
- ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/727/original/1129.jpg?1424475663)
+![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/727/original/1129.jpg?1424475663)
 
 Strip the other end of the zip wire and insert the ends into the large green terminal on the Power Supply Interface.
 
- ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/728/original/1134.jpg?1424475664)
+![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/728/original/1134.jpg?1424475664)
 
 <h3 id="power-spindle">
 10. Power the 24V Spindle</h3>
@@ -390,11 +390,11 @@ Strip the zip wire from your spindle and put the ends into the remaining spots o
 
 Place the top of the gShield enclosure on to the bottom.
 
- ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/878/original/1141.jpg?1427991581)
+![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/878/original/1141.jpg?1427991581)
 
 There are two M3 x 6mm screws that couple the top and bottom. Thread them into the enclosure by hand and tighten them just past finger tight with your wrench.
 
- ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/877/original/1143.jpg?1427991580)
+![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/877/original/1143.jpg?1427991580)
 
 <h3 id="install-fan">
 12. Install the 24V Fan</h3>
@@ -422,7 +422,7 @@ There are two M3 x 6mm screws that couple the top and bottom. Thread them into t
 
 Use the four M3 x 35mm screws to attach the 24V fan to the gShield enclosure. <strong>The bag containing this hardware may be mislabeled as M3 x 25mm screws, but they are the correct 35mm length and should work without a problem.</strong>
 
- ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/879/original/1148.jpg?1427991781)
+![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/879/original/1148.jpg?1427991781)
 
 <h3 id="connect-pwm">
 13. Connect PWM Spindle Control</h3>
@@ -546,7 +546,7 @@ Now is a good time to add the "actuators" for the limit switches. Start with the
 
 Repeat the process with the Y-Axis limit switch actuator on the left piece of Y-Axis Makerslide.
 
- ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/901/original/1246.jpg?1428001827)
+![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/901/original/1246.jpg?1428001827)
 
 <h3 id="plug-in-assembly">
 15. Plug in the Electronics Assembly</h3>
@@ -569,4 +569,4 @@ Repeat the process with the Y-Axis limit switch actuator on the left piece of Y-
 
 Now it's time to plug your Power Supply Assembly into the wall. Make sure both switches on the interface are set to off and double check all of your wiring (especially the placement of red and black wires). If you've wired everything correctly, the blue lights on the gShield should light up!
 
- ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/892/original/1274.jpg?1428000007)
+![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/892/original/1274.jpg?1428000007)

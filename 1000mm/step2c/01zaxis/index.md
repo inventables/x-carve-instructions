@@ -2,7 +2,7 @@
 layout: default1000mm
 title: "Z-Axis"
 parent: Z-Axis
-step-number: 2
+step_number: 2
 permalink: /1000mm/step2c/1zaxis/
 next-step: /1000mm/step2c/2flangedbearing/
 next-step-title: "Flanged Bearing"

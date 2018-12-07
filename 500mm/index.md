@@ -1,7 +1,7 @@
 ---
 layout: default500mm
 title: 'Welcome!'
-step-number: 1
+step_number: 1
 permalink: /500mm/
 next-step: /500mm/step1/
 next-step-title: 'Work Area'

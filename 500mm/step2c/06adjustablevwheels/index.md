@@ -2,7 +2,7 @@
 layout: default500mm
 title: "Attach Adjustable V-Wheels"
 parent: Z-Axis
-step-number: 2
+step_number: 2
 permalink: /500mm/step2c/6adjustablevwheels/
 next-step: /500mm/step2c/7fixedvwheels/
 next-step-title: "Fixed V-Wheels"

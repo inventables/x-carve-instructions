@@ -2,7 +2,7 @@
 layout: default750mm
 title: "Install Leadscrew"
 parent: Z-Axis
-step-number: 2
+step_number: 2
 permalink: /750mm/step2c/4leadscrew/
 next-step: /750mm/step2c/5attachtocarriage/
 next-step-title: "Attach Z-Axis"

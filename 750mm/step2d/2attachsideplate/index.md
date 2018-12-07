@@ -2,7 +2,7 @@
 layout: default750mm
 title: "Attach Side Plate"
 parent: "Assemble Gantry"
-step-number: 2
+step_number: 2
 permalink: /750mm/step2d/2attachsideplate/
 next-step: /750mm/step2d/3attachcarriage/
 next-step-title: "Attach Carriage"

@@ -2,7 +2,7 @@
 layout: default750mm
 title: "Attach Adjustable V-Wheels"
 parent: X-Carriage
-step-number: 2
+step_number: 2
 permalink: /750mm/step2b/4adjustablevwheels/
 next-step: /750mm/step2b/5motors/
 next-step-title: "Stepper Motors"

@@ -2,7 +2,7 @@
 layout: default750mm
 title: "Attach Fixed V-Wheels"
 parent: X-Carriage
-step-number: 2
+step_number: 2
 permalink: /750mm/step2b/3fixedvwheels/
 next-step: /750mm/step2b/4adjustablevwheels/
 next-step-title: "Adjustable V-Wheels"

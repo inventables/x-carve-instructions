@@ -1,7 +1,7 @@
 ---
 layout: default1000mm
 title: "Wiring"
-step-number: 6
+step_number: 6
 permalink: /1000mm/step6/
 next-step: /1000mm/step7/
 next-step-title: "Side Board"

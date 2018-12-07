@@ -1,7 +1,7 @@
 ---
 layout: default500mm
 title: "Rails"
-step-number: 1
+step_number: 1
 permalink: /500mm/step3/
 next-step: /500mm/step4/
 next-step-title: "Belting"

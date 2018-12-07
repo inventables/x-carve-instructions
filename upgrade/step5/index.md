@@ -1,7 +1,7 @@
 ---
 layout: defaultupgrade
 title: "Dust Control System"
-step-number: 5
+step_number: 5
 permalink: /upgrade/step5/
 ---
 
