@@ -26,12 +26,15 @@ header {
   padding-left: 0;
 }
 
-.navbar-default {
+.navbar-expand-lg {
   background: none;
   border: none;
   border-radius: 0;
   margin-bottom: 0;
-  margin-left: 5px;
+  @media (min-width: 1200px) {
+      display: flex;
+      align-items: center;
+  }
 }
 
 .search-container {
@@ -341,7 +344,6 @@ border-bottom: 1px solid #fff;
   text-transform: none !important;
   top: 6px;
   left: 10px;
-  width: 208px;
   box-shadow: 2px 2px 2px rgba(0,0,0,.1);
   transition: box-shadow .3s ease;
   letter-spacing: 0 !important;
