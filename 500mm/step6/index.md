@@ -3,8 +3,8 @@ layout: default500mm
 title: "Wiring"
 step_number: 6
 permalink: /500mm/step6/
-next-step: /500mm/step7/
-next-step-title: "Side Board"
+next_step: /500mm/step7/
+next_step_title: "Side Board"
 diagram: "wiringDiagram500.jpg"
 ---
 

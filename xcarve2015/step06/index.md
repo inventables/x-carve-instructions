@@ -5,9 +5,9 @@ time_estimate: 15
 category: step
 step_number: 6
 permalink: /xcarve2015/step06/
-next-step: /xcarve2015/step07/
+next_step: /xcarve2015/step07/
 redirect_from: "/step06/"
-next-step-title: "Z-Axis"
+next_step_title: "Z-Axis"
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JXco1gg48Y8" frameborder="0" allowfullscreen>

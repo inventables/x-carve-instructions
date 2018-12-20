@@ -4,8 +4,8 @@ title: "Attach Drag Chain Rail"
 parent: "Assemble Gantry"
 step_number: 2
 permalink: /750mm/step2d/5dragchainrail/
-next-step: /750mm/step3/
-next-step-title: "Rails"
+next_step: /750mm/step3/
+next_step_title: "Rails"
 ---
 
 <table>

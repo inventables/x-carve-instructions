@@ -5,9 +5,9 @@ time_estimate: 45
 category: step
 step_number: 10
 permalink: /xcarve2015/step10/
-next-step: /xcarve2015/step11/
+next_step: /xcarve2015/step11/
 redirect_from: "/step10/"
-next-step-title: "Drag Chain"
+next_step_title: "Drag Chain"
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_vCIVagKgzA" frameborder="0" allowfullscreen>

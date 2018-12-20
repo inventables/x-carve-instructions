@@ -4,8 +4,8 @@ title: "Attach Z-Axis Rail"
 parent: Z-Axis
 step_number: 2
 permalink: /500mm/step2c/3attachrail/
-next-step: /500mm/step2c/4leadscrew/
-next-step-title: "Leadscrew"
+next_step: /500mm/step2c/4leadscrew/
+next_step_title: "Leadscrew"
 diagram: "../03attachrail/attachrail.jpg"
 ---
 <img src="../../step2/photo/jpfs_DSC2687.jpg">

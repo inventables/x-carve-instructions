@@ -4,8 +4,8 @@ title: "Attach Smooth Idlers"
 parent: X-Carriage
 step_number: 2
 permalink: /750mm/step2b/2idlers/
-next-step: /750mm/step2b/3fixedvwheels/
-next-step-title: "Fixed V-Wheels"
+next_step: /750mm/step2b/3fixedvwheels/
+next_step_title: "Fixed V-Wheels"
 diagram: "idlers.jpg"
 ---
 <img src="../../step2/photo/jpfsP7150151.jpg">

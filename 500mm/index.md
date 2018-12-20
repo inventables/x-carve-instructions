@@ -3,8 +3,8 @@ layout: default500mm
 title: 'Welcome!'
 step_number: 1
 permalink: /500mm/
-next-step: /500mm/step1/
-next-step-title: 'Work Area'
+next_step: /500mm/step1/
+next_step_title: 'Work Area'
 ---
 
 <img src="500_angle_0101.jpg">

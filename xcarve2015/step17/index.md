@@ -5,9 +5,9 @@ time_estimate: 5
 category: step
 step_number: 17
 permalink: /xcarve2015/step17/
-next-step: /xcarve2015/step18/
+next_step: /xcarve2015/step18/
 redirect_from: "/step17/"
-next-step-title: "Get Carving!"
+next_step_title: "Get Carving!"
 ---
 
 Easel, our super easy-to-use web app, will help you get your machine and electronics working.

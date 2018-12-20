@@ -4,8 +4,8 @@ title: "Attach Fixed V-Wheels"
 parent: Z-Axis
 step_number: 2
 permalink: /750mm/step2c/7fixedvwheels/
-next-step: /750mm/step2c/8clampbolts/
-next-step-title: "Clamp Bolts"
+next_step: /750mm/step2c/8clampbolts/
+next_step_title: "Clamp Bolts"
 diagram: "../07fixedvwheels/fixedvwheels3.jpg"
 ---
 <img src="../../step2/photo/jpfs_DSC2749.jpg">

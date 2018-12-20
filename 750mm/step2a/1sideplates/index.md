@@ -4,8 +4,8 @@ title: "Gantry Side Plates"
 parent: "Side Plates"
 step_number: 2
 permalink: /750mm/step2a/1sideplates/
-next-step: /750mm/step2a/2fixedvwheels/
-next-step-title: "Fixed V-Wheels"
+next_step: /750mm/step2a/2fixedvwheels/
+next_step_title: "Fixed V-Wheels"
 ---
 
 <img src="../../step2/photo/jpfs_DSC2610.jpg">

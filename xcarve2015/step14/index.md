@@ -5,11 +5,11 @@ time_estimate: 45
 category: step
 step_number: 14
 permalink: /xcarve2015/step14/
-next-step: /xcarve2015/step15/
+next_step: /xcarve2015/step15/
 redirect_from: "/step14/"
-next-step-title: "Calibrate"
+next_step_title: "Calibrate"
 grabcad_name1: "X-Carve Electronics"
-grabcad-url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/153599"
+grabcad_url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/153599"
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6DkhEQ8LhYA" frameborder="0" allowfullscreen>

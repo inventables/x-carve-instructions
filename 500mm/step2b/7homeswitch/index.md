@@ -4,8 +4,8 @@ title: "Attach Home Switch to X-Carriage"
 parent: X-Carriage
 step_number: 2
 permalink: /500mm/step2b/7homeswitch/
-next-step: /500mm/step2c/1zaxis/
-next-step-title: "Z-Axis"
+next_step: /500mm/step2c/1zaxis/
+next_step_title: "Z-Axis"
 diagram: "homeswitch.jpg"
 ---
 <img src="../../step2/photo/jpfsP7150166.jpg">

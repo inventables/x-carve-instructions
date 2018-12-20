@@ -3,8 +3,8 @@ layout: default1000mm
 title: "Work Area"
 step_number: 1
 permalink: /1000mm/step1/
-next-step: /1000mm/step2a/1sideplates/
-next-step-title: "Gantry"
+next_step: /1000mm/step2a/1sideplates/
+next_step_title: "Gantry"
 ---
 
 <table>

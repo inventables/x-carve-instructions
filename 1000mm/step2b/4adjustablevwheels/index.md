@@ -4,8 +4,8 @@ title: "Attach Adjustable V-Wheels"
 parent: X-Carriage
 step_number: 2
 permalink: /1000mm/step2b/4adjustablevwheels/
-next-step: /1000mm/step2b/5motors/
-next-step-title: "Stepper Motors"
+next_step: /1000mm/step2b/5motors/
+next_step_title: "Stepper Motors"
 diagram: "adjustablevwheels.jpg"
 ---
 <img src="../../step2/photo/jpfs_DSC2648.jpg">

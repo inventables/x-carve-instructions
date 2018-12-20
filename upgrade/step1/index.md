@@ -4,8 +4,8 @@ title: "Side Board"
 step_number: 1
 redirect_from: "/upgrade/"
 permalink: /upgrade/step1/
-next-step: /upgrade/step2/
-next-step-title: "Wide Makerslide"
+next_step: /upgrade/step2/
+next_step_title: "Wide Makerslide"
 ---
 
 <div class="bom">

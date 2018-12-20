@@ -1,70 +1,73 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body data-spy="scroll" data-target="#subnav">
+<body data-spy="scroll" data-target="#subnav">
 
-    {% include header.html %}
+  {% include header.html %}
 
-    <div class="instructions-wrapper container">
-      <div id="off-canvas-sidebar">
-        {% include stepnav750mm.html %}
-        <a id="close" href="#"><i class="fa fa-times"></i></a>
-      </div>
-      <div class="row topic-nav">
-          {% include stepnav750mm.html %}
-      </div>
-      <div class="row">
-        <div class="page-content js-instruction-step col-sm-7">
-          <header class="post-header">
-            <div class="instruction-breadcrumbs">
-              <a href="{{site.baseurl}}">X-Carve Instructions</a> &#47; <a href="{{site.baseurl}}/750mm/">750mm</a>
-              {% if page.parent %}
-                &#47;
-                  {{ page.parent }}
+  <div class="instructions-wrapper container">
+    <div id="off-canvas-sidebar">
+      {% include stepnav750mm.html %}
+      <a id="close" href="#"><i class="fa fa-times"></i></a>
+    </div>
+    <div class="row topic-nav">
+      {% include stepnav750mm.html %}
+    </div>
+    <div class="row">
+      <div class="page-content js-instruction-step col-sm-7">
+        <header class="post-header">
+          <div class="instruction-breadcrumbs">
+            <a href="{{site.baseurl}}">X-Carve Instructions</a> &#47; <a href="{{site.baseurl}}/750mm/">750mm</a>
+            {% if page.parent %}
+            &#47;
+            {{ page.parent }}
+            {% endif %}
+            &#47;
+            <span class="current-page">
+              {% if page.title %}
+              {{ page.title }}
               {% endif %}
-              &#47;
-              <span class="current-page">
-                {% if page.title %}
-                  {{ page.title }}
-                {% endif %}
-              </span>
-            </div>
-            <h1 class="step-title">{{ page.title }}</h1>
-
-            {% if page.time-estimate %}
-            <div class="time-estimate"><i class="fa fa-clock-o"></i>{{page.time_estimate}} minutes</div>
-            {% endif %}
-
-            {% if page.grabcad-url1 %}
-              <a class="grabcad-link" href="{{page.grabcad_url1}}"><i class="fa fa-cube"></i> GrabCAD Model of {{page.grabcad_name1}}</a>
-              {% if page.z-axis == true %}
-                <span class="grabcad-note">(You're only building part of this now)</span>
-              {% endif %}
-            {% endif %}
-            {% if page.grabcad-url2 %}
-              <a class="grabcad-link" href="{{page.grabcad_url2}}"><i class="fa fa-cube"></i> GrabCAD Model of {{page.grabcad_name2}}</a>
-            {% endif %}
-
-          </header>
-          <div class="step-text">
-            {{ content }}
-            {% include next-step.html %}
+            </span>
           </div>
+          <h1 class="step-title">{{ page.title }}</h1>
+
+          {% if page.time-estimate %}
+          <div class="time-estimate"><i class="fa fa-clock-o"></i>{{page.time_estimate}} minutes</div>
+          {% endif %}
+
+          {% if page.grabcad_url1 %}
+          <a class="grabcad-link" href="{{page.grabcad_url1}}"><i class="fa fa-cube"></i> GrabCAD Model of
+            {{page.grabcad_name1}}</a>
+          {% if page.z-axis == true %}
+          <span class="grabcad-note">(You're only building part of this now)</span>
+          {% endif %}
+          {% endif %}
+          {% if page.grabcad_url2 %}
+          <a class="grabcad-link" href="{{page.grabcad_url2}}"><i class="fa fa-cube"></i> GrabCAD Model of
+            {{page.grabcad_name2}}</a>
+          {% endif %}
+
+        </header>
+        <div class="step-text">
+          {{ content }}
+          {% include next-step.html %}
         </div>
-        <div class="col-sm-5">
-          <div class="page-diagram">
+      </div>
+      <div class="col-sm-5">
+        <div class="page-diagram">
           {% if page.diagram %}
-            <img src="{{ page.diagram | prepend: site.baseurl }}"/>
+          <img src="{{ page.diagram | prepend: site.baseurl }}" />
           {% endif %}
           {% if page.diagram2 %}
-            <img src="{{ page.diagram2 | prepend: site.baseurl }}"/>
+          <img src="{{ page.diagram2 | prepend: site.baseurl }}" />
           {% endif %}
-          </div>
         </div>
       </div>
     </div>
-    {% include scripts.html %}
-  </body>
+  </div>
+  {% include scripts.html %}
+</body>
+
 </html>

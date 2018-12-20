@@ -4,8 +4,8 @@ title: "Attach Fixed V-Wheels"
 parent: Side Plates
 step_number: 2
 permalink: /500mm/step2a/2fixedvwheels/
-next-step: /500mm/step2a/3adjustablevwheels/
-next-step-title: "Adjustable V-Wheels"
+next_step: /500mm/step2a/3adjustablevwheels/
+next_step_title: "Adjustable V-Wheels"
 diagram: "fixedvwheels1.jpg"
 ---
 <img src="../../step2/photo/jpfs_DSC2564.jpg">

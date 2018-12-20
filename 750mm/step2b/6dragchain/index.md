@@ -4,8 +4,8 @@ title: "Attach Drag Chain Bracket To X-Carriage"
 parent: X-Carriage
 step_number: 2
 permalink: /750mm/step2b/6dragchain/
-next-step: /750mm/step2b/7homeswitch/
-next-step-title: "Homing Switch"
+next_step: /750mm/step2b/7homeswitch/
+next_step_title: "Homing Switch"
 diagram: "dragchain.jpg"
 ---
 <img src="../../step2/photo/jpfsP7150160.jpg">

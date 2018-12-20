@@ -4,8 +4,8 @@ title: "Attach Homing Switches"
 parent: "Side Plates"
 step_number: 2
 permalink: /750mm/step2a/7homeswitch/
-next-step: /750mm/step2b/1xcarriage/
-next-step-title: "X-Carriage"
+next_step: /750mm/step2b/1xcarriage/
+next_step_title: "X-Carriage"
 diagram: "homeswitch1.jpg"
 ---
 <img src="../../step2/photo/jpfs_DSC2616.jpg">

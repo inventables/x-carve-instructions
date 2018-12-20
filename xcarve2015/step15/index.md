@@ -5,9 +5,9 @@ time_estimate: 15
 category: step
 step_number: 15
 permalink: /xcarve2015/step15/
-next-step: /xcarve2015/step16/
+next_step: /xcarve2015/step16/
 redirect_from: "/step15/"
-next-step-title: "Install Drivers"
+next_step_title: "Install Drivers"
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5AwuLbbvZNQ" frameborder="0" allowfullscreen>

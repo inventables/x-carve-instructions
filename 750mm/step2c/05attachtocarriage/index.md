@@ -4,8 +4,8 @@ title: "Attach Z-Axis Assembly to X-Carriage"
 parent: Z-Axis
 step_number: 2
 permalink: /750mm/step2c/5attachtocarriage/
-next-step: /750mm/step2c/6adjustablevwheels/
-next-step-title: "Adjustable V-Wheels"
+next_step: /750mm/step2c/6adjustablevwheels/
+next_step_title: "Adjustable V-Wheels"
 diagram: "../05attachtocarriage/attachtocarriage1.jpg"
 ---
 <img src="../../step2/photo/jpfs_DSC2723.jpg">

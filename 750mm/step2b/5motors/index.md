@@ -4,8 +4,8 @@ title: "Attach Stepper Motor to X-Carriage"
 parent: X-Carriage
 step_number: 2
 permalink: /750mm/step2b/5motors/
-next-step: /750mm/step2b/6dragchain/
-next-step-title: "Drag Chain Bracket"
+next_step: /750mm/step2b/6dragchain/
+next_step_title: "Drag Chain Bracket"
 diagram: "motors.jpg"
 ---
 <img src="../../step2/photo/jpfs_DSC2652.jpg">

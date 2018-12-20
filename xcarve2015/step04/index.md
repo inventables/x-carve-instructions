@@ -5,11 +5,11 @@ time_estimate: 45
 category: step
 step_number: 4
 permalink: /xcarve2015/step04/
-next-step: /xcarve2015/step05/
+next_step: /xcarve2015/step05/
 redirect_from: "/step04/"
-next-step-title: "Y-Axis"
+next_step_title: "Y-Axis"
 grabcad_name1: "Gantry"
-grabcad-url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/125929"
+grabcad_url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/125929"
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fSk9E95GFyQ" frameborder="0" allowfullscreen>

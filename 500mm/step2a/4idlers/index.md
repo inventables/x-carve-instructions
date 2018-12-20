@@ -4,8 +4,8 @@ title: "Attach Idler Wheels"
 parent: "Side Plates"
 step_number: 2
 permalink: /500mm/step2a/4idlers/
-next-step: /500mm/step2a/5motors/
-next-step-title: "Stepper Motors"
+next_step: /500mm/step2a/5motors/
+next_step_title: "Stepper Motors"
 diagram: "idlers1.jpg"
 ---
 <img src="../../step2/photo/jpfs_DSC2597.jpg">

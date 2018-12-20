@@ -3,8 +3,8 @@ layout: default750mm
 title:  "Calibrate"
 step_number: 1
 permalink: /750mm/step9/
-next-step: /750mm/step10/
-next-step-title: "Computer Setup"
+next_step: /750mm/step10/
+next_step_title: "Computer Setup"
 ---
 
 

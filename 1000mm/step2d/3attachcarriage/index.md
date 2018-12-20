@@ -4,8 +4,8 @@ title: "Attach X-Carriage Assembly"
 parent: "Assemble Gantry"
 step_number: 2
 permalink: /1000mm/step2d/3attachcarriage/
-next-step: /1000mm/step2d/4attachsideplate/
-next-step-title: "Side Plate"
+next_step: /1000mm/step2d/4attachsideplate/
+next_step_title: "Side Plate"
 ---
 
 

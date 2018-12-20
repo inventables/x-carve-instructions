@@ -5,13 +5,13 @@ time_estimate: 20
 category: step
 step_number: 11
 permalink: /xcarve2015/step11/
-next-step: /xcarve2015/step12/
+next_step: /xcarve2015/step12/
 redirect_from: "/step11/"
-next-step-title: "Spindle Mount"
+next_step_title: "Spindle Mount"
 grabcad_name1: "500mm Drag Chain"
-grabcad-url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/155522"
+grabcad_url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/155522"
 grabcad_name2: "1000m Drag Chain"
-grabcad-url2: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/155521"
+grabcad_url2: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/155521"
 ---
 
 <img src="XCarveDragChain.jpg">

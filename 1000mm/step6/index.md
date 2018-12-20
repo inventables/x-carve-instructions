@@ -3,8 +3,8 @@ layout: default1000mm
 title: "Wiring"
 step_number: 6
 permalink: /1000mm/step6/
-next-step: /1000mm/step7/
-next-step-title: "Side Board"
+next_step: /1000mm/step7/
+next_step_title: "Side Board"
 diagram: "wiringDiagram750placeholder.jpg"
 ---
 <table>

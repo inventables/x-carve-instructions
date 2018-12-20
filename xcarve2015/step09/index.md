@@ -5,9 +5,9 @@ time_estimate: 15
 category: step
 step_number: 9
 permalink: /xcarve2015/step09/
-next-step: /xcarve2015/step10/
+next_step: /xcarve2015/step10/
 redirect_from: "/step09/"
-next-step-title: "Wiring"
+next_step_title: "Wiring"
 ---
 
 <img src="0607.jpg">
