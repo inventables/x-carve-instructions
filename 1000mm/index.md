@@ -234,7 +234,7 @@ If you purchased a tool kit with your machine, most of these should be included 
   </div>
   <div class="panel-group" id="rail-size-accordion" role="tablist" aria-multiselectable="true">
     <div class="panel panel-default">
-      <div data-toggle="collapse" data-parent="#rail-size-accordion" href="#rail-size" aria-expanded="false" aria-controls="rail-size" style="color:#000;background:#FFFFFF" class="panel-heading" role="tab" id="rail-size-header">
+      <div data-toggle="collapse" data-parent="#rail-size-accordion" href="#rail-size" aria-expanded="false" aria-controls="rail-size" style="color:#000;background:#FFFFFF;border:1px solid #ddd;" class="panel-heading" role="tab" id="rail-size-header">
         <h4 class="panel-title">
           <strong>Rail Size</strong>
         </h4>
