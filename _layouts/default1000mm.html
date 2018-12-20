@@ -13,17 +13,17 @@
         <header class="post-header">
           <div class="instruction-breadcrumbs">
             <a href="{{ site.url }}">X-Carve Instructions</a> &#47;
-            <a href="{{ site.baseurl }}/1000mm/">1000mm</a> 
-            {% if page.parent%} 
-              &#47; {{ page.parent }} 
-            {% endif %} 
+            <a href="{{ site.baseurl }}/1000mm/">1000mm</a>
+            {% if page.parent%}
+            &#47; {{ page.parent }}
+            {% endif %}
             &#47;
             <span class="current-page">
               {% if page.title %} {{ page.title }} {% endif %}
             </span>
           </div>
           <h1 class="step-title">{{ page.title }}</h1>
-          
+
           {% if page.time_estimate %}
           <div class="time-estimate">
             <i class="fa fa-clock-o"></i>{{ page.time_estimate }} minutes
@@ -31,12 +31,12 @@
           {% endif %}
 
           {% if page.grabcad_url1 %}
-            <a class="grabcad-link" href="{{ page.grabcad_url1 }}">
-              <i class="fa fa-cube"></i> GrabCAD Model of {{ page.grabcad_name1 }}
-            </a>
-            {% if page.z-axis == true %}
-            <span class="grabcad-note">(You're only building part of this now)</span>
-            {% endif %}
+          <a class="grabcad-link" href="{{ page.grabcad_url1 }}">
+            <i class="fa fa-cube"></i> GrabCAD Model of {{ page.grabcad_name1 }}
+          </a>
+          {% if page.z-axis == true %}
+          <span class="grabcad-note">(You're only building part of this now)</span>
+          {% endif %}
           {% endif %}
 
           {% if page.grabcad_url2 %}
@@ -52,7 +52,7 @@
         </div>
 
       </div>
-      <div class="col-md-4">
+      <div class="col-md-4 col-md-4">
         <div class="page-diagram">
           {% if page.diagram %}
           <img src="{{ page.diagram | prepend: site.baseurl }}" />
