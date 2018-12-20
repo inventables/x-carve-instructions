@@ -311,59 +311,43 @@ header {
   display: none;
 }
 
-#flagship-nav li a {
-  font-weight: 400;
-  text-transform: uppercase;
-  color: #666;
-  margin: 0 10px;
-  letter-spacing: 2px;
-  font-size: 12px;
-  border-radius: 0;
-  border-bottom: 0;
-}
-
-#flagship-nav li:last-of-type a {
-  margin-right: 0;
-}
-
-#flagship-nav li:first-of-type a {
-  padding-left: 0;
-}
-
 #flagship-nav {
-  margin-left: 10px;
-}
-
-#flagship-nav li a:hover {
-  background: transparent;
-  color: #4990e2 !important;
-}
-
-#flagship-nav li {
-  border-right: 1px solid #eee;
-}
-
-#flagship-nav li:last-of-type {
-  border-right: none;
-}
-
-@media (max-width: 960px) {
-  #flagship-nav {
-    margin-left: 5px;
-  }
-
-  #flagship-nav li a {
-    margin-right: 3px;
+  li a {
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #666;
+    margin: 0 10px;
+    letter-spacing: 2px;
     font-size: 12px;
+    border-radius: 0;
+    border-bottom: 0;
+  }
+
+  li:last-of-type a {
+    margin-right: 0;
+  }
+
+  li:first-of-type a {
+    padding-left: 0;
+  }
+
+  li a:hover {
+    background: transparent;
+    color: #4990e2 !important;
+  }
+
+  li:last-of-type {
+    border-right: none;
+  }
+
+  @media (min-width: 992px) {
+    margin-right: 80px;
+    li {
+      border-right: 1px solid #eee;
+    }
   }
 }
 
-@media (max-width: 820px) {
-  #flagship-nav {
-    clear: left;
-    margin-left: 0;
-  }
-}
 
 .github-link {
   position: relative;
@@ -392,5 +376,27 @@ header {
     margin-right: 8px;
     line-height: 11px;
     vertical-align: middle;
+  }
+}
+.github-corner:hover .octo-arm {
+  animation: octocat-wave 560ms ease-in-out;
+}
+@media (max-width: 575px) {
+  .github-corner {
+    display: none;
+  }
+}
+@keyframes octocat-wave {
+  0%,
+  100% {
+    transform: rotate(0);
+  }
+  20%,
+  60% {
+    transform: rotate(-25deg);
+  }
+  40%,
+  80% {
+    transform: rotate(10deg);
   }
 }

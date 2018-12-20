@@ -26,8 +26,10 @@
 }
 
 .step-title {
-  margin-bottom: 6px;
+  margin-top: 10px;
+  margin-bottom: 4px;
   color: #222 !important;
+  font-size: 50px;
 }
 
 .time-estimate {
@@ -40,10 +42,6 @@
     position: relative;
     top: 3px;
   }
-}
-
-.step-title {
-  font-size: 50px;
 }
 
 .step-text {
