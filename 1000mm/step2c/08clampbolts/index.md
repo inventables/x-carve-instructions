@@ -2,10 +2,10 @@
 layout: default1000mm
 title: "Insert Spindle Carriage Clamping Bolts"
 parent: Z-Axis
-step-number: 2
+step_number: 2
 permalink: /1000mm/step2c/8clampbolts/
-next-step: /1000mm/step2c/9attachmount/
-next-step-title: "Attach Spindle Mount"
+next_step: /1000mm/step2c/9attachmount/
+next_step_title: "Attach Spindle Mount"
 diagram: "../08clampbolts/clampbolts.jpg"
 ---
 <img src="../../step2/photo/jpfs_DSC2750.jpg">

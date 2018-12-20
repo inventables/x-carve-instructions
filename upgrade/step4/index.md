@@ -1,10 +1,10 @@
 ---
 layout: defaultupgrade
 title: "Z-Probe"
-step-number: 4
+step_number: 4
 permalink: /upgrade/step4/
-next-step: /upgrade/step5/
-next-step-title: "Dust Control System"
+next_step: /upgrade/step5/
+next_step_title: "Dust Control System"
 ---
 
 Installing your z-probe will be different depending on if you have a hole on the upper right corner of your x-carriage or not. Before starting, check to see if your x-carriage has this hole or not. The instructions are essentially the same for both x-carriage types, but there are some differences. 

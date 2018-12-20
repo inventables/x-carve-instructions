@@ -1,10 +1,10 @@
 ---
 layout: default500mm
 title: "Spindle"
-step-number: 1
+step_number: 1
 permalink: /500mm/step5/
-next-step: /500mm/step6/
-next-step-title: "Wiring"
+next_step: /500mm/step6/
+next_step_title: "Wiring"
 ---
 In this step you'll be mounting a DeWalt 611 router in the spindle mount. Begin by removing existing base and collar from the spindle. This will leave just the metal router body.
 <img src="photo/jpfs_DSC2846.jpg">

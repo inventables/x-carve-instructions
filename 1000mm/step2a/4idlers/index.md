@@ -2,10 +2,10 @@
 layout: default1000mm
 title: "Attach Idler Wheels"
 parent: "Side Plates"
-step-number: 2
+step_number: 2
 permalink: /1000mm/step2a/4idlers/
-next-step: /1000mm/step2a/5motors/
-next-step-title: "Stepper Motors"
+next_step: /1000mm/step2a/5motors/
+next_step_title: "Stepper Motors"
 diagram: "idlers1.jpg"
 ---
 <img src="../../step2/photo/jpfs_DSC2597.jpg">

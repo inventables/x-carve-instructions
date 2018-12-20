@@ -2,11 +2,11 @@
 layout: defaultupgrade
 title: "X-Controller Assembly"
 parent: X-Controller
-step-number: 1
+step_number: 1
 redirect_from: "/upgrade/step3/"
 permalink: /upgrade/step3/1assembly/
-next-step: /upgrade/step3/2usage/
-next-step-title: "Usage"
+next_step: /upgrade/step3/2usage/
+next_step_title: "Usage"
 ---
 
 <img src="../../../../1000mm/step8/PB231421BATCH201.jpg">

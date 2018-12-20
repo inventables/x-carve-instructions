@@ -2,10 +2,10 @@
 layout: default500mm
 title: "Attach Z-Axis Home Switch"
 parent: Z-Axis
-step-number: 2
+step_number: 2
 permalink: /500mm/step2c/10homeswitch/
-next-step: /500mm/step2d/1gantryrail/
-next-step-title: "Assemble Gantry"
+next_step: /500mm/step2d/1gantryrail/
+next_step_title: "Assemble Gantry"
 ---
 
 <table>

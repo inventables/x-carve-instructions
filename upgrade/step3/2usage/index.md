@@ -2,10 +2,10 @@
 layout: defaultupgrade
 title: "X-Controller Usage"
 parent: X-Conroller
-step-number: 2
+step_number: 2
 permalink: /upgrade/step3/2usage/
-next-step: /upgrade/step4/
-next-step-title: "Z-Probe"
+next_step: /upgrade/step4/
+next_step_title: "Z-Probe"
 ---
 
 <h1>Usage Instructions</h1>

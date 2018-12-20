@@ -1,16 +1,16 @@
 ---
 layout: xcarve2015
-title:  "Z-Axis"
-time-estimate: 30
+title: "Z-Axis"
+time_estimate: 30
 category: step
-step-number: 7
+step_number: 7
 permalink: /xcarve2015/step07/
-next-step: /xcarve2015/step08/
+next_step: /xcarve2015/step08/
 redirect_from: "/step07/"
-next-step-title: "Drive Rod"
-grabcad-name1: "Z-Axis Assembly"
-grabcad-url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/125928"
-z-axis: true
+next_step_title: "Drive Rod"
+grabcad_name1: "Z-Axis Assembly"
+grabcad_url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/125928"
+z_axis: true
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/80KqP6JMXZc" frameborder="0" allowfullscreen>
@@ -63,22 +63,22 @@ z-axis: true
 
 Insert the flanged bearing into the Z-Plate as shown. Be sure to insert the bearing from the side of the plate that has a recession, the bearing will sit inside the hole so that the flange is flush with the Z-Plate.
 
- ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/542/original/0952.jpg?1424364483)
+![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/542/original/0952.jpg?1424364483)
 
 Insert two small screws to hold the bearing captive. Finger tighten both and check to make sure the flange is flush with the Z-Plate. Then tighten them down with moderate force.
 
- ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/543/original/0953.jpg?1424364526)
+![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/543/original/0953.jpg?1424364526)
 
- ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/544/original/0954.jpg?1424364537)
+![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/544/original/0954.jpg?1424364537)
 
- ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/545/original/0956.jpg?1424364548)
+![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/545/original/0956.jpg?1424364548)
 
 <h3 id="attach-z-plate">
 2. Attach the Z-Plate to the Z-Axis Makerslide</h3>
 
 Before you attach the Z-Axis Makerslide to the Z-Plate be sure that you have the correct orientation:
 
- ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/546/original/0959.jpg?1424378497)
+![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/546/original/0959.jpg?1424378497)
 
 <div class="note">
 <i class="fa fa-hand-o-right"></i>
@@ -89,11 +89,11 @@ Before you attach the Z-Axis Makerslide to the Z-Plate be sure that you have the
 </div>
 Use the two longer button head cap screws to attach the Z-Plate to the Z-Axis Makerslide. The screws go through the Z-Plate and into the Makerslide.
 
- ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/547/original/0963.jpg?1424378546)
+![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/547/original/0963.jpg?1424378546)
 
 When you're done your Z-Axis should look like this:
 
- ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/548/original/0967.jpg?1424378581)
+![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/548/original/0967.jpg?1424378581)
 
 <h3 id="attach-z-axis">
 3. Attach the Z-Axis to the X Carriage</h3>
@@ -120,35 +120,35 @@ When you're done your Z-Axis should look like this:
 </table>
 Push two screws through the top Z-Axis mounting holes on the X Carriage.
 
- ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/549/original/0524.jpg?1424378647)
+![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/549/original/0524.jpg?1424378647)
 
 Thread two insertion nuts onto these screws. You'll only need a couple of threads to grab.
 
- ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/550/original/0526.jpg?14243786941)
+![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/550/original/0526.jpg?14243786941)
 
- ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/551/original/0527.jpg?1424378704)
+![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/551/original/0527.jpg?1424378704)
 
 The backside of the Z-Axis Makerslide has two slots that are designed to accept insertion nuts. Slide these slots over the insertion nuts.
 
- ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/552/original/0533.jpg?1424378767)
+![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/552/original/0533.jpg?1424378767)
 
 Slide the Z-Axis down along the X Carriage to about here and tighten:
 
- ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/553/original/0535.jpg?1424378780)
+![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/553/original/0535.jpg?1424378780)
 
 Rock the machine onto its front like this:
 
- ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/554/original/0539.jpg?1424378866)
+![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/554/original/0539.jpg?1424378866)
 
 Insert two more insertion nuts from the bottom of the Z-Axis and finger tighten two screws into them to secure the Z-Axis Makerslide:
 
- ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/556/original/0541.jpg?1424378946)
+![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/556/original/0541.jpg?1424378946)
 
- ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/559/original/0544.jpg?1424378949)
+![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/559/original/0544.jpg?1424378949)
 
 The Z-Axis should be captured by four insertion nuts and screws at this point, but you should still be able to slide it up and down the X Carriage. Slide it so that the insertion nuts are just inside of the Makerslide like this:
 
- ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/560/original/0546.jpg?1424379091)
+![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/560/original/0546.jpg?1424379091)
 
 <div class="note">
 <i class="fa fa-hand-o-right"></i>
@@ -161,7 +161,7 @@ Tighten all four screws that capture the Z-Axis. Alternate between screws in an 
 
 Rock the machine back on to its feet again to continue:
 
- ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/561/original/0580.jpg?1424379102)
+![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/561/original/0580.jpg?1424379102)
 
 <h3 id="limit-switch">
 4. Mounting Z-Axis Limit Switch</h3>

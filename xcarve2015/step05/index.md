@@ -1,15 +1,15 @@
 ---
 layout: xcarve2015
-title:  "Y-Axis"
-time-estimate: 45
+title: "Y-Axis"
+time_estimate: 45
 category: step
-step-number: 5
+step_number: 5
 permalink: /xcarve2015/step05/
-next-step: /xcarve2015/step06/
+next_step: /xcarve2015/step06/
 redirect_from: "/step05/"
-next-step-title: "Belting"
-grabcad-name1: "Y-Axis"
-grabcad-url1: https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/125936
+next_step_title: "Belting"
+grabcad_name1: "Y-Axis"
+grabcad_url1: https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/125936
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pRSegK2lujI" frameborder="0" allowfullscreen>
@@ -80,7 +80,7 @@ Attach a piece of Makerslide to an end plate using a button head cap screw. Make
 </div>
 Repeat this process with another piece of Makerslide and another end plate, but mirror the piece you made in the previous step. You should have two pieces like this:
 
- ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/538/original/0352.jpg?1424363297)
+![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/538/original/0352.jpg?1424363297)
 
 <h3 id="slide-on-gantry">
 2. Slide on Gantry</h3>
@@ -96,7 +96,7 @@ Now you’ll slide the gantry onto each of the Y-axes. This step is just like wh
 
 Put two insertion nuts into each piece of y-axis Makerslide (four in total).
 
- ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/539/original/0407.jpg?1424363342)
+![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/539/original/0407.jpg?1424363342)
 
 <h3 id="attach-front-end-plates">
 4. Attach Front End Plates</h3>
@@ -109,7 +109,7 @@ Now put the last two end plates on the y-axis Makerslide with button head cap sc
 
 Your X-Carve should look like this:
 
- ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/540/original/0377.jpg?1424363386)
+![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/540/original/0377.jpg?1424363386)
 
 <h3 id="connect-end-plates">
 5. Connect End Plates with Extrusions</h3>
@@ -159,7 +159,7 @@ Your X-Carve should look like this:
 
 You’ll connect the two y-axes with extrusions in the front and back of the machine.
 
- ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/541/original/0379.jpg?1424363431)
+![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/541/original/0379.jpg?1424363431)
 
 Slide the insertion nuts into the extrusions and fasten the end plates to them with 8mm screws:
 
@@ -175,4 +175,4 @@ Slide the insertion nuts into the extrusions and fasten the end plates to them w
 </div>
 Your X-Carve should look like this now:
 
- ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/536/original/0398.jpg?1424363196)
+![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/536/original/0398.jpg?1424363196)

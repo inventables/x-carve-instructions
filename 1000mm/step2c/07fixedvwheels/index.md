@@ -2,10 +2,10 @@
 layout: default1000mm
 title: "Attach Fixed V-Wheels"
 parent: Z-Axis
-step-number: 2
+step_number: 2
 permalink: /1000mm/step2c/7fixedvwheels/
-next-step: /1000mm/step2c/8clampbolts/
-next-step-title: "Clamp Bolts"
+next_step: /1000mm/step2c/8clampbolts/
+next_step_title: "Clamp Bolts"
 diagram: "../07fixedvwheels/fixedvwheels3.jpg"
 ---
 <img src="../../step2/photo/jpfs_DSC2749.jpg">

@@ -2,10 +2,10 @@
 layout: default500mm
 title: "Attach Drag Chain Bracket To X-Carriage"
 parent: X-Carriage
-step-number: 2
+step_number: 2
 permalink: /500mm/step2b/6dragchain/
-next-step: /500mm/step2b/7homeswitch/
-next-step-title: "Homing Switch"
+next_step: /500mm/step2b/7homeswitch/
+next_step_title: "Homing Switch"
 diagram: "dragchain.jpg"
 ---
 <img src="../../step2/photo/jpfsP7150160.jpg">

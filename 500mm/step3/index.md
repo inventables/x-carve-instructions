@@ -1,10 +1,10 @@
 ---
 layout: default500mm
 title: "Rails"
-step-number: 1
+step_number: 1
 permalink: /500mm/step3/
-next-step: /500mm/step4/
-next-step-title: "Belting"
+next_step: /500mm/step4/
+next_step_title: "Belting"
 ---
 In this step, you'll be assembling the main y axis rails and attaching them to the gantry. You'll then attach this assembly to the work area.
 

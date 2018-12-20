@@ -1,10 +1,10 @@
 ---
 layout: default1000mm
 title: "Side Board"
-step-number: 1
+step_number: 1
 permalink: /1000mm/step7/
-next-step: /1000mm/step8/
-next-step-title: "X-Controller"
+next_step: /1000mm/step8/
+next_step_title: "X-Controller"
 ---
 <table>
   <tr>

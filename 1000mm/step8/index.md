@@ -1,10 +1,10 @@
 ---
 layout: default1000mm
 title:  "X-Controller"
-step-number: 1
+step_number: 1
 permalink: /1000mm/step8/
-next-step: /1000mm/step9/
-next-step-title: "Calibrate"
+next_step: /1000mm/step9/
+next_step_title: "Calibrate"
 ---
 
 <img src="PB231421BATCH201.jpg">

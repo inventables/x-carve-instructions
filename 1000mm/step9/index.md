@@ -1,10 +1,10 @@
 ---
 layout: default1000mm
 title:  "Calibrate"
-step-number: 1
+step_number: 1
 permalink: /1000mm/step9/
-next-step: /1000mm/step10/
-next-step-title: "Computer Setup"
+next_step: /1000mm/step10/
+next_step_title: "Computer Setup"
 ---
 
 *Note:* Many of the mechanical problems you'll face in the future can be fixed using the following information.

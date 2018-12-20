@@ -2,10 +2,10 @@
 layout: default1000mm
 title: "Attach Stepper Motors"
 parent: "Side Plates"
-step-number: 2
+step_number: 2
 permalink: /1000mm/step2a/5motors/
-next-step: /1000mm/step2a/6dragchain/
-next-step-title: "Drag Chain"
+next_step: /1000mm/step2a/6dragchain/
+next_step_title: "Drag Chain"
 diagram: "motors1.jpg"
 ---
 <img src="../../step2/photo/jpfs_DSC2606.jpg">
