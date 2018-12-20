@@ -1,4 +1,5 @@
 <nav class="navbar navbar-expand-lg navbar-light">
+  <a class="navbar-brand instructions-menu-label" href="#">Instructions</a>
   <button
     class="navbar-toggler"
     type="button"
@@ -14,16 +15,16 @@
     <ul class="sidebar">
       <li class="nav-item"><a href="{{ site.baseurl }}/750mm/" {% if page.url == '/750mm/' %}class="active"{% endif %}>Welcome!</a></li>
       {% for item in site.data.navigation.stepnav %}
-      <li class="nav-item">
-        {% if item.subnav %}
-        <a href="#{{item.step}}" id="step-drop-btn" {% if page.parent == item.title %}class="active"{% endif %} data-toggle="collapse">
+      <li class="nav-item {% if page.parent == item.title %}active{% endif %}">
+          {% if item.subnav %}
+          <a href="#{{item.step}}" id="step-drop-btn" data-toggle="collapse">
           {{ item.title }} &nbsp;<i class="fa fa-caret-down"></i>
         </a>
         <ol class="collapse {% if page.parent == item.title %}show{% endif %}" id="{{item.step}}">
           {% for subitem in item.subnav %}
             {% assign url = subitem.url | prepend: item.url | prepend: "/750mm" %}
           <a href={{url}} {% if page.url == url %}class="active"{% endif %}>
-            <li>{{ subitem.title }}</li>
+            <li class="subnav-item">{{ subitem.title }}</li>
           </a>
           {% endfor %}
         </ol>

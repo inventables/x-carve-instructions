@@ -39,9 +39,16 @@
     }
   }
 
-  .nav-item .active {
-    color: #222;
-    font-weight: 600;
+  .nav-item {
+    margin: 10px 0;
+    &.active, .active {
+      color: #222;
+      font-weight: 600;
+    }
+  }
+
+  .subnav-item {
+    margin: 5px 0;
   }
 
   ul {
@@ -53,6 +60,7 @@
     list-style-position: inside;
     font-size: 14px;
     font-weight: 300;
+    margin-left: 6px;
 
     a {
       color: #999;
