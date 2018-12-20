@@ -1,188 +1,187 @@
 stepnav:
-
-# List of steps
-- title: Let's Get Started!
-  url: /
-- title: X Carriage
-  url: /step02/
-  subnav:
-  - title: Smooth Idlers
-    url: '#smooth-idlers'
-  - title: V-Wheels
-    url: '#v-wheels'
-  - title: Positioning of Eccentric Nuts
-    url: '#eccentric-nuts'
-  - title: Motor Mounting
-    url: '#motor-mounting'
-  - title: Mounting Drag Chain End
-    url: '#drag-chain-end'
-  - title: Mounting Terminal Block
-    url: '#terminal-block'
-  - title: Mounting X-Axis Limit Switch
-    url: '#x-axis-limit-switch'
-- title: Y-Plates
-  url: /step03/
-  subnav:
-  - title: Smooth Idlers
-    url: '#smooth-idlers'
-  - title: V-Wheels
-    url: '#v-wheels'
-  - title: Y-Axis Motor Mounting
-    url: '#motor-mounting'
-  - title: Mounting Drag Chain End
-    url: '#drag-chain-end'
-  - title: Mounting Terminal Block
-    url: '#terminal-block'
-  - title: Mounting Y-Axis Limit Switch
-    url: '#mount-limit-switch'
-- title: Gantry
-  url: /step04/
-  subnav:
-  - title: Attach the Makerslide
-    url: '#attach-makerslide'
-  - title: Second piece of Makerslide
-    url: '#second-makerslide'
-  - title: Slide on X-Carriage
-    url: '#slide-on-x-carriage'
-  - title: Add Insertion Nuts
-    url: '#insertion-nuts'
-  - title: Attach Left Y-Plate
-    url: '#makerslide-left-y-plate'
-- title: Y-Axis
-  url: /step05/
-  subnav:
-  - title: Attach End Plates to Makerslide
-    url: '#attach-end-plates'
-  - title: Slide on Gantry
-    url: '#slide-on-gantry'
-  - title: Add Insertion Nuts
-    url: '#add-insertion-nuts'
-  - title: Attach Front End Plates
-    url: '#attach-front-end-plates'
-  - title: Connect End Plates
-    url: '#connect-end-plates'
-- title: Belting
-  url: /step06/
-  subnav:
-  - title: Align X-Axis Motor Pulley
-    url: '#align-x-axis-motor-pulley'
-  - title: Thread Belt Through
-    url: '#thread-belt-through'
-  - title: Repeat for Y-Axis
-    url: '#repeat'
-- title: Z-Axis
-  url: /step07/
-  subnav:
-  - title: Insert Flanged Bearing
-    url: '#insert-flanged-bearing'
-  - title: Attach Z-Plate
-    url: '#attach-z-plate'
-  - title: Attach Z-Axis to X-Carriage
-    url: '#attach-z-axis'
-  - title: Mount Z-Axis Limit Switch
-    url: '#limit-switch'
-- title: Drive Rod
-  url: /step08/
-- title: Z-Axis Motor
-  url: /step09/
-- title: Wiring
-  url: /step10/
-  subnav:
-  - title: Prepare Stepper Motor Wires
-    url: '#prepare-stepper-motor-wires'
-  - title: Secure Wires in Terminal Blocks
-    url: '#secure-wires'
-  - title: Prepare Stepper Cable
-    url: '#prepare-stepper-cable'
-  - title: Secure Stepper Cable
-    url: '#secure-stepper-cable'
-  - title: Solder Limit Switches
-    url: '#solder-limit-switches'
-- title: Drag Chain
-  url: /step11/
-- title: Spindle Mount
-  url: /step12/
-- title: Work Area
-  url: /step13/
-- title: Electronics
-  url: /step14/
-  subnav:
-  - title: Attach Power Supply
-    url: '#attach-power-supply'
-  - title: Mount gShield Enclosure
-    url: '#mount-gshield-enclosure'
-  - title: Strip Stepper Cable
-    url: '#strip-stepper-cable'
-  - title: Determine the Axes
-    url: '#determine-axes'
-  - title: Solder Pins to gShield
-    url: '#solder-pins'
-  - title: Wire Stepper Cable
-    url: '#wire-stepper-cable'
-  - title: Mount the Arduino
-    url: '#mount-arduino'
-  - title: Mount the gShield
-    url: '#mount-gshield'
-  - title: Power gShield and 24V Fan
-    url: '#power-gshield'
-  - title: Power 24V Spindle
-    url: '#power-spindle'
-  - title: Install Enclosure Cover
-    url: '#install-enclosure-cover'
-  - title: Install 24V Fan
-    url: '#install-fan'
-  - title: Connect PWM Spindle Control
-    url: '#connect-pwm'
-  - title: Connect Limit Switches
-    url: '#connect-limit-switches'
-  - title: Plug in Assembly
-    url: '#plug-in-assembly'
-- title: Calibrate
-  url: /step15/
-- title: Drivers
-  url: /step16/
-- title: Machine Setup
-  url: /step17/
-- title: Get Carving!
-  url: /step18/
+  # List of steps
+  - title: Let's Get Started!
+    url: /
+  - title: X Carriage
+    url: /step02/
+    subnav:
+      - title: Smooth Idlers
+        url: "#smooth-idlers"
+      - title: V-Wheels
+        url: "#v-wheels"
+      - title: Positioning of Eccentric Nuts
+        url: "#eccentric-nuts"
+      - title: Motor Mounting
+        url: "#motor-mounting"
+      - title: Mounting Drag Chain End
+        url: "#drag-chain-end"
+      - title: Mounting Terminal Block
+        url: "#terminal-block"
+      - title: Mounting X-Axis Limit Switch
+        url: "#x-axis-limit-switch"
+  - title: Y-Plates
+    url: /step03/
+    subnav:
+      - title: Smooth Idlers
+        url: "#smooth-idlers"
+      - title: V-Wheels
+        url: "#v-wheels"
+      - title: Y-Axis Motor Mounting
+        url: "#motor-mounting"
+      - title: Mounting Drag Chain End
+        url: "#drag-chain-end"
+      - title: Mounting Terminal Block
+        url: "#terminal-block"
+      - title: Mounting Y-Axis Limit Switch
+        url: "#mount-limit-switch"
+  - title: Gantry
+    url: /step04/
+    subnav:
+      - title: Attach the Makerslide
+        url: "#attach-makerslide"
+      - title: Second piece of Makerslide
+        url: "#second-makerslide"
+      - title: Slide on X-Carriage
+        url: "#slide-on-x-carriage"
+      - title: Add Insertion Nuts
+        url: "#insertion-nuts"
+      - title: Attach Left Y-Plate
+        url: "#makerslide-left-y-plate"
+  - title: Y-Axis
+    url: /step05/
+    subnav:
+      - title: Attach End Plates to Makerslide
+        url: "#attach-end-plates"
+      - title: Slide on Gantry
+        url: "#slide-on-gantry"
+      - title: Add Insertion Nuts
+        url: "#add-insertion-nuts"
+      - title: Attach Front End Plates
+        url: "#attach-front-end-plates"
+      - title: Connect End Plates
+        url: "#connect-end-plates"
+  - title: Belting
+    url: /step06/
+    subnav:
+      - title: Align X-Axis Motor Pulley
+        url: "#align-x-axis-motor-pulley"
+      - title: Thread Belt Through
+        url: "#thread-belt-through"
+      - title: Repeat for Y-Axis
+        url: "#repeat"
+  - title: Z-Axis
+    url: /step07/
+    subnav:
+      - title: Insert Flanged Bearing
+        url: "#insert-flanged-bearing"
+      - title: Attach Z-Plate
+        url: "#attach-z-plate"
+      - title: Attach Z-Axis to X-Carriage
+        url: "#attach-z-axis"
+      - title: Mount Z-Axis Limit Switch
+        url: "#limit-switch"
+  - title: Drive Rod
+    url: /step08/
+  - title: Z-Axis Motor
+    url: /step09/
+  - title: Wiring
+    url: /step10/
+    subnav:
+      - title: Prepare Stepper Motor Wires
+        url: "#prepare-stepper-motor-wires"
+      - title: Secure Wires in Terminal Blocks
+        url: "#secure-wires"
+      - title: Prepare Stepper Cable
+        url: "#prepare-stepper-cable"
+      - title: Secure Stepper Cable
+        url: "#secure-stepper-cable"
+      - title: Solder Limit Switches
+        url: "#solder-limit-switches"
+  - title: Drag Chain
+    url: /step11/
+  - title: Spindle Mount
+    url: /step12/
+  - title: Work Area
+    url: /step13/
+  - title: Electronics
+    url: /step14/
+    subnav:
+      - title: Attach Power Supply
+        url: "#attach-power-supply"
+      - title: Mount gShield Enclosure
+        url: "#mount-gshield-enclosure"
+      - title: Strip Stepper Cable
+        url: "#strip-stepper-cable"
+      - title: Determine the Axes
+        url: "#determine-axes"
+      - title: Solder Pins to gShield
+        url: "#solder-pins"
+      - title: Wire Stepper Cable
+        url: "#wire-stepper-cable"
+      - title: Mount the Arduino
+        url: "#mount-arduino"
+      - title: Mount the gShield
+        url: "#mount-gshield"
+      - title: Power gShield and 24V Fan
+        url: "#power-gshield"
+      - title: Power 24V Spindle
+        url: "#power-spindle"
+      - title: Install Enclosure Cover
+        url: "#install-enclosure-cover"
+      - title: Install 24V Fan
+        url: "#install-fan"
+      - title: Connect PWM Spindle Control
+        url: "#connect-pwm"
+      - title: Connect Limit Switches
+        url: "#connect-limit-switches"
+      - title: Plug in Assembly
+        url: "#plug-in-assembly"
+  - title: Calibrate
+    url: /step15/
+  - title: Drivers
+    url: /step16/
+  - title: Machine Setup
+    url: /step17/
+  - title: Get Carving!
+    url: /step18/
 
 accessories:
   - title: E-Stop with Enclosure
     url: /accessories/e-stop-with-enclosure/
     subnav:
-    - title: Disassemble Button
-      url: '#disassemble-button'
-    - title: Attach Button
-      url: '#attach-button'
-    - title: Attach Cable Strain Relief
-      url: '#attach-cable-strain-relief'
-    - title: Wire It Up
-      url: '#wire-it-up'
-    - title: Close It Up
-      url: '#close-it-up'
+      - title: Disassemble Button
+        url: "#disassemble-button"
+      - title: Attach Button
+        url: "#attach-button"
+      - title: Attach Cable Strain Relief
+        url: "#attach-cable-strain-relief"
+      - title: Wire It Up
+        url: "#wire-it-up"
+      - title: Close It Up
+        url: "#close-it-up"
 
-x-controller:
+x_controller:
   - title: X-Controller
     url: /x-controller/
     subnav:
-    - title: Install Power Supply
-      url: '#install-power-supply'
-    - title: Install Controller Board
-      url: '#install-controller-board'
-    - title: Install Front Panel
-      url: '#install-front-panel'
-    - title: Install Back Panel
-      url: '#install-back-panel'
+      - title: Install Power Supply
+        url: "#install-power-supply"
+      - title: Install Controller Board
+        url: "#install-controller-board"
+      - title: Install Front Panel
+        url: "#install-front-panel"
+      - title: Install Back Panel
+        url: "#install-back-panel"
 
-x-controller-usage:
+x_controller_usage:
   - title: X-Controller Usage
     url: /x-controller/usage/
     subnav:
-    - title: Option 1 - No New Wires
-      url: '#option-1'
-    - title: Option 2 - New Wires
-      url: '#option-2'
-    - title: Usage
-      url: '#usage'
-    - title: Troubleshooting
-      url: '#troubleshooting'
+      - title: Option 1 - No New Wires
+        url: "#option-1"
+      - title: Option 2 - New Wires
+        url: "#option-2"
+      - title: Usage
+        url: "#usage"
+      - title: Troubleshooting
+        url: "#troubleshooting"
