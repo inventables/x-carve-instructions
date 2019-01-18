@@ -649,7 +649,7 @@ If you purchased a tool kit with your machine, most of these should be included 
             <tr>
               <td>30517-13</td>
               <td>Threaded Insert M5</td>
-              <td>12</td>
+              <td>15</td>
             </tr>
             <tr>
               <td>30685-03</td>
