@@ -3,18 +3,18 @@ stepnav:
     title: Work Area
     url: /step1/
   - step: step2a
-    title: Side Plates
+    title: Gantry - Side Plates
     url: /step2a
     subnav:
     - title: Side Plates
       url: /1sideplates/
     - title: Fixed V-Wheels
       url: /2fixedvwheels/
-    - title: Adjusted V-Wheels
+    - title: Adjustable V-Wheels
       url: /3adjustablevwheels/
-    - title: Smooth Idlers
+    - title: Smooth Idler Wheels
       url: /4idlers/
-    - title: Motors
+    - title: Stepper Motors
       url: /5motors/
     - title: Drag Chain
       url: /6dragchain/
@@ -26,13 +26,13 @@ stepnav:
     subnav:
     - title: X-Carriage
       url: /1xcarriage/
-    - title: Smooth Idlers
+    - title: Smooth Idler Wheels
       url: /2idlers/
     - title: Fixed V-Wheels
       url: /3fixedvwheels/
     - title: Adjustable V-Wheels
       url: /4adjustablevwheels/
-    - title: Motors
+    - title: Stepper Motors
       url: /5motors/
     - title: Drag Chain
       url: /6dragchain/

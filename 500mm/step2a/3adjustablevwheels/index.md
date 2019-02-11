@@ -1,7 +1,7 @@
 ---
 layout: default500mm
 title: "Attach Adjustable V-Wheels"
-parent: "Side Plates"
+parent: "Gantry - Side Plates"
 step_number: 2
 permalink: /500mm/step2a/3adjustablevwheels/
 next_step: /500mm/step2a/4idlers/

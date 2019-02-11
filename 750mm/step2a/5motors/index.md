@@ -1,7 +1,7 @@
 ---
 layout: default750mm
 title: "Attach Stepper Motors"
-parent: "Side Plates"
+parent: "Gantry - Side Plates"
 step_number: 2
 permalink: /750mm/step2a/5motors/
 next_step: /750mm/step2a/6dragchain/

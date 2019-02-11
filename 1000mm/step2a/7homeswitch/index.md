@@ -1,7 +1,7 @@
 ---
 layout: default1000mm
 title: "Attach Homing Switches"
-parent: "Side Plates"
+parent: "Gantry - Side Plates"
 step_number: 2
 permalink: /1000mm/step2a/7homeswitch/
 next_step: /1000mm/step2b/1xcarriage/

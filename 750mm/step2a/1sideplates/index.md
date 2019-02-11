@@ -1,7 +1,7 @@
 ---
 layout: default750mm
-title: "Gantry Side Plates"
-parent: "Side Plates"
+title: "Side Plates"
+parent: "Gantry - Side Plates"
 step_number: 2
 permalink: /750mm/step2a/1sideplates/
 next_step: /750mm/step2a/2fixedvwheels/

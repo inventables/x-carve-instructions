@@ -4,7 +4,7 @@ title: "Work Area"
 step_number: 1
 permalink: /750mm/step1/
 next_step: /750mm/step2a/1sideplates/
-next_step_title: "Gantry"
+next_step_title: "Gantry - Side Plates"
 ---
 
 <table>
