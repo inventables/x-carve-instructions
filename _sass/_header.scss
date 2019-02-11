@@ -302,7 +302,7 @@ header {
 }
 
 .instructions-menu-label {
-  @media (min-width: 992px) {
+  @media (min-width: 767px) {
     display:none;
   }
 }
@@ -341,7 +341,7 @@ header {
   }
 
   @media (min-width: 992px) {
-    margin-right: 80px;
+    margin-left: 80px;
     li {
       border-right: 1px solid #eee;
     }

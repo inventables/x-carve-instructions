@@ -27,7 +27,7 @@
     border-right: 1px solid rgba(0, 0, 0, 0.1);
   }
 
-  .sidebar {
+  .navbar {
     @supports (position: sticky) {
       position: sticky;
       top: 1em;
@@ -61,10 +61,6 @@
     font-size: 14px;
     font-weight: 300;
     margin-left: 6px;
-
-    a {
-      color: #999;
-    }
   }
 
   a {
