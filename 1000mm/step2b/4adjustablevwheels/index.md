@@ -1,7 +1,7 @@
 ---
 layout: default1000mm
-title: "Attach Adjustable V-Wheels"
-parent: X-Carriage
+title: "Adjustable V-Wheels"
+parent: "Gantry - X-Carriage"
 step_number: 2
 permalink: /1000mm/step2b/4adjustablevwheels/
 next_step: /1000mm/step2b/5motors/

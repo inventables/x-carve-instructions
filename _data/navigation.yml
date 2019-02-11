@@ -16,15 +16,15 @@ stepnav:
       url: /4idlers/
     - title: Stepper Motors
       url: /5motors/
-    - title: Drag Chain
+    - title: Drag Chain Bracket
       url: /6dragchain/
-    - title: Home Switch
+    - title: Homing Switch
       url: /7homeswitch/
   - step: step2b
-    title: X-Carriage
+    title: Gantry - X-Carriage
     url: /step2b
     subnav:
-    - title: X-Carriage
+    - title: Assemble X-Carriage
       url: /1xcarriage/
     - title: Smooth Idler Wheels
       url: /2idlers/
@@ -32,17 +32,17 @@ stepnav:
       url: /3fixedvwheels/
     - title: Adjustable V-Wheels
       url: /4adjustablevwheels/
-    - title: Stepper Motors
+    - title: Stepper Motor
       url: /5motors/
-    - title: Drag Chain
+    - title: Drag Chain Bracket
       url: /6dragchain/
-    - title: Home Switch
+    - title: Homing Switch
       url: /7homeswitch/
   - step: step2c
     title: Z-Axis
     url: /step2c
     subnav:
-    - title: Z-Axis
+    - title: Gantry - Z-Axis
       url: /1zaxis/
     - title: Flanged Bearing
       url: /2flangedbearing/
