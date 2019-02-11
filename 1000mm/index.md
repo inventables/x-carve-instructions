@@ -11,7 +11,7 @@ next_step_title: 'Work Area'
 
 Congratulations! You've just taken one of your first steps into the world of 3D Carving! This guide will take you through the steps of building your very own X-Carve 3D Carver! We've tried to make it as easy as possible to get you from unpacking your parts to carving. We've laid out the instructions starting from the bottom of the machine to the top, and we will cover everything from machine assembly to computer setup.
 
-This is a do-it-yourself 3D carving kit: the more time and attention you put into assembling your machine, the better it will perform. If you run into any trouble during assembly or carving you can find further help from the wonderful community on the forum, our support center which is continuously growing with articles and tutorials, and as always you can reach our customer success team through our [support center](https://inventables.desk.com/) or by phone at 312 775 7009.
+This is a do-it-yourself 3D carving kit: the more time and attention you put into assembling your machine, the better it will perform. If you run into any trouble during assembly or carving you can find further help from the wonderful community on the forum, our support center which is continuously growing with articles and tutorials, and as always you can reach our customer success team through our [support center](https://inventables.zendesk.com/hc/en-us/) or by phone at 312 775 7009.
 
 The X-Carve is open source hardware. We have 3D models and drawings available in a GrabCAD repository <a href="https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcojYwyy_VqboQQ-9hKBJrjS3zGaGuue8sfnqRNxGI9WQS">here</a>.
 
@@ -647,9 +647,9 @@ If you purchased a tool kit with your machine, most of these should be included 
               <td>4</td>
             </tr>
             <tr>
-              <td>30517-11</td>
+              <td>30517-13</td>
               <td>Threaded Insert M5</td>
-              <td>12</td>
+              <td>15</td>
             </tr>
             <tr>
               <td>30685-03</td>
