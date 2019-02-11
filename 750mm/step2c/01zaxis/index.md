@@ -1,7 +1,7 @@
 ---
 layout: default750mm
 title: "Z-Axis"
-parent: Z-Axis
+parent: "Gantry - Z-Axis"
 step_number: 2
 permalink: /750mm/step2c/1zaxis/
 next_step: /750mm/step2c/2flangedbearing/

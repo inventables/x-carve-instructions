@@ -1,7 +1,7 @@
 ---
 layout: default750mm
-title: "Attach Flanged Bearing to Z-Axis Plate"
-parent: Z-Axis
+title: "Flanged Bearing"
+parent: "Gantry - Z-Axis"
 step_number: 2
 permalink: /750mm/step2c/2flangedbearing/
 next_step: /750mm/step2c/3attachrail/

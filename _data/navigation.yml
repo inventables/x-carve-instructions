@@ -39,38 +39,38 @@ stepnav:
     - title: Homing Switch
       url: /7homeswitch/
   - step: step2c
-    title: Z-Axis
+    title: Gantry - Z-Axis
     url: /step2c
     subnav:
-    - title: Gantry - Z-Axis
+    - title: Z-Axis
       url: /1zaxis/
     - title: Flanged Bearing
       url: /2flangedbearing/
-    - title: Attach Rail
+    - title: Z-Axis Rail
       url: /3attachrail/
     - title: Lead Screw
       url: /4leadscrew/
-    - title: Attach to Carriage
+    - title: Attach to X-Carriage
       url: /5attachtocarriage/
     - title: Adjustable V-Wheels
       url: /6adjustablevwheels/
     - title: Fixed V-Wheels
       url: /7fixedvwheels/
-    - title: Clamp Bolts
+    - title: Clamping Bolts
       url: /8clampbolts/
-    - title: Attach Mount
+    - title: Attach Spindle Carriage
       url: /9attachmount/
-    - title: Home Switch
+    - title: Homing Switch
       url: /10homeswitch/
   - step: step2d
     title: Assemble Gantry
     url: /step2d
     subnav:
-      - title: Gantry Rail
+      - title: Gantry
         url: /1gantryrail/
       - title: Attach Side Plate
         url: /2attachsideplate/
-      - title: Attach Carriage
+      - title: Attach X-Carriage
         url: /3attachcarriage/
       - title: Attach Side Plate
         url: /4attachsideplate/

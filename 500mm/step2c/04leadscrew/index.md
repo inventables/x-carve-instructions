@@ -1,11 +1,11 @@
 ---
 layout: default500mm
-title: "Install Leadscrew"
-parent: Z-Axis
+title: "Lead Screw"
+parent: "Gantry - Z-Axis"
 step_number: 2
 permalink: /500mm/step2c/4leadscrew/
 next_step: /500mm/step2c/5attachtocarriage/
-next_step_title: "Attach Z-Axis"
+next_step_title: "Attach to X-Carriage"
 diagram: "../04leadscrew/leadscrew.jpg"
 ---
 <img src="../../step2/photo/jpfs_DSC2705.jpg">
@@ -85,7 +85,7 @@ diagram: "../04leadscrew/leadscrew.jpg"
 </table>
 
 
-<h3>Install Leadscrew</h3>
+<h3>Install Lead Screw</h3>
 
 Insert the ACME lead screw with its delrin nut into the hole of the bearing.
 
