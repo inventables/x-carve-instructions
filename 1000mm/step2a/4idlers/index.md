@@ -1,6 +1,6 @@
 ---
 layout: default1000mm
-title: "Attach Smooth Idler Wheels"
+title: "Smooth Idler Wheels"
 parent: "Gantry - Side Plates"
 step_number: 2
 permalink: /1000mm/step2a/4idlers/

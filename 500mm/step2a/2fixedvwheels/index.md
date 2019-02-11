@@ -1,6 +1,6 @@
 ---
 layout: default500mm
-title: "Attach Fixed V-Wheels"
+title: "Fixed V-Wheels"
 parent: "Gantry - Side Plates"
 step_number: 2
 permalink: /500mm/step2a/2fixedvwheels/

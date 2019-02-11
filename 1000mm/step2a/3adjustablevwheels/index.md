@@ -1,11 +1,11 @@
 ---
 layout: default1000mm
-title: "Attach Adjustable V-Wheels"
+title: "Adjustable V-Wheels"
 parent: "Gantry - Side Plates"
 step_number: 2
 permalink: /1000mm/step2a/3adjustablevwheels/
 next_step: /1000mm/step2a/4idlers/
-next_step_title: "Idler Wheels"
+next_step_title: "Adjustable Idler Wheels"
 diagram: "adjustablevwheels1.jpg"
 ---
 <img src="../../step2/photo/jpfs_DSC2591.jpg">

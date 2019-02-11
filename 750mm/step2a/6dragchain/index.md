@@ -1,6 +1,6 @@
 ---
 layout: default750mm
-title: "Attach Drag Chain Bracket"
+title: "Drag Chain Bracket"
 parent: "Gantry - Side Plates"
 step_number: 2
 permalink: /750mm/step2a/6dragchain/

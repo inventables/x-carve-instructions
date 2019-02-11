@@ -1,11 +1,11 @@
 ---
 layout: default750mm
-title: "Attach Stepper Motors"
+title: "Stepper Motors"
 parent: "Gantry - Side Plates"
 step_number: 2
 permalink: /750mm/step2a/5motors/
 next_step: /750mm/step2a/6dragchain/
-next_step_title: "Drag Chain"
+next_step_title: "Drag Chain Bracket"
 diagram: "motors1.jpg"
 ---
 <img src="../../step2/photo/jpfs_DSC2606.jpg">
@@ -81,7 +81,7 @@ diagram: "motors1.jpg"
 </table>
 
 
-<h3>Attach NEMA 23 Motor to Plate</h3>
+<h3>Attach Stepper Motor - NEMA 23 to Plate</h3>
 
 In this step, we'll be attaching the motors to the Y plates. The motor pulleys are already crimped to the shafts of the motors so you won't have to worry about attaching or adjusting them. You'll need two of the X-Axis motors, eight M5x16mm socket head cap screws, and eight M5 nylock nuts.
 
