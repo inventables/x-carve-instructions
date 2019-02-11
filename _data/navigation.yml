@@ -68,11 +68,11 @@ stepnav:
     subnav:
       - title: Gantry
         url: /1gantryrail/
-      - title: Attach Side Plate
+      - title: Side Plate - Left
         url: /2attachsideplate/
       - title: Attach X-Carriage
         url: /3attachcarriage/
-      - title: Attach Side Plate
+      - title: Side Plate - Right
         url: /4attachsideplate/
       - title: Attach Drag Chain Rail
         url: /5dragchainrail/

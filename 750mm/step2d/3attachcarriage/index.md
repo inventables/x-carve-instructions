@@ -5,7 +5,7 @@ parent: "Assemble Gantry"
 step_number: 2
 permalink: /750mm/step2d/3attachcarriage/
 next_step: /750mm/step2d/4attachsideplate/
-next_step_title: "Side Plate"
+next_step_title: "Side Plate - Right"
 ---
 
 

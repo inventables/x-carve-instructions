@@ -1,11 +1,11 @@
 ---
 layout: default750mm
-title: "Gantry"
+title: "Attach Right Side Plate"
 parent: "Assemble Gantry"
 step_number: 2
 permalink: /750mm/step2d/4attachsideplate/
 next_step: /750mm/step2d/5dragchainrail/
-next_step_title: "Drag Chain Rail"
+next_step_title: "Attach Drag Chain Rail"
 ---
 
 <table>
