@@ -1,10 +1,10 @@
 ---
 layout: defaultupgrade
 title: "Wide Makerslide"
-step-number: 1
+step_number: 1
 permalink: /upgrade/step2/
-next-step: /upgrade/step3/1assembly/
-next-step-title: "X-Controller"
+next_step: /upgrade/step3/1assembly/
+next_step_title: "X-Controller"
 ---
 
 Note: In these photos, we will be installing the wide MakerSlide on a 500mm sized X-Carve, circa 2015. Some of the exact parts on your machine will be slightly different, but you should still use these instructions to get the general idea of what steps are necessary to swap our your x-axis gantry with the wide MakerSlide rail. 

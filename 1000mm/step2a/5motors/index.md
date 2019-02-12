@@ -2,10 +2,10 @@
 layout: default1000mm
 title: "Attach Stepper Motors"
 parent: "Side Plates"
-step-number: 2
+step_number: 2
 permalink: /1000mm/step2a/5motors/
-next-step: /1000mm/step2a/6dragchain/
-next-step-title: "Drag Chain"
+next_step: /1000mm/step2a/6dragchain/
+next_step_title: "Drag Chain"
 diagram: "motors1.jpg"
 ---
 <img src="../../step2/photo/jpfs_DSC2606.jpg">
@@ -83,7 +83,7 @@ diagram: "motors1.jpg"
 
 <h3>Attach NEMA 23 Motor to Plate</h3>
 
-In this step, we'll be attaching the motors to the Y plates. The motor pulleys are already crimped to the shafts of the motors so you won't have to worry about attaching or adjusting them. You'll need two of the X-Axis motors, eight M5x16mm socket head cap screws, and eight M5 nylock nuts.
+In this step, we'll be attaching the motors to the Y plates. The motor pulleys are already crimped to the shafts of the motors so you won't have to worry about attaching or adjusting them. You'll need two of the motors, eight M5x16mm socket head cap screws, and eight M5 nylock nuts.
 
 First, position the motor hub in the large hole on the gantry plate. Make sure that the white socket for the electrical connection is facing the rear of the gantry plate (it should be closest to the holes for the makerslide).
 <img src="../../step2/photo/jpfs_DSC2602.jpg">

@@ -2,10 +2,10 @@
 layout: default1000mm
 title: "Attach Z-Axis Assembly to X-Carriage"
 parent: Z-Axis
-step-number: 2
+step_number: 2
 permalink: /1000mm/step2c/5attachtocarriage/
-next-step: /1000mm/step2c/6adjustablevwheels/
-next-step-title: "Adjustable V-Wheels"
+next_step: /1000mm/step2c/6adjustablevwheels/
+next_step_title: "Adjustable V-Wheels"
 diagram: "../05attachtocarriage/attachtocarriage1.jpg"
 ---
 <img src="../../../photo/jpfsPA120456.jpg">
@@ -67,4 +67,9 @@ Take the X-Carriage assembly and slide it onto the pre-assembly nuts, just until
 Use a 3mm hex key to tighten the four bolts.
 
 <img src="../../step2/photo/jpfs_DSC2721.jpg">
+
+At this point you can lubricate the leascrew with the included packet of synthetic grease (SKU: 30711-01) by applying a sparing amount directly to the threads. While the delrin is self-lubricating to a certain extent, this grease will keep the Z axis from binding from static friction. 
+
+<img src ="../../../photo/lubepacket.jpeg">
+
 

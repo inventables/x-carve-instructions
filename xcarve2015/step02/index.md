@@ -1,15 +1,15 @@
 ---
 layout: xcarve2015
-title:  "X Carriage"
-time-estimate: 60
+title: "X Carriage"
+time_estimate: 60
 category: step
-step-number: 2
+step_number: 2
 permalink: /xcarve2015/step02/
-next-step: /xcarve2015/step03/
+next_step: /xcarve2015/step03/
 redirect_from: "/step02/"
-next-step-title: "Y-Plates"
-grabcad-name1: "X Carriage"
-grabcad-url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/156177"
+next_step_title: "Y-Plates"
+grabcad_name1: "X Carriage"
+grabcad_url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/156177"
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pts70Si3aTI" frameborder="0" allowfullscreen>
@@ -143,7 +143,7 @@ The eccentric nuts on your X-Carve are a slick little example of good engineerin
 
 ![](https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/666/original/0066.jpg?1424461342)
 
-This animation illustrates how the eccentric nuts change the position of the v-wheels.  Keep the eccentric nuts in the "open" position for the time being, so you can easily insert the Makerslide rail in next steps.  You will make the eccentric nut adjustments later on in the Calibrate section.
+This animation illustrates how the eccentric nuts change the position of the v-wheels. Keep the eccentric nuts in the "open" position for the time being, so you can easily insert the Makerslide rail in next steps. You will make the eccentric nut adjustments later on in the Calibrate section.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nX0J317l0mY" frameborder="0" allowfullscreen></iframe>
 

@@ -2,10 +2,10 @@
 layout: default1000mm
 title: "Install Leadscrew"
 parent: Z-Axis
-step-number: 2
+step_number: 2
 permalink: /1000mm/step2c/4leadscrew/
-next-step: /1000mm/step2c/5attachtocarriage/
-next-step-title: "Attach Z-Axis"
+next_step: /1000mm/step2c/5attachtocarriage/
+next_step_title: "Attach Z-Axis"
 diagram: "../04leadscrew/leadscrew.jpg"
 ---
 <img src="../../step2/photo/jpfs_DSC2705.jpg">
@@ -95,7 +95,7 @@ Place an M8 washer onto the head of the leadscrew.
 
 <img src="../../step2/photo/jpfs_DSC2691.jpg">
 
-Prepare the 20 tooth pulley by making sure that the small set screw that hold the pulley to the head of the leadscrew are inserted in the two holes and are loose. Slide the pulley on top of the leadscrew and tighten the set screws to secure.
+Prepare the 20 tooth pulley by making sure that the small set screws that hold the pulley to the head of the leadscrew are inserted in the two holes and are loose. Slide the pulley on top of the leadscrew and tighten the set screws to secure.
 
 <img src="../../step2/photo/jpfs_DSC2696.jpg">
 <img src="../../step2/photo/jpfs_DSC2701.jpg">

@@ -2,10 +2,10 @@
 layout: default750mm
 title: "Attach Fixed V-Wheels"
 parent: Z-Axis
-step-number: 2
+step_number: 2
 permalink: /750mm/step2c/7fixedvwheels/
-next-step: /750mm/step2c/8clampbolts/
-next-step-title: "Clamp Bolts"
+next_step: /750mm/step2c/8clampbolts/
+next_step_title: "Clamp Bolts"
 diagram: "../07fixedvwheels/fixedvwheels3.jpg"
 ---
 <img src="../../step2/photo/jpfs_DSC2749.jpg">
@@ -75,6 +75,6 @@ diagram: "../07fixedvwheels/fixedvwheels3.jpg"
 
 <h3>Attach Fixed V-Wheels</h3>
 
-Take an M5x40 button head cap screw and put a v-wheel on followed by a plain aluminum spacer. Insert this assembly into one of the smaller holes on the makerslide and use an M5 nylock nut to secure. Repeat this procedure for the other wheel.
+Take an M5x40 button head cap screw and put a v-wheel on followed by a plain aluminum spacer. Insert this assembly into one of the smaller holes on the spindle mount and use an M5 nylock nut to secure. Repeat this procedure for the other wheel.
 <img src="../../step2/photo/jpfs_DSC2747.jpg">
 <img src="../../step2/photo/jpfs_DSC2748.jpg">

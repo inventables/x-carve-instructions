@@ -1,10 +1,10 @@
 ---
 layout: default1000mm
 title: "Rails"
-step-number: 1
+step_number: 1
 permalink: /1000mm/step3/
-next-step: /1000mm/step4/
-next-step-title: "Belting"
+next_step: /1000mm/step4/
+next_step_title: "Belting"
 ---
 In this step, you'll be assembling the main y axis rails and attaching them to the gantry. You'll then attach this assembly to the work area.
 
@@ -38,7 +38,7 @@ In this step, you'll be assembling the main y axis rails and attaching them to t
   </tr>
   <tr>
     <td>
-      25281-05
+      25281-12
     </td>
     <td>
       T-Slot Nut M5 Pre-Assembly
@@ -49,7 +49,7 @@ In this step, you'll be assembling the main y axis rails and attaching them to t
   </tr>
   <tr>
     <td>
-      25286-19
+      25286-38
     </td>
     <td>
       Button Head Cap Screw M5 x 12
@@ -60,7 +60,7 @@ In this step, you'll be assembling the main y axis rails and attaching them to t
   </tr>
   <tr>
     <td>
-      25286-17
+      25286-33
     </td>
     <td>
       Button Head Cap Screw M5 x 8
@@ -89,17 +89,6 @@ In this step, you'll be assembling the main y axis rails and attaching them to t
   </tr>
   <tr>
     <td>
-      25281-05
-    </td>
-    <td>
-      T-Slot Nut M5 Pre-Assembly
-    </td>
-    <td>
-      12
-    </td>
-  </tr>
-  <tr>
-    <td>
       25142-11
     </td>
     <td>
@@ -113,7 +102,7 @@ In this step, you'll be assembling the main y axis rails and attaching them to t
 
 
 <img src="./photo/jpfs_DSC2774.jpg">
-Begin by attaching a makerslide end plate to each 1000mm makerslide rail. Make sure that the side of the makerslide with the v-rails is on the same side as the flat side of the end plate. Use 2x M5x12mm button head cap screws on each plate.
+Begin by attaching a makerslide end plate to each 1000mm makerslide rail.  The groove on the side of the maker slide should be on the bottom. You will need to attach a stop to it in a later step that has to meet up with the homing switch.  Also, make sure that the side of the makerslide with the v-rails is on the same side as the flat side of the end plate. Use 2x M5x12mm button head cap screws on each plate.
 <img src="./photo/jpfs_DSC2777.jpg">
 Insert 2x M5 pre-assembly insertion nuts into the top slot of each makerslide rail. These will be used to hold the belts.
 <img src="./photo/jpfsP8260344.jpg">

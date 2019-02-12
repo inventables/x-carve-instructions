@@ -1,17 +1,17 @@
 ---
 layout: xcarve2015
-title:  "Y Plates"
-time-estimate: 30
+title: "Y Plates"
+time_estimate: 30
 category: step
-step-number: 3
+step_number: 3
 permalink: /xcarve2015/step03/
-next-step: /xcarve2015/step04/
+next_step: /xcarve2015/step04/
 redirect_from: "/step02/"
-next-step-title: "Gantry"
-grabcad-name1: "Left Y-Plate"
-grabcad-url1: https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/125930
-grabcad-name2: "Right Y-Plate"
-grabcad-url2: https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/125932
+next_step_title: "Gantry"
+grabcad_name1: "Left Y-Plate"
+grabcad_url1: https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/125930
+grabcad_name2: "Right Y-Plate"
+grabcad_url2: https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/125932
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mmIVaf1D2kU" frameborder="0" allowfullscreen>

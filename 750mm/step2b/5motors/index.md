@@ -2,10 +2,10 @@
 layout: default750mm
 title: "Attach Stepper Motor to X-Carriage"
 parent: X-Carriage
-step-number: 2
+step_number: 2
 permalink: /750mm/step2b/5motors/
-next-step: /750mm/step2b/6dragchain/
-next-step-title: "Drag Chain Bracket"
+next_step: /750mm/step2b/6dragchain/
+next_step_title: "Drag Chain Bracket"
 diagram: "motors.jpg"
 ---
 <img src="../../step2/photo/jpfs_DSC2652.jpg">
@@ -71,7 +71,7 @@ diagram: "motors.jpg"
 
 <h3>Attach Stepper Motor to X-Carriage</h3>
 
-To attach a stepper motor to the X-Carriage, you'll need 4x M5x10mm socket head cap screws. Place the motor on the X-Carriage with the white connector facing up. Use a 3mm allen key to secure the motor in place using the threaded holes on the carriage. There may be a small gap between the motor and the carriage due to the heads of the M5x35mm flat head screws that hold the smooth idlers. Tighten the screws in an alternating pattern to ensure that they are evenly secured.
+To attach a stepper motor to the X-Carriage, you'll need 4x M5x10mm socket head cap screws. Place the motor on the X-Carriage with the white connector facing up. Use a 4mm hex key to secure the motor in place using the threaded holes on the carriage. There may be a small gap between the motor and the carriage due to the heads of the M5x35mm flat head screws that hold the smooth idlers. Tighten the screws in an alternating pattern to ensure that they are evenly secured.
 <img src="../../step2/photo/jpfs_DSC2649.jpg">
 <img src="../../step2/photo/jpfs_DSC2650.jpg">
 

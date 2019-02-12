@@ -1,10 +1,10 @@
 ---
 layout: default500mm
 title: "Side Board"
-step-number: 1
+step_number: 1
 permalink: /500mm/step7/
-next-step: /500mm/step8/
-next-step-title: "X-Controller"
+next_step: /500mm/step8/
+next_step_title: "X-Controller"
 ---
 <table>
   <tr>
@@ -183,7 +183,7 @@ next-step-title: "X-Controller"
 <p>Assemble frame using the 20mm x 20mm aluminum extrusion, gusset brackets, pre-assembly insertion nuts and M5x10mm button head cap screws.</p>
 <img src="photo/P4220545jpg08.jpg">
 <img src="photo/P4220548jpg11.jpg">
-<p>Install the side board to the frame using the M5x8mm button head cap screws.</p>
+<p>Install the side board to the frame using the M5x12mm button head cap screws and pre-assembly insertion nuts.</p>
 <img src="photo/jpfs_DSC2935.jpg">
 <p>Insert pre-assembly t-slot nuts into the ends of the frame.  These will be used to attach the side board to the rest of the machine using the side board plates.</p>
 <img src="photo/P4220549jpg12.jpg">

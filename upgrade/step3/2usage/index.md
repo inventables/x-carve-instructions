@@ -2,10 +2,10 @@
 layout: defaultupgrade
 title: "X-Controller Usage"
 parent: X-Conroller
-step-number: 2
+step_number: 2
 permalink: /upgrade/step3/2usage/
-next-step: /upgrade/step4/
-next-step-title: "Z-Probe"
+next_step: /upgrade/step4/
+next_step_title: "Z-Probe"
 ---
 
 <h1>Usage Instructions</h1>
@@ -119,7 +119,20 @@ Easel Setup</li>
 Buttons</h3>
 
 <p>
-Use the three buttons on the front of the X-Controller for Feedhold, Cycle Start and Reset (Motion Cancel).</p>
+<img src="../../../photo/x_controller_buttons.jpg">
+These three buttons allow you to start and stop, and reset a job while it's running. These are formally known as 'Feed Hold', 'Cycle Start', and 'Reset'.</p>
+
+<p><strong>Feed Hold</strong>:</p>
+<img width="50px" src="../../../photo/feed_hold.png">
+<p>If you've already started a job from your computer and need to pause it momentarily, you can click the feed hold button to stop the axes from moving. Note that if you are using a manually controlled spindle that this will not turn it off.</p>
+
+<p><strong>Cycle Start</strong>:</p>
+<img width="50px" src="../../../photo/cycle_start.png">
+<p>It's important to note that this will not start a job, though it will re-start one that has been paused. This only has an effect when the feed hold button has been pressed first.</p>
+
+<p><strong>Reset</strong>:</p>
+<img width="50px" src="../../../photo/reset.png">
+<p>If, after pressing the feed hold button, you want to scrap the current job and start a new one, you can press the reset button. This will return the X and Y axes to home and keep your set home position. This button will only work if you've pressed the feed hold first.</p>
 
 <h3>
 Easel Setup</h3>

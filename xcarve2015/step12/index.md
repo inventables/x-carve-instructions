@@ -1,15 +1,15 @@
 ---
 layout: xcarve2015
-title:  "Spindle Mount"
-time-estimate: 25
+title: "Spindle Mount"
+time_estimate: 25
 category: step
-step-number: 12
+step_number: 12
 permalink: /xcarve2015/step12/
-next-step: /xcarve2015/step13/
+next_step: /xcarve2015/step13/
 redirect_from: "/step12/"
-next-step-title: "Work Area"
-grabcad-name1: "Spindle Carriage"
-grabcad-url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/217354"
+next_step_title: "Work Area"
+grabcad_name1: "Spindle Carriage"
+grabcad_url1: "https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcvs_XeRNVzNkfG_tFTAMd0C2lBbCsLcagOxXb1Jlki0kT/link/217354"
 ---
 
 For mounting instructions, select your spindle choice below.

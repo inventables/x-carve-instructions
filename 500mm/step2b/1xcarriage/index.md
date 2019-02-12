@@ -2,10 +2,10 @@
 layout: default500mm
 title: "Assemble X-Carriage"
 parent: X-Carriage
-step-number: 2
+step_number: 2
 permalink: /500mm/step2b/1xcarriage/
-next-step: /500mm/step2b/2idlers/
-next-step-title: "Idler Wheels"
+next_step: /500mm/step2b/2idlers/
+next_step_title: "Idler Wheels"
 ---
 
 In this section we'll be assembling The X-Carriage. This carriage carries the hardware for moving the X axis as well as the Z axis, though we'll be assembling the latter component in the next section

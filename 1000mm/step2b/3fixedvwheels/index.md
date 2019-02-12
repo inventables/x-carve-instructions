@@ -2,10 +2,10 @@
 layout: default1000mm
 title: "Attach Fixed V-Wheels"
 parent: X-Carriage
-step-number: 2
+step_number: 2
 permalink: /1000mm/step2b/3fixedvwheels/
-next-step: /1000mm/step2b/4adjustablevwheels/
-next-step-title: "Adjustable V-Wheels"
+next_step: /1000mm/step2b/4adjustablevwheels/
+next_step_title: "Adjustable V-Wheels"
 diagram: "fixedvwheels.jpg"
 ---
 <img src="../../step2/photo/jpfs_DSC2641.jpg">
