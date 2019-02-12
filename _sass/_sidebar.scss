@@ -54,6 +54,9 @@
   ul {
     font-weight: 400;
     list-style: none;
+    max-height: calc(100vh - 7em);
+    overflow-y: auto;
+    width: 100%;
   }
 
   ol {
