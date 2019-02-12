@@ -81,7 +81,7 @@ M8 Threaded Rod</h4>
 Your M8 Threaded Rod came with a Delrin Nut that is designed to travel along it. The fit between the rod and the nut will be tight at first. It is a good idea to use a handheld drill and traverse the nut up and down the rod a few dozen times:
 
 <div class="row image-row">
-<p><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/562/original/0552.jpg?1424380688" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/564/original/0554.jpg?1424380690" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/759/original/0556.jpg?1424561655" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/568/original/0558.jpg?1424380695" class="thumbnail col-md-3" alt="" /></p>
+<img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/562/original/0552.jpg?1424380688" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/564/original/0554.jpg?1424380690" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/759/original/0556.jpg?1424561655" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/568/original/0558.jpg?1424380695" class="thumbnail col-md-6" alt="" />
 </div>
 <p>Leave the Delrin Nut in the middle of the rod and thread one of the M8 hex nuts onto one of its end. You&#8217;ll want to thread the nut about an inch and a half onto the rod.</p>
 <p style="text-align:center;"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/576/original/0563.jpg?1424380952" alt="" /></p>
@@ -102,7 +102,7 @@ Your M8 Threaded Rod came with a Delrin Nut that is designed to travel along it.
 </div>
 </div>
 <div class="panel panel-default">
-<a data-toggle="collapse" data-parent="#drive rod-accordion" href="#acme" aria-expanded="false" aria-controls="acme" class="panel-heading" role="tab" id="acme-header">
+<a data-toggle="collapse" data-parent="#drive-rod-accordion" href="#acme" aria-expanded="false" aria-controls="acme" class="panel-heading" role="tab" id="acme-header">
 
 <h4 class="panel-title">
 Acme Threaded Rod</h4>

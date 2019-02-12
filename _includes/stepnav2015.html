@@ -1,7 +1,23 @@
-<ul class="nav">
-  {% for item in site.data.navigation2015.stepnav %}
-  <li class="nav-item">
-    <a {% if page.url == item.url %}class="active"{% endif %} href="/xcarve2015{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
-  </li>
-  {% endfor %}
-</ul>
+<nav class="navbar navbar-expand-md navbar-light">
+  <a class="navbar-brand instructions-menu-label" href="#">Instructions</a>
+  <button
+    class="navbar-toggler"
+    type="button"
+    data-toggle="collapse"
+    data-target="#navbarTogglerDemo02"
+    aria-controls="navbarTogglerDemo02"
+    aria-expanded="false"
+    aria-label="Toggle navigation"
+  >
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+    <ul class="sidebar">
+      {% for item in site.data.navigation2015.stepnav %}
+      <li class="nav-item">
+        <a {% if page.url == item.url %}class="active"{% endif %} href="/xcarve2015{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</nav>

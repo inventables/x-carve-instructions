@@ -99,10 +99,10 @@ To mount a smooth idler to your Y-Plate slide it onto a 35mm screw followed by a
 </div>
 Insert the screw through the Y-Plate and fasten it with a hex nut on the other side. Tighten the nut with moderate force.
 
-<div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/509/original/0903.jpg?1424293487" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/510/original/0904.jpg?1424293497" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/679/original/0906.jpg?1424463813" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/511/original/0907.jpg?1424293726" class="thumbnail col-md-3" alt="" /></div>
+<div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/509/original/0903.jpg?1424293487" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/510/original/0904.jpg?1424293497" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/679/original/0906.jpg?1424463813" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/511/original/0907.jpg?1424293726" class="thumbnail col-md-6" alt="" /></div>
 Repeat this process for the other smooth idler:
 
-<p><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/508/original/0908.jpg?1424293064" alt="" /></p>
+<div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/508/original/0908.jpg?1424293064" alt="" /></div>
 
 <h3 id="v-wheels">
 2. V-Wheels</h3>
@@ -113,7 +113,7 @@ Each Y-Plate has four holes for V-Wheels. Just like the X Carriage there are two
 
 Start by installing the top two V-Wheels. Put a V-Wheel on a 25mm button head cap screw followed by a washer. Tighten a nylock nut on the other side of the plate:
 
-<div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/682/original/1308.jpg?1424465627" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/683/original/1311.jpg?1424465628" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/684/original/1312.jpg?1424465629" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/685/original/1314.jpg?1424465630" class="thumbnail col-md-3" alt="" /></div>
+<div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/682/original/1308.jpg?1424465627" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/683/original/1311.jpg?1424465628" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/684/original/1312.jpg?1424465629" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/685/original/1314.jpg?1424465630" class="thumbnail col-md-6" alt="" /></div>
 
 Repeat with another 25mm screw, V-Wheel, washer and nylock nut.
 
@@ -121,7 +121,7 @@ Repeat with another 25mm screw, V-Wheel, washer and nylock nut.
 
 Repeat the process for the bottom V-Wheels using eccentric nuts this time. Be sure to seat the shoulder of the eccentric nut flush in the hole.
 
-<div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/687/original/1321.jpg?1424466239" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/688/original/1322.jpg?1424466240" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/689/original/1323.jpg?1424466241" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/690/original/1325.jpg?1424466242" class="thumbnail col-md-3" alt="" /></div>
+<div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/687/original/1321.jpg?1424466239" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/688/original/1322.jpg?1424466240" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/689/original/1323.jpg?1424466241" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/690/original/1325.jpg?1424466242" class="thumbnail col-md-6" alt="" /></div>
 
 Repeat with another 25mm screw, V-Wheel, washer and eccentric nut.
 
@@ -193,7 +193,7 @@ Nema 17</h4>
 
 To mount a NEMA 17 motor on your Y-Plate slide the washers onto the screws, insert the screws through the plate and thread them into the motor. Insert them in an x pattern and get them all finger tight, then tighten them with moderate force. Be sure to orient the motor as shown in the photos with the wires facing the bottom of the plate.
 
-<div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/521/original/0912.jpg?1424298342" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/522/original/0915.jpg?1424298352" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/523/original/0916.jpg?1424298362" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/524/original/0919.jpg?1424298371" class="thumbnail col-md-3" alt="" /></div>
+<div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/521/original/0912.jpg?1424298342" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/522/original/0915.jpg?1424298352" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/523/original/0916.jpg?1424298362" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/524/original/0919.jpg?1424298371" class="thumbnail col-md-6" alt="" /></div>
 
 Repeat with the second Y-Plate.
 
@@ -266,7 +266,7 @@ Nema 23</h4>
 
 To mount a NEMA 23 motor on your Y-Plate insert a screw through a mounting hole on the motor and then the plate. Slide a washer onto the screw and use and finger tighten a nylock nut. Orient the motor as shown in the photos with the wires facing the bottom of the plate.
 
-<div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/525/original/0925.jpg?1424298577" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/526/original/0930.jpg?1424298587" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/527/original/0932.jpg?1424298597" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/694/original/0934.jpg?1424468444" class="thumbnail col-md-3" alt="" /></div>
+<div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/525/original/0925.jpg?1424298577" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/526/original/0930.jpg?1424298587" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/527/original/0932.jpg?1424298597" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/694/original/0934.jpg?1424468444" class="thumbnail col-md-6" alt="" /></div>
 
 Repeat with the remaining three screws and then tighten all screws firmly.
 
