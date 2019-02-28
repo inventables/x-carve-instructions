@@ -1,7 +1,7 @@
 ---
 layout: default750mm
-title: "Attach Smooth Idlers"
-parent: X-Carriage
+title: "Smooth Idler Wheels"
+parent: "Gantry - X-Carriage"
 step_number: 2
 permalink: /750mm/step2b/2idlers/
 next_step: /750mm/step2b/3fixedvwheels/
@@ -85,7 +85,7 @@ diagram: "idlers.jpg"
 </table>
 
 
-<h3>Attach Smooth Idlers</h3>
+<h3>Attach Smooth Idler Wheels</h3>
 
 Insert an M5x35 flat head screw into one of the countersunk holes in the X-Carriage.
 <img src="../../step2/photo/jpfs_DSC2628.jpg">

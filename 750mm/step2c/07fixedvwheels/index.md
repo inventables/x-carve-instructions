@@ -1,7 +1,7 @@
 ---
 layout: default750mm
-title: "Attach Fixed V-Wheels"
-parent: Z-Axis
+title: "Fixed V-Wheels"
+parent: "Gantry - Z-Axis"
 step_number: 2
 permalink: /750mm/step2c/7fixedvwheels/
 next_step: /750mm/step2c/8clampbolts/

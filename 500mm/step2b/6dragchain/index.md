@@ -1,7 +1,7 @@
 ---
 layout: default500mm
-title: "Attach Drag Chain Bracket To X-Carriage"
-parent: X-Carriage
+title: "Drag Chain Bracket"
+parent: "Gantry - X-Carriage"
 step_number: 2
 permalink: /500mm/step2b/6dragchain/
 next_step: /500mm/step2b/7homeswitch/

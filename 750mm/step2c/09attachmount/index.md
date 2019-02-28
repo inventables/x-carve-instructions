@@ -1,7 +1,7 @@
 ---
 layout: default750mm
-title: "Attach Spindle Carriage to Z-Axis"
-parent: Z-Axis
+title: "Attach Spindle Carriage"
+parent: "Gantry - Z-Axis"
 step_number: 2
 permalink: /750mm/step2c/9attachmount/
 next_step: /750mm/step2c/10homeswitch/

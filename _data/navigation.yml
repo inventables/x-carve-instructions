@@ -3,76 +3,76 @@ stepnav:
     title: Work Area
     url: /step1/
   - step: step2a
-    title: Side Plates
+    title: Gantry - Side Plates
     url: /step2a
     subnav:
     - title: Side Plates
       url: /1sideplates/
     - title: Fixed V-Wheels
       url: /2fixedvwheels/
-    - title: Adjusted V-Wheels
+    - title: Adjustable V-Wheels
       url: /3adjustablevwheels/
-    - title: Smooth Idlers
+    - title: Smooth Idler Wheels
       url: /4idlers/
-    - title: Motors
+    - title: Stepper Motors
       url: /5motors/
-    - title: Drag Chain
+    - title: Drag Chain Bracket
       url: /6dragchain/
-    - title: Home Switch
+    - title: Homing Switch
       url: /7homeswitch/
   - step: step2b
-    title: X-Carriage
+    title: Gantry - X-Carriage
     url: /step2b
     subnav:
-    - title: X-Carriage
+    - title: Assemble X-Carriage
       url: /1xcarriage/
-    - title: Smooth Idlers
+    - title: Smooth Idler Wheels
       url: /2idlers/
     - title: Fixed V-Wheels
       url: /3fixedvwheels/
     - title: Adjustable V-Wheels
       url: /4adjustablevwheels/
-    - title: Motors
+    - title: Stepper Motor
       url: /5motors/
-    - title: Drag Chain
+    - title: Drag Chain Bracket
       url: /6dragchain/
-    - title: Home Switch
+    - title: Homing Switch
       url: /7homeswitch/
   - step: step2c
-    title: Z-Axis
+    title: Gantry - Z-Axis
     url: /step2c
     subnav:
     - title: Z-Axis
       url: /1zaxis/
     - title: Flanged Bearing
       url: /2flangedbearing/
-    - title: Attach Rail
+    - title: Z-Axis Rail
       url: /3attachrail/
     - title: Lead Screw
       url: /4leadscrew/
-    - title: Attach to Carriage
+    - title: Attach to X-Carriage
       url: /5attachtocarriage/
     - title: Adjustable V-Wheels
       url: /6adjustablevwheels/
     - title: Fixed V-Wheels
       url: /7fixedvwheels/
-    - title: Clamp Bolts
+    - title: Clamping Bolts
       url: /8clampbolts/
-    - title: Attach Mount
+    - title: Attach Spindle Carriage
       url: /9attachmount/
-    - title: Home Switch
+    - title: Homing Switch
       url: /10homeswitch/
   - step: step2d
     title: Assemble Gantry
     url: /step2d
     subnav:
-      - title: Gantry Rail
+      - title: Gantry
         url: /1gantryrail/
-      - title: Attach Side Plate
+      - title: Side Plate - Left
         url: /2attachsideplate/
-      - title: Attach Carriage
+      - title: Attach X-Carriage
         url: /3attachcarriage/
-      - title: Attach Side Plate
+      - title: Side Plate - Right
         url: /4attachsideplate/
       - title: Attach Drag Chain Rail
         url: /5dragchainrail/

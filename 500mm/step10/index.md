@@ -62,4 +62,4 @@ After setting your machine, you can run a test carve to ensure that the machine 
 
 You can use any material you'd like for this initial carve, though we generally recommend working with wood or a soft plastic to begin with.
 
-<a href="http://app.easel.com/setup" target="_blank" class="btn btn-invent btn-animate-arrow">Set up your machine</a>
+<a href="http://app.easel.com/setup" target="_blank" class="btn btn-invent btn-animate-arrow">Set up your machine in Easel</a>

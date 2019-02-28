@@ -1,6 +1,6 @@
 ---
 layout: default1000mm
-title: "Attach Side Plate"
+title: "Attach Left Side Plate"
 parent: "Assemble Gantry"
 step_number: 2
 permalink: /1000mm/step2d/2attachsideplate/

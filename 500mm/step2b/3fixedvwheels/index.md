@@ -1,7 +1,7 @@
 ---
 layout: default500mm
-title: "Attach Fixed V-Wheels"
-parent: X-Carriage
+title: "Fixed V-Wheels"
+parent: "Gantry - X-Carriage"
 step_number: 2
 permalink: /500mm/step2b/3fixedvwheels/
 next_step: /500mm/step2b/4adjustablevwheels/

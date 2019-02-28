@@ -1,11 +1,11 @@
 ---
 layout: default500mm
-title: "Attach Homing Switches"
-parent: "Side Plates"
+title: "Homing Switch"
+parent: "Gantry - Side Plates"
 step_number: 2
 permalink: /500mm/step2a/7homeswitch/
 next_step: /500mm/step2b/1xcarriage/
-next_step_title: "X-Carriage"
+next_step_title: "Gantry - X-Carriage"
 diagram: "homeswitch1.jpg"
 ---
 <img src="../../step2/photo/jpfs_DSC2616.jpg">

@@ -1,7 +1,7 @@
 ---
 layout: default1000mm
-title: "Attach Adjustable V-Wheels"
-parent: Z-Axis
+title: "Adjustable V-Wheels"
+parent: "Gantry - Z-Axis"
 step_number: 2
 permalink: /1000mm/step2c/6adjustablevwheels/
 next_step: /1000mm/step2c/7fixedvwheels/

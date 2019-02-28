@@ -1,7 +1,7 @@
 ---
 layout: default500mm
-title: "Attach Z-Axis Assembly to X-Carriage"
-parent: Z-Axis
+title: "Attach to X-Carriage"
+parent: "Gantry - Z-Axis"
 step_number: 2
 permalink: /500mm/step2c/5attachtocarriage/
 next_step: /500mm/step2c/6adjustablevwheels/

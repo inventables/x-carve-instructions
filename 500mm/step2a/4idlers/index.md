@@ -1,7 +1,7 @@
 ---
 layout: default500mm
-title: "Attach Idler Wheels"
-parent: "Side Plates"
+title: "Smooth Idler Wheels"
+parent: "Gantry - Side Plates"
 step_number: 2
 permalink: /500mm/step2a/4idlers/
 next_step: /500mm/step2a/5motors/
