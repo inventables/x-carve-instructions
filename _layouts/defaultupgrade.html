@@ -38,8 +38,9 @@
           {% endif %}
 
           {% if page.grabcad_url1 %}
-          <a class="grabcad-link" href="{{page.grabcad_url1}}"><i class="fa fa-cube"></i> GrabCAD Model of
-            {{page.grabcad_name1}}</a>
+          <a class="grabcad-link" href="{{page.grabcad_url1}}">
+            <i class="fa fa-cube"></i> GrabCAD Model of {{page.grabcad_name1}}
+          </a>
           {% if page.z-axis == true %}
           <span class="grabcad-note">(You're only building part of this now)</span>
           {% endif %}

@@ -1,12 +1,12 @@
-$(document).ready(function() {
+$(document).ready(function () {
 
   var sidebar = $("#off-canvas-sidebar");
 
-  $("#hamburger").click(function() {
+  $("#hamburger").click(function () {
     sidebar.addClass('open');
   });
 
-  $("#close").click(function() {
+  $("#close").click(function () {
     sidebar.removeClass('open');
   });
 });
