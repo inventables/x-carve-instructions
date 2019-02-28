@@ -1,19 +1,36 @@
-<ul>
-  {% for item in site.data.navigationup.stepnav %}
-  <li class="nav-item {% if page.parent == item.title %}active{% endif %}">
-    {% if item.subnav %}
-      <a href="#" id="step-drop-btn" data-toggle="dropdown">{{ item.title }}
-        &nbsp;<i class="fa fa-caret-down"></i></a>
-      <ol class="nav step-nav dropdown-menu" aria-labelledby="step-drop-btn">
-        {% for subitem in item.subnav %}
-          <a href="/upgrade{{ subitem.url | prepend: item.url }}">
-            <li>{{ subitem.title }}</li>
-          </a>
-        {% endfor %}
-      </ol>
-    {% else %}
-      <a href="/upgrade{{ item.url }}">{{ item.title }}</a>
-    {% endif %}
-  </li>
-  {% endfor %}
-</ul>
+<nav class="navbar navbar-expand-md navbar-light">
+  <a class="navbar-brand instructions-menu-label" href="#">Instructions</a>
+  <button
+    class="navbar-toggler"
+    type="button"
+    data-toggle="collapse"
+    data-target="#navbarTogglerDemo02"
+    aria-controls="navbarTogglerDemo02"
+    aria-expanded="false"
+    aria-label="Toggle navigation"
+  >
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+    <ul class="sidebar">
+      {% for item in site.data.navigationup.stepnav %}
+      <li class="nav-item {% if page.parent == item.title %}active{% endif %}">
+        {% if item.subnav %}
+          <a href="#{{item.step}}" id="step-drop-btn" data-toggle="collapse">{{ item.title }}
+            &nbsp;<i class="fa fa-caret-down"></i></a>
+          <ol class="collapse {% if page.parent == item.title %}show{% endif %}" id="{{item.step}}">
+            {% for subitem in item.subnav %}
+              <a href="/upgrade{{ subitem.url | prepend: item.url }}">
+                <li class="subnav-item">{{ subitem.title }}</li>
+              </a>
+            {% endfor %}
+          </ol>
+        {% else %}
+          {% assign url = item.url | prepend: "/upgrade" %}
+          <a {% if page.url == url %}class="active"{% endif %} href="/upgrade{{ item.url }}">{{ item.title }}</a>
+        {% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</nav>

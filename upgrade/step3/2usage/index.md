@@ -1,7 +1,7 @@
 ---
 layout: defaultupgrade
 title: "X-Controller Usage"
-parent: X-Conroller
+parent: X-Controller
 step_number: 2
 permalink: /upgrade/step3/2usage/
 next_step: /upgrade/step4/
