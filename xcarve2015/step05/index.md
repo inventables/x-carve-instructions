@@ -68,7 +68,7 @@ Attach a piece of Makerslide to an end plate using a button head cap screw. Make
 <strong>If you have limit switches, make sure the slot on the Makerslide is oriented in the upper position.</strong> This slot is used to attach the limit switch "actuator" and will not be aligned with the switch if the Makerslide is positioned incorrectly.
 
 <div class="row image-row">
-<p><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1077/original/0331.jpg?1431031633" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1078/original/0334.jpg?1431032389" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1079/original/0337.jpg?1431032390" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1094/original/0343Text.jpg?1431040998?1431032391" class="thumbnail col-md-3" alt="" /></p>
+<img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1077/original/0331.jpg?1431031633" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1078/original/0334.jpg?1431032389" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1079/original/0337.jpg?1431032390" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1094/original/0343Text.jpg?1431040998?1431032391" class="thumbnail col-md-6" alt="" />
 </div>
 
 <div class="note">
@@ -88,7 +88,7 @@ Repeat this process with another piece of Makerslide and another end plate, but 
 Now you’ll slide the gantry onto each of the Y-axes. This step is just like when you put the X Carriage onto the x-axis. Go slow and check the orientation of the eccentric nuts on the Y-Plates if you are encountering resistance.
 
 <div class="row image-row">
-<p><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/746/original/0354.jpg?1424545296" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/747/original/0357.jpg?1424545297" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/619/original/0359.jpg?1424385097" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/748/original/0360.jpg?1424545298" class="thumbnail col-md-3" alt="" /></p>
+<img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/746/original/0354.jpg?1424545296" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/747/original/0357.jpg?1424545297" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/619/original/0359.jpg?1424385097" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/748/original/0360.jpg?1424545298" class="thumbnail col-md-6" alt="" />
 </div>
 
 <h3 id="add-insertion-nuts">
@@ -104,7 +104,7 @@ Put two insertion nuts into each piece of y-axis Makerslide (four in total).
 Now put the last two end plates on the y-axis Makerslide with button head cap screws. The flat sides of the end plates should face out:
 
 <div class="row image-row">
-<p><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/621/original/0365.jpg?1424385220" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/622/original/0366.jpg?1424385230" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/623/original/0371.jpg?1424385287" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/624/original/0375.jpg?1424385297" class="thumbnail col-md-3" alt="" /></p>
+<img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/621/original/0365.jpg?1424385220" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/622/original/0366.jpg?1424385230" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/623/original/0371.jpg?1424385287" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/624/original/0375.jpg?1424385297" class="thumbnail col-md-6" alt="" />
 </div>
 
 Your X-Carve should look like this:
@@ -163,7 +163,7 @@ You’ll connect the two y-axes with extrusions in the front and back of the mac
 
 Slide the insertion nuts into the extrusions and fasten the end plates to them with 8mm screws:
 
-<div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/625/original/0380.jpg?1424385401" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/626/original/0382.jpg?1424385402" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/627/original/0385.jpg?1424385403" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/628/original/0386.jpg?1424385404" class="thumbnail col-md-3" alt="" />
+<div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/625/original/0380.jpg?1424385401" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/626/original/0382.jpg?1424385402" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/627/original/0385.jpg?1424385403" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/628/original/0386.jpg?1424385404" class="thumbnail col-md-6" alt="" />
 </div>
 
 <div class="note">

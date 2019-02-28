@@ -87,7 +87,7 @@ The first thing you will do is attach the smooth idlers. Insert one of the flat 
 Next you’ll put a spacer onto the screw followed by the smooth idler and a nylock hex nut. Tighten the hex nut with moderate force.
 
 <div class="row image-row">
-<p><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/637/original/0012.jpg?1424451129" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/638/original/0014.jpg?1424451138" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/640/original/0021.jpg?1424451287" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/641/original/0022.jpg?1424451288" class="thumbnail col-md-3" alt="" /></p>
+<img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/637/original/0012.jpg?1424451129" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/638/original/0014.jpg?1424451138" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/640/original/0021.jpg?1424451287" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/641/original/0022.jpg?1424451288" class="thumbnail col-md-6" alt="" />
 </div>
 
 <div class="note">
@@ -130,7 +130,7 @@ You'll need to adjust them later so put a V-Wheel and then a washer onto a screw
 
 Thread the eccentric nut onto the screw making sure the “shoulder” is facing the X Carriage. Be sure to seat the shoulder in the hole on the X Carriage and tighten the screw with moderate force.
 
-<p><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/652/original/0050.jpg?1424456639" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/654/original/0052.jpg?1424456640" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/656/original/0054.jpg?1424456642" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/657/original/0063.jpg?1424456688" class="thumbnail col-md-3" alt="" /></p>
+<div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/652/original/0050.jpg?1424456639" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/654/original/0052.jpg?1424456640" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/656/original/0054.jpg?1424456642" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/657/original/0063.jpg?1424456688" class="thumbnail col-md-6" alt="" /></div>
 
 Repeat this process for the remaining three V-Wheels. When you're done your X Carriage should look like this:
 
@@ -213,13 +213,13 @@ NEMA 17
 
 Start this step by putting a pulley on your NEMA 17 stepper motor. You will use two set screws to hold it in place. Slide it on so the edge is flush with the end of the motor shaft and tighten the screws just enough to hold it in place.
 
-<p><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/662/original/1290.jpg?1424459090" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/663/original/1291.jpg?1424459091" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/664/original/1292.jpg?1424459092" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/665/original/1294.jpg?1424459116" class="thumbnail col-md-3" alt="" /></p>
+<div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/662/original/1290.jpg?1424459090" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/663/original/1291.jpg?1424459091" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/664/original/1292.jpg?1424459092" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/665/original/1294.jpg?1424459116" class="thumbnail col-md-6" alt="" /></div>
 
-<p><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/661/original/X-Carriage%20NEMA%2017%20Mounting%20Holes.png?1424458797" alt="" /></p>
+<div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/661/original/X-Carriage%20NEMA%2017%20Mounting%20Holes.png?1424458797" alt="" /></div>
 
 Your NEMA 17 motor has tapped holes to accept screws, take a moment to locate them. You'll use three of the four on the motor. Orient the motor as shown with the wires pointing up and to the right:
 
-<p><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/678/original/1300.jpg?1424463225" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/672/original/1297.jpg?1424463007" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/673/original/1298.jpg?1424463010" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/674/original/1303.jpg?1424463013" class="thumbnail col-md-3" alt="" /></p>
+<div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/678/original/1300.jpg?1424463225" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/672/original/1297.jpg?1424463007" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/673/original/1298.jpg?1424463010" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/674/original/1303.jpg?1424463013" class="thumbnail col-md-6" alt="" /></div>
 
 Put a washer on each screw and insert them from the opposite side of the X Carriage using the access holes. You may find it easier to start the screws by inserting them from the side of the carriage and then tightening them through the access holes. Tighten these screws with moderate force.
 
@@ -282,14 +282,14 @@ NEMA 23
 </table>
 <p>Start this step by putting a pulley on your <span class="caps">NEMA</span> 23 stepper motor. You will use two set screws to hold it in place. Slide it on so the edge is flush with the end of the motor shaft and tighten the screws just enough to hold it in place.</p>
 
-<p><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/667/original/0139.jpg?1424462093" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/668/original/0141.jpg?1424462104" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/669/original/0143.jpg?1424462115" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/670/original/0148.jpg?1424462125" class="thumbnail col-md-3" alt="" /></p>
+<div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/667/original/0139.jpg?1424462093" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/668/original/0141.jpg?1424462104" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/669/original/0143.jpg?1424462115" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/670/original/0148.jpg?1424462125" class="thumbnail col-md-6" alt="" /></div>
 
 The NEMA 23 mounting holes on the X Carriage are tapped. Simply insert the screws through the motor housing and screw them into the X Carriage. Get all of the screws finger tight and then tighten them in an x-pattern with moderate force . Be sure to orient the wires of your stepper motor towards the bottom of the X Carriage.
 
-<p><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/660/original/X-Carriage%20NEMA%2023%20Mounting%20Holes.png?1424458322" alt="" /></p>
+<div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/660/original/X-Carriage%20NEMA%2023%20Mounting%20Holes.png?1424458322" alt="" /></div>
 
 <div class="row image-row">
-<p><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/610/original/0151.jpg?1424383737" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/611/original/0152.jpg?1424383738" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/612/original/0154.jpg?1424383756" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/671/original/1306.jpg?1424462609" class="thumbnail col-md-3" alt="" /></p>
+<img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/610/original/0151.jpg?1424383737" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/611/original/0152.jpg?1424383738" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/612/original/0154.jpg?1424383756" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/671/original/1306.jpg?1424462609" class="thumbnail col-md-6" alt="" />
 </div>
 <img src="PluginStepper.jpg">
 
@@ -372,10 +372,10 @@ Drag Chain
  Remove a male drag chain end from one of the longer drag chain lengths.  Attach it to the angle bracket and then the X-Carriage like this:
 
 <div class="row image-row">
-<img src="1616.jpg" class="thumbnail col-md-3">
- <img src="1621.jpg" class="thumbnail col-md-3">
- <img src="1622.jpg" class="thumbnail col-md-3">
- <img src="6613.jpg" class="thumbnail col-md-3">
+<img src="1616.jpg" class="thumbnail col-md-6">
+ <img src="1621.jpg" class="thumbnail col-md-6">
+ <img src="1622.jpg" class="thumbnail col-md-6">
+ <img src="6613.jpg" class="thumbnail col-md-6">
 
 </div>
 </div>
@@ -430,7 +430,7 @@ Wiring
 
 Put the screws through the top holes of the terminal block and screw them into the tapped holes.
 
-<p><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/659/original/1461.jpg?1424457942" alt="" /></p>
+<div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/659/original/1461.jpg?1424457942" alt="" /></div>
 
 </div>
 </div>
@@ -495,7 +495,7 @@ Limit Switch
 
 Put the lock washers onto the screws and insert them through the switch and into the holes on the X Carriage (they're on the right side if you're looking at the motor). Use a pair of pliers and a screwdriver to snug these down just past finger tight.
 
-<p><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/858/original/1471.jpg?1427918942" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/857/original/1474.jpg?1427918941" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/856/original/1479.jpg?1427918940" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/855/original/1482.jpg?1427918939" class="thumbnail col-md-3" alt="" /></p>
+<div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/858/original/1471.jpg?1427918942" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/857/original/1474.jpg?1427918941" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/856/original/1479.jpg?1427918940" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/855/original/1482.jpg?1427918939" class="thumbnail col-md-6" alt="" /></div>
 
 </div>
 </div>

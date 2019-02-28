@@ -45,7 +45,11 @@ a {
 b, strong {
     font-weight: 600;
 }
-
+@media (min-width: 768px){
+    img.col-md-6 {
+        height: 100%;
+    }
+}
 @media (min-width: 768px) and (max-width: 830px) {
     .col-sm-7 {
         width: 80%;

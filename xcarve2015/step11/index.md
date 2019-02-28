@@ -25,7 +25,7 @@ Click below to select your chosen drag chain.
 
 <div class="panel-group" id="drag-chain-accordion" role="tablist" aria-multiselectable="true">
 <div class="panel panel-default">
-<a data-toggle="collapse" data-parent="#drag-chain-accordion" href="#500mm-drag-chain" aria-expanded="false" aria-controls="500mm-drag-chain" class="panel-heading" role="tab" id="500mm-drag-chain-header">
+<a data-toggle="collapse" data-parent="#drag-chain-accordion" href="#five-drag-chain" aria-expanded="false" aria-controls="five-drag-chain" class="panel-heading" role="tab" id="five-drag-chain-header">
 
 <h4 class="panel-title">
 500mm Drag Chain
@@ -38,7 +38,7 @@ Click below to select your chosen drag chain.
 </div>
 </a>
 
-<div id="500mm-drag-chain" class="panel-collapse collapse" role="tabpanel" aria-labelledby="500mm-drag-chain-header">
+<div id="five-drag-chain" class="panel-collapse collapse" role="tabpanel" aria-labelledby="five-drag-chain-header">
 <div class="panel-body">
 
 <div class="step-card">
@@ -166,16 +166,16 @@ This section will have a more comprehensive update in the near future. For the t
 <strong>Note:</strong> The female drag chain ends come attached to the 27 drag chain links and need to be removed in order to be installed on the drag chain bracket.
 </span>
 </div>
-<div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/794/original/0746.jpg?1425059529" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/795/original/0747.jpg?1425059530" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/796/original/0748.jpg?1425059531" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/797/original/0754.jpg?14250595321" class="thumbnail col-md-3" alt="" /></div>
+<div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/794/original/0746.jpg?1425059529" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/795/original/0747.jpg?1425059530" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/796/original/0748.jpg?1425059531" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/797/original/0754.jpg?14250595321" class="thumbnail col-md-6" alt="" /></div>
 <h3>Mount Drag Chain Bracket</h3>
 <p>Attach the bracket you just assembled to the left Y-Plate. You&#8217;ll back out two of the thread forming screws that hold the X-Axis Makerslide to the Left Y-Plate. Back them out one at a time to install the bracket.</p>
-<div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/802/original/0755.jpg?1425059685" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/803/original/0757.jpg?1425059686" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/804/original/0758.jpg?1425059687" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/805/original/0759.jpg?1425059688" class="thumbnail col-md-3" alt="" /></div>
+<div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/802/original/0755.jpg?1425059685" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/803/original/0757.jpg?1425059686" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/804/original/0758.jpg?1425059687" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/805/original/0759.jpg?1425059688" class="thumbnail col-md-6" alt="" /></div>
 <p>Snap the drag chain with all of the wires inside of it to the bracket you just mounted.</p>
 <p style="text-align:center;"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/807/original/0761.jpg?1425059861" alt="" /></p>
 <p>Take the second female drag chain end and attach to the second drag chain bracket just like the first one.</p>
-<div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/794/original/0746.jpg?1425059529" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/795/original/0747.jpg?1425059530" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/796/original/0748.jpg?1425059531" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/797/original/0754.jpg?14250595321" class="thumbnail col-md-3" alt="" /></div>
+<div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/794/original/0746.jpg?1425059529" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/795/original/0747.jpg?1425059530" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/796/original/0748.jpg?1425059531" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/797/original/0754.jpg?14250595321" class="thumbnail col-md-6" alt="" /></div>
 <p>Install this bracket on the front left end plate using the thread forming screws. Again, back out one screw at a time to keep the machine supported while installing the bracket.</p>
-<div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/808/original/0764.jpg?1425060116" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/809/original/0765.jpg?1425060117" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/810/original/0767.jpg?1425060118" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/811/original/0769.jpg?1425060119" class="thumbnail col-md-3" alt="" /></div>
+<div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/808/original/0764.jpg?1425060116" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/809/original/0765.jpg?1425060117" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/810/original/0767.jpg?1425060118" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/811/original/0769.jpg?1425060119" class="thumbnail col-md-6" alt="" /></div>
 <p>Snap the second length of drag chain on to the male bracket on the left Y-Plate.</p>
 <p style="text-align:center;"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/790/original/0776.jpg?1425059314" alt="" /></p>
 <p>Tape the wires that will travel with the Gantry to the bundle of wires that came through the X-Axis drag chain. Thread all wires through the Y-Axis drag chain.</p>
@@ -190,7 +190,7 @@ This section will have a more comprehensive update in the near future. For the t
 </div>
 <div class="panel-group" id="drag-chain-accordion" role="tablist" aria-multiselectable="true">
 <div class="panel panel-default">
-<a data-toggle="collapse" data-parent="#drag-chain-accordion" href="#1000mm-drag-chain" aria-expanded="false" aria-controls="1000mm-drag-chain" class="panel-heading" role="tab" id="1000mm-drag-chain-header">
+<a data-toggle="collapse" data-parent="#drag-chain-accordion" href="#thou-drag-chain" aria-expanded="false" aria-controls="thou-drag-chain" class="panel-heading" role="tab" id="thou-drag-chain-header">
 
 <h4 class="panel-title">
 1000mm Drag Chain</h4>
@@ -202,7 +202,7 @@ This section will have a more comprehensive update in the near future. For the t
 </div>
 </a>
 
-<div id="1000mm-drag-chain" class="panel-collapse collapse" role="tabpanel" aria-labelledby="1000mm-drag-chain-header">
+<div id="thou-drag-chain" class="panel-collapse collapse" role="tabpanel" aria-labelledby="thou-drag-chain-header">
 <div class="panel-body">
 <table>
 	<tr>
@@ -252,7 +252,7 @@ This section will have a more comprehensive update in the near future. For the t
 <strong>Note:</strong> The female drag chain end comes attached to the 54 drag chain links and needs to be removed in order to be installed on the drag chain bracket.
 </span>
 </div>
-<div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1064/original/1626.jpg?1430276046" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1065/original/1627.jpg?1430276048" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1066/original/1629.jpg?1430276050" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1067/original/1631.jpg?1430276051" class="thumbnail col-md-3" alt="" /></div>
+<div class="row image-row"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1064/original/1626.jpg?1430276046" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1065/original/1627.jpg?1430276048" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1066/original/1629.jpg?1430276050" class="thumbnail col-md-6" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1067/original/1631.jpg?1430276051" class="thumbnail col-md-6" alt="" /></div>
 <h3>Mount Drag Chain Bracket</h3>
 <p>Attach the bracket you just assembled to the left Y-Plate. You&#8217;ll back out two of the thread forming screws that hold the X-Axis Makerslide to the Left Y-Plate. Back them out one at a time to install the bracket.</p>
 <p style="text-align:center;"><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/904/original/1633.jpg?1429806439" alt="" /></p>
