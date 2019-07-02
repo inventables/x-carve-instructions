@@ -124,6 +124,11 @@ If you purchased a tool kit with your machine, most of these should be included 
 							<td>1</td>
 						</tr>
 						<tr>
+							<td>26053-03</td>
+							<td>GT2 Belting - Open Ended (meters)</td>
+							<td>4</td>
+						</tr>
+						<tr>
 							<td>25312-23</td>
 							<td>Aluminum Spacer 5.1mm ID 9.5mm OD 9.5mm LG</td>
 							<td>8</td>
@@ -282,11 +287,6 @@ If you purchased a tool kit with your machine, most of these should be included 
 							<td>30558-02</td>
 							<td>X-Carve Label</td>
 							<td>1</td>
-						</tr>
-						<tr>
-							<td>26053-01</td>
-							<td>GT2 Belting - Open Ended (feet)</td>
-							<td>9</td>
 						</tr>
 						<tr>
 							<td>26049-05</td>
