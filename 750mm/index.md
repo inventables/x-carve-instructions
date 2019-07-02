@@ -125,8 +125,8 @@ If you purchased a tool kit with your machine, most of these should be included 
 						</tr>
 						<tr>
 							<td>26053-03</td>
-							<td>GT2 Belting - Open Ended (feet)</td>
-							<td>9</td>
+							<td>GT2 Belting - Open Ended (meters)</td>
+							<td>4</td>
 						</tr>
 						<tr>
 							<td>25312-23</td>
