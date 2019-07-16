@@ -92,6 +92,8 @@ First, locate one of the microswitches from your homing switch kit as well as tw
 
 Orient the switch so that the roller actuator is facing down and toward the front of the z axis motor plate. The mounting holes on the switch should line up with the two threaded holes on the side of the motor plate. Place a split washer on each of the M2x10mm screws and use them to secure the switch to the motor plate. You'll want to use a 1.5mm hex key to drive the screws.
 
+<div class="note"><strong>NOTE:</strong> Make sure to position the protruding "split" of the split ring washer away from the plastic microswitch as that may cut into and damage the switch when tightened.</div>
+
 <img src="../../../photo/jpfsPA120463.jpg">
 
 To prevent the switch from being broken by the Z axis, we'll install a mechanical stop in the form of an M3 socket head screw. Begin by locating the M3x20mm socket head screw as well as the M3 nylock nut in your kit.
