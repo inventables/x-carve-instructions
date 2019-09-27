@@ -323,4 +323,4 @@ diagram: "wiringDiagram750placeholder.jpg"
 <img src="./photo/P4220530jpg35.jpg">
 <p>Gather up all wires into the drag chain and snap the hinges in place.</p>
 <img src="./photo/P4220536jpg41.jpg">
-Do not attach the drag chain yet since it's done in the next step.
+<p>Attach the upper drag chain bracket to the left gantry side plate using two <strong>M5 x 12mm Flat Head Cap Screws</strong> and two <strong>M5 Nylon Insert Lock Nuts.</strong>  Do not attach the lower drag chain bracket just yet, as that's handled in the next step.</p>
