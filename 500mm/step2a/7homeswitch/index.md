@@ -1,5 +1,6 @@
 ---
-layout: default500mm
+layout: default
+machine_size: 500mm
 title: "Homing Switch"
 parent: "Gantry - Side Plates"
 step_number: 2

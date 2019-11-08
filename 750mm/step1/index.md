@@ -1,5 +1,6 @@
 ---
-layout: default750mm
+layout: default
+machine_size: 750mm
 title: "Work Area"
 step_number: 1
 permalink: /750mm/step1/

@@ -1,5 +1,6 @@
 ---
-layout: default750mm
+layout: default
+machine_size: 750mm
 title: "Assemble X-Carriage"
 parent: "Gantry - X-Carriage"
 step_number: 2

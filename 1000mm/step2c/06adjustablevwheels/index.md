@@ -1,5 +1,6 @@
 ---
-layout: default1000mm
+layout: default
+machine_size: 1000mm
 title: "Adjustable V-Wheels"
 parent: "Gantry - Z-Axis"
 step_number: 2

@@ -7,13 +7,13 @@
   <div class="instructions-wrapper container-fluid">
     <div class="row">
       <div id="off-canvas-sidebar" class="col-md-2">
-        {% include stepsidebar1000mm.html %}
+        {% include stepsidebar{{ page.machine_size}}.html %}
       </div>
       <div class="page-content js-instruction-step col-sm-12 col-md-6 pl-md-3">
         <header class="post-header">
           <div class="instruction-breadcrumbs">
             <a href="{{ site.url }}">X-Carve Instructions</a> &#47;
-            <a href="{{ site.baseurl }}/1000mm/">1000mm</a>
+            <a href="{{ site.baseurl }}/{{ page.machine_size }}/">{{ page.machine_size }}</a>
             {% if page.parent%}
             &#47; {{ page.parent }}
             {% endif %}
@@ -53,7 +53,7 @@
 
       </div>
       <div class="col-md-4">
-        <div class="page-diagram">
+        <div class="page-diagram col-md-4">
           {% if page.diagram %}
           <img src="{{ page.diagram | prepend: site.baseurl }}" />
           {% endif %}

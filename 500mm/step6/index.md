@@ -1,5 +1,6 @@
 ---
-layout: default500mm
+layout: default
+machine_size: 500mm
 title: "Wiring"
 step_number: 6
 permalink: /500mm/step6/
