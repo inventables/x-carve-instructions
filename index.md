@@ -6,15 +6,15 @@ layout: welcome
   <h3>Choose your machine size:</h3>
   <div class="row row--machinesize">
     <a class="col-md-4" href="/500mm/">
-      <img src= "xc-500.png">
+      <img src= "/assets/xc-500.png">
       <span>500mm</span>
     </a>
     <a class="col-md-4" href="/750mm/">
-      <img src= "xc-750.png">
+      <img src= "/assets/xc-750.png">
       <span>750mm</span>
     </a>
     <a class="col-md-4" href="/1000mm/">
-      <img src= "xc-1000.png">
+      <img src= "/assets/xc-1000.png">
       <span>1000mm</span>
     </a>
   </div>
