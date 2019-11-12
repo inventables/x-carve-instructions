@@ -1,5 +1,6 @@
 ---
-layout: default750mm
+layout: default
+machine_size: 750mm
 title: "Z-Axis Rail"
 parent: "Gantry - Z-Axis"
 step_number: 2

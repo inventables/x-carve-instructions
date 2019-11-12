@@ -1,5 +1,6 @@
 ---
-layout: default500mm
+layout: default
+machine_size: 500mm
 title: "Spindle"
 step_number: 1
 permalink: /500mm/step5/

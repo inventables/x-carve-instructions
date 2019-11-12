@@ -1,5 +1,6 @@
 ---
-layout: default500mm
+layout: default
+machine_size: 500mm
 title: "Flanged Bearing"
 parent: "Gantry - Z-Axis"
 step_number: 2

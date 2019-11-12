@@ -1,5 +1,6 @@
 ---
-layout: default500mm
+layout: default
+machine_size: 500mm
 title: "Lead Screw"
 parent: "Gantry - Z-Axis"
 step_number: 2
