@@ -1,0 +1,39 @@
+<nav class="navbar navbar-expand-md navbar-light">
+  <a class="navbar-brand instructions-menu-label" href="#">Instructions</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler"
+    aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarToggler">
+    <ul class="sidebar">
+      {% assign welcome_check = page.machine_size | prepend: "/" | append: "/" %}
+      <li class="nav-item"><a href="/{{ page.machine_size }}" {% if page.url == welcome_check %}class="active"
+          {% endif %}>Welcome!</a>
+      </li>
+      {% for item in site.data.navigation.stepnav %}
+      <li class="nav-item {% if page.parent == item.title %}active{% endif %}">
+        <!-- Steps with substeps -->
+        {% if item.subnav %}
+        <a href="#{{item.step}}" id="step-drop-btn" data-toggle="collapse">
+          {{ item.title }} &nbsp;<i class="fa fa-caret-down"></i>
+        </a>
+        <!-- Substep menu -->
+        <ol class="collapse {% if page.parent == item.title %}show{% endif %}" id="{{item.step}}">
+          {% for subitem in item.subnav %}
+          {% assign url = subitem.url | prepend: item.url | prepend: page.machine_size %}
+          <a href="/{{url}}" {% if page.url == url %}class="active" {% endif %}>
+            <li class="subnav-item">{{ subitem.title }}</li>
+          </a>
+          {% endfor %}
+        </ol>
+        {% else %}
+        <!-- Single steps -->
+        {% assign url = item.url | prepend: page.machine_size | prepend: "/"  %}
+        <a {% if page.url == url %}class="active" {% endif %}
+          href="/{{ page.machine_size }}{{ item.url }}">{{ item.title }}</a>
+        {% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</nav>
