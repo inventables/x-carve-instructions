@@ -1,6 +1,5 @@
 ---
 layout: default
-machine_size: 1000mm
 title: "Stepper Motor"
 parent: "Gantry - X-Carriage"
 step_number: 2

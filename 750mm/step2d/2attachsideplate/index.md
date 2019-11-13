@@ -1,6 +1,5 @@
 ---
 layout: default
-machine_size: 750mm
 title: "Attach Left Side Plate"
 parent: "Assemble Gantry"
 step_number: 2

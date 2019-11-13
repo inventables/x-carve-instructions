@@ -1,6 +1,5 @@
 ---
 layout: default
-machine_size: 1000mm
 title: "Attach X-Carriage Assembly"
 parent: "Assemble Gantry"
 step_number: 2

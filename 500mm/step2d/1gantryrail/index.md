@@ -1,6 +1,5 @@
 ---
 layout: default
-machine_size: 500mm
 title: "Gantry"
 parent: "Assemble Gantry"
 step_number: 2

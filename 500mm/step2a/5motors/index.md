@@ -1,6 +1,5 @@
 ---
 layout: default
-machine_size: 500mm
 title: "Stepper Motors"
 parent: "Gantry - Side Plates"
 step_number: 2

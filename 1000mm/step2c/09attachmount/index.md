@@ -1,6 +1,5 @@
 ---
 layout: default
-machine_size: 1000mm
 title: "Attach Spindle Carriage"
 parent: "Gantry - Z-Axis"
 step_number: 2
