@@ -1,6 +1,5 @@
 ---
 layout: default
-machine_size: 500mm
 title: "Attach Right Side Plate"
 parent: "Assemble Gantry"
 step_number: 2

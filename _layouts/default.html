@@ -6,14 +6,19 @@
   {% include header.html %}
   <div class="instructions-wrapper container-fluid">
     <div class="row">
-      <div id="off-canvas-sidebar" class="col-md-2">
-        {% include stepsidebar{{ page.machine_size}}.html %}
+      <div id="off-canvas-sidebar" class="col-md-3">
+        {% include stepsidebar.html %}
       </div>
-      <div class="page-content js-instruction-step col-sm-12 col-md-6 pl-md-3">
+      {% if page.diagram or page.diagram2 %}
+      <div class="page-content js-instruction-step col-sm-12 col-md-5 pl-md-3">
+      {% else %}
+      <div class="page-content js-instruction-step col-sm-12 col-md-9 pl-md-3">
+      {% endif %}
         <header class="post-header">
           <div class="instruction-breadcrumbs">
+            {% assign machine_size = page.dir | remove_first: "/" | split: "/" | first %}
             <a href="{{ site.url }}">X-Carve Instructions</a> &#47;
-            <a href="{{ site.baseurl }}/{{ page.machine_size }}/">{{ page.machine_size }}</a>
+            <a href="{{ site.baseurl }}/{{ machine_size }}/">{{ machine_size }}</a>
             {% if page.parent%}
             &#47; {{ page.parent }}
             {% endif %}
@@ -52,6 +57,7 @@
         </div>
 
       </div>
+      {% if page.diagram or page.diagram2%}
       <div class="col-md-4">
         <div class="page-diagram col-md-4">
           {% if page.diagram %}
@@ -62,6 +68,7 @@
           {% endif %}
         </div>
       </div>
+      {% endif %}
     </div>
   </div>
   {% include scripts.html %}

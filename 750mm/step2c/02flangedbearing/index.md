@@ -1,6 +1,5 @@
 ---
 layout: default
-machine_size: 750mm
 title: "Flanged Bearing"
 parent: "Gantry - Z-Axis"
 step_number: 2

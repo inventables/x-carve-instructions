@@ -1,6 +1,5 @@
 ---
 layout: default
-machine_size: 750mm
 title:  "Calibrate"
 step_number: 1
 permalink: /750mm/step9/

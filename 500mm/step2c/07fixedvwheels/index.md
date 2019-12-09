@@ -1,6 +1,5 @@
 ---
 layout: default
-machine_size: 500mm
 title: "Fixed V-Wheels"
 parent: "Gantry - Z-Axis"
 step_number: 2

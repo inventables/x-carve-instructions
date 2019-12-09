@@ -1,6 +1,5 @@
 ---
 layout: default
-machine_size: 750mm
 title: "Smooth Idler Wheels"
 parent: "Gantry - Side Plates"
 step_number: 2

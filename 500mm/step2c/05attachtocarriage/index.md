@@ -1,6 +1,5 @@
 ---
 layout: default
-machine_size: 500mm
 title: "Attach to X-Carriage"
 parent: "Gantry - Z-Axis"
 step_number: 2

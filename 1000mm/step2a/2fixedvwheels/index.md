@@ -1,6 +1,5 @@
 ---
 layout: default
-machine_size: 1000mm
 title: "Fixed V-Wheels"
 parent: "Gantry - Side Plates"
 step_number: 2

@@ -1,6 +1,5 @@
 ---
 layout: default
-machine_size: 500mm
 title: "Adjustable V-Wheels"
 parent: "Gantry - X-Carriage"
 step_number: 2

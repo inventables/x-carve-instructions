@@ -1,6 +1,5 @@
 ---
 layout: default
-machine_size: 1000mm
 title: "Wiring"
 step_number: 6
 permalink: /1000mm/step6/

@@ -1,6 +1,5 @@
 ---
 layout: default
-machine_size: 500mm
 title: "Homing Switch"
 parent: "Gantry - X-Carriage"
 step_number: 2

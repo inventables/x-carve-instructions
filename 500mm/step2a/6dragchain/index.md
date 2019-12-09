@@ -1,6 +1,5 @@
 ---
 layout: default
-machine_size: 500mm
 title: "Drag Chain Bracket"
 parent: "Gantry - Side Plates"
 step_number: 2
