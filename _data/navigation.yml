@@ -98,5 +98,8 @@ stepnav:
     title: Calibrate
     url: /step9/
   - step: step10
-    title: Computer Setup
+    title: Dust Control System (optional)
     url: /step10/
+  - step: step11
+    title: Computer Setup
+    url: /step11/

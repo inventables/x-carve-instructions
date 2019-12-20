@@ -6,11 +6,11 @@
   {% include header.html %}
   <div class="instructions-wrapper container-fluid">
     <div class="row">
-      <div id="off-canvas-sidebar" class="col-md-3">
+      <div id="off-canvas-sidebar" class="col-md-2">
         {% include stepsidebar.html %}
       </div>
       {% if page.diagram or page.diagram2 %}
-      <div class="page-content js-instruction-step col-sm-12 col-md-5 pl-md-3">
+      <div class="page-content js-instruction-step col-sm-12 col-md-6 pl-md-3">
       {% else %}
       <div class="page-content js-instruction-step col-sm-12 col-md-9 pl-md-3">
       {% endif %}
