@@ -182,11 +182,12 @@ next_step_title: "X-Controller"
 <img src="./photo/P4220540jpg03.jpg">
 <p>Assemble frame using the 20mm x 20mm aluminum extrusion, gusset brackets, pre-assembly insertion nuts and M5x10mm button head cap screws.</p>
 <img src="./photo/P4220545jpg08.jpg">
+<p>Install the side board to the frame using the M5x12mm button head cap screwsand pre-assembly insertion nuts.</p>
 <img src="./photo/P4220548jpg11.jpg">
-<p>Install the side board to the frame using the M5x12mm button head cap screws and pre-assembly insertion nuts.</p>
-<img src="./photo/jpfs_DSC2935.jpg">
-<p>Insert pre-assembly t-slot nuts into the ends of the frame.  These will be used to attach the side board to the rest of the machine using the side board plates.</p>
 <img src="./photo/P4220549jpg12.jpg">
+<p>Insert pre-assembly t-slot nuts into the ends of the frame.  These will be used to attach the side board to the rest of the machine using the side board plates. Do the same for the extrusions on the left side of the rest of the machine.</p>
+<img src="./photo/jpfs_DSC2935.jpg">
+<p>Install the side board plates onto the machine with M5x8mm button head cap screws.
 <img src="./photo/P4220559jpg22.jpg">
 <p>Lift the machine onto the side board and tighten down remaining button head cap screws.</p>
 <img src="./photo/P4220560jpg23.jpg">
