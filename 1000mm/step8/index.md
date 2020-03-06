@@ -704,6 +704,22 @@ Each step also begins with a bill of materials (BOM) that details the necessary 
 	<p>The remaining terminal block plug is used for more advanced spindle options, such as a relay or VFD controlled spindle, and will not be used in a stock X-Carve configuration.</p>
 </div>
 
+<div class="step card">
+	<h2 id=”sideboard”>
+	<strong>Attach To Sideboard</strong></h2>
+<p>Attach the X-Controller to the side board using four M5 x 14 Button Head Cap Screws (SKU 25286-47). These should be leftovers from the Side Board Kit. </p>
+	<div class="col-xs-6 col-md-3">
+		<a href=”#” class=”thumbnail”><img src=”attachboard1.jpg”></a>
+	</div>
+	<div class="col-xs-6 col-md-3">
+		<a href=”#” class=”thumbnail”><img src=”attachboard2.jpg”></a>
+	</div>
+	<div class="col-xs-6 col-md-3">
+		<a href=”#” class=”thumbnail”><img src=”attachboard3.jpg”></a>
+	</div>
+</div>
+
+
 <div class="step-card">
 	<h2 id="troubleshooting">
 	<strong>Troubleshooting</strong></h2>
