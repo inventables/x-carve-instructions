@@ -197,3 +197,4 @@ next_step_title: "X-Controller"
 <p>Insert the two post-assembly t-slot nuts and slide into place, lining them up with the holes in the bracket, and secure the drag chain end in place.</p>
 <img src="./photo/P4220567jpg30.jpg">
 <img src="./photo/P4220569jpg32.jpg">
+<div class="note"><strong>NOTE:</strong>The M5 x 14 button head cap screws will be used to attach the X-Controller to the sideboard. Extra screws can be used to mount components not included with the X-Carve. </div>
