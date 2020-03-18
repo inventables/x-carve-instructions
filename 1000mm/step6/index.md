@@ -267,7 +267,7 @@ diagram: "wiringDiagram750placeholder.jpg"
   </tr>
 </table>
 
-
+<p>This sector covers mounting the drag chain and wiring. </p>
 <img src="./photo/jpfs_DSC2806.jpg">
 <p>Prepare the drag chain lengths by popping open the hinges using a flat head screw driver.</p>
 <img src="./photo/jpfs_DSC2812.jpg">
@@ -279,7 +279,7 @@ diagram: "wiringDiagram750placeholder.jpg"
 
 <!-- begin z-probe -->
 <h3>Attach Z-Probe (Optional)</h3>
-<p>If you ordered your machine with a Z-Probe, you can now fasten the Z-Probe barrel connector port and its wire to the x-carriage. However, if you have the dust control system, don't attach the barrel connector just yet. You will use an extension bracket that is included with the dust control system. You can follow the Z-Probe Relocation Kit installation instructions <a href="http://x-carve-instructions.inventables.com/1000mm/step10/">here</a> or skip this step and attach Z-probe in a later step.</p>
+<p>If you ordered your machine with a Z-Probe, you can now fasten the Z-Probe barrel connector port and its wire to the x-carriage. However, if you have the dust control system, don't attach the barrel connector just yet. You will use an extension bracket that is included with the dust control system. You can follow the Z-Probe Relocation Kit installation instructions <a href="http://x-carve-instructions.inventables.com/1000mm/step10/">here</a> or skip this step and attach the Z-probe in a later step.</p>
 <p>First, open your z-probe kit. Set aside the puck and alligator clip wiring harness for the moment; you'll use these to calibrate your machine after it's set up.</p>
 <p>Locate the long wire with the barrel connector port as well as the slim hex nut and lock washer that accompany it.</p>
 <img src="../../photo/jpfsPA140487.jpg">
@@ -302,9 +302,9 @@ diagram: "wiringDiagram750placeholder.jpg"
 <img src="./photo/jpfs_DSC2916.jpg">
 <p>Place the zip tie mounts in the aluminum extrusion slot and rotate them to secure in place. You can also use the 10mm wrench to easily rotate them.</p>
 <img src="./photo/jpfs_DSC2918.jpg">
-<img src="./photo/ZipTieBracketLocations.jpg">
+<img src="./photo/editP4220504jpg09.jpg">
 <p>Use three zip tie mounts on the top of the aluminum extrusion.</p>
-<img src="./photo/YZipTieMounts.jpg">
+<img src="./photo/editP4220505jpg10.jpg">
 <p>Use two zip tie mounts on the side of the aluminum extrusion for the lone Y2 stepper motor.</p>
 <img src="./photo/P4220509jpg14.jpg">
 <img src="./photo/P4220510jpg15.jpg">
@@ -324,4 +324,4 @@ diagram: "wiringDiagram750placeholder.jpg"
 <img src="./photo/P4220530jpg35.jpg">
 <p>Gather up all wires into the drag chain and snap the hinges in place.</p>
 <img src="./photo/P4220536jpg41.jpg">
-<p>Attach the upper drag chain bracket to the left gantry side plate using two <strong>M5 x 12mm Flat Head Cap Screws</strong> and two <strong>M5 Nylon Insert Lock Nuts.</strong>  Do not attach the lower drag chain bracket just yet, as that's handled in the next step.</p>
+<p>Attach the upper drag chain bracket to the left gantry side plate using two M5 x 12mm Flat Head Cap Screws and two M5 Nylon Insert Lock Nuts. Do not attach the lower drag chain bracket just yet as that is handled in the next step.</p>
