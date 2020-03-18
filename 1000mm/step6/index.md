@@ -279,7 +279,7 @@ diagram: "wiringDiagram750placeholder.jpg"
 
 <!-- begin z-probe -->
 <h3>Attach Z-Probe (Optional)</h3>
-<p>If you ordered your machine with a Z-Probe, you can now fasten the Z-Probe barrel connector port and its wire to the x-carriage. However, if you have the dust control system, don't attach the barrel connector just yet. You will use an extension bracket that is included with the dust control system. You can follow the Z-Probe Relocation Kit installation instructions <a href="http://x-carve-instructions.inventables.com/1000mm/step10/"here</a> or skip this step and attach Z-probe in a later step.</p>
+<p>If you ordered your machine with a Z-Probe, you can now fasten the Z-Probe barrel connector port and its wire to the x-carriage. However, if you have the dust control system, don't attach the barrel connector just yet. You will use an extension bracket that is included with the dust control system. You can follow the Z-Probe Relocation Kit installation instructions <a href="http://x-carve-instructions.inventables.com/1000mm/step10/">here</a> or skip this step and attach Z-probe in a later step.</p>
 <p>First, open your z-probe kit. Set aside the puck and alligator clip wiring harness for the moment; you'll use these to calibrate your machine after it's set up.</p>
 <p>Locate the long wire with the barrel connector port as well as the slim hex nut and lock washer that accompany it.</p>
 <img src="../../photo/jpfsPA140487.jpg">
