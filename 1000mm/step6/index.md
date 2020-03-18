@@ -290,7 +290,7 @@ diagram: "wiringDiagram750placeholder.jpg"
 <!-- end z-probe -->
 
 <img src="./photo/jpfs_DSC2873.jpg">
-<p>Place the spindle power cord, z-axis stepper motor wire, x-axis stepper motor wire, z-axis limit switch wire, x-axis limit switch wire, and z-probe wire into the drag chain. Take note of the wiring orientation. Each wire will have a connector and a exposed wire end. The connectors should be placed at the top of the drag chain and the exposed wire at the bottom of the drag chain. Close up the drag chain hinges.</p>
+<p>Place the spindle power cord, z-axis stepper motor wire, x-axis stepper motor wire, z-axis limit switch wire, x-axis limit switch wire, and z-probe wire into the drag chain. Take note of the wiring orientation. Each wire will have a connector and an exposed wire end. The connectors should be placed together at the top of the drag chain and the exposed wire at the bottom of the drag chain. Close up the drag chain hinges.</p>
 <img src="./photo/jpfs_DSC2883.jpg">
 <p>Wire up z-axis and x-axis stepper motors and limit switches.  Make sure you attach the red wire to the middle pin and the black wire to the hinged side of the switch.  The stepper motors can only be wired in one way, so if it doesn't fit, flip it over and try again.</p>
 <img src="./photo/P4220500jpg05.jpg">
