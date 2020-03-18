@@ -267,12 +267,12 @@ diagram: "wiringDiagram750placeholder.jpg"
   </tr>
 </table>
 
-<p>This sector covers mounting the drag chain and wiring. </p>
+<p>This section covers mounting the drag chain and wiring. </p>
 <img src="./photo/jpfs_DSC2806.jpg">
 <p>Prepare the drag chain lengths by popping open the hinges using a flat head screw driver.</p>
 <img src="./photo/jpfs_DSC2812.jpg">
 <img src="./photo/jpfs_DSC2834.jpg">
-<p>Using a flat head screw driver, carefully remove the drag chain end from the rest of the drag chain. Locate two M5 10mm flat head cap screws and two post-assembly insertion nuts. Add the post-assembly insertion nuts into the center of the extrusion located behind the wide MakerSlide.</p>
+<p>Using a flat head screw driver, carefully remove the drag chain end from the length of the drag chain. Locate two M5 10mm flat head cap screws and two post-assembly insertion nuts. Add the post-assembly insertion nuts into the center of the extrusion located behind the wide MakerSlide.</p>
 <img src="./photo/P4220499jpg04.jpg">
 <img src="./photo/jpfs_DSC2837.jpg">
 <p>Mount the drag chain end to the extrusion by installing the flat head cap screws into the post-assembly insertion nuts. Adjust the drag chain end position as needed to allow extension of drag chain.  </p>
@@ -290,7 +290,7 @@ diagram: "wiringDiagram750placeholder.jpg"
 <!-- end z-probe -->
 
 <img src="./photo/jpfs_DSC2873.jpg">
-<p>Place the spindle power cord, z-axis stepper motor wire, x-axis stepper motor wire, z-axis limit switch wire, x-axis limit switch wire, and z-probe wire into the drag chain. Close up the drag chain hinges.</p>
+<p>Place the spindle power cord, z-axis stepper motor wire, x-axis stepper motor wire, z-axis limit switch wire, x-axis limit switch wire, and z-probe wire into the drag chain. Take note of the wiring orientation. Each wire will have a connector and a exposed wire end. The connectors should be placed at the top of the drag chain and the exposed wire at the bottom of the drag chain. Close up the drag chain hinges.</p>
 <img src="./photo/jpfs_DSC2883.jpg">
 <p>Wire up z-axis and x-axis stepper motors and limit switches.  Make sure you attach the red wire to the middle pin and the black wire to the hinged side of the switch.  The stepper motors can only be wired in one way, so if it doesn't fit, flip it over and try again.</p>
 <img src="./photo/P4220500jpg05.jpg">
@@ -308,7 +308,7 @@ diagram: "wiringDiagram750placeholder.jpg"
 <p>Use two zip tie mounts on the side of the aluminum extrusion for the lone Y2 stepper motor.</p>
 <img src="./photo/P4220509jpg14.jpg">
 <img src="./photo/P4220510jpg15.jpg">
-<p> Guide the Y1 stepper motor cable across the aluminum extrusion and secure with zip ties.</p>
+<p> Guide the Y2 stepper motor cable across the aluminum extrusion and secure with zip ties.</p>
 <img src="./photo/P4220511jpg16.jpg">
 <img src="./photo/P4220514jpg19.jpg">
 <p>Gather up all the wires from the end of the top drag chain and the Y2 stepper motor. Zip tie them to the zip tie mounts.</p>
@@ -316,7 +316,7 @@ diagram: "wiringDiagram750placeholder.jpg"
 <img src="./photo/P4220521jpg26.jpg">
 <p>Clip the ends off of the zip ties to clean everything up.</p>
 <img src="./photo/jpfs_DSC2822.jpg">
-<p>Attach the drag chain bracket to the aluminum extrusion frame under the wasteboard using the M5x6mm button head cap screw and post-assembly insertion nut.</p>
+<p>Attach the drag chain bracket to the aluminum extrusion frame <strong>under the wasteboard</strong> using the M5x6mm button head cap screw and post-assembly insertion nut.</p>
 <img src="./photo/jpfs_DSC2927.jpg">
 <img src="./photo/P4220523jpg28.jpg">
 <p>Wire up the Y1 motor and y-axis limit switch.</p>
