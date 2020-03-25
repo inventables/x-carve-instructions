@@ -739,6 +739,25 @@ Each step also begins with a bill of materials (BOM) that details the necessary 
 	Check that the ribbon connectors are fully pushed into the mating connectors.</p>
 </div>
 
+<div class="step card">
+	<h2 id=”sideboard”>
+	<strong>Attach To Sideboard</strong></h2>
+<p>Attach the X-Controller to the Sideboard using four M5 x 14 Button Head Cap Screws (SKU 25286-47). These should be leftovers from the Side Board Kit. </p>
+	<div class="row image-row">
+		<div class="col-xs-6 col-md-3">
+			<a href=”#” class=”thumbnail”><img src=”attachboard1.JPG”></a>
+		</div>
+		<div class="col-xs-6 col-md-3">
+			<a href=”#” class=”thumbnail”><img src=”attachboard2.JPG”></a>
+		</div>
+		<div class="col-xs-6 col-md-3">
+			<a href=”#” class=”thumbnail”><img src=”attachboard3.JPG”></a>
+		</div>
+	</div>
+
+</div>
+
+
 <div class="step-card">
 	<div class="note">
 		<i class="fa fa-hand-o-right"></i>
