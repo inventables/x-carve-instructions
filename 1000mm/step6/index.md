@@ -300,7 +300,7 @@ diagram: "wiringDiagram750placeholder.jpg"
 <img src="./photo/jpfs_DSC2902.jpg">
 <p>Try using a screw driver to pry open the length of drag chain. The drag chain end might feel like it's going to break, but it's very hard plastic and should hold up just fine.  This might be the most difficult part of the entire build.</p>
 <img src="./photo/jpfs_DSC2916.jpg">
-<p>Place the zip tie mounts in the aluminum extrusion slot and rotate them to secure in place. You can also use the 10mm wrench to easily rotate them.</p>
+<p>Place the zip tie mounts in the aluminum extrusion slot and rotate them to secure in place. You can also use the open end of the 10mm wrench from your toolkit to easily rotate them.</p>
 <img src="./photo/jpfs_DSC2918.jpg">
 <img src="./photo/editP4220504jpg09.jpg">
 <p>Use three zip tie mounts on the top of the aluminum extrusion.</p>
@@ -324,4 +324,4 @@ diagram: "wiringDiagram750placeholder.jpg"
 <img src="./photo/P4220530jpg35.jpg">
 <p>Gather up all wires into the drag chain and snap the hinges in place.</p>
 <img src="./photo/P4220536jpg41.jpg">
-<p>Attach the upper drag chain bracket to the left gantry side plate using two M5 x 12mm Flat Head Cap Screws and two M5 Nylon Insert Lock Nuts. Do not attach the lower drag chain bracket just yet as that is handled in the next step.</p>
+<p>Attach the upper drag chain bracket to the left gantry side plate using two <strong>M5 x 12mm Flat Head Cap Screws</strong> and two <strong>M5 Nylon Insert Lock Nuts.</strong> Do not attach the lower drag chain bracket just yet as that is handled in the next step.</p>
