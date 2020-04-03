@@ -267,19 +267,19 @@ diagram: "wiringDiagram750placeholder.jpg"
   </tr>
 </table>
 
-
+<p>This section covers mounting the drag chain and wiring. </p>
 <img src="./photo/jpfs_DSC2806.jpg">
 <p>Prepare the drag chain lengths by popping open the hinges using a flat head screw driver.</p>
 <img src="./photo/jpfs_DSC2812.jpg">
 <img src="./photo/jpfs_DSC2834.jpg">
-<p>Locate the end of the drag chain, two M5 10mm flat head cap screws, and two post-assembly insertion nuts. Add the post-assembly insertion nuts into the extrusion located behind the wide MakerSlide.</p>
+<p>Using a flat head screw driver, carefully remove the drag chain end from the length of the drag chain. Locate two M5 10mm flat head cap screws and two post-assembly insertion nuts. Add the post-assembly insertion nuts into the center of the extrusion located behind the wide MakerSlide.</p>
 <img src="./photo/P4220499jpg04.jpg">
 <img src="./photo/jpfs_DSC2837.jpg">
-<p>Mount the drag chain end to the extrusion by installing the flat head cap screws into the post-assembly insertion nuts.</p>
+<p>Mount the drag chain end to the extrusion by installing the flat head cap screws into the post-assembly insertion nuts. Adjust the drag chain end position as needed to allow extension of drag chain.  </p>
 
 <!-- begin z-probe -->
 <h3>Attach Z-Probe (Optional)</h3>
-<p>If you ordered your machine with a Z-Probe, you can now fasten the Z-Probe barrel connector port and its wire to the x-carriage. However, if you have the dust collector kit, don't attach the barrel connector just yet.  You will use an extension bracket that is included with the dust collection kit to attach it in a later step.</p>
+<p>If you ordered your machine with a Z-Probe, you can now fasten the Z-Probe barrel connector port and its wire to the x-carriage. However, if you have the dust control system, don't attach the barrel connector just yet. You will use an extension bracket that is included with the dust control system. You can follow the Z-Probe Relocation Kit installation instructions <a href="http://x-carve-instructions.inventables.com/1000mm/step10/" target="_blank">here</a> or skip this step and attach the Z-probe in a later step.</p>
 <p>First, open your z-probe kit. Set aside the puck and alligator clip wiring harness for the moment; you'll use these to calibrate your machine after it's set up.</p>
 <p>Locate the long wire with the barrel connector port as well as the slim hex nut and lock washer that accompany it.</p>
 <img src="../../photo/jpfsPA140487.jpg">
@@ -290,24 +290,25 @@ diagram: "wiringDiagram750placeholder.jpg"
 <!-- end z-probe -->
 
 <img src="./photo/jpfs_DSC2873.jpg">
-<p>Place the spindle power cord, z-axis stepper motor wire, x-axis stepper motor wire, z-axis limit switch wire, x-axis limit switch wire, and z-probe wire into the drag chain. Close up the drag chain hinges.</p>
+<p>Place the spindle power cord, z-axis stepper motor wire, x-axis stepper motor wire, z-axis limit switch wire, x-axis limit switch wire, and z-probe wire into the drag chain. Take note of the wiring orientation. Each wire will have a connector and an exposed wire end. The connectors should be placed together at the top of the drag chain and the exposed wire at the bottom of the drag chain. Close up the drag chain hinges.</p>
 <img src="./photo/jpfs_DSC2883.jpg">
 <p>Wire up z-axis and x-axis stepper motors and limit switches.  Make sure you attach the red wire to the middle pin and the black wire to the hinged side of the switch.  The stepper motors can only be wired in one way, so if it doesn't fit, flip it over and try again.</p>
 <img src="./photo/P4220500jpg05.jpg">
-<p>Attach the drag chain end to the drag chain bracket on the x-carriage.</p>
+<p>Attach the drag chain end to the drag chain bracket on the x-carriage using two M5 x 12mm flat head cap screws and two M5 nylon insert lock nuts.</p>
 <img src="./photo/P4220503jpg08.jpg">
 <p>Attach the length of drag chain to the drag chain bracket installed on the aluminum extrusion.</p>
 <img src="./photo/jpfs_DSC2902.jpg">
-<p>Try using a screw driver to pry open the length of drag chain.  The drag chain end might feel like it's going to break, but it's very hard plastic and should hold up just fine.  This might be the most difficult part of the entire build.</p>
+<p>Try using a screw driver to pry open the length of drag chain. The drag chain end might feel like it's going to break, but it's very hard plastic and should hold up just fine.  This might be the most difficult part of the entire build.</p>
 <img src="./photo/jpfs_DSC2916.jpg">
-<p>Place the zip tie mounts in the aluminum extrusion slot and rotate them to secure in place.</p>
+<p>Place the zip tie mounts in the aluminum extrusion slot and rotate them to secure in place. You can also use the open end of the 10mm wrench from your toolkit to easily rotate them.</p>
 <img src="./photo/jpfs_DSC2918.jpg">
-<img src="./photo/P4220504jpg09.jpg">
+<img src="./photo/editP4220504jpg09.jpg">
 <p>Use three zip tie mounts on the top of the aluminum extrusion.</p>
-<img src="./photo/P4220505jpg10.jpg">
+<img src="./photo/editP4220505jpg10.jpg">
 <p>Use two zip tie mounts on the side of the aluminum extrusion for the lone Y2 stepper motor.</p>
 <img src="./photo/P4220509jpg14.jpg">
 <img src="./photo/P4220510jpg15.jpg">
+<p> Guide the Y2 stepper motor cable across the aluminum extrusion and secure with zip ties.</p>
 <img src="./photo/P4220511jpg16.jpg">
 <img src="./photo/P4220514jpg19.jpg">
 <p>Gather up all the wires from the end of the top drag chain and the Y2 stepper motor. Zip tie them to the zip tie mounts.</p>
@@ -315,7 +316,7 @@ diagram: "wiringDiagram750placeholder.jpg"
 <img src="./photo/P4220521jpg26.jpg">
 <p>Clip the ends off of the zip ties to clean everything up.</p>
 <img src="./photo/jpfs_DSC2822.jpg">
-<p>Attach the drag chain bracket to the aluminum extrusion frame using the M5x6mm button head cap screw and post-assembly insertion nut.</p>
+<p>Attach the drag chain bracket to the aluminum extrusion frame <strong>under the wasteboard</strong> using the M5x6mm button head cap screw and post-assembly insertion nut.</p>
 <img src="./photo/jpfs_DSC2927.jpg">
 <img src="./photo/P4220523jpg28.jpg">
 <p>Wire up the Y1 motor and y-axis limit switch.</p>
@@ -323,4 +324,4 @@ diagram: "wiringDiagram750placeholder.jpg"
 <img src="./photo/P4220530jpg35.jpg">
 <p>Gather up all wires into the drag chain and snap the hinges in place.</p>
 <img src="./photo/P4220536jpg41.jpg">
-<p>Attach the upper drag chain bracket to the left gantry side plate using two <strong>M5 x 12mm Flat Head Cap Screws</strong> and two <strong>M5 Nylon Insert Lock Nuts.</strong>  Do not attach the lower drag chain bracket just yet, as that's handled in the next step.</p>
+<p>Attach the upper drag chain bracket to the left gantry side plate using two <strong>M5 x 12mm Flat Head Cap Screws</strong> and two <strong>M5 Nylon Insert Lock Nuts.</strong> Do not attach the lower drag chain bracket just yet as that is handled in the next step.</p>
