@@ -102,16 +102,17 @@ In this step, you'll be assembling the main y axis rails and attaching them to t
 
 
 <img src="./photo/jpfs_DSC2774.jpg">
-Begin by attaching a makerslide end plate to each 1000mm makerslide rail.  The groove on the side of the maker slide should be on the bottom. You will need to attach a stop to it in a later step that has to meet up with the homing switch.  Also, make sure that the side of the makerslide with the v-rails is on the same side as the flat side of the end plate. Use 2x M5x12mm button head cap screws on each plate.
+<br>Begin by attaching a makerslide end plate to each 1000mm makerslide rail.  The groove on the side of the maker slide should be on the bottom. You will need to attach a stop to it in a later step that has to meet up with the homing switch.  Also, make sure that the side of the makerslide with the v-rails is on the same side as the flat side of the end plate. Use 2x M5x12mm button head cap screws on each plate.
 <img src="./photo/jpfs_DSC2777.jpg">
-Insert 2x M5 pre-assembly insertion nuts into the top slot of each makerslide rail. These will be used to hold the belts.
+<br>Insert 2x M5 pre-assembly insertion nuts into the top slot of each makerslide rail. These will be used to hold the belts.
 <img src="./photo/jpfsP8260344.jpg">
-Slide each rail onto the gantry and attach another makerslide end plate onto each makerslide rail with M5x12 button head cap screws. Position the gantry and rails over the work area as pictured.
+<br>Slide each rail onto the gantry and attach another makerslide end plate onto each makerslide rail with M5x12 button head cap screws. Position the gantry and rails over the work area as pictured.
+
 <img src="./photo/jpfs_DSC2780.jpg">
-Slide 2x M5 pre-assembly insertion nuts into the side of the aluminum extrusion on the work area to match up with the holes on each end plate (total of 8x nuts.) Use 8x M5x8mm button head cap screws to secure each end plate to the work area.
+<br>Slide 2x M5 pre-assembly insertion nuts into the side of the aluminum extrusion on the work area to match up with the holes on each end plate (total of 8x nuts.) Use 8x M5x8mm button head cap screws to secure each end plate to the work area.
 <img src="./photo/jpfs_DSC2785.jpg">
 <img src="./photo/jpfs_DSC2786.jpg">
-Adjust the v-wheels on each gantry side plate so the v-wheels run snugly on the rails, but not so tight that they bind.
+<br> Adjust the v-wheels on each gantry side plate so the v-wheels run snugly on the rails, but not so tight that they bind.
 <img src="./photo/jpfs_DSC2787.jpg">
 
 <h3>Install Home Switch Actuators</h3>
