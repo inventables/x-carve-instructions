@@ -28,6 +28,7 @@
   }
 
   .navbar {
+    padding: 0;
     @supports not (position: sticky) {
       position: fixed;
     }
@@ -41,7 +42,7 @@
   }
 
   .nav-item {
-    margin: 10px 0;
+    margin: 10px;
     &.active, .active {
       color: #222;
       font-weight: 600;

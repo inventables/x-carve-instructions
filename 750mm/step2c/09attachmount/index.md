@@ -1,5 +1,5 @@
 ---
-layout: default750mm
+layout: default
 title: "Attach Spindle Carriage"
 parent: "Gantry - Z-Axis"
 step_number: 2

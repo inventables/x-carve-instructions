@@ -1,5 +1,5 @@
 ---
-layout: default750mm
+layout: default
 title: "Homing Switch"
 parent: "Gantry - X-Carriage"
 step_number: 2

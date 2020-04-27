@@ -1,5 +1,5 @@
 ---
-layout: default500mm
+layout: default
 title: "Adjustable V-Wheels"
 parent: "Gantry - X-Carriage"
 step_number: 2

@@ -1,5 +1,5 @@
 ---
-layout: default750mm
+layout: default
 title: "Flanged Bearing"
 parent: "Gantry - Z-Axis"
 step_number: 2

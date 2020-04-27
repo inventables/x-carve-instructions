@@ -1,5 +1,5 @@
 ---
-layout: default750mm
+layout: default
 title: "Adjustable V-Wheels"
 parent: "Gantry - Z-Axis"
 step_number: 2

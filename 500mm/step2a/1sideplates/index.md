@@ -1,5 +1,5 @@
 ---
-layout: default500mm
+layout: default
 title: "Side Plates"
 parent: "Gantry - Side Plates"
 step_number: 2

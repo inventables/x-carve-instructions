@@ -1,5 +1,5 @@
 ---
-layout: default1000mm
+layout: default
 title: "Belting"
 step_number: 1
 permalink: /1000mm/step4/

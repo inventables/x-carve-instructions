@@ -1,5 +1,5 @@
 ---
-layout: default500mm
+layout: default
 title: "Drag Chain Bracket"
 parent: "Gantry - X-Carriage"
 step_number: 2

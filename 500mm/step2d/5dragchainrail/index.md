@@ -1,5 +1,5 @@
 ---
-layout: default500mm
+layout: default
 title: "Attach Drag Chain Rail"
 parent: "Assemble Gantry"
 step_number: 2

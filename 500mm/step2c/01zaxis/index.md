@@ -1,5 +1,5 @@
 ---
-layout: default500mm
+layout: default
 title: "Z-Axis"
 parent: "Gantry - Z-Axis"
 step_number: 2

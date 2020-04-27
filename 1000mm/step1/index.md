@@ -1,5 +1,5 @@
 ---
-layout: default1000mm
+layout: default
 title: "Work Area"
 step_number: 1
 permalink: /1000mm/step1/

@@ -1,10 +1,10 @@
 ---
-layout: default1000mm
+layout: default
 title:  "Calibrate"
 step_number: 1
 permalink: /1000mm/step9/
 next_step: /1000mm/step10/
-next_step_title: "Computer Setup"
+next_step_title: "Dust Control System (optional)"
 ---
 
 *Note:* Many of the mechanical problems you'll face in the future can be fixed using the following information.

@@ -1,5 +1,5 @@
 ---
-layout: default1000mm
+layout: default
 title: "Drag Chain Bracket"
 parent: "Gantry - Side Plates"
 step_number: 2

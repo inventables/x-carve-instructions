@@ -1,5 +1,5 @@
 ---
-layout: default750mm
+layout: default
 title: "Smooth Idler Wheels"
 parent: "Gantry - Side Plates"
 step_number: 2

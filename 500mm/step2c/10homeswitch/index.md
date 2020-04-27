@@ -1,5 +1,5 @@
 ---
-layout: default500mm
+layout: default
 title: "Homing Switch"
 parent: "Gantry - Z-Axis"
 step_number: 2

@@ -1,5 +1,5 @@
 ---
-layout: default500mm
+layout: default
 title: "Smooth Idler Wheels"
 parent: "Gantry - X-Carriage"
 step_number: 2

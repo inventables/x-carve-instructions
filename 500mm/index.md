@@ -1,5 +1,5 @@
 ---
-layout: default500mm
+layout: default
 title: 'Welcome!'
 step_number: 1
 permalink: /500mm/

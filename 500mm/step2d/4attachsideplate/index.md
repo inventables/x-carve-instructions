@@ -1,5 +1,5 @@
 ---
-layout: default500mm
+layout: default
 title: "Attach Right Side Plate"
 parent: "Assemble Gantry"
 step_number: 2
