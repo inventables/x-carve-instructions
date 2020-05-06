@@ -8,16 +8,19 @@ permalink: /1000mm/step11/
 In this step, you will be setting up your machine with the Easel. You have already wired the X-Controller to your X-Carve in previous steps. 
 <br>Power on your X-Controller. You should see the LED lights, on front and back, light up as well as the rear fan spinning. Make sure the e-stop button is disengaged. If the e-stop is engaged, the X-Controller will not power on or connect to Easel.
 
-<br>Now it's time to connect the X-Controller to your computer and complete your first carve. 
+Now it's time to connect the X-Controller to your computer and complete your first carve. 
 
 <h3 id="easel_account">Log Into Easel</h3>
-We'll begin by opening a new project in Easel. Go to the <a href="http://easel.inventables.com/" target="_blank">Easel login screen to get started</a>. If you already have an account with us, you can log into your account. Otherwise you can enter your email address and create a password for a new account.
-
+We'll begin by navigating to the Easel login screen. If you already have an account with us, you can log into your account. Otherwise you can enter your email address and create a password for a new account.<br>
+<br>
+<a href="https://easel.inventables.com" target="_blank" class="btn btn-invent btn-animate-arrow">Easel Login</a><br>
+<br>
 <img src="./photo/signin2020.png">
 
 <img src="./photo/firstlogin2020.png">
 
-<br>Once you are logged in, you will see the Projects, Account and Toolbox menu. Click on the "Intro to Easel" project or the "New project" button to begin.
+Once you are logged in you will see the Projects, Account and Toolbox menu. You will need to open a project. 
+Click on the "Intro to Easel" project or the "New project" button to begin.
 
 <img src="./photo/neweaselproject.png">
 
@@ -29,9 +32,6 @@ Click the "Carve" button to download the Easel driver. Once the download is comp
 
 <img src="./photo/downloadeaseldriver.gif">
 
-<div class="note"><strong>NOTE:</strong> If you're having trouble connecting your X-Controller on a computer running Windows, you may need to update the FTDI driver then re-start your computer. <a href="http://www.ftdichip.com/Drivers/CDM/CDM21228_Setup.zip">Click here</a> for a direct download. The linked file is a .zip file for installation on Windows 7 and newer only. If possible, we recommend installing the driver using administrative privileges with a right click and selecting "Run as Administrator".</div>
-
-
 <h3>Run Machine Setup through Easel</h3>
  Before you run your first carve, you will have to go through the Machine Setup to make sure you have the correct firmware settings for your machine. Click the green "Carve" button and you will be prompted to setup your machine. You can also access this menu by clicking on "Machine" and "Setup your machine" from the Easel menu. 
 
@@ -40,6 +40,7 @@ Click the "Carve" button to download the Easel driver. Once the download is comp
  Choose the correct settings for your X-Carve here. You'll want to make sure that you have the ACME threaded rod selected for the lead screw unless you're using a pre-2016 machine with an M8 threaded rod. Once you've configured your machine using the dropdown menus click <strong>Confirm settings</strong>.
 
 <img src="./photo/machinedetail2020.png">
+<div class="note"><strong>NOTE:</strong> If you're having trouble connecting your X-Controller on a computer running Windows, you may need to update the FTDI driver then re-start your computer. <a href="http://www.ftdichip.com/Drivers/CDM/CDM21228_Setup.zip">Click here</a> for a direct download. The linked file is a .zip file for installation on Windows 7 and newer only. If possible, we recommend installing the driver using administrative privileges with a right click and selecting "Run as Administrator".</div>
 
 If the machine successfully connects, you'll be presented with a set of controls for jogging your machine. At this point the motors should be locked.
 
@@ -71,7 +72,7 @@ The last step is enabling up the z-probe. You can also skip this step and enable
 
 <img src="./photo/zprobe.png">
 
-In the next page, you will be prompted to test the continuity of the z-probe. Follow the steps on the screen. Make sure to click "Clip is attached" button, otherwise, the setup may not allow you to continue. 
+In the next page, you will test the continuity of the z-probe. Follow the steps on the screen. Make sure to click "Clip is attached" button, otherwise, the setup may not allow you to continue. 
 
 <img src="./photo/zprobecontact.gif">
 
@@ -82,8 +83,8 @@ After setting your machine, you can run a test carve to ensure that the machine 
 
 <img src="./photo/testcarve2020.png">
 
-You can use any material you'd like for this initial carve, though we generally recommend working with wood or a soft plastic to begin with. 
-<br> If you have any trouble connecting your X-Carve to Easel, check out our Support center <a href="https://inventables.zendesk.com/hc/en-us/sections/360002677093-X-Carve-Troubleshooting" target="_blank">troubleshooting guides.</a>
+You can use any material you'd like for this initial carve, though we generally recommend working with wood or a soft plastic to begin with. If you have any trouble connecting your X-Carve to Easel, check out our Support center <a href="https://inventables.zendesk.com/hc/en-us/sections/360002677093-X-Carve-Troubleshooting" target="_blank">troubleshooting guides. </a>
 
-<a href="https://inventables.zendesk.com/hc/en-us/categories/360001068153-Easel" target="_blank" class="btn btn-invent btn-animate-arrow">Easel Basics</a>
+Click on one of the buttons below to get started with Easel.
 
+<a href="https://easel.inventables.com" target="_blank" class="btn btn-invent btn-animate-arrow">Easel Login</a>  <a href="https://inventables.zendesk.com/hc/en-us/categories/360001068153-Easel" target="_blank" class="btn btn-invent btn-animate-arrow">Easel Basics</a>  <a href="https://inventables.com/classes" target="_blank" class="btn btn-invent btn-animate-arrow">Easel Classes</a>
