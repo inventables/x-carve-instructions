@@ -86,3 +86,4 @@ You can use any material you'd like for this initial carve, though we generally 
 <br> If you have any trouble connecting your X-Carve to Easel, check out our Support center <a href="https://inventables.zendesk.com/hc/en-us/sections/360002677093-X-Carve-Troubleshooting" target="_blank">troubleshooting guides.</a>
 
 <a href="https://inventables.zendesk.com/hc/en-us/categories/360001068153-Easel" target="_blank" class="btn btn-invent btn-animate-arrow">Easel Basics</a>
+
