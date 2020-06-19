@@ -19,7 +19,7 @@ We'll begin by navigating to the Easel login screen. If you already have an acco
 
 <img src="./photo/firstlogin2020.png">
 
-Once you are logged in you will see the Projects, Account and Toolbox menu. You will need to open a project. 
+Once you are logged in you will see the Projects, Account, Toolbox and Options menu. You will need to open a project. 
 Click on the "Intro to Easel" project or the "New project" button to begin.
 
 <img src="./photo/neweaselproject.png">
@@ -40,19 +40,19 @@ Click the "Carve" button to download the Easel driver. Once the download is comp
  Choose the correct settings for your X-Carve here. You'll want to make sure that you have the ACME threaded rod selected for the lead screw unless you're using a pre-2016 machine with an M8 threaded rod. Once you've configured your machine using the dropdown menus click <strong>Confirm settings</strong>.
 
 <img src="./photo/machinedetail2020.png">
-<div class="note"><strong>NOTE:</strong> If you're having trouble connecting your X-Controller on a computer running Windows, you may need to update the FTDI driver then re-start your computer. <a href="http://www.ftdichip.com/Drivers/CDM/CDM21228_Setup.zip">Click here</a> for a direct download. The linked file is a .zip file for installation on Windows 7 and newer only. If possible, we recommend installing the driver using administrative privileges with a right click and selecting "Run as Administrator".</div>
+<div class="note"><strong>NOTE:</strong> If you're having trouble connecting your X-Controller on a computer running Windows, you may need to update the FTDI driver then re-start your computer. <a href="http://www.ftdichip.com/Drivers/CDM/CDM21228_Setup.zip">Click here</a> for a direct download. The linked file is a .zip file for installation on Windows 7 and newer only. If possible, we recommend installing the driver using administrative privileges with a right-click and selecting "Run as Administrator".</div>
 
-If the machine successfully connects, you'll be presented with a set of controls for jogging your machine. At this point the motors should be locked.
+If the machine successfully connects, you'll be presented with a set of controls for jogging your machine. At this point, the motors should be locked.
 
 <img src="./photo/testwiring2020.png">
 
-Try jogging the machine using the directional arrows. When standing in front of the X-Carve, X should jog the carriage left to right. Y should jog the gantry away from you and towards you. Z should jog the spindle up and down. If everything is wired correctly you should get proper motion on each axis. If one is reversed you can either go back and re-wire your motors or let Easel change the direction in the firmware settings by clicking <strong>No</strong> in the menu.
+Try jogging the machine using the directional arrows. When standing in front of the X-Carve, X should jog the carriage left to right. Y should jog the gantry away from you and towards you. Z should jog the spindle up and down. If everything is wired correctly, you should get proper motion on each axis. If one is reversed, you can either go back and re-wire your motors or let Easel change the direction in the firmware settings by clicking <strong>No</strong> in the menu.
 
 <img src="./photo/deadaxis2020.png">
 
 <img src="./photo/fixaxis2020.png">
 
-<div class="note"><strong>Note:</strong> If your Y axis is struggling to move, make sure that each motor is wired correctly. The Y motors should be wired to move in the opposite direction from one another since they are mirrored on the machine. You can refer to the diagrams in the <a href="http://x-carve-instructions.inventables.com/1000mm/step8/">X-Controller step</a> if necessary.</div>
+<div class="note"><strong>Note:</strong> If your Y axis is struggling to move, make sure that each motor is wired correctly. The Y motors should be wired to move in the opposite direction from one another since they are mirrored on the machine. You can refer to the diagrams in the <a href="http://x-carve-instructions.inventables.com/1000mm/step8/" target="_blank"> X-Controller step</a> if necessary.</div>
 
 Click <strong>confirm settings</strong> when all axes are moving correctly. You'll now be prompted to set your spindle settings. 
 
@@ -64,11 +64,11 @@ After you confirm your spindle setting, you'll be prompted to enable or disable 
 
 <img src="./photo/limitswitch2020.png">
 
-If you enable homing, you'll be prompted to test the homing sequence. If you have your home switches installed but don't want to test them now, you can always click <strong>no, disable homing</strong>. If you want to enable homing in the future, just run your machine through this setup again.
+If you enable homing, you'll be prompted to test the homing sequence. If you have your home switches installed but don't want to test them now, you can always click <strong>No, disable homing</strong>. If you want to enable homing in the future, just run your machine through this setup again.
 
 <img src="./photo/homingseq2020.png">
 
-The last step is enabling up the z-probe. You can also skip this step and enable the z-probe later. The image that shows how the z-probe should be connected to the X-Carve. You do not need to have a bit installed during this step. If you want to continue with the setup, select <strong>Yes</strong>.
+The last step is enabling up the z-probe. You can also skip this step and enable the z-probe later. The image shows how the z-probe should be connected to the X-Carve. You do not need to have a bit installed during this step. If you want to continue with the setup, select <strong>Yes</strong>.
 
 <img src="./photo/zprobe.png">
 
