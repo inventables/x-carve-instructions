@@ -9,5 +9,5 @@ next_step_title: "Side Plate - Right"
 ---
 
 
-Slide the completed x-carriage onto the makerslide rail. The spindle mount should face in the same direction as the X-Carve logo and the beveled side of the plate. At this point you should insert two pre-assembly insertion nuts into the groove on the top of the makerslide. These allow for your belts to be tensioned. You may leave them loose for now.
+Slide the completed x-carriage onto the makerslide rail. If the x-carriage does not slide on smoothly, you may need to adjust the v-wheels with the eccentric spacers. The spindle mount should face in the same direction as the X-Carve logo and the beveled side of the plate. At this point you should insert two pre-assembly insertion nuts into the groove on the top of the makerslide. These allow for your belts to be tensioned. You may leave them loose for now.<br>
 <img src="../../step2/photo/P4210438jpg02.jpg">
