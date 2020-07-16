@@ -89,7 +89,7 @@ stepnav:
     title: Wiring
     url: /step6/
   - step: step7
-    title: Side Board
+    title: Side Board (optional)
     url: /step7/
   - step: step8
     title: X-Controller
