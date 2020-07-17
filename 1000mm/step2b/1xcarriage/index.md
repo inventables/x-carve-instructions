@@ -9,4 +9,5 @@ next_step_title: "Adjustable Idler Wheels"
 ---
 
 In this section we'll be assembling the X-Carriage. This carriage carries the hardware for moving the X axis as well as the Z axis, though we'll be assembling the latter component in the next section
+<br>
 <img src="../../step2/photo/jpfs_DSC2650.jpg">

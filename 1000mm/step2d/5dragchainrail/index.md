@@ -50,6 +50,7 @@ next_step_title: "Rails"
 </table>
 
 Attach a piece of 1000mm 20mmx20mm extrusion to the plastic brackets of the gantry. Secure the ends with 2x M5x14mm button head cap screws. We'll attach the drag chain hardware on this in a later step.
+<br>
 <img src="../../step2/photo/jpfs_DSC2768.jpg">
 
 <img src="../../step2/photo/P4210454jpg18.jpg">

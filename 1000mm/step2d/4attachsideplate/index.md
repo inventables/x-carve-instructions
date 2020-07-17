@@ -95,6 +95,7 @@ Before attaching the other gantry side plate, insert two pre-assembly insertion 
 <img src="jpfsIMG_4341.jpg">
 
 Attach the other Y plate with 4x M5x12mm , again paying attention to the placement of the plastic bracket and the single M5 washer on the exposed slotted hole in the plate.
+<br>
 <img src="../../step2/photo/jpfs_DSC2765.jpg">
 
 Your Gantry is now complete and should look like this:
