@@ -188,13 +188,13 @@ next_step_title: "X-Controller"
 <p>Insert pre-assembly t-slot nuts into the ends of the sideboard and wasteboard frame. These will be used to attach the side board to the X-Carve frame using the extrusion connection brackets. Use M5 x 8 button head cap screws to secure the extrusion connection brackets.</p>
 <img src="./photo/jpfs_DSC2935.jpg">
 <img src="./photo/P4220559jpg22.jpg">
-<p>Lift the machine onto the side board and tighten down remaining button head cap screws.</p>
-<img src="./photo/P4220560jpg23.jpg">
-<img src="./photo/P4220563jpg26.jpg">
 <p> Use 2 post-assembly t-slot nuts and 2 M5 x 10 flat head screws to secure the drag chain to the sideboard.</p>
 <img src="./photo/P4220549jpg12.jpg">
 <img src="./photo/P4220566jpg29.jpg">
+<p>Lift the machine onto the side board and tighten down remaining button head cap screws.</p>
+<img src="./photo/P4220560jpg23.jpg">
+<img src="./photo/P4220563jpg26.jpg">
 <p>Insert the two post-assembly t-slot nuts and slide into place, lining them up with the holes in the bracket, and secure the drag chain end in place.</p>
 <img src="./photo/P4220567jpg30.jpg">
 <img src="./photo/P4220569jpg32.jpg">
-<p><b>NOTE:</b>The M5 x 14 button head cap screws will be used to attach the X-Controller to the sideboard. Extra screws can be used to mount components not included with the X-Carve. </p>
+<p><b>NOTE:</b> The M5 x 14 button head cap screws will be used to attach the X-Controller to the sideboard. Extra screws can be used to mount components not included with the X-Carve. </p>

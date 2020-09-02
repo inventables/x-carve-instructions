@@ -89,7 +89,7 @@ next_step_title: "Attach Drag Chain Rail"
   </tr>
 </table>
 
-Before attaching the other gantry side plate, insert two pre-assembly insertion nuts into the top rail of the main rail so that the belting can be attached later
+Before attaching the other gantry side plate, insert two pre-assembly insertion nuts into the top rail of the main rail so that the belting can be attached later.
 
 
 <img src="jpfsIMG_4341.jpg">

@@ -289,11 +289,12 @@ diagram: "wiringDiagram750placeholder.jpg"
 <img src="../../photo/jpfsPA140485.jpg">
 <!-- end z-probe -->
 
+<p>Place the spindle power cord, z-axis stepper motor wire, x-axis stepper motor wire, z-axis homing switch wire, x-axis homing switch wire, and z-probe wire into the drag chain. Take note of the wiring orientation. Each wire will have a connector and an exposed wire end. The connectors should be placed together at the top of the drag chain and the exposed wire at the bottom of the drag chain. Close up the drag chain hinges.</p>
 <img src="./photo/jpfs_DSC2873.jpg">
-<p>Place the spindle power cord, z-axis stepper motor wire, x-axis stepper motor wire, z-axis limit switch wire, x-axis limit switch wire, and z-probe wire into the drag chain. Take note of the wiring orientation. Each wire will have a connector and an exposed wire end. The connectors should be placed together at the top of the drag chain and the exposed wire at the bottom of the drag chain. Close up the drag chain hinges.</p>
-<img src="./photo/jpfs_DSC2883.jpg">
-<p>Wire up z-axis and x-axis stepper motors and limit switches.  Make sure you attach the red wire to the middle pin and the black wire to the hinged side of the switch.  The stepper motors can only be wired in one way, so if it doesn't fit, flip it over and try again.</p>
-<img src="./photo/P4220500jpg05-2020.jpg">
+<p>Wire up z-axis and x-axis stepper motors and homing switches.  Make sure you attach the red wire to the middle pin and the black wire to the hinged side of the switch.  The stepper motors can only be wired in one way, so if it doesn't fit, flip it over and try again.</p>
+<img src="./photo/jpfs_DSC2883_2020.jpg">
+
+<img src="./photo/P4220500jpg05_2020.jpg">
 <p>Attach the drag chain end to the drag chain bracket on the x-carriage using two M5 x 12mm flat head cap screws and two M5 nylon insert lock nuts.</p>
 <img src="./photo/P4220503jpg08.jpg">
 <p>Attach the length of drag chain to the drag chain bracket installed on the aluminum extrusion.</p>
@@ -302,11 +303,13 @@ diagram: "wiringDiagram750placeholder.jpg"
 <img src="./photo/jpfs_DSC2916.jpg">
 <p>Place the zip tie mounts in the aluminum extrusion slot and rotate them to secure in place. You can also use the open end of the 10mm wrench from your toolkit to easily rotate them.</p>
 <img src="./photo/jpfs_DSC2918.jpg">
-<img src="./photo/editP4220504jpg09.jpg">
+<br>
 <p>Use three zip tie mounts on the top of the aluminum extrusion.</p>
-<img src="./photo/editP4220505jpg10.jpg">
+<img src="./photo/editP4220504jpg09.jpg">
 <p>Use two zip tie mounts on the side of the aluminum extrusion for the lone Y2 stepper motor.</p>
-<img src="./photo/P4220509jpg14-2020.jpg">
+<img src="./photo/editP4220505jpg10.jpg">
+
+<img src="./photo/P4220509jpg14_2020.jpg">
 <img src="./photo/P4220510jpg15.jpg">
 <p> Guide the Y2 stepper motor cable across the aluminum extrusion and secure with zip ties.</p>
 <img src="./photo/P4220511jpg16.jpg">
@@ -317,11 +320,13 @@ diagram: "wiringDiagram750placeholder.jpg"
 <p>Clip the ends off of the zip ties to clean everything up.</p>
 <img src="./photo/jpfs_DSC2822.jpg">
 <p>Attach the drag chain bracket to the aluminum extrusion frame <strong>under the wasteboard</strong> using the M5x6mm button head cap screw and post-assembly insertion nut.</p>
-<img src="./photo/jpfs_DSC2927-2020.jpg">
-<img src="./photo/P4220523jpg28-2020.jpg">
-<p>Wire up the Y1 motor and y-axis limit switch.</p>
-<img src="./photo/P4220527jpg32-2020.jpg">
-<img src="./photo/P4220530jpg35.jpg">
+<p>Wire up the Y1 motor and y-axis homing switch.</p>
+<img src="./photo/jpfs_DSC2927_2020.jpg">
+<img src="./photo/P4220523jpg28_2020.jpg">
+<br>
 <p>Gather up all wires into the drag chain and snap the hinges in place.</p>
-<img src="./photo/P4220536jpg41.jpg">
+<img src="./photo/P4220527jpg32.jpg">
+<img src="./photo/P4220530jpg35.jpg">
 <p>Attach the upper drag chain bracket to the left gantry side plate using two <strong>M5 x 12mm Flat Head Cap Screws</strong> and two <strong>M5 Nylon Insert Lock Nuts.</strong> Do not attach the lower drag chain bracket just yet as that is handled in the next step.</p>
+<img src="./photo/P4220536jpg41.jpg">
+
