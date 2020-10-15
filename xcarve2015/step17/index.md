@@ -19,4 +19,4 @@ You will be guided through a few steps to make sure you are ready to carve:
 3. Enable and test homing switches
 4. Run a calibration test carving
 
-<a href="http://app.easel.com/setup" target="_blank" class="btn btn-invent btn-animate-arrow">Setup your machine</a>
+<a href="https://easel.inventables.com/setup" target="_blank" class="btn btn-invent btn-animate-arrow">Setup your machine</a>
