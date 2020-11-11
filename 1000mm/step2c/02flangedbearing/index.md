@@ -69,6 +69,6 @@ Place the flanged bearing into the Z axis motor plate so it rests in the recess 
 <img src="../../step2/photo/jpfs_DSC2680.jpg">
 <img src="../../step2/photo/jpfs_DSC2681.jpg">
 
-Note: The flanged bearing is packaged with the T-slot nut M5 pre-assembly as shown here:
+Note: The flanged bearing is packaged with the T-slot nut M5 pre-assembly as shown here:<br>
 <img src="../../step2/photo/fbpackage.jpg">
 
