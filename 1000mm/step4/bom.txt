@@ -3,7 +3,7 @@
 
 *Core Components Kit*	#383838	#fff
 30526-01	6	Belt Clip
-30677-01	6	Belt Sleeve Clip
+30677-03	6	Belt Sleeve
 25286-17	6	Button Head Cap Screw M5 x 8
 25286-21	3	Button Head Cap Screw M5 x 25
 30547-01	1	Timing Belt, GT2 80T 6mm
