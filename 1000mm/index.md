@@ -73,8 +73,8 @@ If you purchased a tool kit with your machine, most of these should be included 
               <td>6</td>
             </tr>
             <tr>
-              <td>30677-01</td>
-              <td>Belt Sleeve Clip</td>
+              <td>30677-03</td>
+              <td>Belt Sleeve</td>
               <td>6</td>
             </tr>
             <tr>
