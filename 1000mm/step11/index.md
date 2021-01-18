@@ -40,7 +40,7 @@ Click the "Carve" button to download the Easel driver. Once the download is comp
  Choose the correct settings for your X-Carve here. You'll want to make sure that you have the ACME threaded rod selected for the lead screw unless you're using a pre-2016 machine with an M8 threaded rod. Once you've configured your machine using the dropdown menus click <strong>Confirm settings</strong>.
 
 <img src="./photo/machinedetail2020.png">
-<div class="note"><strong>NOTE:</strong> If you're having trouble connecting your X-Controller on a computer running Windows, you may need to update the FTDI driver then re-start your computer. <a href="http://www.ftdichip.com/Drivers/CDM/CDM21228_Setup.zip">Click here</a> for a direct download. The linked file is a .zip file for installation on Windows 7 and newer only. If possible, we recommend installing the driver using administrative privileges with a right-click and selecting "Run as Administrator".</div>
+<div class="note"><strong>NOTE:</strong> If you're having trouble connecting your X-Controller on a computer running Windows, you may need to update the FTDI driver then re-start your computer. <a href="https://ftdichip.com/wp-content/uploads/2020/07/CDM21228_Setup.zip">Click here</a> for a direct download. The linked file is a .zip file for installation on Windows 7 and newer only. If possible, we recommend installing the driver using administrative privileges with a right-click and selecting "Run as Administrator".</div>
 
 If the machine successfully connects, you'll be presented with a set of controls for jogging your machine. At this point, the motors should be locked.
 
