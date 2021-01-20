@@ -164,6 +164,17 @@ next_step_title: "X-Controller"
   </tr>
   <tr>
     <td>
+      30554-06
+    </td>
+    <td>
+      Flat Head Cap Screw M5 x 10
+    </td>
+    <td>
+      2
+    </td>
+  </tr>
+  <tr>
+    <td>
       26016-03
     </td>
     <td>
