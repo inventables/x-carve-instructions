@@ -160,7 +160,7 @@ diagram: "wiringDiagram750placeholder.jpg"
       Flat Head Cap Screw M5 x 10
     </td>
     <td>
-      4
+      2
     </td>
   </tr>
   <tr>
