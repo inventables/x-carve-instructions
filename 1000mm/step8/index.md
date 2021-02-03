@@ -10,7 +10,7 @@ next_step_title: "Calibrate"
 <img src="PB231421BATCH201.jpg">
 
 <p>
-Welcome to the X-Controller assembly instructions! The images shown at the beginning of each step show the finished results of that step. This provides context for what you're about to start working on, and offer those eager and willing to figure things out on their own a way to skim through more quickly. Click on the thumbnails to see more details.</p>
+Hello this is a change. elcome to the X-Controller assembly instructions! The images shown at the beginning of each step show the finished results of that step. This provides context for what you're about to start working on, and offer those eager and willing to figure things out on their own a way to skim through more quickly. Click on the thumbnails to see more details.</p>
 
 <p>
 Each step also begins with a bill of materials (BOM) that details the necessary components to complete the step. Please review the full bill of materials, listed below, before getting started. Few things are more frustrating than being partway through a build and suddenly discovering something is missing.</p> 
