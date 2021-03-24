@@ -5,9 +5,9 @@ layout: welcome
   <h1>Welcome to the X-Carve Instructions!</h1>
   <div class="row row--machinesize">
     <a class="col-md-6" href="/1000mm/">
-      <img src= "/assets/xc-1000.png">
+      <span><b>1000mm Instructions</b></span>
       <br>
-      <span>1000mm Instructions</span>
+       <img src= "/assets/xc-1000.png">
     </a>
   </div>
   <br> 
