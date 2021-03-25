@@ -4,15 +4,16 @@ layout: welcome
 <div class="container container--welcome">
   <h1>Welcome to the X-Carve Instructions!</h1>
   <div class="row row--machinesize">
-    <a class="col-md-6" href="/1000mm/">
-      <span><b>1000mm Instructions</b></span>
-      <br>
-       <img src= "/assets/xc-1000.png">
-    </a>
+    <div class="col-md-6">
+      <p>Click below to get started.</p>
+      <a class="" href="/1000mm/">
+        <b>1000mm Instructions</b>
+        <br>
+        <img src= "/assets/xc-1000.png">
+      </a>
+    </div>
   </div>
-  <br> 
+  <br>
   <hr>
-  <p class="link-2015">Smaller machine instructions can be found here: <a href="/500mm/">500mm</a> and <a href="/750mm/">750mm</a>.</p>
-  <p class="link-2015">Upgrade Instructions can be found <a href="/upgrade/step1/">here</a>.</p>
-  <p class="link-2015">Instructions for X-Carve orders placed before August 31st, 2016 can be found <a href="/xcarve2015/">here</a>.</p>
+  <p class="link-2015">Older machine instructions can be found <a href="/archived/">here</a>.</p>
 </div>
