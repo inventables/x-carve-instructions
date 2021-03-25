@@ -1,11 +1,11 @@
 {% assign machine_size = page.dir | remove_first: "/" | split: "/" | first %}
 
-<nav class="navbar navbar-expand-md navbar-light">
+<nav class="navbar navbar-expand-md navbar-light ">
   <a class="navbar-brand instructions-menu-label" href="#">Instructions</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler"
+  <div class="navbar-toggler sidebar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler"
     aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
+      Steps <i class="fa fa-bars"></i>
+  </div>
   <div class="collapse navbar-collapse" id="navbarToggler">
     <ul class="sidebar">
       {% assign welcome_check = machine_size | prepend: "/" | append: "/" %}

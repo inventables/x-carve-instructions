@@ -23,7 +23,7 @@
   font-size: 16px;
   padding: 0;
 
-  @media (min-width: 767px) {
+  @media (min-width: 768px) {
     border-right: 1px solid rgba(0, 0, 0, 0.1);
   }
 
@@ -32,7 +32,7 @@
     @supports not (position: sticky) {
       position: fixed;
     }
-    
+
     @supports (position: sticky) {
       position: -webkit-sticky;
       position: sticky;
@@ -43,7 +43,8 @@
 
   .nav-item {
     margin: 10px;
-    &.active, .active {
+    &.active,
+    .active {
       color: #222;
       font-weight: 600;
     }
@@ -53,12 +54,15 @@
     margin: 5px 0;
   }
 
-  ul {
+  .sidebar {
     font-weight: 400;
     list-style: none;
     max-height: calc(100vh - 7em);
     overflow-y: auto;
     width: 100%;
+    @media (max-width: 767px) {
+      border: 1px solid #ffa400;
+    }
   }
 
   ol {
@@ -77,6 +81,18 @@
     &:active {
       background: transparent;
     }
+  }
+}
+.navbar-toggler.sidebar-toggler {
+  background-color: #ffa400;
+  color: white;
+  border-radius: 0;
+  font-size: 16px;
+  flex-basis: 100%;
+  justify-content: space-between;
+
+  @media (max-width: 767px) {
+    display: flex;
   }
 }
 
