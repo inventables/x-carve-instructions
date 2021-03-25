@@ -15,5 +15,5 @@ layout: welcome
   </div>
   <br>
   <hr>
-  <p class="link-2015">Older machine instructions can be found <a href="/archived/">here</a>.</p>
+  <p class="link-2015">Older machine instructions can be found <a href="/archived">here</a>.</p>
 </div>
