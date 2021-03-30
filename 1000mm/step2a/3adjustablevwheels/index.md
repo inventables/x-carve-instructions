@@ -43,7 +43,7 @@ diagram: "adjustablevwheels1.jpg"
       25195-07
     </td>
     <td>
-      Short Eccentric Spacer
+      Eccentric Spacer 0.200" Long
     </td>
     <td>
       4
