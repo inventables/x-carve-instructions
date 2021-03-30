@@ -84,12 +84,12 @@ If you purchased a tool kit with your machine, most of these should be included 
             </tr>
             <tr>
               <td>25195-07</td>
-              <td>Eccentric Spacer 0.200" Long</td>
+              <td>Short Eccentric Spacer</td>
               <td>8</td>
             </tr>
             <tr>
               <td>25195-08</td>
-              <td>Eccentric Spacer 0.375" Long</td>
+              <td>Long Eccentric Spacer</td>
               <td>2</td>
             </tr>
             <tr>
