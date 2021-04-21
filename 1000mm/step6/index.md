@@ -29,7 +29,7 @@ diagram: "wiringDiagram750placeholder.jpg"
       30679-09
     </td>
     <td>
-      Cable Assembly, Stepper Motor 97 in long (X-Axis)
+      Stepper Motor Cable Assemblies Length 97 in (X-Axis)
     </td>
     <td>
       1
@@ -40,7 +40,7 @@ diagram: "wiringDiagram750placeholder.jpg"
       30679-10
     </td>
     <td>
-      Cable Assembly, Stepper Motor 42 in long (Y1-Axis)
+      Stepper Motor Cable Assemblies Length 42 in (Y1-Axis)
     </td>
     <td>
       1
@@ -51,7 +51,7 @@ diagram: "wiringDiagram750placeholder.jpg"
       30679-11
     </td>
     <td>
-      Cable Assembly, Stepper Motor 89 in long (Y2-Axis)
+      Stepper Motor Cable Assemblies Length 89 in long (Y2-Axis)
     </td>
     <td>
       1
@@ -62,7 +62,7 @@ diagram: "wiringDiagram750placeholder.jpg"
       30679-12
     </td>
     <td>
-      Cable Assembly, Stepper Motor 97 in long (Z-Axis)
+      Stepper Motor Cable Assemblies Length 97 in long (Z-Axis)
     </td>
     <td>
       1
@@ -208,7 +208,7 @@ diagram: "wiringDiagram750placeholder.jpg"
       30682-07
     </td>
     <td>
-      Cable Assembly, 2C Lugs Ferrules 95"Lg X-Limit
+      Home Switch Cable Assembly 95"Lg X-Limit
     </td>
     <td>
       1
@@ -219,7 +219,7 @@ diagram: "wiringDiagram750placeholder.jpg"
       30682-08
     </td>
     <td>
-      Cable Assembly, 2C Lugs Ferrules 50"Lg Y-Limit
+      Home Switch Cable Assembly 50"Lg Y-Limit
     </td>
     <td>
       1
@@ -230,7 +230,7 @@ diagram: "wiringDiagram750placeholder.jpg"
       30682-09
     </td>
     <td>
-      Cable Assembly, 2C Lugs Ferrules 95"Lg Z-Limit
+      Home Switch Cable Assembly 95"Lg Z-Limit
     </td>
     <td>
       1
@@ -289,7 +289,7 @@ diagram: "wiringDiagram750placeholder.jpg"
 <img src="../../photo/jpfsPA140485.jpg">
 <!-- end z-probe -->
 
-<p>Place the spindle power cord, z-axis stepper motor wire, x-axis stepper motor wire, z-axis homing switch wire, x-axis homing switch wire, and z-probe wire into the drag chain. Take note of the wiring orientation. Each wire will have a connector and an exposed wire end. The connectors should be placed together at the top of the drag chain and the exposed wire at the bottom of the drag chain. Close up the drag chain hinges.</p>
+<p>Place the spindle power cord, z-axis stepper motor wire (30679-12) , x-axis stepper motor wire (30679-09), z-axis homing switch wire (30682-09), x-axis homing switch wire (30682-07), and z-probe wire into the drag chain. Take note of the wiring orientation. Each wire will have a connector and an exposed wire end. The connectors should be placed together at the top of the drag chain and the exposed wire at the bottom of the drag chain. Close up the drag chain hinges.</p>
 <img src="./photo/jpfs_DSC2873.jpg">
 <p>Wire up z-axis and x-axis stepper motors and homing switches.  Make sure you attach the red wire to the middle pin and the black wire to the hinged side of the switch.  The stepper motors can only be wired in one way, so if it doesn't fit, flip it over and try again.</p>
 <img src="./photo/jpfs_DSC2883_2020.jpg">
@@ -311,7 +311,7 @@ diagram: "wiringDiagram750placeholder.jpg"
 
 <img src="./photo/P4220509jpg14_2020.jpg">
 <img src="./photo/P4220510jpg15.jpg">
-<p> Guide the Y2 stepper motor cable across the aluminum extrusion and secure with zip ties.</p>
+<p> Guide the Y2 stepper motor cable (30679-11) across the aluminum extrusion and secure with zip ties.</p>
 <img src="./photo/P4220511jpg16.jpg">
 <img src="./photo/P4220514jpg19.jpg">
 <p>Gather up all the wires from the end of the top drag chain and the Y2 stepper motor. Zip tie them to the zip tie mounts.</p>
@@ -320,7 +320,7 @@ diagram: "wiringDiagram750placeholder.jpg"
 <p>Clip the ends off of the zip ties to clean everything up.</p>
 <img src="./photo/jpfs_DSC2822.jpg">
 <p>Attach the drag chain bracket to the aluminum extrusion frame <strong>under the wasteboard</strong> using the M5x6mm button head cap screw and post-assembly insertion nut.</p>
-<p>Wire up the Y1 motor and y-axis homing switch.</p>
+<p>Use the Y1 stepper motor cable (30679-10) to wire up the Y1 motor and use homing switch cable assembly (30682-08) to wire the y-axis homing switch.</p>
 <img src="./photo/jpfs_DSC2927_2020.jpg">
 <img src="./photo/P4220523jpg28_2020.jpg">
 <br>

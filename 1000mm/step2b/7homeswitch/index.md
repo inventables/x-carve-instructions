@@ -75,7 +75,10 @@ diagram: "homeswitch.jpg"
 
 <h3>Attach Home Switch to X-Carriage</h3>
 
-<b>Don't forget to do this before you put the X-Carriage onto the makerslide rail!</b><br> If you ordered your kit with home switches, you'll want to install the limit switch for the X-Carriage at this point. You'll need 2x M2x14mm socket head cap screws, 2x M2 split ring washers, 2x M2 nuts, and a single microswitch from your kit.  Put a split washer on each screw and insert them into the respective holes on the switch and x-carriage. Remember to position the switch so that the roller actuator is facing down and to the outside. Secure each screw with an M2 nut. You'll need a 1.5mm hex key for the screw and a small pair of pliers to hold the M2 nut. If you happen to have a 4mm wrench or socket you can also use that.
+<b>Don't forget to do this before you put the X-Carriage onto the makerslide rail!</b><br> If you ordered your kit with home switches, you'll want to install the homing switch for the X-Carriage at this point. You'll need 2x M2x14mm socket head cap screws, 2x M2 split ring washers, and a single microswitch from your kit. Put a split washer on each screw and insert them into the respective holes on the switch and X-Carriage. 
+<br>
+The holes in the X-Carriage are tapped so you do not need to secure it with the M2x0.4 Hex Nut (25284-12) included in the kit. Remember to position the switch so that the roller actuator is facing down and to the outside. 
+
 
 <div class="note"><strong>NOTE:</strong> Make sure to position the protruding "split" of the split ring washer away from the plastic microswitch as that may cut into and damage the switch when tightened.</div>
 
