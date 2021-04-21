@@ -44,7 +44,7 @@ diagram: "../06adjustablevwheels/adjustablevwheels3.jpg"
       25195-08
     </td>
     <td>
-      Eccentric Spacer 0.375" Long
+      Long Eccentric Spacer
     </td>
     <td>
       2
@@ -116,7 +116,7 @@ diagram: "../06adjustablevwheels/adjustablevwheels3.jpg"
 
 <h3>Attach Adjustable V-Wheels</h3>
 
-Take an M5x40mm button head cap screw and thread on a v-wheel and eccentric spacer.
+Take an M5x40mm button head cap screw and thread on a v-wheel and Long Eccentric Spacer (25195-08).
 
 <img src="../../step2/photo/jpfs_DSC2736.jpg">
 

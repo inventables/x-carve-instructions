@@ -5,7 +5,7 @@ parent: "Gantry - Side Plates"
 step_number: 2
 permalink: /1000mm/step2a/3adjustablevwheels/
 next_step: /1000mm/step2a/4idlers/
-next_step_title: "Adjustable Idler Wheels"
+next_step_title: "Smooth Idler Wheels"
 diagram: "adjustablevwheels1.jpg"
 ---
 <img src="../../step2/photo/jpfs_DSC2591.jpg">
@@ -43,7 +43,7 @@ diagram: "adjustablevwheels1.jpg"
       25195-07
     </td>
     <td>
-      Eccentric Spacer 0.200" Long
+      Short Eccentric Spacer
     </td>
     <td>
       4
@@ -86,10 +86,10 @@ diagram: "adjustablevwheels1.jpg"
 
 
 <h3>Attach Adjustable V-Wheels</h3>
-Attaching the adjustable v-wheels is a bit more complicated, though you won't have to adjust them until later in the assembly. These v-wheels are adjusted by means of an eccentric spacer that rests inside a larger hole on the plate. By turning the spacer, the distance between the v-wheels can be adjusted just enough to make sure that they are snug on the makerslide rail. For the moment you'll want to install the spacers in the 'open' position, that is, rotated so that the adjustable v-wheel is as far from the corresponding fixed v-wheel as possible.
+Attaching the adjustable v-wheels is a bit more complicated, though you won't have to adjust them until later in the assembly. These v-wheels are adjusted by means of an short short eccentric spacer (25195-07) that rests inside a larger hole on the plate. By turning the spacer, the distance between the v-wheels can be adjusted just enough to make sure that they are snug on the makerslide rail. For the moment you'll want to install the spacers in the 'open' position, that is, rotated so that the adjustable v-wheel is as far from the corresponding fixed v-wheel as possible.
 
 <img src="../../step2/photo/jpfs_DSC2586.jpg">
-Begin by placing an eccentric spacer on an M5x30mm bolt.
+Begin by placing an short eccentric spacer (25195-07) on an M5x30mm bolt.
 <img src="../../step2/photo/jpfs_DSC2587.jpg">
 Put the bolt and spacer into one of the holes for the adjustable v-wheel. Make sure that the 'shoulder' of the spacer is facing the plate and fits into the hole on the plate. Place an M5 washer and v-wheel onto the bolt.
 <img src="../../step2/photo/jpfs_DSC2588.jpg">

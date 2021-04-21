@@ -84,12 +84,12 @@ If you purchased a tool kit with your machine, most of these should be included 
             </tr>
             <tr>
               <td>25195-07</td>
-              <td>Eccentric Spacer 0.200" Long</td>
+              <td>Short Eccentric Spacer</td>
               <td>8</td>
             </tr>
             <tr>
               <td>25195-08</td>
-              <td>Eccentric Spacer 0.375" Long</td>
+              <td>Long Eccentric Spacer</td>
               <td>2</td>
             </tr>
             <tr>
@@ -337,22 +337,22 @@ If you purchased a tool kit with your machine, most of these should be included 
             </tr>
             <tr>
               <td>30679-09</td>
-              <td>Cable Assembly, Stepper Motor 97 in long (X-Axis)</td>
+              <td>Stepper Motor Cable Assemblies Length 97 in (X-Axis)</td>
               <td>1</td>
             </tr>
             <tr>
               <td>30679-10</td>
-              <td>Cable Assembly, Stepper Motor 42 in long (Y1-Axis)</td>
+              <td>Stepper Motor Cable Assemblies Length 42 in (Y1-Axis)</td>
               <td>1</td>
             </tr>
             <tr>
               <td>30679-11</td>
-              <td>Cable Assembly, Stepper Motor 89 in long (Y2-Axis)</td>
+              <td>Stepper Motor Cable Assemblies Length 89 in (Y2-Axis)</td>
               <td>1</td>
             </tr>
             <tr>
               <td>30679-12</td>
-              <td>Cable Assembly, Stepper Motor 97 in long (Z-Axis)</td>
+              <td>Stepper Motor Cable Assemblies Length 97 in (Z-Axis)</td>
               <td>1</td>
             </tr>
           </table>
@@ -500,17 +500,17 @@ If you purchased a tool kit with your machine, most of these should be included 
             </tr>
             <tr>
               <td>30682-07</td>
-              <td>Cable Assembly, 2C Lugs Ferrules 95"Lg X-Limit</td>
+              <td>Home Switch Cable Assembly 95"Lg X-Limit</td>
               <td>1</td>
             </tr>
             <tr>
               <td>30682-08</td>
-              <td>Cable Assembly, 2C Lugs Ferrules 50"Lg Y-Limit</td>
+              <td>Home Switch Cable Assembly 50"Lg Y-Limit</td>
               <td>1</td>
             </tr>
             <tr>
               <td>30682-09</td>
-              <td>Cable Assembly, 2C Lugs Ferrules 95"Lg Z-Limit</td>
+              <td>Home Switch Cable Assembly 95"Lg Z-Limit</td>
               <td>1</td>
             </tr>
             <tr>
