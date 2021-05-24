@@ -19,3 +19,6 @@ stepnav:
   - step: step5
     title: Dust Control System
     url: /step5/
+  - step: step6
+    title: 9mm Belt Upgrade Kit
+    url: /step6/
