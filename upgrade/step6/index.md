@@ -221,7 +221,7 @@ Once the wide makerslide and drag chain rail are propped up, completely remove t
 <img src="photos/IMG_6195.JPG">
 <img src="photos/IMG_6203.JPG">
 
-Carefuly slide the x-carriage off of the wide makerlide. You may need to turn the eccentric spacer to the open position to allow the x-carraige to move easily. 
+Carefully slide the x-carriage off of the wide makerlide. You may need to <a href="http://x-carve-instructions.inventables.com/1000mm/step9/" target="_blank">adjust</a> the eccentric spacer to the open position to allow the x-carraige to move easily. 
 
 <img src="photos/IMG_6208.JPG">
 
@@ -231,13 +231,13 @@ Using the hardware set aside earlier, install the 9mmm belt idlers. The order is
 <img src="photos/IMG_6240.JPG">
 <img src="photos/IMG_6243.JPG">
 
-This part can be tricky. You may try using a bit of tape at the end of the wrench to help re-attach the nut. 
+This step requires precision and patience. You may try using a bit of tape at the end of the wrench to help re-attach the nut. 
 
 <img src="photos/IMG_6091.JPG">
 
 Once the idlers are attached and secured, you can carefully push the x-carriage back onto the wide makerslide. If you're having trouble sliding the x-carriage back on, make sure your eccentric v-wheels are in the open position.  
 
-Now the difficult part is over and you can slide the Y2 plate in line with the wide makerslide and reattach to top two screws. 
+You're more than halfway done! Now you can slide the Y2 plate in line with the wide makerslide and reattach to top two screws. 
 <img src="photos/IMG_6248.JPG">
 <img src="photos/IMG_6249.JPG">
 
@@ -249,7 +249,7 @@ You'll want to reattach the drag chain to the x-carriage in this step.
 
 <img src="photos/IMG_6256.JPG">
 
-<strong>Attach x-axis belting and stepper motor</strong><b>
+<strong>Attach x-axis belting and stepper motor</strong><br>
 
 The steps are the same as the y-axis belt. Place the belt flat on the wide makerslide and roll the x-carriage over the belt, aligning it with the smooth idlers as you go. Then use a small allen wrench or similar to lift the belt between the idlers, making room for the X axis motor pulley.
 
@@ -292,8 +292,7 @@ The upgraded belts and stepper motors require a change to the steps/mm setting i
 
 Once the X-Carve is connected, you can power on the X-Controller and connect to your computer. 
 
-Open up an existing project or a new project in Easel. 
-(link to Easel)
+Open up an existing project or a new project in <a href="https://easel.inventables.com" target="_blank">Easel </a>. 
 
 In Easel, click the "Carve" button and unlock without homing. Once the X-Carve is unlocked, click on Machine > Advanced > Machine Inspector. 
 
@@ -303,7 +302,7 @@ $100=26.66
 
 Press enter. 
 
-Then enter:
+Then type:
 
 $101=26.66
 
