@@ -310,7 +310,5 @@ Press enter.
 
 You should now be configured. Exit the Machine Inspector. 
 
-We recommend you run a test carve to make sure the X-Carve is moving accurately. We recommend a simple Circle, Diamond Square project like this one: 
-
-You can measure your cut according to the setup in Easel. 
+We recommend you run a test carve to make sure the X-Carve is moving accurately.
 
