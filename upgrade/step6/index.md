@@ -113,16 +113,14 @@ next_step_title: "Wide Makerslide"
   </div>
 </div>
 <br>
-Using a 5mm allen wrench and an 8mm wrench, remove the X and Y axis stepper motors. We will be reusing the hardware, so take care to keep track of it.
+Using a 4mm allen wrench and an 8mm wrench, remove the X and Y axis stepper motors. We will be reusing the hardware, so take care to keep track of it.
 <img src="photos/remove-y1-stepper.JPG">
 <br>
 <img src="photos/remove-y1-stepper-2.JPG">
 <p style="text-align:center;">(Image above shows Y1 stepper motor, repeat steps for Y2 stepper motor.) </p>
 
 <br>
-You should now have the following hardware, one set for the Y1 and another for the Y2 axis. 
 
-<img src="photos/IMG_6020.JPG">
 
 <strong> Remove existing belts</strong>
 <br>
@@ -141,6 +139,11 @@ Using a 4mm allen wrench, remove the belt clips and belting from the X and Y axi
   </div>
 </div>
 <p style="text-align:center;">(Repeat for Y2 and X axis) </p>
+
+<br>
+You should now have the following hardware, one set for the Y1 and another for the Y2 axis. 
+
+<img src="photos/IMG_6020.JPG">
 
 <strong> Replace y-axis belt idlers </strong>
 <br>
