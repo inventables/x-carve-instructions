@@ -54,7 +54,7 @@ next_step_title: "Wide Makerslide"
       25311-09
     </td>
     <td>
-      269 oz/in Stepper Motor
+      212 oz/in Stepper Motor
     </td>
     <td>
       3
@@ -179,6 +179,14 @@ Using the hardware set aside previously, install the new stepper motors on the Y
 
 <p style="text-align:center;"> (Repeat on the Y2 side plate.) </p>
 
+ <div class="note">
+    <i class="fa fa-hand-o-right"></i>
+     <span class="note-text">
+     <strong>Note: 9mm belts are stronger and stretch less. Make sure to avoid over tensioning as this can cause damage to the stepper motor. If you're using a tension scale, we recommend 3 lbs. at 1" displacement. If you have any questions about belt tensioning, reach out to our Customer Success team. </strong>
+     </span>
+  </div>
+
+
 Using the hardware set aside earlier, attach the screws to the belt clips to the rails.
 
 Tensioning screws (M5x25mm button head cap screw) are used at one end of each length of belt to help keep your belts tight. Place the M5x25mm button head cap screw (tensioning screw) through the hole in the small bend of the belt clip. Place the M5x8mm button head cap screw through the remaining hole and lightly tighten the clip down to the pre-assembly insertion nut. Place the tensioning screw through the hole in the back end plate and hand tighten the M5 nylon locking nut. 
@@ -188,6 +196,7 @@ Tensioning screws (M5x25mm button head cap screw) are used at one end of each le
 On the opposite end, without the tensioning screw, place the M5x8mm button head cap screw through the hole on the belt clip and lightly tighten the clip down to the pre-assembly insertion nut.
 
 <img src="photos/IMG_6165.JPG">
+
 
 Your Y-axis stepper motor and belt update is now complete. 
 
@@ -250,6 +259,13 @@ You'll want to reattach the drag chain to the x-carriage in this step.
 <img src="photos/IMG_6256.JPG">
 
 <strong>Attach x-axis belting and stepper motor</strong><br>
+
+ <div class="note">
+    <i class="fa fa-hand-o-right"></i>
+     <span class="note-text">
+     <strong>Note: 9mm belts are stronger and stretch less. Make sure to avoid over tensioning as this can cause damage to the stepper motor. If you're using a tension scale, we recommend 3 lbs. at 1" displacement. If you have any questions about belt tensioning, reach out to our Customer Success team. </strong>
+     </span>
+  </div>
 
 The steps are the same as the y-axis belt. Place the belt flat on the wide makerslide and roll the x-carriage over the belt, aligning it with the smooth idlers as you go. Then use a small allen wrench or similar to lift the belt between the idlers, making room for the X axis motor pulley.
 
