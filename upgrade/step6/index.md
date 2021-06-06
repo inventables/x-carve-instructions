@@ -101,6 +101,26 @@ next_step_title: "Wide Makerslide"
      <strong>Note: Make sure the X-Controller is completely powered off. Failure to disconnect stepper motors will damage the electronics. </strong>
      </span>
   </div>
+<p>
+Gather up the following tools to get started.</p>
+
+<table>
+  <tr>
+    <td style="color:#fff;background: #383838;" colspan="3"><b>Tools</b> </td>
+  </tr>
+  <tr>
+    <td colspan="3">3mm Allen Wrench </td>
+  </tr>
+  <tr>
+    <td colspan="3">4mm Allen Wrench </td>
+  </tr>
+  <tr>
+    <td colspan="3">8mm Wrench or socket </td>
+  </tr>
+  <tr>
+    <td colspan="3">Scissors or knife</td>
+  </tr>
+</table>  
 <h3> Attach Y-axis stepper motors and belts </h3>
 <p> Start by unplugging the Y1, Y2 and X-axis stepper motors. We will leave these unplugged until the upgrade is complete.</p>
 <img src="photos/unplug-y1.JPG">
@@ -124,9 +144,10 @@ Using a 4mm allen wrench and an 8mm wrench, remove the X and Y axis stepper moto
 
 <strong> Remove existing belts</strong>
 <br>
-Using a 4mm allen wrench, remove the belt clips and belting from the X and Y axis. We will be reusing the belt clips, screws and lock nuts, so take care to keep track of it. <strong>Tip:</strong> With your thumb at the end, use an allen key to remove the tensioning screw.
+Using a 4mm allen wrench, remove the belt clips and belting from the X and Y axis. We will be reusing the belt clips, screws and lock nuts, so take care to keep track of it. <strong>Tip:</strong> With your thumb at the end, use an allen key to remove the shorter button head cap screw or the tensioning screw.
 
 <img src="photos/IMG_6006.JPG">
+
 <div class="row image-row">
   <div class="col-xs-6 col-md-3">
     <a href="#" class="thumbnail"><img src="photos/IMG_6009.JPG"></a>
@@ -147,7 +168,7 @@ You should now have the following hardware, one set for the Y1 and another for t
 
 <strong> Replace y-axis belt idlers </strong>
 <br>
-Using a 4mm allen wrench and 8mm wrench, remove the Y1 and Y2 axis smooth idlers and replace them with the 9mm idlers from the kit. It is easiest to do these one at a time - remove the nut, remove the stock idler, slide on the new idler, 2 M5 washers and reinstall the nut. 
+Using a 4mm allen wrench and 8mm wrench, remove the Y1 and Y2 axis smooth idlers and replace them with the 9mm idlers (25197-10) from the kit. It is easiest to do these one at a time - remove the nut, remove the stock idler, slide on the new idler (25197-10), 2 M5 washers (25287-13) and reinstall the nut. 
 
 <img src="photos/IMG_6146.JPG">
 <img src="photos/IMG_6147.JPG">
@@ -200,6 +221,12 @@ On the opposite end, without the tensioning screw, place the M5x8mm button head 
 
 <img src="photos/IMG_6165.JPG">
 
+ <div class="note">
+    <i class="fa fa-hand-o-right"></i>
+     <span class="note-text">
+     <strong>Note: After installing, you may cut off excess belting at the end. You may want to leave about 1-2 inches behind for adjustments.</strong>
+     </span>
+  </div>
 
 Your Y-axis stepper motor and belt update is now complete. 
 
@@ -223,7 +250,7 @@ After the x-axis motor, idlers and belt are removed, disconnect the z-stepper mo
 <img src="photos/IMG_6181.JPG">
 <img src="photos/IMG_6186.JPG">
 
-Loosen the top 2 screws that hold the right side plate to the wide makerslide. Before removing the screws, use a box or prop to hold the makerslide and drag chain rail in place to keep it from falling and bending. Be careful as the drag chain arm brackets are fragile and can snap off.  
+Loosen the top 2 screws that hold the right side plate to the wide makerslide. Before removing the screws, use the upgrade kit box or prop to hold the makerslide and drag chain rail in place to keep it from falling and bending. Be careful as the drag chain arm brackets are fragile and can snap off.  
 
 <img src="photos/IMG_6189.JPG">
 
