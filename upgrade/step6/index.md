@@ -4,8 +4,8 @@ title: "9mm Belt Upgrade Kit"
 step_number: 6
 redirect_from: "/upgrade/"
 permalink: /upgrade/step6/
-next_step: /upgrade/step2/
-next_step_title: "Wide Makerslide"
+next_step: /upgrade/step7/
+next_step_title: "Z-Axis Kit Upgrade"
 ---
 
 <img src="photos/IMG_6131.JPG">
