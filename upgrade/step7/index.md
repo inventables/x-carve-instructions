@@ -112,6 +112,17 @@ permalink: /upgrade/step7/
       1
     </td>
   </tr>
+  <tr>
+    <td>
+      308-71
+    </td>
+    <td>
+      What am I?
+    </td>
+    <td>
+      1
+    </td>
+  </tr>
   </table>
 
 
