@@ -114,7 +114,7 @@ permalink: /upgrade/step7/
   </tr>
   <tr>
     <td>
-      308-71
+      30871-01
     </td>
     <td>
       What am I?
