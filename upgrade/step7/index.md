@@ -10,7 +10,7 @@ permalink: /upgrade/step7/
 <table>
   <tr>
     <td style="color:#fff;background: #383838" colspan="3">
-      <b>9mm Belt Upgrade Kit</b>
+      <b>Z Axis Kit</b>
     </td>
   </tr>
   <tr>
@@ -26,43 +26,43 @@ permalink: /upgrade/step7/
   </tr>
   <tr>
     <td>
-      30858-01
+      30870-01
     </td>
     <td>
-      9mm Belt Clip
+      Stiffener Panel
     </td>
     <td>
-      6
-    </td>
-  </tr>
-  <tr>
-    <td>
-      25197-10
-    </td>
-    <td>
-      9mm Idler
-    </td>
-    <td>
-      6
+     8
     </td>
   </tr>
   <tr>
     <td>
-      25311-09
+     30873-01
     </td>
     <td>
-      212 oz/in Stepper Motor
+      Stiffener Hardware Subassembly
     </td>
     <td>
-      3
+     1
     </td>
   </tr>
   <tr>
     <td>
-      26053-04
+      30844-01
     </td>
     <td>
-      3GT 9mm Belting (3.58 meters)
+     Upgrade Risers
+    </td>
+    <td>
+      4
+    </td>
+  </tr>
+  <tr>
+    <td>
+      30874-01
+    </td>
+    <td>
+      Riser Upgrade Hardware Subassembly
     </td>
     <td>
       1
@@ -73,24 +73,58 @@ permalink: /upgrade/step7/
       30677-04
     </td>
     <td>
-      9mm Belt Sleeve
+      Z Axis Assembly
     </td>
     <td>
-      6
+      1
+    </td>
+  </tr>
+ <tr>
+    <td>
+      30872-01
+    </td>
+    <td>
+      Dust Shoe Knobs
+    </td>
+    <td>
+      2
     </td>
   </tr>
   <tr>
     <td>
-      25287-13
+      30749-01
     </td>
     <td>
-      M5 Washers
+      Z-Probe Relocation Bracket
     </td>
     <td>
-      12
+      1
     </td>
   </tr>
-</table>
+ <tr>
+    <td>
+      30756-01
+    </td>
+    <td>
+      Z-Probe Relocation Bracket Kit
+    </td>
+    <td>
+      1
+    </td>
+  </tr>
+<tr>
+    <td>
+      308-71
+    </td>
+    <td>
+      What am I?
+    </td>
+    <td>
+      1
+    </td>
+  </tr>
+  </table>
+
 
   <div class="note">
     <i class="fa fa-hand-o-right"></i>
