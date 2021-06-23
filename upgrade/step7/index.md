@@ -79,6 +79,39 @@ permalink: /upgrade/step7/
       1
     </td>
   </tr>
+ <tr>
+    <td>
+      30872-01
+    </td>
+    <td>
+      Dust Shoe Knobs
+    </td>
+    <td>
+      2
+    </td>
+  </tr>
+  <tr>
+    <td>
+      30749-01
+    </td>
+    <td>
+      Z-Probe Relocation Bracket
+    </td>
+    <td>
+      1
+    </td>
+  </tr>
+ <tr>
+    <td>
+      30756-01
+    </td>
+    <td>
+      Z-Probe Relocation Bracket Kit
+    </td>
+    <td>
+      1
+    </td>
+  </tr>
   </table>
 
 
