@@ -22,3 +22,6 @@ stepnav:
   - step: step6
     title: 9mm Belt Upgrade Kit
     url: /step6/
+  - step: step7
+    title: Z-Axis Upgrade Kit
+    url: /step7/
