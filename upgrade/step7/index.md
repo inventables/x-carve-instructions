@@ -263,8 +263,7 @@ Gather up the following tools to get started.</p>
 <p>To change the z-axis travel direction update $3 based on <a href="https://github.com/gnea/grbl/wiki/Grbl-v1.1-Configuration#2--step-port-invert-mask" target="_blank">this chart: </a><br>
 <img src="photos/image5.png"> <br>
 <br>
-Type in the following command:
-$3=4
+For example: If your settings show $3=3. You will type in the following command: $3=7
 <br>
 <br>
 <p>If you're having trouble with the direction of the stepper motor, you can reach our Customer Success team through email help@inventables.com or by phone at 312 775 7009.</p>
