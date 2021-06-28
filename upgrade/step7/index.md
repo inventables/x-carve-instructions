@@ -258,12 +258,13 @@ Gather up the following tools to get started.</p>
 
 <p>Open up an existing project or a new project in <a href="https://easel.inventables.com" target="_blank">Easel </a>. </p><br>
 
-<p>In Easel, click the "Carve" button and unlock without homing. Once the X-Carve is unlocked, click on Machine > Advanced > Machine Inspector. Scroll down to the console and type the following command: $102 = 49.909 </p><br>
+<p>In Easel, click the "Carve" button and unlock without homing. Once the X-Carve is unlocked, click on Machine > Advanced > Machine Inspector. Scroll down to the console and type the following command: $102=49.909 </p><br>
 
 <p>To change the z-axis travel direction update $3 based on <a href="https://github.com/gnea/grbl/wiki/Grbl-v1.1-Configuration#2--step-port-invert-mask" target="_blank">this chart: </a><br>
 <img src="photos/image5.png"> <br>
 <br>
 For example: If your settings show $3=3. You will type in the following command: $3=7
 <br>
+<p>Once you have entered the new $102 and $3 settings, you can see if your changes took affect by entering the $$ command. This will list all of your firmware settings again. Scroll through to ensure that the new values are displayed.</p>
 <br>
-<p>If you're having trouble with the direction of the stepper motor, you can reach our Customer Success team through email help@inventables.com or by phone at 312 775 7009.</p>
+<p>If you're having trouble your new upgrades, you can reach our Customer Success team through email help@inventables.com or by phone at 312-775-7009.</p>
