@@ -155,34 +155,57 @@ next_step_title: "Spindle"
   </tr>
 </table>
 
+<p> Gather the necessary components from the core components kit.</p>
+<img src="./photo/IMG_5594.png">
 
-<img src="./photo/jpfs_DSC2791.jpg">
 <p>Start by cutting the belt into 3 equal lengths.</p>
+<img src="./photo/jpfs_DSC2791.jpg">
 
-<div class="note">
-<i class="fa fa-hand-o-right"></i>
- <span class="note-text">
- <strong>Note:</strong> Current X-Carves are shipping with the belt included in the Core Components Kit.  <strong>Previous versions</strong> included 12ft of belting in the 1000mm Rail Kit, part number 26053-01.
- </span>
-</div>
-
-<img src="./photo/P4210474jpg04.jpg">
 <p>Route the belt (teeth side down) under the smooth idler, over the pulley, and under the smooth idler across all three lengths of Makerslide.</p>
+<img src="./photo/P4210474jpg04.jpg">
+
 <img src="./photo/P4210483jpg13.jpg">
 <p>The x-axis is by far the trickiest of the three.  You won't be able to route the belt over the pulley by going in from the side of the x-carriage, so you'll need to go through the hole in the top.  This works best if both ends are first curled before placing them through the top hole.  Feed one curled belt end between the pulley and smooth idler, and instead of forcing the belt through, slowly move the x-carriage in the opposite direction to help reveal the end of the belt.  Once revealed, grab the belt and pull it further through.  Repeat this process with the other end of the belt.</p>
-<img src="./photo/P4210479jpg09.jpg">
+
+If you're having trouble with the x-axis belting, check out this Community Forum post: <a href="https://discuss.inventables.com/t/x-carve-assembly-tip-tool/42004/2" target="_blank">X-axis belt installation.</a> 
+
+<h3> Attach Belt Clips </h3>
+<img src="./photo/jpfs_DSC2793.jpg">
 <p>Each end of the belt is attached to a belt clip which secures the belt to the machine.  Take one end of the belt and add one of the belt sleeves, small end first.  Route the belt through the slot closest to the small bend, underneath the clip and through the remaining slot.  Push the end of the belt through the wide end of the belt sleeve to lock the teeth in place.</p>
-<img src="./photo/P4210485jpg15.jpg">
-<p>Tensioning screws (M5x25mm button head cap screw) are used at the end of each length of belt to help keep your belts tight.  Place the M5x25mm button head cap screw (tensioning screw) through the hole in the small bend of the belt clip.  Place the M5x8mm button head cap screw through the remaining hole and lightly tighten the clip down to the pre-assembly insertion nut, installed in the top slot of your Makerslide in a previous step.  Place the tensioning screw through the hole in the back end plate and hand tighten the M5 nylon locking nut.  On the opposite end, without the tensioning screw, place the M5x8mm button head cap screw through the hole on the belt clip and lightly tighten the clip down to the pre-assembly insertion nut.</p>
-<img src="./photo/jpfs_DSC2795.jpg">
+
+<img src="./photo/IMG_5619.png">
+
+One tensioning screw (M5x25mm button head cap screw) is used at the end of each length of belt to help keep your belts tight. Place the M5x25mm button head cap screw (tensioning screw) through the hole in the small bend of the belt clip. Place the M5x8mm button head cap screw through the remaining hole and lightly tighten the clip down to the pre-assembly insertion nut, installed in the top slot of your Makerslide in a previous step. Place the tensioning screw through the hole in the back end plate and hand tighten the M5 nylon locking nut. 
+
+<img src="./photo/IMG_5614.png">
+ On the end without the tensioning screw, place the M5x8mm button head cap screw through the hole on the belt clip and lightly tighten the clip down to the pre-assembly insertion nut.
+
+Repeat this on the Y1 and Y2 rails. 
+
+<img src="./photo/IMG_5603.png">
+<img src="./photo/IMG_5611.png">
+
 <p>So you don't waste any threads on your tensioning screw, you need to start with some tension in your belt. To do so, place your hex key in the head of the M5x8mm button head cap screw on the front (without the tensioning screw) and pull towards the front of the machine making the belt tight.  While pulling, tighten the button head cap screw in place.  Go back to your tensioning screws and start tightening down the M5 nylon locking nut until you hear an audible tone when plucking the belt.  Once you have that tone (similar to a bass string on a guitar), tighten down the M5x8mm button head cap screw to secure the belt clip in place.  This might seem like a very complicated step, but if you start with tension already in your belt, you won't have to deal with undoing the tensioning screw and feeding more belt through the belt clip; essentially redoing all of the work you just did.</p>
-<div class="note"><strong>Note:</strong> After installing, you may cut off excess belting at the end. You may want to leave about 2 inches behind for adjustments. </div> <br>
+<div class="note"><strong>Note:</strong> After installing, you may cut off excess belting at the end. You may want to leave about 2 inches behind for adjustments. </div>
+
+<h3> Z-axis Belt</h3>
+<p>You will need 4 socket head cap screws M5 x 20 (25285-53), 4 nylon insert lock nut M5 (30265-09), 4 Flat Washer M5 (25287-12), GT2 closed Loop belt (30547-01) and a NEMA 23 stepper motor. 
 <img src="./photo/jpfs_DSC2798.jpg">
+
 <p>Mount the Z-Axis motor with the white socket facing toward the back of the machine so it's easy to plug the wires in.</p>
-<img src="./photo/P4210487jpg17.jpg">
+<img src="./photo/P4210487jpg17.jpg"><br>
+
 <p>Place the closed loop belt around the drive rod pulley.  Angle the stepper motor through the z-axis motor mount plate and grab the closed loop belt with the pulley on the stepper motor.</p>
-<img src="./photo/P4210490jpg20.jpg">
+<img src="./photo/P4210490jpg20.jpg"><br>
+
 <p>Use the M5x20mm socket head cap screws, M5 flat washers, and M5 nylon locking nuts to secure the motor onto the z-axis motor mount plate.</p>
-<img src="./photo/P4210493jpg23.jpg">
-<p>Pull the motor away from the drive rod to tension the closed loop belt and tighten down all of the M5 nylon locking nuts in place.</p>
+
+<img src="./photo/P4210493jpg23.jpg"><br>
+
+<p>Pull the motor away from the drive rod to tension the closed loop belt and tighten down all of the M5 nylon locking nuts in place.
+</p>
+
+<div class="note"><strong>Tip:</strong> You can use DeWalt router wrench as a shim between the stepper motor and z-axis makerslide to set the correct z-axis belt tension. </div> <br>
+
 <img src="./photo/jpfs_DSC2800.jpg">
+
