@@ -178,15 +178,19 @@ Begin by locating two M5 post-assembly insertion nuts, two M5x16mm socket head c
 
 <img src="./photo/jpfsIMG_8328.jpg">
 
-Insert a post-assembly insertion nut in the outer slot of the lefthand y axis rail.
+Make sure that the spring clip is facing in. Insert a post-assembly insertion nut in the outer slot of the Y1 axis makerslide (lefthand side rail).
 
 <img src="./photo/jpfsIMG_8333.jpg">
 <img src="./photo/jpfsIMG_8334.jpg">
+<img src="./photo/IMG_5584.png">
 
-Make sure that the spring clip is facing in. Put an aluminum spacer onto an M5x16mm Socket head screw and thread the screw into the nut. You can now adjust the actuator so it is roughly 3/4" away from the front plate.
+Insert the other post-assembly insertion nut in the rear slot of the x-axis wide makerslide.
+<img src="./photo/IMG_5586.png">
 
-<img src="./photo/jpfsIMG_8322.jpg">
+ Put an aluminum spacer onto an M5x16mm Socket head screw and thread the screw into the nut. You can now adjust the actuator so it is roughly 3/4" away from the front plate.
 
-Repeat this process for the x axis on the back slot of the wide makerslide rail.
+<img src="./photo/IMG_5588.png">
 
-<img src="./photo/jpfsIMG_8326.jpg">
+Repeat this process for the x-axis on the back slot of the wide makerslide rail.
+
+<img src="./photo/IMG_5590.png">
