@@ -189,7 +189,7 @@ Repeat this on the Y1 and Y2 rails.
 <div class="note"><strong>Note:</strong> After installing, you may cut off excess belting at the end. You may want to leave about 2 inches behind for adjustments. </div>
 
 <h3> Z-axis Belt</h3>
-<p>You will need 4 socket head cap screws M5 x 20 (25285-53), 4 nylon insert lock nut M5 (30265-09), 4 Flat Washer M5 (25287-12), GT2 closed Loop belt (30547-01) and a NEMA 23 stepper motor. 
+<p>You will need 4 socket head cap screws M5 x 20 (25285-53), 4 nylon insert lock nut M5 (30265-09), 4 Flat Washer M5 (25287-12), GT2 closed Loop belt (30547-01) and a NEMA 23 stepper motor. </p>
 <img src="./photo/jpfs_DSC2798.jpg">
 
 <p>Mount the Z-Axis motor with the white socket facing toward the back of the machine so it's easy to plug the wires in.</p>
