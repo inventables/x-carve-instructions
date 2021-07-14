@@ -156,9 +156,11 @@ Gather up the following tools to get started.</p>
 <p>3 mm allen key, 4 mm allen key, 8 mm wrench.<br>
   
 <p>1. Material is required to support the gantry. 5 layers of ¾” thick material were used here, but books, boxes, etc. will also work well.  The material should be placed on either side of the carriage, as shown below.</p><br>
-<img src="photos/IMG_2511.png"><br>
+<img src="photos/IMG_2511.png">
 
-<p>2. If you are using the Inventables Dust Collection System, start by removing the dust hose boom and sitting aside.</p>
+<br>
+
+<p>2. If you are using the Inventables Dust Collection System, remove the dust hose boom and set it aside.</p>
 <img src="photos/IMG_2530.png"><br>
 
 <p>3. Remove the stock front and back plates. Be sure to put the belt clip lock nuts in a safe place - we will be reusing them.</p>   
