@@ -152,11 +152,14 @@ Gather up the following tools to get started.</p>
   </tr>
 </table>  -->
 <h3> Riser Installation </h3>
-<p>1. If you are using the Inventables Dust Collection System, start by removing the dust hose boom and sitting aside.</p>
-<img src="photos/IMG_2530.png"><br>
-
-<p>2. Support the gantry using stacked books, materials, boxes, etc.  5 layers of ¾” thick material works well.</p>
+<h4>Tools Needed</h4>
+<p>3 mm allen key, 4 mm allen key, 8 mm wrench.<br>
+  
+<p>1. Material is required to support the gantry. 5 layers of ¾” thick material were used here, but books, boxes, etc. will also work well.  The material should be placed on either side of the carriage, as shown below.</p><br>
 <img src="photos/IMG_2511.png"><br>
+
+<p>2. If you are using the Inventables Dust Collection System, start by removing the dust hose boom and sitting aside.</p>
+<img src="photos/IMG_2530.png"><br>
 
 <p>3. Remove the stock front and back plates. Be sure to put the belt clip lock nuts in a safe place - we will be reusing them.</p>   
 <img src="photos/IMG_2520.png">
@@ -165,16 +168,21 @@ Gather up the following tools to get started.</p>
 <p>4. Raise the gantry approximately 2” by adding additional support under the gantry.   A total of 8 layers of ¾” material works well.</p>
 <img src="photos/IMG_2523.png"><br>
 
-<p>5. Install the upgraded risers using the included hardware.  It is easiest to start the tee nuts on their screws, and then slide them into the extrusion.  Be sure to reinstall the belt clip tensioner lock nuts that you set aside earlier.</p>
+<p>5. Install the upgraded risers using the included hardware. Each riser will need two M5 x 14 socket head screws, two M5 x 10 mm screws, and two tee nuts.</p>
+<p><b>IMPORTANT NOTE:</b> Some older machine will have makerslides with 5.89 mm slots instead of the standard 6 mm. If your machine has the undersized slots, you will have to install the stiffeners prior to the risers. Before installing the risers, check to ensure that the tee nuts can be pushed into the makerslide slots. If they can only be slid into the slot from the front, rather than pushed in, please skip ahead to the stiffener section of the instructions.</p>
+  <img src="photos/image1.png">
+  
+  
+ <p>It is easiest to start the tee nuts on their screws, and then slide them into the extrusion.  Be sure to reinstall the belt clip tensioner lock nuts that you set aside earlier.</p>
+ 
+ <img src="photos/IMG_2524.png">
+ 
 <img src="photos/IMG_2531.png">
-<img src="photos/IMG_2532.png">
-<img src="photos/IMG_2524.png">
-<img src="photos/image1.png">
 
-<p>6. If you are using the Inventables Dust Collection system, install the pole support bracket as shown:</p><br>
+<p>6. If you are using the Inventables Dust Collection system, install the pole support bracket as shown with two m5 x 14 mm socket head screws:</p><br>
+<img src="photos/image4.png">
 <img src="photos/IMG_2529.png">
 <img src="photos/IMG_2530.png">
-<img src="photos/image4.png">
 
 <p>7. Now is a good time to ensure that your Y axis rails are properly aligned to your wasteboard. If you hold a square against the rails, there should be approximately ⅛” overhang on each side.To slide the rails left or right, loosen the bottom 2 screws on all 4 risers. Align and tighten.</p>
 <img src="photos/IMG_2535.png"> <br>
