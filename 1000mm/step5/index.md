@@ -49,7 +49,7 @@ The router power cable will be put in the drag chains alongside the stepper moto
  <img src="./photo/colletadapter2.JPG"> 
  
  <br>
+
+ You can then insert a 1/8" bit. If it is an Inventables bit, push it up until the collar is against the base of the collet. You can then install all three components onto the router nose as one piece.
  
- You can then insert a 1/8" bit. If it is an Inventables bit, push it up until the collar is against the base of the collet. Install all three components onto the router nose as one piece.
- 
- <img src="./photo/colletadapter3.JPG"> 
+ <img src="./photo/colletadapter3.JPG">
