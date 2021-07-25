@@ -144,7 +144,7 @@ Using a 4mm allen wrench and an 8mm wrench, remove the X and Y axis stepper moto
 
 <strong> Remove existing belts</strong>
 <br>
-Using a 4mm allen wrench, remove the belt clips and belting from the X and Y axis. We will be reusing the belt clips, screws and lock nuts, so take care to keep track of it. <strong>Tip:</strong> With your thumb at the end, use an allen key to remove the shorter button head cap screw or the tensioning screw.
+Using a 4mm allen wrench, remove the belt clips and belting from the X and Y axis. We will be reusing the screws and lock nuts, so take care to keep track of it. <strong>Tip:</strong> With your thumb at the end, use an allen key to remove the shorter button head cap screw or the tensioning screw.
 
 <img src="photos/IMG_6006.JPG">
 
