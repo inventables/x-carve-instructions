@@ -11,6 +11,10 @@ In this step, you will be setting up your machine with the Easel. You have alrea
 Now it's time to connect the X-Controller to your computer and complete your first carve. 
 
 <h3 id="easel_account">Log Into Easel</h3>
+<div class="note">
+    <strong>If you purchased a Fully-Loaded X-Carve 1000mm Kit, make sure to <a href="https://easel.inventables.com#account" target="_blank"> Activate your Easel Pro key.</a></strong> Your Easel Pro Key can be found in your receipt.
+</div>
+
 We'll begin by navigating to the Easel login screen. If you already have an account with us, you can log into your account. Otherwise you can enter your email address and create a password for a new account.<br>
 <br>
 <a href="https://easel.inventables.com" target="_blank" class="btn btn-invent btn-animate-arrow">Easel Login</a><br>
@@ -35,12 +39,13 @@ Click the "Carve" button to download the Easel driver. Once the download is comp
 <h3>Run Machine Setup through Easel</h3>
  Before you run your first carve, you will have to go through the Machine Setup to make sure you have the correct firmware settings for your machine. Click the green "Carve" button and you will be prompted to setup your machine. You can also access this menu by clicking on "Machine" and "Setup your machine" from the Easel menu. 
 
+ <div class="note"><strong>NOTE:</strong> If you're having trouble connecting your X-Controller on a computer running Windows, you may need to update the FTDI driver then re-start your computer. <a href="https://ftdichip.com/wp-content/uploads/2020/07/CDM21228_Setup.zip">Click here</a> for a direct download. The linked file is a .zip file for installation on Windows 7 and newer only. If possible, we recommend installing the driver using administrative privileges with a right-click and selecting "Run as Administrator".</div>
+
 <img src="./photo/setupyourmachine.gif">
 
  Choose the correct settings for your X-Carve here. You'll want to make sure that you have the ACME threaded rod selected for the lead screw unless you're using a pre-2016 machine with an M8 threaded rod. Once you've configured your machine using the dropdown menus click <strong>Confirm settings</strong>.
 
 <img src="./photo/machinedetail2020.png">
-<div class="note"><strong>NOTE:</strong> If you're having trouble connecting your X-Controller on a computer running Windows, you may need to update the FTDI driver then re-start your computer. <a href="https://ftdichip.com/wp-content/uploads/2020/07/CDM21228_Setup.zip">Click here</a> for a direct download. The linked file is a .zip file for installation on Windows 7 and newer only. If possible, we recommend installing the driver using administrative privileges with a right-click and selecting "Run as Administrator".</div>
 
 If the machine successfully connects, you'll be presented with a set of controls for jogging your machine. At this point, the motors should be locked.
 
@@ -84,6 +89,13 @@ After setting your machine, you can run a test carve to ensure that the machine 
 <img src="./photo/testcarve2020.png">
 
 You can use any material you'd like for this initial carve, though we generally recommend working with wood or a soft plastic to begin with. If you have any trouble connecting your X-Carve to Easel, check out our Support center <a href="https://inventables.zendesk.com/hc/en-us/sections/360002677093-X-Carve-Troubleshooting" target="_blank">troubleshooting guides. </a>
+
+<div class="note">
+    <i class="fa fa-hand-o-right"></i>
+     <span class="note-text">
+    <p><strong>Note:</strong> If you purchased the X-Carve Upgrades, you will need to configure GRBL settings after the Machine Setup. Please review the X-Carve Belt Upgrade Computer Setup instructions <a href="https://x-carve-instructions.inventables.com/upgrade/step6/" target="_blank"> here.</a></p>
+     </span>
+</div>
 
 Click on one of the buttons below to get started with Easel.
 

@@ -70,6 +70,12 @@ diagram: "motors.jpg"
 </table>
 
 <h3>Attach Stepper Motor to X-Carriage</h3>
+  <div class="note">
+    <i class="fa fa-hand-o-right"></i>
+     <span class="note-text">
+    <p><strong>Note:</strong> If you purchased the Belt Kit Upgrade, you will follow the same steps but with the upgraded hardware and stepper motors. The complete Upgrade Belt Kit instructions can be found <a href="https://x-carve-instructions.inventables.com/upgrade/step6/" target="_blank"> here.</a></p>
+     </span>
+  </div>
 
 To attach a stepper motor to the X-Carriage, you'll need 4x M5x10mm socket head cap screws. Place the motor on the X-Carriage with the white connector facing up. Use a 4mm hex key to secure the motor in place using the threaded holes on the carriage. There may be a small gap between the motor and the carriage due to the heads of the M5x35mm flat head screws that hold the smooth idlers. Tighten the screws in an alternating pattern to ensure that they are evenly secured.
 <img src="../../step2/photo/jpfs_DSC2649.jpg">

@@ -78,6 +78,13 @@ diagram: "idlers1.jpg"
 
 These wheels ensure that the belt is held tightly against the motor pulley once they are installed. They are installed with aluminum spacers as they need to be aligned with the center of the makerslide rails. We show both wheels being attached at once for illustrative purposes, though as long as they're in the right places, assemble them in whichever order you want.
 
+  <div class="note">
+    <i class="fa fa-hand-o-right"></i>
+     <span class="note-text">
+    <p><strong>Note:</strong> If you purchased the Belt Kit Upgrade, you will follow the same steps but with the upgraded hardware and stepper motors. The complete Upgrade Belt Kit instructions can be found <a href="https://x-carve-instructions.inventables.com/upgrade/step6/" target="_blank"> here.</a></p>
+     </span>
+  </div>
+
 <img src="../../../photo/jpfsPB020488.jpg">
 To attach the smooth idler wheels, begin by putting an M5x30 bolt through the appropriate hole on the plate. Slide an aluminum spacer onto the bolt.
 <img src="../../step2/photo/jpfs_DSC2594.jpg">
