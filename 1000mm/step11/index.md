@@ -93,7 +93,7 @@ You can use any material you'd like for this initial carve, though we generally 
 <div class="note">
     <i class="fa fa-hand-o-right"></i>
      <span class="note-text">
-    <p><strong>Note:</strong> If you purchased the X-Carve Upgrades, you will need to configure GRBL settings after the Machine Setup. Please review the X-Carve Belt Upgrade Computer Setup instructions <a href="https://x-carve-instructions.inventables.com/upgrade/step6/" target="_blank"> here.</a></p>
+    <p><strong>Note:</strong> If you purchased the X-Carve Upgrades, you will need to configure GRBL settings after the Machine Setup. Please review the X-Carve Belt Upgrade Computer Setup instructions <a href="https://x-carve-instructions.inventables.com/upgrade/step6/" target="_blank"> here</a> and the Z-Axis Upgrade Computer Setup instructions <a href="http://localhost:4000/upgrade/step7/" target="_blank">here.</a> </p>
      </span>
 </div>
 
