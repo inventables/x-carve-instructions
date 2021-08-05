@@ -280,15 +280,14 @@ Then type:<br>
 <br>
 $132=152.4<br>
 <br>
-Press enter.
+Press enter.<br>
 <br>
-<p>To change the z-axis travel direction, update $3 based on <a href="https://github.com/gnea/grbl/wiki/Grbl-v1.1-Configuration#2--step-port-invert-mask" target="_blank">this chart.</a> </p>
-
-For example: If your settings show $3=3. You will type in the following command:
-$3=7 <br>
+You will need to invert the z-axis travel direction by adjusting $3 based on <a href="https://github.com/gnea/grbl/wiki/Grbl-v1.1-Configuration#2--step-port-invert-mask" target="_blank">this chart.</a> <br>
 <br>
-This which will correct the direction of only the z-axis.<br>
+If your current settings show $3=3, the chart that shows X and Y already inverted (marked as "Y") and Z is "N". Since we only want to alter the Z axis we want to select the option that keeps X and Y inverted but also inverts Z. On the chart the value of 7 shows all three inverted (marked as "Y").<br>
 <br>
-<p>Once you have entered the new settings, you can see if your changes took affect by entering the $$ command. This will list all of your firmware settings again. Scroll through to ensure that the new values are displayed.</p>
+Now, return to Easel and enter $3=7.<br>
+<br>
+<p>Once you have entered the new settings, you can see if your changes took affect by entering the $$ command. This will list all of your firmware settings again. Scroll through to ensure that the new values are displayed.</p><br>
 <br>
 <p>If you're having trouble your new upgrades, you can reach our Customer Success team through email help@inventables.com or by phone at 312-775-7009.</p>
