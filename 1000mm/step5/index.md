@@ -6,7 +6,13 @@ permalink: /1000mm/step5/
 next_step: /1000mm/step6/
 next_step_title: "Wiring"
 ---
-In this step you'll be mounting a DeWalt 611 router in the spindle mount. Begin by removing existing base and collar from the spindle. This will leave just the metal router body.
+In this step you'll be mounting a DeWalt 611 router in the spindle mount. Begin by removing existing base and collar from the spindle. This will leave just the metal router body.<br>
+<div class="note">
+    <i class="fa fa-hand-o-right"></i>
+     <span class="note-text">
+    <p><strong>Note:</strong> If you purchased the Z-Axis Upgrade Kit, you will follow the same steps but use the z-axis upgrade hardware. For components list, refer to the Z-Axis Upgrade instructions <a href="https://x-carve-instructions.inventables.com/upgrade/step7/" target="_blank"> here.</a></p>
+     </span>
+</div>
 <img src="./photo/jpfs_DSC2846.jpg">
 
 Use a screwdriver or other prying tool to gently pry the spindle mount open and insert the router until the yellow button shows through on the bottom of the spindle mount.

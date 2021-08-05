@@ -100,6 +100,12 @@ In this step, you'll be assembling the main y axis rails and attaching them to t
   </tr>
 </table>
 
+  <div class="note">
+    <i class="fa fa-hand-o-right"></i>
+     <span class="note-text">
+    <p><strong>Note:</strong> If you purchased the Z-Axis Upgrade Kit, you will follow the same steps but use the z-axis upgrade hardware and risers. For components list, refer to the Z-Axis Upgrade instructions <a href="https://x-carve-instructions.inventables.com/upgrade/step7/" target="_blank"> here.</a></p>
+     </span>
+  </div>
 
 <img src="./photo/jpfs_DSC2774.jpg">
 <br>Begin by attaching a makerslide end plate to each 1000mm makerslide rail.  The groove on the side of the maker slide should be on the bottom. You will need to attach a stop to it in a later step that has to meet up with the homing switch.  Also, make sure that the side of the makerslide with the v-rails is on the same side as the flat side of the end plate. Use 2x M5x12mm button head cap screws on each plate.

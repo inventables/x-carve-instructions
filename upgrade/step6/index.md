@@ -334,11 +334,11 @@ Y1 and Y2 stepper motors are the last to be connected.
 
 <h3> Computer Setup </h3>
 
-The upgraded belts and stepper motors require a change to the steps/mm setting in the GRBL firmware. We will be making these changes through the Machine Inspector. 
+<p>The upgraded belts and stepper motors require a change to the steps/mm setting in the GRBL firmware. We will be making these changes through the Machine Inspector. Once the X-Carve is connected, you can power on the X-Controller and connect to your computer.</p>
 
-Once the X-Carve is connected, you can power on the X-Controller and connect to your computer. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wA6Abz6L_Cg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Open up an existing project or a new project in <a href="https://easel.inventables.com" target="_blank">Easel </a>. 
+Open up an existing project or a new project in <a href="https://easel.inventables.com" target="_blank">Easel.</a> 
 
 In Easel, click the "Carve" button and unlock without homing. Once the X-Carve is unlocked, click on Machine > Advanced > Machine Inspector. 
 
@@ -357,4 +357,3 @@ Press enter.
 You should now be configured. Exit the Machine Inspector. 
 
 We recommend you run a test carve to make sure the X-Carve is moving accurately.
-

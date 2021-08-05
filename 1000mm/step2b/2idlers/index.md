@@ -86,6 +86,12 @@ diagram: "idlers.jpg"
 
 
 <h3>Attach Smooth Idler Wheels</h3>
+<div class="note">
+    <i class="fa fa-hand-o-right"></i>
+     <span class="note-text">
+    <p><strong>Note:</strong> If you purchased the Belt Kit Upgrade, you will follow the same steps but with the upgraded hardware and stepper motors. The complete Upgrade Belt Kit instructions can be found <a href="https://x-carve-instructions.inventables.com/upgrade/step6/" target="_blank"> here.</a></p>
+     </span>
+  </div>
 
 Insert an M5x35 flat head screw into one of the countersunk holes in the X-Carriage.
 <img src="../../step2/photo/jpfs_DSC2628.jpg">

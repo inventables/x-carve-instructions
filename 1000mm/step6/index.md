@@ -290,6 +290,13 @@ diagram: "wiringDiagram750placeholder.jpg"
 <!-- end z-probe -->
 
 <p>Place the spindle power cord, z-axis stepper motor wire (30679-12) , x-axis stepper motor wire (30679-09), z-axis homing switch wire (30682-09), x-axis homing switch wire (30682-07), and z-probe wire into the drag chain. Take note of the wiring orientation. Each wire will have a connector and an exposed wire end. The connectors should be placed together at the top of the drag chain and the exposed wire at the bottom of the drag chain. Close up the drag chain hinges.</p>
+  <div class="note">
+    <i class="fa fa-hand-o-right"></i>
+     <span class="note-text">
+    <p><strong>Note:</strong> If you purchased the Z-Axis Upgrade Kit, allow more slack for the Z-axis Stepper motor. Refer to the Z-Axis Upgrade instructions <a href="https://x-carve-instructions.inventables.com/upgrade/step7/" target="_blank"> here.</a></p>
+     </span>
+  </div>
+
 <img src="./photo/jpfs_DSC2873.jpg">
 <p>Wire up z-axis and x-axis stepper motors and homing switches.  Make sure you attach the red wire to the middle pin and the black wire to the hinged side of the switch.  The stepper motors can only be wired in one way, so if it doesn't fit, flip it over and try again.</p>
 <img src="./photo/jpfs_DSC2883_2020.jpg">

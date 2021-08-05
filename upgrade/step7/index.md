@@ -263,18 +263,32 @@ Gather up the following tools to get started.</p>
 <p>15. Apply the included Inventables sticker to the top of the Z axis</p>
 <img src="photos/IMG_2589.png">
 
-<h3>Recalibrate</h3>
-<p>The upgraded belts and stepper motors require a change to the steps/mm setting in the GRBL firmware. We will be making these changes through the Machine Inspector. Once the X-Carve is connected, you can power on the X-Controller and connect to your computer. </p><br>
-
-<p>Open up an existing project or a new project in <a href="https://easel.inventables.com" target="_blank">Easel </a>. </p><br>
-
-<p>In Easel, click the "Carve" button and unlock without homing. Once the X-Carve is unlocked, click on Machine > Advanced > Machine Inspector. Scroll down to the console and type the following command: $102=49.909 </p><br>
-
-<p>To change the z-axis travel direction update $3 based on <a href="https://github.com/gnea/grbl/wiki/Grbl-v1.1-Configuration#2--step-port-invert-mask" target="_blank">this chart: </a><br>
-<img src="photos/image5.png"> <br>
+<h3>Computer Setup</h3>
+<p>The upgraded belts and stepper motors require a change to the steps/mm and the direction of the z-axis stepper motor in the GRBL firmware. We will be making these changes through the Machine Inspector. Once the X-Carve is connected, you can power on the X-Controller and connect to your computer.</p>
+<!--<iframe width="560" height="315" src="https://www.youtube.com/embed/C0ejl-DHZFI" frameborder="0" allowfullscreen></iframe> -->
 <br>
-For example: If your settings show $3=3. You will type in the following command: $3=7
+<p>Open up an existing project or a new project in <a href="https://easel.inventables.com" target="_blank">Easel.</a></p>
+<p>In Easel, click the "Carve" button and unlock without homing. Once the X-Carve is unlocked, click on Machine > Advanced > Machine Inspector. Scroll down to the console and to type the following commands one at a time.</p>
+
+To change the z-axis steps/mm, type: <br>
 <br>
-<p>Once you have entered the new $102 and $3 settings, you can see if your changes took affect by entering the $$ command. This will list all of your firmware settings again. Scroll through to ensure that the new values are displayed.</p>
+$102=49.909<br>
+<br>
+Press enter.<br>
+<br>
+Then type:<br> 
+<br>
+$132=152.4<br>
+<br>
+Press enter.
+<br>
+<p>To change the z-axis travel direction, update $3 based on <a href="https://github.com/gnea/grbl/wiki/Grbl-v1.1-Configuration#2--step-port-invert-mask" target="_blank">this chart.</a> </p>
+
+For example: If your settings show $3=3. You will type in the following command:
+$3=7 <br>
+<br>
+This which will correct the direction of only the z-axis.<br>
+<br>
+<p>Once you have entered the new settings, you can see if your changes took affect by entering the $$ command. This will list all of your firmware settings again. Scroll through to ensure that the new values are displayed.</p>
 <br>
 <p>If you're having trouble your new upgrades, you can reach our Customer Success team through email help@inventables.com or by phone at 312-775-7009.</p>
