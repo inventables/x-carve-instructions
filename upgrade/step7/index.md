@@ -265,7 +265,8 @@ Gather up the following tools to get started.</p>
 
 <h3>Computer Setup</h3>
 <p>The upgraded belts and stepper motors require a change to the steps/mm and the direction of the z-axis stepper motor in the GRBL firmware. We will be making these changes through the Machine Inspector. Once the X-Carve is connected, you can power on the X-Controller and connect to your computer.</p>
-<!--<iframe width="560" height="315" src="https://www.youtube.com/embed/C0ejl-DHZFI" frameborder="0" allowfullscreen></iframe> -->
+<iframe src="https://player.vimeo.com/video/584989201?color=d4af00&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/584989201">Z Axis Upgrade Kit Computer Setup</a> from <a href="https://vimeo.com/user138314862">Inventables</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br>
 <p>Open up an existing project or a new project in <a href="https://easel.inventables.com" target="_blank">Easel.</a></p>
 <p>In Easel, click the "Carve" button and unlock without homing. Once the X-Carve is unlocked, click on Machine > Advanced > Machine Inspector. Scroll down to the console and to type the following commands one at a time.</p>
