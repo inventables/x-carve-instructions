@@ -156,6 +156,12 @@ next_step_title: "Spindle"
 </table>
 
 <p> Gather the necessary components from the core components kit.</p>
+  <div class="note">
+    <i class="fa fa-hand-o-right"></i>
+     <span class="note-text">
+    <p><strong>Note:</strong> If you purchased the Belt Kit Upgrade, you will follow the same steps but with the upgraded hardware and belting. The complete Upgrade Belt Kit instructions can be found <a href="https://x-carve-instructions.inventables.com/upgrade/step6/" target="_blank"> here.</a></p>
+     </span>
+  </div>
 <img src="./photo/IMG_5594.png">
 
 <p>Start by cutting the belt into 3 equal lengths.</p>
