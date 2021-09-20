@@ -5,7 +5,7 @@ step_number: 6
 redirect_from: "/upgrade/"
 permalink: /upgrade/step7/
 ---
-<img src="photos/INV_1024x768_B_2208_Labeled.png">
+<img src="photos/product_main.jpg" width="522.91" height="800">
 
 <table>
   <tr>
