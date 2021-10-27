@@ -264,31 +264,26 @@ Gather up the following tools to get started.</p>
 <img src="photos/IMG_2589.png">
 
 <h3>Computer Setup</h3>
-<p>The upgraded belts and stepper motors require a change to the steps/mm and the direction of the z-axis stepper motor in the GRBL firmware. We will be making these changes through the Machine Inspector. Once the X-Carve is connected, you can power on the X-Controller and connect to your computer.</p>
-<iframe src="https://player.vimeo.com/video/584989201?color=d4af00&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/584989201">Z Axis Upgrade Kit Computer Setup</a> from <a href="https://vimeo.com/user138314862">Inventables</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-<br>
-<p>Open up an existing project or a new project in <a href="https://easel.inventables.com" target="_blank">Easel.</a></p>
-<p>In Easel, click the "Carve" button and unlock without homing. Once the X-Carve is unlocked, click on Machine > Advanced > Machine Inspector. Scroll down to the console and to type the following commands one at a time.</p>
+<p>The upgraded belts and stepper motors require a change to the steps/mm setting in the GRBL firmware. To make these changes, you'll need to go through the Machine Setup in Easel.</p>
 
-To change the z-axis steps/mm, type: <br>
+First login to Easel and connect your machine to your computer.<br> 
 <br>
-$102=49.909<br>
+If you do not have Easel Pro, you will need to delete the existing machine profile to continue to setup a new machine.<br>
 <br>
-Press enter.<br>
+If you have an Easel Pro subscription, you can have additional machine profiles. However, we recommend uninstalling previously used X-Carve machine profiles to avoid confusion. To delete a machine profile, go to Machine > Edit your machine > Uninstall this machine.
 <br>
-Then type:<br> 
+<img src="photos/uninstall_machine.JPG"><br>
 <br>
-$132=152.4<br>
+When you're ready to setup a new machine, go to Machine > Set up new machine.<br>
 <br>
-Press enter.<br>
+Choose the X-Carve as your machine type. Enter your machine details as follows:<br>
+
+<img src="photos/upgrades_machinedetails.jpg"> 
 <br>
-You will need to invert the z-axis travel direction by adjusting $3 based on <a href="https://github.com/gnea/grbl/wiki/Grbl-v1.1-Configuration#2--step-port-invert-mask" target="_blank">this chart.</a> <br>
+Click Confirm settings and continue through the machine setup until you Finish. <br>
 <br>
-If your current settings show $3=3, the chart that shows X and Y already inverted (marked as "Y") and Z is "N". Since we only want to alter the Z axis we want to select the option that keeps X and Y inverted but also inverts Z. On the chart the value of 7 shows all three inverted (marked as "Y").<br>
+You are now configured with the correct firmware settings for upgraded belts and z-axis. <br>
 <br>
-Now, return to Easel and enter $3=7.<br>
+We recommend you run a test carve to make sure the X-Carve is moving accurately.<br>
 <br>
-<p>Once you have entered the new settings, you can see if your changes took affect by entering the $$ command. This will list all of your firmware settings again. Scroll through to ensure that the new values are displayed.</p><br>
-<br>
-<p>If you're having trouble your new upgrades, you can reach our Customer Success team through email help@inventables.com or by phone at 312-775-7009.</p>
+<p>If you're having trouble with your new upgrades, you can reach our Customer Success team through email help@inventables.com or by phone at 312-775-7009.</p>
