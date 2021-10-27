@@ -334,26 +334,26 @@ Y1 and Y2 stepper motors are the last to be connected.
 
 <h3> Computer Setup </h3>
 
-<p>The upgraded belts and stepper motors require a change to the steps/mm setting in the GRBL firmware. We will be making these changes through the Machine Inspector. Once the X-Carve is connected, you can power on the X-Controller and connect to your computer.</p>
+<p>The upgraded belts and stepper motors require a change to the steps/mm setting in the GRBL firmware. To make these changes, you'll need to go through the Machine Setup in Easel.</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wA6Abz6L_Cg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+First login to Easel and connect your machine to your computer. 
 
-Open up an existing project or a new project in <a href="https://easel.inventables.com" target="_blank">Easel.</a> 
+If you do not have Easel Pro, you will need to delete the existing machine profile to continue to setup a new machine.
 
-In Easel, click the "Carve" button and unlock without homing. Once the X-Carve is unlocked, click on Machine > Advanced > Machine Inspector. 
+If you have an Easel Pro subscription, you can have additional machine profiles. However, we recommend uninstalling previously used X-Carve machine profiles to avoid confusion. To delete a machine profile, go to Machine > Edit your machine > Uninstall this machine.
 
-Scroll down to the console and type the following commands, one at a time: 
+<img src="photos/uninstall_machine.JPG">
 
-$100=26.66
+When you're ready to setup a new machine, go to Machine > Set up new machine.
 
-Press enter. 
+Choose the X-Carve as your machine type. Enter your machine details as follows:
 
-Then type:
+<img src="photos/upgrades_machinedetails.jpg"> 
 
-$101=26.66
+Click Confirm settings and continue through the machine setup until you Finish. 
 
-Press enter. 
-
-You should now be configured. Exit the Machine Inspector. 
+You are now configured with the correct firmware settings for upgraded belts and z-axis. 
 
 We recommend you run a test carve to make sure the X-Carve is moving accurately.
+
+<p>If you're having trouble with your new upgrades, you can reach our Customer Success team through email help@inventables.com or by phone at 312-775-7009.</p>
