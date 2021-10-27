@@ -272,7 +272,7 @@ If you do not have Easel Pro, you will need to delete the existing machine profi
 <br>
 If you have an Easel Pro subscription, you can have additional machine profiles. However, we recommend uninstalling previously used X-Carve machine profiles to avoid confusion. To delete a machine profile, go to Machine > Edit your machine > Uninstall this machine.
 <br>
-<img src="photosuninstall_machine.jpg"><br>
+<img src="photos/uninstall_machine.jpg"><br>
 <br>
 When you're ready to setup a new machine, go to Machine > Set up new machine.<br>
 <br>
