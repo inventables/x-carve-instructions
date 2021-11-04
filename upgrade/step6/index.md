@@ -346,7 +346,7 @@ If you have an Easel Pro subscription, you can have additional machine profiles.
 
 When you're ready to setup a new machine, go to Machine > Set up new machine.
 
-Choose the X-Carve as your machine type. Enter your machine details as follows:
+Choose the X-Carve (Advanced) as your machine type. Enter your machine details as follows:
 
 <img src="photos/upgrades_machinedetails.jpg"> 
 
