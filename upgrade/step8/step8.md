@@ -175,7 +175,7 @@ permalink: /upgrade/step8/
 
 <p> Start by disconnecting the green terminal blocks from the X-Controller and removing the Sideboard Kit. You'll need to loosen the screws holding down the drag chain. <br> </p>
 
-<img src="photos/IMG_6310.jpg">
+<img src="photos/IMG_6310.JPG">
 
 <div class="note">
     <i class="fa fa-hand-o-right"></i>
