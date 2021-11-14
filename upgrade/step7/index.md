@@ -1,7 +1,7 @@
 ---
 layout: defaultupgrade
 title: "Z-Axis Upgrade Kit"
-step_number: 6
+step_number: 7
 redirect_from: "/upgrade/"
 permalink: /upgrade/step7/
 ---
@@ -125,13 +125,13 @@ permalink: /upgrade/step7/
   </tr>
   </table>
 
-<!--<div class="note">
+<div class="note">
     <i class="fa fa-hand-o-right"></i>
      <span class="note-text">
      <strong>Note: Make sure the X-Controller is completely powered off. Failure to disconnect stepper motors will damage the electronics. </strong>
      </span>
   </div>
-<p>
+<!--<p>
 Gather up the following tools to get started.</p>
 
 <table>

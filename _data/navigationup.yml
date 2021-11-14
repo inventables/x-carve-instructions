@@ -25,3 +25,6 @@ stepnav:
   - step: step7
     title: Z-Axis Upgrade Kit
     url: /step7/
+  - step: step8
+    title: Modular Waste Board Kit
+    url: /step8/
