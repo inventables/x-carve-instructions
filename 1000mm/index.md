@@ -15,6 +15,13 @@ This is a do-it-yourself 3D carving kit: the more time and attention you put int
 
 The X-Carve is open source hardware. We have 3D models and drawings available in a GrabCAD repository <a href="https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYktLQBc-2IHvossNo37ycTOkzg6gREW#/space/gcojYwyy_VqboQQ-9hKBJrjS3zGaGuue8sfnqRNxGI9WQS">here</a>.
 
+<div class="note">
+    <i class="fa fa-hand-o-right"></i>
+     <span class="note-text">
+     <strong>Note: If you purchased your X-Carve November 2021 to current, follow instructions <a href="https://inventables.gitbook.io/x-carve-assembly"> here.</a></strong>
+     </span>
+  </div>
+
 <h2>Recommended Tools</h2>
 
 If you purchased a tool kit with your machine, most of these should be included with the exception of power tools
