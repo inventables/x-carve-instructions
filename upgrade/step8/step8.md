@@ -5,7 +5,7 @@ step_number: 8
 redirect_from: "/upgrade/"
 permalink: /upgrade/step8/
 ---
-<img src="photos/product_main.jpg" width="522.91" height="800">
+<img src="photos/DSC07700.jpg">
 
 <p>In this section, you will install the Modular Waste Board Kit. These instructions assume the 2" riser upgrades have been installed. If you do not have other upgrades, some steps can be skipped.</p>
 
@@ -173,7 +173,9 @@ permalink: /upgrade/step8/
  </table>
 
 
-<p> Start by disconnecting the green terminal blocks from the X-Controller and removing the Sideboard Kit. You'll need to loosen the screws holding down the drag chain. <br> </p>
+<p> Start by powering off the X-Controller and disconnecting the green terminal blocks. You'll need to remove the sideboard and loosen the screws holding down the drag chain. 
+
+If you have the dust shoe installed, detach the dust shoe from the z-axis and raise the pole arm out of the bracket. Set this aside to reinstall later.<br> </p>
 
 <img src="photos/IMG_6310.JPG">
 
@@ -220,11 +222,12 @@ permalink: /upgrade/step8/
 
 <p>Gather the 2 silver 20mm x 20mm x 898mm extrusions, 3 M5 x 12 Button Head Cap Screws and 3 M5 Pre-Assembly T-Slot Nuts.</p>
 
-<p>Thread 2 M5 x 12mm Button Head Cap Screws into 3 M5 Pre-Assembly T-Slot Nuts. Slide them onto 1 of the silver 20mm x 20mm  898mm extrusions (shown below). </p>
+<p>Thread the M5 x 12mm Button Head Cap Screws into the M5 Pre-Assembly T-Slot Nuts. Slide 2 of them on to the top silver 20mm x 20mm 898mm extrusion and 1 to the middle silver extrusion (shown below). </p>
 <img src="photos/IMG_6337(1).jpg">
 
-<p>Slide the screw assemblies in place and align the extrusions with the first MDF slat holes. Tighten down the button head cap screws (shown above).</p>
-<img scr="photos/IMG_6341.JPG">
+<p>Slide the screw assemblies in place and align the extrusions with the first MDF slat holes. Tighten down the button head cap screws (shown below).</p>
+
+<img src="photos/IMG_6341.JPG">
 
 <h3>Assemble t-tracks</h3>
 <p>Gather the Tee Track Extrusions (3), M4 x 10mm Button Head Cap Screws (6), M4 Nylon Insert Lock Nut (6), Oversize Washer (6).</p>
