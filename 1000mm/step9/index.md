@@ -18,7 +18,7 @@ You can find replacement parts in our [shop.](https://www.inventables.com/catego
 <p>Squaring your rails is essential for your X-Carve to move correctly and carve smoothly. </p>
 
 <h3>Squaring the Z-Axis</h3>
-<img src="IMG_3258.JPG">
+<img src="IMG_3258.jpg">
 <p>If you see ridges in your carves, ensure the bit is perpendicular to the wasteboard by squaring the z-axis. Put the machine on a flat surface and use a large square ruler to see if the Z-Axis is square to the table (as pictured above). 
 If it is not squared, locate the four button head cap screws that are behind the x-carriage. These button head cap screws hold the Z-Axis Makerslide in place (2 on the top and 2 on the bottom). Loosen the button head cap screws and adjust the Z-Axis until it is square to the table. Once it is squared, retighten the screws and square it one more time to make sure. </p>
 
