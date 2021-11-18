@@ -298,12 +298,12 @@ Align the front of the waste board slat to the two pre-assembly t-slot nuts in t
 <p>Prepare to install the MDF backboard by sliding 3 M5 pre-assembly t-slot nuts to the 1000mm extrusion. Space them out to line up with the backboard holes.</p>
 <img src="photos/IMG_4487.jpg">
 <img src="photos/IMG_4490.jpg">
-<p>Use M5 x 12mm screws and two washers to secure the MDF backboard to the extrusions.</p>
+<p>Use M5 x 12mm screws and to secure the MDF backboard to the extrusions. You may use washers if the screws are not tigthening down.</p>
 <img src="photos/IMG_4496.jpg">
 <img src="photos/IMG_4497.jpg">
 
 <h3>Install threaded inserts</h3>
-<p>The wasteboard assembly is now completely. Carefully slide wasteboard off the table and flip it over. <b>You may need to use a separate table or ask someone to hold the X-Carve in place to avoid knocking it off.</b></p>
+<p>The wasteboard assembly is now completely. Remove any remaining pre-assembly t-slot nuts and carefully slide wasteboard off the table and flip it over. <b>You may need to use a separate table or ask someone to hold the X-Carve in place to avoid knocking it off.</b></p>
 <img src="photos/IMG_6383.JPG">
 <img src="photos/IMG_6385.JPG">
 <p>Use the 5mm hex driver bit and a drill to install threaded inserts into the holes.</p>
