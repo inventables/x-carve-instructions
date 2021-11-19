@@ -108,7 +108,7 @@ permalink: /upgrade/step8/
       28058
     </td>
     <td>
-      M5 Pre-Assembly T-Slot Nuts
+      Tee Nut M5 Pre-Assembly
     </td>
     <td>
       29
@@ -173,7 +173,7 @@ permalink: /upgrade/step8/
  </table>
 
 
-<p> Start by powering off the X-Controller and disconnecting the green terminal blocks. You'll need to remove the sideboard and loosen the screws holding down the drag chain. 
+<p> Start by powering off the X-Controller and disconnecting the green terminal blocks. You'll need to remove the sideboard and disconnect the screws holding down the drag chain to the sideboard extrusion.
 
 If you have the dust shoe installed, detach the dust shoe from the z-axis and raise the pole arm out of the bracket. Set this aside to reinstall later.<br> </p>
 
@@ -186,31 +186,31 @@ If you have the dust shoe installed, detach the dust shoe from the z-axis and ra
      </span>
   </div>
 
-<p> Loosen the button head cap screws that hold the wasteboard down to the frame. There are two screws in the center and 12 around the edges. You will <b>not</b> need these screws later. </p>
+<p> Loosen and remove the button head cap screws that hold the wasteboard down to the frame. There are two screws in the center and 12 around the edges. You will <b>not</b> need these screws later. </p>
 
 <img src="photos/IMG_6311(2).jpg"> <br>
 
-<p>Once all the screws are removed, slide the wasteboard forward to remove. Set aside. </p>
+<p>Once all the screws are removed, gently raise over brackets and slide the wasteboard forward to remove. Set aside. </p>
 <img src="photos/IMG_6312.JPG">
 <img src="photos/IMG_6313.JPG">
 
 <p>Loosen the button head cap screws and remove the gusset brackets from the middle extrusion. Set this extrusion and hardware aside, you will <b>not</b> need these components.</p>
 <img src="photos/IMG_6314(2).jpg">
 
-<p>Loosen and remove the lower socket head cap screws on the risers or front plates. There are 2 on each plate, total of 8 screws. Set the hardware aside, you <b>will</b> need this hardware later. </p>
+<p>Loosen and remove the lower socket head cap screws on the risers or end plates. There are 2 on each plate, total of 8 screws. Set the hardware aside, you <b>will</b> need this hardware later. </p>
 <img src="photos/IMG_6317(2).jpg">
 
 <p>Loosen the button head cap screws that secure the Stiffener Panels to the wasteboard and to the makerslide. Remove the stiffeners from both sides. Set the hardware aside, you <b>will</b> need this hardware later. </p>
 <img src="photos/IMG_6321.JPG">
 <img src="photos/IMG_6324.JPG">
 
-<p>Loosen the gusset brackets on all 4 corners of the frame. Keep 2 gusset brackets with pre-assembly t-slot nuts loosely threaded. Set remaining hardware aside, you <b>will</b> need this hardware later. </p>
+<p>Loosen the gusset brackets on all 4 corners of the frame and separate extrusions. Keep 2 gusset brackets with pre-assembly t-slot nuts loosely threaded to use in the next step. Set remaining hardware aside, you <b>will</b> need this hardware later. </p>
 <img src="photos/IMG_6324(2).jpg">
 
-<p>Once the base of the wasteboard base is separated, start assembling the Modular Waste Board Kit by aligning two 20mm x 20mm extrusions. Use M5 x 10mm button head cap screw and M5 pre-assembly t-slot nuts on the gusset bracket.</p>
+<p>Once the base of the wasteboard base is separated, start assembling the Modular Waste Board Kit by aligning two 20mm x 20mm extrusions at a right angle (958mm extrusion on the right and 1000mm extrusion on the bottom). Use M5 x 10mm button head cap screw and M5 pre-assembly t-slot nuts on the gusset bracket.</p>
 <img src="photos/IMG_6327(1).png">
 
-<p>Use one waste board extrusion and one waste board tee track to set the correct location of the 1000mm rail.   Then use a 3mm hex to secure the extrusion bracket. Alternatively, you can set this spacing by measuring 1.25" / 32mm.</p>
+<p>Use one waste board extrusion and one waste board tee track as guides to set the correct location of the 1000mm rail (circled above).   Then use a 3mm hex to secure the extrusion bracket. Alternatively, you can set this spacing by measuring 1.25" / 32mm.</p>
 <img src="photos/alignextrusion.gif">
 
 <p>Thread 3 M5 x 12mm Button Head Cap Screws into 3 M5 Pre-Assembly T-Slot Nuts. Slide 2 screw assemblies into the 1000mm extrusion and 1 into the 958mm extrusion. You will have to slide it into the 958mm extrusion from the back.</p>
@@ -286,7 +286,7 @@ Align the front of the waste board slat to the two pre-assembly t-slot nuts in t
 
 <p> Gather 4 gusset brackets, 8 M5 x 10mm socket head cap screws, 6 M5 pre-assembly t-slot nuts, 4 M5 tee nut twist in and the 20mm x 20mm x 1000mm extrusion.</p>
 <img src="photos/IMG_6371.JPG">
-<p>Pull the gantry forward and work on the back of the machine. Attach an gusset bracket to each of the two 958mm extrusions sticking out. Insert 1 pre-assembly t-slot nut into the top channel of each 958mm extrusion. </p>
+<p>Pull the gantry forward and work on the back of the machine. Attach a gusset bracket to each of the two 958mm extrusions sticking out. Insert 1 pre-assembly t-slot nut into the top channel of each 958mm extrusion. </p>
 <img src="photos/IMG_6376(1).jpg">
 <p>Secure the rear 1000mm extrusion by tightening the angle brackets.</p>
 <img src="photos/secure958mm.jpg">
