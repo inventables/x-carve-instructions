@@ -13,7 +13,7 @@ Congratulations! You've just taken one of your first steps into the world of 3D 
 
 This is a do-it-yourself 3D carving kit: the more time and attention you put into assembling your machine, the better it will perform. If you run into any trouble during assembly or carving you can find further help from the wonderful community on the forum, our support center which is continuously growing with articles and tutorials, and as always you can reach our customer success team through our [support center](https://inventables.zendesk.com/hc/en-us/).
 
-The X-Carve is open source hardware. We have 3D models and drawings available in a GrabCAD repository <a href="x-carve-instructions.inventables.com/1000mm/step12/">here</a>.
+The X-Carve is open source hardware. We have 3D models and drawings available in our GitHub repository <a href="https://github.com/inventables/x-carve-instructions/tree/6a21ca7772a1815db9b3aca29628a60d892e2349/1000mm/step12/XCarve%20Public%20CAD%20Files">here</a>.
 
 <div class="note">
     <i class="fa fa-hand-o-right"></i>
