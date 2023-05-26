@@ -2,7 +2,7 @@
 layout: default
 title: Public CAD Files
 step_number: 12
-permalink: /1000mm/step12
+permalink: /1000mm/step12/
 next_step: 
 next_step_title:
 ---
