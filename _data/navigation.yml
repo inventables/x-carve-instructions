@@ -103,3 +103,7 @@ stepnav:
   - step: step11
     title: Computer Setup
     url: /step11/
+  - step: step12
+    title: Technical Drawings
+    url: /step12/
+
