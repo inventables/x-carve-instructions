@@ -8,6 +8,6 @@ next_step_title:
 ---
 
 
-<img src="/assets/x-carve-main.jpg">
-
 The X-Carve is open source hardware. We have 3D models and drawings available in our GitHub repository <a href="https://github.com/inventables/x-carve-instructions">here</a>.
+
+<img src="/assets/x-carve-main.jpg">
