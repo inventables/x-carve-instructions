@@ -11,4 +11,3 @@ The X-Carve is open source hardware. We have 3D models and drawings available in
 
 
 <img src="/assets/x-carve-main.jpg">
-
