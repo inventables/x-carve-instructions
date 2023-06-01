@@ -1,3 +1,0 @@
-body article {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#cba), to(#abc));
-  background-image: linear-gradient(#cba, #abc); }

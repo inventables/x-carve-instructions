@@ -1,2 +1,0 @@
-build: true
-compare: _expected _site
