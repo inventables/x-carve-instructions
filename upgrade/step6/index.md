@@ -260,7 +260,7 @@ Once the wide makerslide and drag chain rail are propped up, completely remove t
 <img src="photos/IMG_6195.JPG">
 <img src="photos/IMG_6203.JPG">
 
-Carefully slide the x-carriage off of the wide makerlide. You may need to <a href="http://x-carve-instructions.inventables.com/1000mm/step9/" target="_blank">adjust</a> the eccentric spacer to the open position to allow the x-carraige to move easily. 
+Carefully slide the x-carriage off of the wide makerslide. You may need to <a href="http://x-carve-instructions.inventables.com/1000mm/step9/" target="_blank">adjust</a> the eccentric spacer to the open position to allow the x-carraige to move easily. 
 
 <img src="photos/IMG_6208.JPG">
 
