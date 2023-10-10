@@ -286,4 +286,4 @@ You are now configured with the correct firmware settings for upgraded belts and
 <br>
 We recommend you run a test carve to make sure the X-Carve is moving accurately.<br>
 <br>
-<p>If you're having trouble with your new upgrades, you can reach our Customer Success team through our [support center](https://inventables.zendesk.com/hc/en-us/).</p>
+If you're having trouble with your new upgrades, you can reach our Customer Success team through our [support center](https://inventables.zendesk.com/hc/en-us/).
